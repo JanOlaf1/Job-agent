@@ -1,23 +1,41 @@
 import csv
+import json
 import os
 import smtplib
+from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
 
 RELEVANT_FILE = Path("relevant_jobs.csv")
+TRACKER_FILE = Path("job_tracker.csv")
 REPORT_FILE = Path("jobs.md")
+SOURCE_HEALTH_FILE = Path("source_health.json")
+
 MAX_JOBS_IN_EMAIL = 30
+TOP_TRACKER_JOBS = 5
 
 
-def load_jobs():
-    if not RELEVANT_FILE.exists():
+def now_helsinki():
+    try:
+        return datetime.now(ZoneInfo("Europe/Helsinki"))
+    except Exception:
+        return datetime.now()
+
+
+def load_csv(path):
+    if not path.exists():
         return []
 
-    with open(RELEVANT_FILE, "r", encoding="utf-8-sig", newline="") as file:
-        rows = list(csv.DictReader(file))
+    with open(path, "r", encoding="utf-8-sig", newline="") as file:
+        return list(csv.DictReader(file))
+
+
+def load_new_jobs():
+    rows = load_csv(RELEVANT_FILE)
 
     rows.sort(
         key=lambda row: int(row.get("score") or 0),
@@ -25,6 +43,38 @@ def load_jobs():
     )
 
     return rows
+
+
+def load_tracker():
+    rows = load_csv(TRACKER_FILE)
+
+    rows.sort(
+        key=lambda row: int(row.get("score") or 0),
+        reverse=True,
+    )
+
+    return rows
+
+
+def load_run_time():
+    if not SOURCE_HEALTH_FILE.exists():
+        return now_helsinki().strftime("%d.%m.%Y %H:%M")
+
+    try:
+        payload = json.loads(
+            SOURCE_HEALTH_FILE.read_text(encoding="utf-8")
+        )
+
+        raw = payload.get("run_time", "")
+
+        if raw:
+            dt = datetime.fromisoformat(raw)
+            return dt.strftime("%d.%m.%Y %H:%M")
+
+    except Exception:
+        pass
+
+    return now_helsinki().strftime("%d.%m.%Y %H:%M")
 
 
 def primary_url(row):
@@ -37,50 +87,125 @@ def primary_url(row):
     return urls[0] if urls else ""
 
 
-def build_body(jobs):
+def active_tracker_jobs(rows):
+    allowed_statuses = {"UUSI", "TARKISTETTU"}
+
+    active = [
+        row for row in rows
+        if (row.get("status") or "UUSI").upper() in allowed_statuses
+    ]
+
+    active.sort(
+        key=lambda row: int(row.get("score") or 0),
+        reverse=True,
+    )
+
+    return active
+
+
+def active_processes(rows):
+    process_statuses = {"HAETTU", "HAASTATTELU", "TARJOUS"}
+
+    return [
+        row for row in rows
+        if (row.get("status") or "").upper() in process_statuses
+    ]
+
+
+def add_job_to_lines(lines, job):
+    score = job.get("score", "0")
+    title = job.get("title", "")
+    company = job.get("company", "")
+    location = job.get("location", "")
+    deadline = job.get("deadline", "")
+    sources = job.get("sources", "")
+    url = primary_url(job)
+
+    lines.append(f"{score}/100 — {title}")
+
+    if company:
+        lines.append(f"Yritys: {company}")
+
+    if location:
+        lines.append(f"Sijainti: {location}")
+
+    if deadline:
+        lines.append(f"Deadline: {deadline}")
+
+    if sources:
+        lines.append(f"Lähteet: {sources}")
+
+    if url:
+        lines.append(url)
+
+    reasons = [
+        item.strip()
+        for item in (job.get("score_reasons") or "").split(" ; ")
+        if item.strip()
+    ]
+
+    for reason in reasons[:4]:
+        lines.append(f"- {reason}")
+
+    lines.append("")
+
+
+def build_body(new_jobs, tracker_rows):
+    run_time = load_run_time()
+    active = active_tracker_jobs(tracker_rows)
+    processes = active_processes(tracker_rows)
+
     lines = [
-        f"Job Agent löysi tällä ajolla {len(jobs)} uutta 70+ pisteen työpaikkaa.",
+        "Job Agent - päiväraportti",
+        "",
+        f"Haku suoritettu: {run_time}",
+        f"Uusia sopivia työpaikkoja: {len(new_jobs)}",
+        f"Aktiivisia työpaikkoja trackerissa: {len(active)}",
+        f"Aktiivisia hakuprosesseja: {len(processes)}",
         "",
     ]
 
-    for job in jobs[:MAX_JOBS_IN_EMAIL]:
-        score = job.get("score", "0")
-        title = job.get("title", "")
-        company = job.get("company", "")
-        deadline = job.get("deadline", "")
-        sources = job.get("sources", "")
-        url = primary_url(job)
+    if new_jobs:
+        lines.extend([
+            "UUDET SOPIVAT TYÖPAIKAT",
+            "",
+        ])
 
-        lines.append(f"{score}/100 — {title}")
+        for job in new_jobs[:MAX_JOBS_IN_EMAIL]:
+            add_job_to_lines(lines, job)
 
-        if company:
-            lines.append(f"Yritys: {company}")
+        if len(new_jobs) > MAX_JOBS_IN_EMAIL:
+            hidden = len(new_jobs) - MAX_JOBS_IN_EMAIL
 
-        if deadline:
-            lines.append(f"Deadline: {deadline}")
+            lines.extend([
+                f"Sähköpostissa näytetään {MAX_JOBS_IN_EMAIL} parhaiten pisteytettyä.",
+                f"Lisäksi {hidden} muuta sopivaa työpaikkaa löytyy jobs.md-liitteestä.",
+                "",
+            ])
 
-        if sources:
-            lines.append(f"Lähteet: {sources}")
+    else:
+        lines.extend([
+            "Ei uusia sopivia työpaikkoja tällä ajolla.",
+            "Haku suoritettiin silti onnistuneesti.",
+            "",
+        ])
 
-        if url:
-            lines.append(url)
+        # Jos uusia ei ole, näytä muutama paras aktiivinen paikka,
+        # jotta päiväraportista näkee myös mitä trackerissa on tällä hetkellä.
+        if active:
+            lines.extend([
+                f"PARHAAT AKTIIVISET TRACKERISSA (TOP {min(TOP_TRACKER_JOBS, len(active))})",
+                "",
+            ])
 
-        reasons = [
-            item.strip()
-            for item in (job.get("score_reasons") or "").split(" ; ")
-            if item.strip()
-        ]
+            for job in active[:TOP_TRACKER_JOBS]:
+                add_job_to_lines(lines, job)
 
-        for reason in reasons[:4]:
-            lines.append(f"- {reason}")
-
-        lines.append("")
-
-    if len(jobs) > MAX_JOBS_IN_EMAIL:
-        lines.append(
-            f"Sähköpostissa näytetään ensimmäiset {MAX_JOBS_IN_EMAIL} osumaa."
-        )
-        lines.append("Täydellinen raportti on liitteenä jobs.md-tiedostossa.")
+    lines.extend([
+        "Täydellinen raportti on jobs.md-liitteessä.",
+        "",
+        "Tämä viesti lähetetään jokaisen onnistuneen päivittäisen ajon jälkeen.",
+    ])
 
     return "\n".join(lines)
 
@@ -93,23 +218,29 @@ def main():
     email_to = os.environ.get("EMAIL_TO")
 
     if not smtp_user or not smtp_password or not email_to:
-        print(
-            "Sähköpostia ei lähetetty: "
-            "SMTP_USER, SMTP_PASSWORD tai EMAIL_TO puuttuu."
+        raise RuntimeError(
+            "SMTP_USER, SMTP_PASSWORD tai EMAIL_TO puuttuu. "
+            "Tarkista .env tai GitHub Secrets."
         )
-        return
 
-    jobs = load_jobs()
+    new_jobs = load_new_jobs()
+    tracker_rows = load_tracker()
 
-    if not jobs:
-        print("Ei uusia 70+ pisteen työpaikkoja. Sähköpostia ei lähetetä.")
-        return
+    if new_jobs:
+        subject = f"Job Agent: {len(new_jobs)} uutta sopivaa työpaikkaa"
+    else:
+        subject = "Job Agent: ei uusia sopivia työpaikkoja tänään"
 
     message = EmailMessage()
-    message["Subject"] = f"Job Agent: {len(jobs)} uutta hyvää työpaikkaa"
+    message["Subject"] = subject
     message["From"] = smtp_user
     message["To"] = email_to
-    message.set_content(build_body(jobs))
+    message.set_content(
+        build_body(
+            new_jobs,
+            tracker_rows,
+        )
+    )
 
     if REPORT_FILE.exists():
         message.add_attachment(
@@ -120,10 +251,19 @@ def main():
         )
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-        smtp.login(smtp_user, smtp_password)
-        smtp.send_message(message)
+        smtp.login(
+            smtp_user,
+            smtp_password,
+        )
 
-    print(f"Sähköposti lähetetty osoitteeseen {email_to}.")
+        smtp.send_message(
+            message
+        )
+
+    print(
+        f"Päiväraportti lähetetty osoitteeseen {email_to}. "
+        f"Uusia sopivia työpaikkoja: {len(new_jobs)}."
+    )
 
 
 if __name__ == "__main__":

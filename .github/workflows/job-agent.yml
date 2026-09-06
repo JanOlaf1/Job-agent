@@ -34,7 +34,7 @@ jobs:
       - name: Run job search
         run: python src/main.py
 
-      - name: Send email
+      - name: Send daily email
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}

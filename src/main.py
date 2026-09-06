@@ -31,10 +31,10 @@ SEARCH_DELAY = 0.45
 DETAIL_DELAY = 0.25
 
 # Sähköpostiin vain tämän rajan ylittävät uudet paikat.
-RELEVANT_SCORE_MIN = 50
+RELEVANT_SCORE_MIN = 45
 
 # jobs.md:hen myös "harkitse"-osio.
-MAYBE_SCORE_MIN = 40
+MAYBE_SCORE_MIN = 35
 
 # Automaattinen arkistointi:
 # - HAETTU -> 60 päivän jälkeen, ellei tila ole HAASTATTELU/TARJOUS
@@ -1975,8 +1975,8 @@ def write_output(tracker, new_ids, stats, archived_count):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         file.write("# Työpaikka-agentti\n\n")
         file.write(f"**Haku suoritettu:** {now.strftime('%d.%m.%Y %H:%M')}  \n")
-        file.write(f"**Uusia 70+ osumia:** {len(strong)}  \n")
-        file.write(f"**Uusia 55–69 osumia:** {len(maybe)}  \n")
+        file.write(f"**Uusia {RELEVANT_SCORE_MIN}+ osumia:** {len(strong)}  \n")
+        file.write(f"**Uusia {MAYBE_SCORE_MIN}–{RELEVANT_SCORE_MIN - 1} osumia:** {len(maybe)}  \n")
         file.write(f"**Aktiivisia hakuprosesseja:** {len(processes)}  \n")
         file.write(f"**Tällä ajolla arkistoitu:** {archived_count}\n\n")
 
@@ -1987,15 +1987,15 @@ def write_output(tracker, new_ids, stats, archived_count):
             "päivämäärä täyttyy seuraavalla ajolla.\n\n"
         )
 
-        file.write("# 🟢 Uudet vahvat osumat (70+)\n\n")
+        file.write(f"# 🟢 Uudet vahvat osumat ({RELEVANT_SCORE_MIN}+)\n\n")
 
         if not strong:
-            file.write("Ei uusia 70+ osumia.\n\n")
+            file.write(f"Ei uusia {RELEVANT_SCORE_MIN}+ osumia.\n\n")
 
         for row in strong:
             write_job(file, row)
 
-        file.write("# 🟡 Harkitse (55–69)\n\n")
+        file.write(f"# 🟡 Harkitse ({MAYBE_SCORE_MIN}–{RELEVANT_SCORE_MIN - 1})\n\n")
 
         if not maybe:
             file.write("Ei uusia harkittavia osumia.\n\n")
@@ -2057,7 +2057,7 @@ def save_source_health(stats):
 # ============================================================
 
 def main():
-    print("\n========== JOB AGENT V6 ==========\n")
+    print("\n========== JOB AGENT V8 ==========\n")
 
     tracker = load_tracker()
 
