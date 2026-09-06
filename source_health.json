@@ -1,0 +1,103 @@
+{
+  "run_time": "2026-09-06T13:24:07.082476+03:00",
+  "sources": {
+    "Duunitori": {
+      "ok": 20,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 112,
+      "last_error": ""
+    },
+    "LinkedIn": {
+      "ok": 8,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 178,
+      "last_error": ""
+    },
+    "Indeed": {
+      "ok": 0,
+      "failed": 1,
+      "skipped": 1,
+      "raw_jobs": 0,
+      "last_error": "HTTP 403, automaattinen haku estetty"
+    },
+    "Työmarkkinatori": {
+      "ok": 6,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "Jobly": {
+      "ok": 2,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 8,
+      "last_error": ""
+    },
+    "Academic Work": {
+      "ok": 2,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 1,
+      "last_error": ""
+    },
+    "Barona": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 1,
+      "last_error": ""
+    },
+    "Manpower": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "Eezy": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "StaffPoint": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "aTalent": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "The Hub": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "MMA": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    },
+    "Work in Finland": {
+      "ok": 2,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 0,
+      "last_error": ""
+    }
+  }
+}
