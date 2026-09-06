@@ -1,18 +1,18 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 06.09.2026 13:45  
-**Uusia 70+ osumia:** 0  
-**Uusia 55–69 osumia:** 0  
+**Haku suoritettu:** 06.09.2026 13:56  
+**Uusia 45+ osumia:** 0  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
-# 🟢 Uudet vahvat osumat (70+)
+# 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 70+ osumia.
+Ei uusia 45+ osumia.
 
-# 🟡 Harkitse (55–69)
+# 🟡 Harkitse (35–44)
 
 Ei uusia harkittavia osumia.
 
