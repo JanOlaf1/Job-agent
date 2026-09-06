@@ -1,0 +1,59 @@
+name: Daily Job Agent
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 19 * * *"
+      timezone: "Europe/Helsinki"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-job-agent
+  cancel-in-progress: false
+
+jobs:
+  search-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job search
+        run: python src/main.py
+
+      - name: Send email
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python src/send_email.py
+
+      - name: Add report to Actions summary
+        run: cat jobs.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save updated job data
+        run: |
+          git config user.name "job-agent"
+          git config user.email "job-agent@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "Ei muutoksia tallennettavaksi."
+          else
+            git commit -m "Daily job search"
+            git push
+          fi
