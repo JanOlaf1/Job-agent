@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 07.09.2026 15:22  
+**Haku suoritettu:** 07.09.2026 20:50  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Uusia 35–44 osumia:** 3  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,47 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Software Engineer
+
+**Tila:** UUSI  
+**Kategoria:** IT  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-07  
+**Miksi sopii:**  
+- +10 sopii IT-koulutukseen
+- +32 sopiva työnimike (software engineer)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4462240095)
+
+---
+
+## 42/100 — Key Account Manager (m/f/d) DIY
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-07  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4462215458)
+
+---
+
+## 42/100 — Account Executive, DACH (German-speaking)
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-07  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account executive)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4462959447)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
