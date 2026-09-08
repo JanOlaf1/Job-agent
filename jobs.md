@@ -1,7 +1,7 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 08.09.2026 18:15  
-**Uusia 45+ osumia:** 1  
+**Haku suoritettu:** 08.09.2026 21:50  
+**Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
@@ -10,19 +10,7 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 47/100 — Mid Market Account Executive - Finland
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-08  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account executive)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4464492692)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
@@ -40,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 188 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 186 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
