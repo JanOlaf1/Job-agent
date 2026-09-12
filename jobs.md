@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 12.09.2026 21:18  
+**Haku suoritettu:** 12.09.2026 23:42  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,19 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Account Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-12  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4464704626)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
