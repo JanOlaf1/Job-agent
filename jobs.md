@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 15.09.2026 23:18  
+**Haku suoritettu:** 16.09.2026 02:00  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,23 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 36/100 — Application Specialist – Track & Trace, SSAB, Helsinki
-
-**Yritys:** Academic Work  
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** Academic Work  
-**Löydetty:** 2026-09-15  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (application specialist)
-- +15 junior/trainee/graduate-taso
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
-
-[Avaa työpaikkailmoitus](https://www.academicwork.fi/avoimet-tyopaikat/j/application-specialist--track--trace-ssab-helsinki/THESDT)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -44,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 151 hakutulosta, 7 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 177 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
