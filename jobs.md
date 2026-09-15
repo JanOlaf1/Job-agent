@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 15.09.2026 15:25  
-**Uusia 45+ osumia:** 2  
-**Uusia 35–44 osumia:** 2  
+**Haku suoritettu:** 15.09.2026 20:14  
+**Uusia 45+ osumia:** 0  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,43 +10,11 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 65/100 — AI-Native Software Trainee
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-15  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +40 sopiva työnimike (software trainee)
-- +15 junior/trainee/graduate-taso
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4465552111)
-
----
-
-## 58/100 — Smartly Launchpad 2027 (Software Engineer)
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-15  
-**Deadline:** 2026-10-30  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (software engineer)
-- +15 junior/trainee/graduate-taso
-- +12 teknologiat: java, react, typescript
-- +2 kokemusosumat: customer service
-- +8 koulutustausta sopii
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4467497959)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 44/100 — Software developer
+## 42/100 — Smartly Launchpad 2027 (Software Engineer)
 
 **Tila:** UUSI  
 **Kategoria:** IT  
@@ -54,27 +22,9 @@
 **Löydetty:** 2026-09-15  
 **Miksi sopii:**  
 - +10 sopii IT-koulutukseen
-- +34 sopiva työnimike (software developer)
+- +32 sopiva työnimike (software engineer)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4465549066)
-
----
-
-## 36/100 — Application Specialist – Track & Trace
-
-**Yritys:** Academic Work  
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** Academic Work  
-**Löydetty:** 2026-09-15  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (application specialist)
-- +15 junior/trainee/graduate-taso
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
-
-[Avaa työpaikkailmoitus](https://www.academicwork.fi/avoimet-tyopaikat/j/application-specialist--track--trace/THESDT)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4466551263)
 
 ---
 
