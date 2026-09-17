@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 17.09.2026 13:25  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Haku suoritettu:** 17.09.2026 18:15  
+**Uusia 45+ osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,11 +10,7 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
-
-# 🟡 Harkitse (35–44)
-
-## 42/100 — Key Account Manager
+## 57/100 — Junior Account Manager Finland
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -23,10 +19,15 @@ Ei uusia 45+ osumia.
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
 - +32 sopiva työnimike (account manager)
+- +15 junior/trainee/graduate-taso
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468376649)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468612297)
 
 ---
+
+# 🟡 Harkitse (35–44)
+
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -40,7 +41,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 67 hakutulosta, 5 onnistui, 1 epäonnistui, 2 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 180 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
