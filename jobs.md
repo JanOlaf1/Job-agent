@@ -1,6 +1,6 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 19.09.2026 21:58  
+**Haku suoritettu:** 20.09.2026 00:25  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
