@@ -1,6 +1,6 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 20.09.2026 21:54  
+**Haku suoritettu:** 21.09.2026 00:16  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
@@ -22,7 +22,7 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 2 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 3 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
