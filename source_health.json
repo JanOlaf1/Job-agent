@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-09-21T16:21:37.846243+03:00",
+  "run_time": "2026-09-21T21:52:00.454213+03:00",
   "sources": {
     "Duunitori": {
       "ok": 0,
@@ -9,11 +9,11 @@
       "last_error": "HTTP 403, automaattinen haku estetty"
     },
     "LinkedIn": {
-      "ok": 7,
-      "failed": 1,
+      "ok": 8,
+      "failed": 0,
       "skipped": 0,
-      "raw_jobs": 142,
-      "last_error": "HTTP 429, automaattinen haku estetty"
+      "raw_jobs": 166,
+      "last_error": ""
     },
     "Indeed": {
       "ok": 0,
@@ -40,7 +40,7 @@
       "ok": 2,
       "failed": 0,
       "skipped": 0,
-      "raw_jobs": 4,
+      "raw_jobs": 3,
       "last_error": ""
     },
     "Barona": {

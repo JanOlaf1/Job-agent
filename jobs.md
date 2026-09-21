@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 21.09.2026 16:21  
+**Haku suoritettu:** 21.09.2026 21:52  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 2  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,33 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Key Account Manager, Nordic Corporate Sales at SEB Kort | SEB, Helsinki
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-21  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469879707)
-
----
-
-## 42/100 — Account Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-21  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469861437)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -48,13 +22,13 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 4 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 3 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 142 hakutulosta, 7 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 166 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
