@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 21.09.2026 09:35  
+**Haku suoritettu:** 21.09.2026 16:21  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 2  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 41/100 — Customer Success Manager
+## 42/100 — Key Account Manager, Nordic Corporate Sales at SEB Kort | SEB, Helsinki
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -22,10 +22,23 @@ Ei uusia 45+ osumia.
 **Löydetty:** 2026-09-21  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
+- +32 sopiva työnimike (account manager)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4467371089)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469879707)
+
+---
+
+## 42/100 — Account Manager
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-21  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469861437)
 
 ---
 
@@ -35,13 +48,13 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 3 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 4 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 173 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ⚠️ **LinkedIn**: 142 hakutulosta, 7 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
