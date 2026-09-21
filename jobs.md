@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 21.09.2026 21:52  
+**Haku suoritettu:** 22.09.2026 01:25  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,19 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Elisa Oyj Account Manager
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-22  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468132421)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -28,7 +40,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 166 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 162 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
