@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 22.09.2026 14:43  
+**Haku suoritettu:** 22.09.2026 18:46  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 4  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,6 +14,52 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
+## 42/100 — Software Engineer
+
+**Tila:** UUSI  
+**Kategoria:** IT  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-22  
+**Miksi sopii:**  
+- +10 sopii IT-koulutukseen
+- +32 sopiva työnimike (software engineer)
+- +10 teknologiat: c#, react, typescript
+- +3 kokemusosumat: ict
+- +8 koulutustausta sopii
+- +4 kielivaatimukset sopivat
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470419722)
+
+---
+
+## 42/100 — Key Account Manager – Finland & Sweden
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-22  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469009767)
+
+---
+
+## 42/100 — Key Account Manager – Finland & Sweden
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-22  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468793631)
+
+---
+
 ## 40/100 — Business Development Manager
 
 **Tila:** UUSI  
@@ -24,7 +70,7 @@ Ei uusia 45+ osumia.
 - +10 sopii kaupalliseen kokemukseen
 - +30 sopiva työnimike (business development)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468544157)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470429475)
 
 ---
 
@@ -40,7 +86,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 162 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 165 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
