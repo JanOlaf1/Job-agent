@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 22.09.2026 18:46  
+**Haku suoritettu:** 22.09.2026 22:18  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 4  
+**Uusia 35–44 osumia:** 3  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,25 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Software Engineer
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-22  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (software engineer)
-- +10 teknologiat: c#, react, typescript
-- +3 kokemusosumat: ict
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470419722)
-
----
-
-## 42/100 — Key Account Manager – Finland & Sweden
+## 42/100 — Key Account Manager
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -42,11 +24,11 @@ Ei uusia 45+ osumia.
 - +10 sopii kaupalliseen kokemukseen
 - +32 sopiva työnimike (account manager)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469009767)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469027526)
 
 ---
 
-## 42/100 — Key Account Manager – Finland & Sweden
+## 41/100 — Customer Success Associate and Content Creator
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -54,13 +36,14 @@ Ei uusia 45+ osumia.
 **Löydetty:** 2026-09-22  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
+- +28 sopiva työnimike (customer success)
+- +3 kokemusosumat: customer success
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468793631)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468925053)
 
 ---
 
-## 40/100 — Business Development Manager
+## 40/100 — Business Development Manager, AWS
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -70,7 +53,7 @@ Ei uusia 45+ osumia.
 - +10 sopii kaupalliseen kokemukseen
 - +30 sopiva työnimike (business development)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470429475)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4468597834)
 
 ---
 
@@ -86,7 +69,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 165 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 168 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
