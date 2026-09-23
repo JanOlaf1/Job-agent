@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-09-23T18:04:39.416986+03:00",
+  "run_time": "2026-09-23T22:03:33.764627+03:00",
   "sources": {
     "Duunitori": {
       "ok": 0,
@@ -40,7 +40,7 @@
       "ok": 2,
       "failed": 0,
       "skipped": 0,
-      "raw_jobs": 2,
+      "raw_jobs": 1,
       "last_error": ""
     },
     "Barona": {

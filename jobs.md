@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 23.09.2026 18:04  
-**Uusia 45+ osumia:** 2  
-**Uusia 35–44 osumia:** 2  
+**Haku suoritettu:** 23.09.2026 22:03  
+**Uusia 45+ osumia:** 0  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,68 +10,11 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 48/100 — Software Engineer - Python - Ubuntu Pro client - graduate level
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-23  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (software engineer)
-- +15 junior/trainee/graduate-taso
-- +4 teknologiat: python
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4233270755)
-
----
-
-## 47/100 — Account Manager - Corporate
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-23  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account manager)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469429930)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 41/100 — Customer Success Manager - Finland
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-23  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470928601)
-
----
-
-## 38/100 — Restaurant Sales Specialist
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-23  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (sales specialist)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470959073)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -79,7 +22,7 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 2 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 1 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
