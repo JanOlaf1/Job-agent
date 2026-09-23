@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 23.09.2026 22:03  
+**Haku suoritettu:** 24.09.2026 01:16  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,20 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 41/100 — Customer Success Manager
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-24  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +28 sopiva työnimike (customer success)
+- +3 kokemusosumat: customer success
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471124095)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
