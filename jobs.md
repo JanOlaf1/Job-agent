@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 24.09.2026 18:29  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 3  
+**Haku suoritettu:** 24.09.2026 22:30  
+**Uusia 45+ osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,53 +10,27 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 53/100 — Software Engineer
+
+**Tila:** UUSI  
+**Kategoria:** IT  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-24  
+**Miksi sopii:**  
+- +10 sopii IT-koulutukseen
+- +32 sopiva työnimike (software engineer)
+- +17 teknologiat: java, python, sql, c#, typescript
+- +7 kokemusosumat: it-palvel, ict
+- +8 koulutustausta sopii
+- +4 kielivaatimukset sopivat
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471649152)
+
+---
 
 # 🟡 Harkitse (35–44)
 
-## 44/100 — Sales Development Representative for Semine (Finnish Speaker)
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-24  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +30 sopiva työnimike (sales development)
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469391688)
-
----
-
-## 42/100 — Key Account Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-24  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471437463)
-
----
-
-## 41/100 — Customer Success & Implementation Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-24  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469720966)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -70,7 +44,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 179 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 180 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
