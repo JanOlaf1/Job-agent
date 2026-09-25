@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 25.09.2026 09:04  
+**Haku suoritettu:** 25.09.2026 14:46  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,19 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Account Executive, Helsinki
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-25  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account executive)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470090984)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -22,13 +34,13 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 1 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 2 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 181 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 180 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
