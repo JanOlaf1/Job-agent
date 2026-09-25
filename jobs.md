@@ -1,7 +1,7 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 25.09.2026 19:01  
-**Uusia 45+ osumia:** 3  
+**Haku suoritettu:** 25.09.2026 23:00  
+**Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 2  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
@@ -10,63 +10,11 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 59/100 — Sales Development Representative - Finland
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-25  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +30 sopiva työnimike (sales development)
-- +15 junior/trainee/graduate-taso
-- +12 kokemusosumat: b2b, crm, ict
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4411266268)
-
----
-
-## 57/100 — Account Manager
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-25  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account manager)
-- +15 junior/trainee/graduate-taso
-- +16 kokemusosumat: b2b, account management, crm, customer success
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470173020)
-
----
-
-## 56/100 — Software Developer (Application development)
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-25  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +34 sopiva työnimike (software developer)
-- +15 junior/trainee/graduate-taso
-- +6 teknologiat: java, c#
-- +4 kokemusosumat: crm
-- +8 koulutustausta sopii
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469156959)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Nordic Key Account Manager - Wastewater
+## 42/100 — Account Manager
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -75,29 +23,23 @@
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
 - +32 sopiva työnimike (account manager)
-- +13 kokemusosumat: b2b, account management, crm
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4472025160)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470390463)
 
 ---
 
 ## 41/100 — Customer Success Manager
 
 **Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
+**Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
 **Löydetty:** 2026-09-25  
 **Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
+- +10 sopii kaupalliseen kokemukseen
 - +28 sopiva työnimike (customer success)
-- +19 kokemusosumat: b2b, account management, asiakkuus, crm, customer success
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
+- +3 kokemusosumat: customer success
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470167166)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4470396119)
 
 ---
 
