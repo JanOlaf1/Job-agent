@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 25.09.2026 01:44  
+**Haku suoritettu:** 25.09.2026 03:57  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,23 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 44/100 — Backend Software Engineer (Python/C++)
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-25  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (software engineer)
-- +8 teknologiat: java, python
-- +7 kokemusosumat: it-palvel, ict
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471685053)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
