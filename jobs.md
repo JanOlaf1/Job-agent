@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 28.09.2026 16:45  
+**Haku suoritettu:** 28.09.2026 23:17  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 2  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,31 +14,21 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 40/100 — Business Development Manager, Sevenrooms
+## 37/100 — Software Engineer, Growth Platform - Backend
 
 **Tila:** UUSI  
-**Kategoria:** MYYNTI  
+**Kategoria:** IT  
 **Lähteet:** LinkedIn  
 **Löydetty:** 2026-09-28  
 **Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +30 sopiva työnimike (business development)
+- +10 sopii IT-koulutukseen
+- +32 sopiva työnimike (software engineer)
+- +8 teknologiat: java, typescript
+- +8 koulutustausta sopii
+- +4 kielivaatimukset sopivat
+- -25 ilmoituksessa senior/lead-tason merkkejä
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471352007)
-
----
-
-## 40/100 — Business Development Manager, Parcel
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-28  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +30 sopiva työnimike (business development)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471355065)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471394976)
 
 ---
 
@@ -48,13 +38,13 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 2 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 1 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 186 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 189 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
