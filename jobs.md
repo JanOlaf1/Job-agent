@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 29.09.2026 15:49  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Haku suoritettu:** 29.09.2026 21:23  
+**Uusia 45+ osumia:** 1  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,11 +10,37 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 50/100 — Customer Success Manager (Finnish and English Speaking)
+
+**Tila:** UUSI  
+**Kategoria:** IT + MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-29  
+**Miksi sopii:**  
+- +15 yhdistää IT:n ja kaupallisen taustan
+- +28 sopiva työnimike (customer success)
+- +3 kokemusosumat: customer success
+- +4 kielivaatimukset sopivat
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473287547)
+
+---
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Key Account Manager - hematology
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-09-29  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473285377)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
