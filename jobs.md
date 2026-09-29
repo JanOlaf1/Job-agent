@@ -1,6 +1,6 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 28.09.2026 23:17  
+**Haku suoritettu:** 29.09.2026 03:27  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
@@ -14,21 +14,17 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 37/100 — Software Engineer, Growth Platform - Backend
+## 42/100 — Account Executive - Finland
 
 **Tila:** UUSI  
-**Kategoria:** IT  
+**Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-09-28  
+**Löydetty:** 2026-09-29  
 **Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +32 sopiva työnimike (software engineer)
-- +8 teknologiat: java, typescript
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account executive)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471394976)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473033695)
 
 ---
 
