@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 30.09.2026 10:23  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Haku suoritettu:** 30.09.2026 17:05  
+**Uusia 45+ osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,23 +10,24 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
-
-# 🟡 Harkitse (35–44)
-
-## 38/100 — Solution Consultant
+## 46/100 — Account Manager - Kaakkois- ja Keski-Suomi
 
 **Tila:** UUSI  
-**Kategoria:** IT  
+**Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
 **Löydetty:** 2026-09-30  
 **Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +28 sopiva työnimike (solution consultant)
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+- +4 kielivaatimukset sopivat
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4471795862)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4469197171)
 
 ---
+
+# 🟡 Harkitse (35–44)
+
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -40,7 +41,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 189 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 190 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
