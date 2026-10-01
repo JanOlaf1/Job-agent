@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 01.10.2026 19:20  
-**Uusia 45+ osumia:** 1  
-**Uusia 35–44 osumia:** 2  
+**Haku suoritettu:** 02.10.2026 00:10  
+**Uusia 45+ osumia:** 0  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,49 +10,21 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 46/100 — Key Account Manager - LAPP (Suomi)
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-01  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4474183654)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 43/100 — Modern Work Consultant (Power Platform & Business AI)
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-01  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +30 sopiva työnimike (power platform)
-- +3 teknologiat: power platform
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4474136841)
-
----
-
-## 42/100 — Account Manager
+## 42/100 — Key Account Manager Hospital
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-01  
+**Löydetty:** 2026-10-02  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
 - +32 sopiva työnimike (account manager)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4472940232)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4474359503)
 
 ---
 
@@ -68,7 +40,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 197 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 199 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
