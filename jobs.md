@@ -1,7 +1,7 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 02.10.2026 21:24  
-**Uusia 45+ osumia:** 1  
+**Haku suoritettu:** 03.10.2026 01:28  
+**Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
@@ -10,22 +10,7 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 46/100 — Key Account Manager
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-02  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account manager)
-- +20 kokemusosumat: b2b, new customer acquisition, account management, asiakkuus, customer success
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473343923)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
