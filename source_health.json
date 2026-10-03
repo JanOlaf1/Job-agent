@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-10-03T09:53:21.160422+03:00",
+  "run_time": "2026-10-03T15:13:50.432406+03:00",
   "sources": {
     "Duunitori": {
       "ok": 0,
@@ -12,7 +12,7 @@
       "ok": 8,
       "failed": 0,
       "skipped": 0,
-      "raw_jobs": 199,
+      "raw_jobs": 194,
       "last_error": ""
     },
     "Indeed": {
