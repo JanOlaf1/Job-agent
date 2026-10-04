@@ -1,7 +1,7 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 04.10.2026 20:48  
-**Uusia 45+ osumia:** 0  
+**Haku suoritettu:** 04.10.2026 23:32  
+**Uusia 45+ osumia:** 1  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
@@ -10,7 +10,19 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 47/100 — Account Executive
+
+**Tila:** UUSI  
+**Kategoria:** IT + MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-04  
+**Miksi sopii:**  
+- +15 yhdistää IT:n ja kaupallisen taustan
+- +32 sopiva työnimike (account executive)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4474231011)
+
+---
 
 # 🟡 Harkitse (35–44)
 
