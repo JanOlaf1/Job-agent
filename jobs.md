@@ -1,45 +1,32 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 05.10.2026 21:50  
+**Haku suoritettu:** 06.10.2026 03:28  
 **Uusia 45+ osumia:** 1  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 0
+**Tällä ajolla arkistoitu:** 782
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 50/100 — ICT-asiantuntija (Key Account Manager), Digikehittäminen
+## 45/100 — Business Development Manager, IBM Software
 
 **Tila:** UUSI  
 **Kategoria:** IT + MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-05  
+**Löydetty:** 2026-10-06  
 **Miksi sopii:**  
 - +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account manager)
-- +3 kokemusosumat: ict
+- +30 sopiva työnimike (business development)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475815477)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473631573)
 
 ---
 
 # 🟡 Harkitse (35–44)
 
-## 38/100 — Sales Specialist, BI & Analytics
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-05  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (sales specialist)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473621981)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -53,7 +40,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 191 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 189 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
