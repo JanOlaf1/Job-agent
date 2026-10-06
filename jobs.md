@@ -1,28 +1,16 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 06.10.2026 03:28  
-**Uusia 45+ osumia:** 1  
+**Haku suoritettu:** 06.10.2026 09:48  
+**Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 782
+**Tällä ajolla arkistoitu:** 0
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 45/100 — Business Development Manager, IBM Software
-
-**Tila:** UUSI  
-**Kategoria:** IT + MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-06  
-**Miksi sopii:**  
-- +15 yhdistää IT:n ja kaupallisen taustan
-- +30 sopiva työnimike (business development)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473631573)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
@@ -40,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 189 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ⚠️ **LinkedIn**: 77 hakutulosta, 5 onnistui, 1 epäonnistui, 2 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
