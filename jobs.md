@@ -1,10 +1,10 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 06.10.2026 22:08  
+**Haku suoritettu:** 07.10.2026 02:05  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 0
+**Tällä ajolla arkistoitu:** 8
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
