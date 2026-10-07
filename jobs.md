@@ -1,60 +1,80 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 07.10.2026 19:23  
-**Uusia 45+ osumia:** 1  
+**Haku suoritettu:** 08.10.2026 00:30  
+**Uusia 45+ osumia:** 2  
 **Uusia 35–44 osumia:** 2  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 0
+**Tällä ajolla arkistoitu:** 2
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 48/100 — Account Manager – jälleenmyyntiasiakkaat / Milwaukee
+## 65/100 — Junior Software Developer
+
+**Tila:** UUSI  
+**Kategoria:** IT  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-08  
+**Miksi sopii:**  
+- +10 sopii IT-koulutukseen
+- +40 sopiva työnimike (junior software developer)
+- +15 junior/trainee/graduate-taso
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475486117)
+
+---
+
+## 51/100 — Security Sales Specialist
 
 **Tila:** UUSI  
 **Kategoria:** IT + MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-07  
+**Löydetty:** 2026-10-08  
 **Miksi sopii:**  
 - +15 yhdistää IT:n ja kaupallisen taustan
-- +32 sopiva työnimike (account manager)
-- +15 junior/trainee/graduate-taso
-- +7 kokemusosumat: asiakkuus, crm
+- +28 sopiva työnimike (sales specialist)
+- +2 teknologiat: html
+- +19 kokemusosumat: b2b, account management, solution sales, ict, customer success
+- +8 koulutustausta sopii
 - +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4476565376)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4476726152)
 
 ---
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Account Executive
+## 41/100 — Customer Success Manager
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-07  
+**Löydetty:** 2026-10-08  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account executive)
+- +28 sopiva työnimike (customer success)
+- +3 kokemusosumat: customer success
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4476594352)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475480505)
 
 ---
 
-## 42/100 — Key Account Manager
+## 40/100 — Distribution Sales Specialist
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
 **Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-07  
+**Löydetty:** 2026-10-08  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
+- +28 sopiva työnimike (sales specialist)
+- +15 junior/trainee/graduate-taso
+- +8 kokemusosumat: b2b, ict
+- +4 kielivaatimukset sopivat
+- -25 ilmoituksessa senior/lead-tason merkkejä
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475185987)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4474467518)
 
 ---
 
@@ -70,7 +90,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 79 hakutulosta, 5 onnistui, 1 epäonnistui, 2 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 193 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
