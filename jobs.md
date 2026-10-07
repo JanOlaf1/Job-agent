@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 07.10.2026 12:01  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Haku suoritettu:** 07.10.2026 19:23  
+**Uusia 45+ osumia:** 1  
+**Uusia 35–44 osumia:** 2  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,11 +10,53 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 48/100 — Account Manager – jälleenmyyntiasiakkaat / Milwaukee
+
+**Tila:** UUSI  
+**Kategoria:** IT + MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-07  
+**Miksi sopii:**  
+- +15 yhdistää IT:n ja kaupallisen taustan
+- +32 sopiva työnimike (account manager)
+- +15 junior/trainee/graduate-taso
+- +7 kokemusosumat: asiakkuus, crm
+- +4 kielivaatimukset sopivat
+- -25 ilmoituksessa senior/lead-tason merkkejä
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4476565376)
+
+---
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Account Executive
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-07  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account executive)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4476594352)
+
+---
+
+## 42/100 — Key Account Manager
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-07  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475185987)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -28,7 +70,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 45 hakutulosta, 4 onnistui, 1 epäonnistui, 3 ohitettiin — HTTP 429, automaattinen haku estetty
+- ⚠️ **LinkedIn**: 79 hakutulosta, 5 onnistui, 1 epäonnistui, 2 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
