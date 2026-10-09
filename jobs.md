@@ -1,10 +1,10 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 08.10.2026 23:39  
+**Haku suoritettu:** 09.10.2026 03:42  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 2  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 0
+**Tällä ajolla arkistoitu:** 12
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
@@ -14,38 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 41/100 — Customer Success Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-08  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4477449648)
-
----
-
-## 38/100 — Junior Test Engineer
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-08  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +30 sopiva työnimike (test engineer)
-- +15 junior/trainee/graduate-taso
-- +4 teknologiat: python
-- +4 kielivaatimukset sopivat
-- -25 ilmoituksessa senior/lead-tason merkkejä
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4477421087)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
