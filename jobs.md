@@ -1,10 +1,10 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 09.10.2026 22:26  
+**Haku suoritettu:** 10.10.2026 02:27  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 0
+**Tällä ajolla arkistoitu:** 8
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
@@ -14,19 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 38/100 — Sales Specialist
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-09  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (sales specialist)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475228084)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -40,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 198 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 197 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
