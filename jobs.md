@@ -1,16 +1,32 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 09.10.2026 03:42  
-**Uusia 45+ osumia:** 0  
+**Haku suoritettu:** 09.10.2026 09:50  
+**Uusia 45+ osumia:** 1  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 12
+**Tällä ajolla arkistoitu:** 0
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 60/100 — Key Account Manager
+
+**Tila:** UUSI  
+**Kategoria:** IT + MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-09  
+**Miksi sopii:**  
+- +15 yhdistää IT:n ja kaupallisen taustan
+- +32 sopiva työnimike (account manager)
+- +15 junior/trainee/graduate-taso
+- +11 kokemusosumat: b2b, asiakkuus, customer success
+- +8 koulutustausta sopii
+- +4 kielivaatimukset sopivat
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4477643210)
+
+---
 
 # 🟡 Harkitse (35–44)
 
@@ -28,7 +44,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 199 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **LinkedIn**: 200 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
