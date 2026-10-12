@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 12.10.2026 05:16  
+**Haku suoritettu:** 12.10.2026 12:26  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Uusia 35–44 osumia:** 2  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,7 +14,33 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 42/100 — Account Manager, Svea Perintä Oy
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-12  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +32 sopiva työnimike (account manager)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475673797)
+
+---
+
+## 40/100 — Business Development Manager
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-12  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +30 sopiva työnimike (business development)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4475685660)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -22,7 +48,7 @@ Ei merkittyjä hakuprosesseja.
 
 # 🧪 Lähteiden tila
 
-- ✅ **Academic Work**: 2 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
+- ✅ **Academic Work**: 1 hakutulosta, 2 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **Barona**: 1 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Duunitori**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 19 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
