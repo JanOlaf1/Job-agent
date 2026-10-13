@@ -1,10 +1,10 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 13.10.2026 04:27  
+**Haku suoritettu:** 13.10.2026 11:22  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 3
+**Tällä ajolla arkistoitu:** 0
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
@@ -28,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ❌ **LinkedIn**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 7 ohitettiin — HTTP 429, automaattinen haku estetty
+- ⚠️ **LinkedIn**: 17 hakutulosta, 1 onnistui, 1 epäonnistui, 6 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
