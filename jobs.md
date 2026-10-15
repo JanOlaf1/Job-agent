@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 15.10.2026 08:37  
+**Haku suoritettu:** 15.10.2026 13:19  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,19 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 38/100 — Technical Support Specialist
-
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-15  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +28 sopiva työnimike (technical support specialist)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4478827849)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -40,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 167 hakutulosta, 7 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 429, automaattinen haku estetty
+- ⚠️ **LinkedIn**: 45 hakutulosta, 4 onnistui, 1 epäonnistui, 3 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
