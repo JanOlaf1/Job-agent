@@ -1,7 +1,7 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 15.10.2026 18:10  
-**Uusia 45+ osumia:** 1  
+**Haku suoritettu:** 15.10.2026 22:11  
+**Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
@@ -10,23 +10,7 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-## 64/100 — Software Developer, Cimcorp, Ulvila
-
-**Yritys:** Academic Work  
-**Tila:** UUSI  
-**Kategoria:** IT  
-**Lähteet:** Academic Work  
-**Löydetty:** 2026-10-15  
-**Miksi sopii:**  
-- +10 sopii IT-koulutukseen
-- +34 sopiva työnimike (software developer)
-- +8 teknologiat: java, react
-- +8 koulutustausta sopii
-- +4 kielivaatimukset sopivat
-
-[Avaa työpaikkailmoitus](https://www.academicwork.fi/avoimet-tyopaikat/j/software-developer-cimcorp-ulvila/5A9R5U)
-
----
+Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
@@ -44,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 45 hakutulosta, 4 onnistui, 1 epäonnistui, 3 ohitettiin — HTTP 429, automaattinen haku estetty
+- ❌ **LinkedIn**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 7 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
