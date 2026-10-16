@@ -1,10 +1,10 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 17.10.2026 00:25  
+**Haku suoritettu:** 17.10.2026 02:49  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 4  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
-**Tällä ajolla arkistoitu:** 2
+**Tällä ajolla arkistoitu:** 0
 
 > Muokkaa `job_tracker.csv`-tiedostosta vain kenttiä `status`, `applied_date` ja `notes`. Kun tila on HAETTU ja applied_date jätetään tyhjäksi, päivämäärä täyttyy seuraavalla ajolla.
 
@@ -14,7 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Key Account Manager, Vantaa
+## 42/100 — Account Executive
 
 **Tila:** UUSI  
 **Kategoria:** MYYNTI  
@@ -22,54 +22,9 @@ Ei uusia 45+ osumia.
 **Löydetty:** 2026-10-17  
 **Miksi sopii:**  
 - +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account manager)
+- +32 sopiva työnimike (account executive)
 
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4479362642)
-
----
-
-## 41/100 — Customer Success Manager Strategic Accounts - Finland (m/f/d)
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-17  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4477700731)
-
----
-
-## 41/100 — Customer Success Manager Scaled Accounts - Finland (m/f/d)
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-17  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4477700572)
-
----
-
-## 41/100 — Customer Success Manager
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-17  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +28 sopiva työnimike (customer success)
-- +3 kokemusosumat: customer success
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4479380276)
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4480390476)
 
 ---
 
@@ -85,7 +40,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 79 hakutulosta, 5 onnistui, 1 epäonnistui, 2 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 186 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
