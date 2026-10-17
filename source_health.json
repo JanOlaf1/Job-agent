@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-10-17T13:58:37.335831+03:00",
+  "run_time": "2026-10-17T17:11:01.220657+03:00",
   "sources": {
     "Duunitori": {
       "ok": 0,
@@ -9,11 +9,11 @@
       "last_error": "HTTP 403, automaattinen haku estetty"
     },
     "LinkedIn": {
-      "ok": 8,
-      "failed": 0,
-      "skipped": 0,
-      "raw_jobs": 186,
-      "last_error": ""
+      "ok": 6,
+      "failed": 1,
+      "skipped": 1,
+      "raw_jobs": 123,
+      "last_error": "HTTP 429, automaattinen haku estetty"
     },
     "Indeed": {
       "ok": 0,
