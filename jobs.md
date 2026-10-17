@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 17.10.2026 17:11  
-**Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 0  
+**Haku suoritettu:** 17.10.2026 20:15  
+**Uusia 45+ osumia:** 2  
+**Uusia 35–44 osumia:** 1  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -10,11 +10,50 @@
 
 # 🟢 Uudet vahvat osumat (45+)
 
-Ei uusia 45+ osumia.
+## 46/100 — B2B Sales Specialist
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-17  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +28 sopiva työnimike (sales specialist)
+- +8 kokemusosumat: b2b, ict
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4465632190)
+
+---
+
+## 45/100 — Business Development Rep (AI Cloud)
+
+**Tila:** UUSI  
+**Kategoria:** IT + MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-17  
+**Miksi sopii:**  
+- +15 yhdistää IT:n ja kaupallisen taustan
+- +30 sopiva työnimike (business development)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4415378394)
+
+---
 
 # 🟡 Harkitse (35–44)
 
-Ei uusia harkittavia osumia.
+## 40/100 — Business Development Lead (Baltics) — AI video intelligence. Vilnius / Tallinn / Riga.
+
+**Tila:** UUSI  
+**Kategoria:** MYYNTI  
+**Lähteet:** LinkedIn  
+**Löydetty:** 2026-10-17  
+**Miksi sopii:**  
+- +10 sopii kaupalliseen kokemukseen
+- +30 sopiva työnimike (business development)
+
+[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4473649847)
+
+---
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -28,7 +67,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ⚠️ **LinkedIn**: 123 hakutulosta, 6 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 429, automaattinen haku estetty
+- ✅ **LinkedIn**: 183 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
