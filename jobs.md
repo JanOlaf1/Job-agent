@@ -1,8 +1,8 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 17.10.2026 02:49  
+**Haku suoritettu:** 17.10.2026 04:39  
 **Uusia 45+ osumia:** 0  
-**Uusia 35–44 osumia:** 1  
+**Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
 **Tällä ajolla arkistoitu:** 0
 
@@ -14,19 +14,7 @@ Ei uusia 45+ osumia.
 
 # 🟡 Harkitse (35–44)
 
-## 42/100 — Account Executive
-
-**Tila:** UUSI  
-**Kategoria:** MYYNTI  
-**Lähteet:** LinkedIn  
-**Löydetty:** 2026-10-17  
-**Miksi sopii:**  
-- +10 sopii kaupalliseen kokemukseen
-- +32 sopiva työnimike (account executive)
-
-[Avaa työpaikkailmoitus](https://fi.linkedin.com/jobs/view/4480390476)
-
----
+Ei uusia harkittavia osumia.
 
 # 📌 Omat hakemukset ja prosessit
 
@@ -40,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 186 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ⚠️ **LinkedIn**: 15 hakutulosta, 1 onnistui, 1 epäonnistui, 6 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
