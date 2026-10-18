@@ -1,6 +1,6 @@
 # Työpaikka-agentti
 
-**Haku suoritettu:** 18.10.2026 09:34  
+**Haku suoritettu:** 18.10.2026 14:41  
 **Uusia 45+ osumia:** 0  
 **Uusia 35–44 osumia:** 0  
 **Aktiivisia hakuprosesseja:** 0  
@@ -28,7 +28,7 @@ Ei merkittyjä hakuprosesseja.
 - ✅ **Eezy**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ❌ **Indeed**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
 - ❌ **Jobly**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 1 ohitettiin — HTTP 403, automaattinen haku estetty
-- ✅ **LinkedIn**: 184 hakutulosta, 8 onnistui, 0 epäonnistui, 0 ohitettiin
+- ❌ **LinkedIn**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 7 ohitettiin — HTTP 429, automaattinen haku estetty
 - ❌ **MMA**: 0 hakutulosta, 0 onnistui, 1 epäonnistui, 0 ohitettiin — HTTP 403, automaattinen haku estetty
 - ✅ **Manpower**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
 - ✅ **StaffPoint**: 0 hakutulosta, 1 onnistui, 0 epäonnistui, 0 ohitettiin
