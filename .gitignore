@@ -2,3 +2,13 @@
 __pycache__/
 *.pyc
 .env
+.env.*
+!.env.example
+.pytest_cache/
+preview/
+*.csv.bak
+*.csv.tmp
+email_preview.txt
+email_preview.html
+*.json.tmp
+error.log

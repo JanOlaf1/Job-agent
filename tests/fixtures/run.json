@@ -1,0 +1,81 @@
+{
+  "jobs": [
+    {
+      "title": "Solutions Consultant",
+      "company": "Example Technology Oy",
+      "location": "Helsinki / Hybrid",
+      "description": "SaaS implementation, B2B sales and CRM",
+      "sources": "Fixture",
+      "urls": "https://example.org/jobs/solutions?utm_source=test"
+    },
+    {
+      "title": "Junior Software Developer",
+      "company": "Example Software Oy",
+      "location": "Remote Finland",
+      "description": "Python React JavaScript",
+      "sources": "Fixture",
+      "urls": "https://example.org/apply?id=junior"
+    },
+    {
+      "title": "Account Manager",
+      "company": "Example Sales Oy",
+      "location": "Espoo",
+      "description": "B2B sales prospecting",
+      "sources": "Fixture",
+      "urls": "https://example.org/jobs/sales"
+    },
+    {
+      "title": "Driver",
+      "company": "Example Transport Oy",
+      "location": "Helsinki",
+      "sources": "Fixture",
+      "urls": "https://example.org/jobs/driver"
+    }
+  ],
+  "sources": {
+    "Fixture": {
+      "status": "HEALTHY",
+      "raw_jobs": 4
+    },
+    "Blocked fixture": {
+      "status": "BLOCKED",
+      "raw_jobs": 0,
+      "last_error": "HTTP 403 (simulated)"
+    }
+  },
+  "studies": [
+    {
+      "study_id": "fixture-it",
+      "title": "Master's Programme in Information Systems",
+      "institution": "Example University",
+      "location": "Oulu",
+      "study_type": "MASTER / YAMK",
+      "scope": "120 ECTS",
+      "remote_type": "HYBRID",
+      "application_status": "UPCOMING",
+      "deadline": "2027-01-20T15:00",
+      "urls": "https://example.org/studies/information-systems",
+      "sources": "Fixture",
+      "detail_checked": "2026-09-25T10:00:00+03:00"
+    },
+    {
+      "study_id": "fixture-social",
+      "title": "Political Science",
+      "institution": "Example University",
+      "location": "Tampere",
+      "study_type": "MODULE",
+      "scope": "25 ECTS",
+      "remote_type": "ONLINE",
+      "application_status": "OPEN",
+      "urls": "https://example.org/studies/politics",
+      "sources": "Fixture",
+      "detail_checked": "2026-09-25T10:00:00+03:00"
+    }
+  ],
+  "study_sources": {
+    "Study fixture": {
+      "status": "HEALTHY",
+      "raw_jobs": 2
+    }
+  }
+}

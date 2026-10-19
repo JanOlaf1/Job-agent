@@ -1,18 +1,18 @@
 {
-  "run_time": "2026-09-06T13:56:02.819059+03:00",
+  "run_time": "2026-09-06T20:38:26.457744+03:00",
   "sources": {
     "Duunitori": {
-      "ok": 0,
-      "failed": 1,
-      "skipped": 19,
-      "raw_jobs": 0,
-      "last_error": "HTTP 403, automaattinen haku estetty"
+      "ok": 20,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 113,
+      "last_error": ""
     },
     "LinkedIn": {
       "ok": 8,
       "failed": 0,
       "skipped": 0,
-      "raw_jobs": 178,
+      "raw_jobs": 195,
       "last_error": ""
     },
     "Indeed": {
@@ -30,11 +30,11 @@
       "last_error": ""
     },
     "Jobly": {
-      "ok": 0,
-      "failed": 1,
-      "skipped": 1,
-      "raw_jobs": 0,
-      "last_error": "HTTP 403, automaattinen haku estetty"
+      "ok": 2,
+      "failed": 0,
+      "skipped": 0,
+      "raw_jobs": 8,
+      "last_error": ""
     },
     "Academic Work": {
       "ok": 2,
@@ -86,11 +86,11 @@
       "last_error": ""
     },
     "MMA": {
-      "ok": 0,
-      "failed": 1,
+      "ok": 1,
+      "failed": 0,
       "skipped": 0,
       "raw_jobs": 0,
-      "last_error": "HTTP 403, automaattinen haku estetty"
+      "last_error": ""
     },
     "Work in Finland": {
       "ok": 2,

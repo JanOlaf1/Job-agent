@@ -4,8 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "*/5 * * * *"
-      timezone: "Europe/Helsinki"
+    - cron: "17 5,14 * * *"
 permissions:
   contents: write
 
@@ -16,6 +15,7 @@ concurrency:
 jobs:
   search-jobs:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
       - name: Checkout repository
@@ -28,27 +28,36 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-dev.txt
 
-      - name: Run job search
-        run: python src/main.py
+      - name: Test offline
+        run: python -m pytest -q
 
-      - name: Send daily email
+      - name: Search and prepare digest
+        id: prepare
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python src/send_email.py
+          SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ vars.SMTP_PORT || '465' }}
+          MIN_RELEVANCE_SCORE: ${{ vars.MIN_RELEVANCE_SCORE || '60' }}
+          MIN_TRAINING_SCORE: ${{ vars.MIN_TRAINING_SCORE || '65' }}
+          SEND_EMPTY_DIGEST: ${{ vars.SEND_EMPTY_DIGEST || 'false' }}
+        run: python -m src.main --commit --prepare-email
 
-      - name: Add report to Actions summary
-        run: cat jobs.md >> "$GITHUB_STEP_SUMMARY"
-
-      - name: Save updated job data
+      - name: Persist discoveries before delivery
+        id: persist
+        if: ${{ !cancelled() && steps.prepare.outcome == 'success' }}
         run: |
           git config user.name "job-agent"
           git config user.email "job-agent@users.noreply.github.com"
 
-          git add -A
+          for file in job_tracker.csv study_tracker.csv jobs.md studies.md source_health.json pending_email.json; do
+            if [ -f "$file" ] || git ls-files --error-unmatch "$file" >/dev/null 2>&1; then
+              git add -- "$file"
+            fi
+          done
 
           if git diff --cached --quiet; then
             echo "Ei muutoksia tallennettavaksi."
@@ -56,3 +65,51 @@ jobs:
             git commit -m "Daily job search"
             git push
           fi
+
+      - name: Deliver persisted digest
+        id: deliver
+        if: ${{ success() && steps.persist.outcome == 'success' }}
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ vars.SMTP_PORT || '465' }}
+        run: python -m src.main --deliver-pending
+
+      - name: Persist delivery receipt
+        if: ${{ !cancelled() && steps.deliver.outcome == 'success' }}
+        run: |
+          for file in job_tracker.csv study_tracker.csv pending_email.json; do
+            if [ -f "$file" ] || git ls-files --error-unmatch "$file" >/dev/null 2>&1; then
+              git add -- "$file"
+            fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "Record digest delivery"
+            git push
+          fi
+
+      - name: Add report to Actions summary
+        if: always()
+        run: |
+          if [ -f source_health.json ]; then
+            python -c "import json; d=json.load(open('source_health.json')); print('Run:', d.get('status')); print('Jobs:', d.get('normalized_count', 0)); print('Relevant:', d.get('relevant_count', 0)); print('New:', len(d.get('new_jobs', [])))" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Keep reports for inspection
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-agent-reports
+          path: |
+            jobs.md
+            studies.md
+            source_health.json
+            email_preview.txt
+            email_preview.html
+            error.log
+            job_tracker.csv
+            study_tracker.csv
+            pending_email.json
+
