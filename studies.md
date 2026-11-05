@@ -277,6 +277,330 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011597>)
 
+### 100/100 — STRONG — International Business Management, Master of Business Administration, Kouvola, part-time studies
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Develop expertise in international business management. Prepare for demanding management, development, and specialist roles. The International Business Management programme strengthens your competence in managing and developing business in international operating environments. After completing the degree, you will be able to analyse international business environments, develop business processes and customer-oriented operations, and apply marketi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 13500.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 13 500 /academic year. Read more about the tuition fees at Xamk.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000486>)
+
+### 100/100 — STRONG — Master of Business Administration, Leading Business Transformation
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Come and engage yourself in leading business transformation! The Degree Programme in Leading Business Transformation provides you with excellent skills to work in complex business environments in expert, development and management positions. The studies strengthen your ability to apply new research knowledge to your own operating environment. During your studies, you will deepen your knowledge needed for demanding expert and development work in y
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. More information.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011596>)
+
+### 100/100 — STRONG — Master of Social Services and Health Care, Disaster Management
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kotka
+Yhteenveto: The degree programme provides practical skills in disaster management by integrating technology, leadership, and multidisciplinary collaboration. You will graduate as a specialist capable of operating in disaster and crisis situations, developing sustainable solutions, and leading multidisciplinary teams. The Disaster Management program is designed for anyone interested in crisis and disaster management, regardless of their educational background
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 13500.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 13 500 /academic year. Read more about the tuition fees at Xamk.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030610>)
+
+### 100/100 — STRONG — Separate application autumn 2026: Master of Business Administration, International Business Management
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Jamkin International Business Management -koulutus on suunnattu tulevaisuuden johtajille ja kokeneille ammattilaisille, jotka haluavat syventää osaamistaan kansainvälisen liiketoiminnan strategiassa, innovaatiossa ja digitaalisessa muutoksessa. Olitpa urasi alkuvaiheessa tai jo kokenut tekijä, koulutus tarjoaa työelämälähtöisen opintokokonaisuuden, jossa yhdistyvät teoria ja käytännön soveltaminen. Opintojen aikana kehität strategista ajattelua j
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) e
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037969>)
+
+### 100/100 — STRONG — Restonomi (ylempi AMK), palveluliiketoiminnan johtaminen ja kehittäminen
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Palveluliiketoiminnan johtamisen ja kehittämisen -koulutuksessa hankit itsellesi varmuutta vaativiin asiantuntija-, kehitys- ja johtotehtäviin palveluliiketoiminnan ja elämystalouden aloilla, kuten matkailu- ja vieraanvaraisuusaloilla. Tutkinnon suorittamisen jälkeen sinulla on vahva tietopohja, konkreettisia käytännön taitoja sekä ajantasainen tietämys palveluliiketoiminnan johtamisesta, kehittyvistä trendeistä ja teknologioista. Osaat lisäksi k
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Lisensiaatin tutkinto, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008589>)
+
+### 100/100 — STRONG — Tuloksellinen toimitusketjujen johtaminen, tradenomi (ylempi AMK)
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Logistiset toiminnot ja prosessit ovat läsnä jokapäiväisessä elämässämme. Opi niiden johtamisen ammattilaiseksi! Xamkin tuloksellisen toimitusketjujen johtamisen YAMK-koulutuksesta valmistut monipuoliseksi logistiikan ammattilaiseksi perehtymällä mm. logistiikka-alan talous- ja tietojohtamiseen, käytännön haasteisiin ja riskienhallintaan, sekä logistiikkaprosessien analysointiin ja kehittämiseen. Osaat ottaa huomioon eri logististen toimintojen k
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001996>)
+
+### 100/100 — STRONG — Insinööri (ylempi AMK), Teknologiaosaamisen johtaminen, verkkopainotteinen monimuotototeutus
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: SEAMKin Insinööri (ylempi AMK), Teknologiaosaamisen johtaminen -koulutuksen tavoitteena on antaa valmiuksia toimia teknologiayrityksen johto- ja asiantuntijatehtävissä. Opintojen keskeisiä osa-alueita ovat mm. osaamisen johtaminen, strategiatyö, johdon laskentatoimi ja projektitoiminta. Valinnaisia opintoja ovat mm. tuotekehityksen johtaminen, teollinen internet ja tulevaisuuden esimiestyö. Verkkopainotteinen monimuotototeutus Insinööri (ylempi A
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: OPEN
+Hakuaika päättyy: 2026-12-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021373>)
+
+### 100/100 — STRONG — Tradenomi (ylempi AMK), Tulevaisuuden johtaminen, Pori
+
+Satakunnan ammattikorkeakoulu
+Pori
+Yhteenveto: Tulevaisuuden johtaminen -koulutus valmistaa työelämän uudistajia ja kehittäjiä, jotka tunnistavat työyhteisöjen kehittämistarpeet sekä osaavat suunnitella ja johtaa vaikuttavia muutosprosesseja. Koulutuksen tavoitteena on vahvistaa opiskelijan valmiuksia kehittää ja johtaa yritysten sekä julkisten palveluiden prosesseja yrittäjämäisellä ja uudistavalla otteella. Samalla liiketoimintaosaaminen syvenee erityisesti muuttuvassa ja kompleksisessa toi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002612>)
+
+### 100/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Helsinki
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Tule mukaan uudistamaan liiketoimintaa ja johtamista!  Tämä koulutus tarjoaa sinulle erinomaiset valmiudet työskennellä monimutkaisissa liiketoimintaympäristöissä asiantuntija-, kehitys- ja johtotehtävissä. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Opintojen aikana syvennät vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamistasi valitsemallasi suuntautumisalueella. Voit valita suuntautumisesi 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008585>)
+
+### 100/100 — STRONG — HR, viestintä ja johtaminen, tradenomi (ylempi AMK)
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Kiinnostavatko henkilöstöjohtaminen ja viestintä sekä niiden kehittäminen? Oletko kiinnostunut organisaation kehittämisestä? Haluatko kehittää osaamistasi muuttuvassa työelämässä ja samalla luoda uusia ammatillisia verkostoja samoista asioista kiinnostuneiden kanssa? YAMK-koulutuksen suoritettuasi pystyt viemään läpi henkilöstöön, viestintään ja johtamiseen kohdistuvia muutosprosesseja ammattimaisesti. Osaat johtaa ja uudistaa toimintaa monimutka
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan ; Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010158>)
+
+### 100/100 — STRONG — Insinööri (ylempi AMK), Lean-johtaminen, erillishaut
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003682>)
+
+### 100/100 — STRONG — Master of Business Administration, DP in International Business Management, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Do you want to learn how to manage and develop a business? In International Business Management you will learn how operations are developed based on research and how to apply modern research methods to management. The programme is tailored to your own expertise, as we appreciate practical approach in learning. The degree programme of International Business Management prepares the international business community and the public sector for demandin
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001613>)
+
+### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen ajoneuvoalalla (Jotpa)
+
+Minna Learning Oy
+Helsinki
+Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
+Koulutustyyppi: CONTINUING EDUCATION
+Laajuus: 27.0–108.0 tuntia
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028721>)
+
 ### 90/100 — STRONG — Software Engineering and Information Systems, Master of Science (2 years)
 
 Oulun yliopisto
@@ -877,6 +1201,630 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001402>)
 
+### 90/100 — STRONG — Master of Business Administration, Business Management, blended studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki
+Yhteenveto: Business Management is a Master’s degree programme for business professionals who want to enhance their competencies in business management and leadership. The programme is designed to empower professionals with advanced competencies in strategic business management, leadership, and communication. The first intake of students to this degree programme starts in August 2027. This Master’s programme can also be entered via Diploma in Business Manage
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €12,500. The tuition fees apply to students who are not citizens of EU/EEA countries. Students pay annual tuition fees based on their right to study. The payment obligation applies to all academic terms 
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040078>)
+
+### 90/100 — STRONG — Master of Business Administration, Business Management and Transformation
+
+Yrkeshögskolan Arcada
+Helsinki
+Yhteenveto: Are you ready to lead the future of business in a transforming world? Do you want to enhance your skills in business transformation and master the art of managing a data driven organisation effectively and sustainably? Take your professional expertise and career prospects to the next level! With a focus on digital and sustainable transformation and technologically driven service design, Arcada's master's degree programme Business Management and T
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; This master’s degree programme, consisting of 60 ECTS, costs €12,000 per year for non-EU/EEA students. No scholarships are offered for master's-level studies, but there is an early-bird deduction of €1,500 on the tuition fee for applicants who accept their study place offer and pay the tuition fees 
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042068>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), myynnin ja kasvun johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Myynnin ja kasvun johtaminen -koulutus on suunnattu sinulle, joka toimit liiketoiminnallisissa esihenkilö-, tiiminvetäjä- tai asiantuntijatehtävissä tai haluat tulevaisuudessa siirtyä vastuullisempiin esihenkilö-, tiiminvetäjä- tai asiantuntijatehtäviin. Koulutus kehittää valmiuksiasi toimia liiketoiminnallisen kasvun moottorina tai tavoitteellisena innovaatioiden kaupallistajana. Koulutus keskittyy esihenkilötyön käytännön perusvalmiuksiin ja ar
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043463>)
+
+### 90/100 — STRONG — Markkinoinnin johtaminen, kauppatieteiden maisteri (2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Markkinoinnilla on keskeinen voima yritysten menestymisessä, liiketoiminnan uudistamisessa ja myös kestävän kehityksen tavoitteiden saavuttamisessa. Teknologioiden kehittyminen, vastuullisuuden vaatimukset ja muuttuva asiakaskäyttäytyminen muokkaavat markkinoita koko ajan kiihtyvällä tahdilla luoden yrityksille sekä haasteita että mahdollisuuksia. Markkinointia opiskelemalla saat syvällisen ymmärryksen siitä, kuinka liiketoimintaa voidaan uudista
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003463>)
+
+### 90/100 — STRONG — Master of Business Administration, International Business Management
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: SEAMKin työelämälähtöinen Master of Business Administration -tutkinto laajentaa liiketalouden alan osaamistasi. Tutkinnon avulla saat valmiudet toimia kansainvälisissä toimintaympäristöissä ja vaativissa asiantuntija- ja johtotehtävissä sekä yrittäjänä. Opinnoissasi opit hyödyntämään uusia ajattelu- ja toimintamalleja kansainvälisessä liiketoiminnassa. Opintojen aikana luot yhteyksiä niin suomalaiseen kuin kansainväliseen verkostoon ja työelämään
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; For Non-EU/EEA citizens the Tuition fee at SeAMK in Master degree programmes conducted in English is 11 500 € per academic year. More information about tuition fees and scholarships at SEAMK webpage .
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001728>)
+
+### 90/100 — STRONG — Master of Business Administration, International Business Management, studies starting in autumn 2027
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Jamkin International Business Management -koulutus on suunnattu tulevaisuuden johtajille ja kokeneille ammattilaisille, jotka haluavat syventää osaamistaan kansainvälisen liiketoiminnan strategiassa, innovaatiossa ja digitaalisessa muutoksessa. Olitpa urasi alkuvaiheessa tai jo kokenut tekijä, koulutus tarjoaa työelämälähtöisen opintokokonaisuuden, jossa yhdistyvät teoria ja käytännön soveltaminen. Opintojen aikana kehität strategista ajattelua j
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) e
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039604>)
+
+### 90/100 — STRONG — Johtaminen, yhteiskuntatieteiden maisteri (2 v)
+
+Lapin yliopisto
+Rovaniemi
+Yhteenveto: Liiketaloustieteeseen perustuvat johtamisen opinnot tarjoavat sinulle perusteet toimia kasvunjälkeisessä yhteiskunnassa kestävällä ja vastuullisella tavalla. Opintojen lähtökohtana on siirtyminen ihmiskeskeisyydestä maapallon monilajisuuden kunnioittamiseen sekä talouden epätasa-arvoisuuksien tunnistaminen ja oikeudenmukaisempien käytäntöjen kehittäminen. Johtamisen opiskelijana saat uusimpaan tutkimukseen perustuvia käsitteellisiä työkaluja ja k
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002731>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), pedagoginen johtaminen, Helsinki
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Tule mukaan johtamaan oppimista, osaamista ja uudistumista! Pedagogisen johtamisen koulutus tarjoaa sinulle erinomaiset valmiudet toimia asiantuntija-, kehittämis- ja johtamistehtävissä organisaatioissa, ammatillisissa oppilaitoksissa ja korkeakouluissa. Opinnot vahvistavat kykyäsi soveltaa tutkimusperustaista tietoa oman työyhteisösi ja organisaatiosi kehittämiseen sekä hyödyntää pedagogiikan, digitalisaation, tekoälyn ja organisaatiokehittämise
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Lisensiaatin tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042399>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), taide- ja kulttuurialan johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Koulutuksen aikana kehität osaamistasi taide- ja kulttuurialan organisaatioiden toiminnan strategialähtöisessä kehittämisessä, talouden ja juridiikan kysymyksissä sekä työyhteisön yhteistoiminnan ja hyvinvoinnin edistämisessä. Koulutuksessa keskeisessä roolissa on kunkin opiskelijan oman johtamisidentiteetin, itsensä johtamisen ja työhyvinvoinnin kehittäminen. Koulutuksen tavoitteena on edistää valmiuksiasi kehittää taide- ja kulttuurialaa ja sen
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003169>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), palvelujen muotoilu ja johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Palvelumuotoilun YAMK-koulutusohjelma on tarkoitettu sinulle, joka haluat laajentaa osaamistasi palvelumuotoilusta ja palvelujen johtamisesta. Opintojesi aikana opit hyödyntämään erilaisia palvelumuotoilun menetelmiä ja työkaluja sekä kehittämään ja johtamaan palveluja. Palvelumuotoilun YAMK-koulutusohjelmassa oppimistehtävät sekä opinnäytetyö voivat liittyä suoraan omaan työhösi. Näin ollen myös työnantajaorganisaatiosi hyötyy opinnoistasi. Palv
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028246>)
+
+### 90/100 — STRONG — Insinööri (ylempi AMK), teknologiaosaamisen johtaminen, verkkototeutus
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Centria-ammattikorkeakoulun teknologiaosaamisen johtamisen koulutus on tarkoitettu sinulle, joka työskentelet tai haluat tulevaisuudessa työskennellä teknologia-alan johtamis- ja esimiestehtävissä. Koulutuksessa perehdytään etenkin teknologia-alan yritysten ja henkilöstön johtamiseen ja kehittämiseen. Asiantuntijaorganisaation esimies kohtaa monia haasteita työuransa aikana. Koulutuksemme tarkoituksena on antaa sinulle valmiudet näiden haasteiden
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003304>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), esihenkilötyö ja työyhteisön johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Esihenkilötyö ja työyhteisön johtaminen -koulutus on suunnattu sinulle, joka toimit esihenkilö-, tiiminvetäjä- tai asiantuntijatehtävissä tai haluat tulevaisuudessa siirtyä esihenkilö- tai tiiminvetovastuuseen. Koulutus kehittää valmiuksiasi toimia ihmislähtöisenä ja tavoitteellisena esihenkilönä sekä työyhteisön kehittäjänä. Koulutus keskittyy esihenkilötyön käytännön perusvalmiuksiin ja arjen johtamiseen. Opiskelija vahvistaa osaamistaan esihen
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038661>)
+
+### 90/100 — STRONG — Sosiaali- ja terveysalan johtaminen ja kehittäminen (ylempi AMK)
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Voit hakea tähän koulutukseen, kun sinulla on sairaanhoitaja (AMK), terveydenhoitaja (AMK), fysioterapeutti (AMK), sosionomi (AMK) tai kuntoutuksenohjaaja (AMK) -tutkinto. Käytössä myös harkinnanvarainen valinta, jolloin hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväksyä myös muu soveltuva sosiaali- ja terveysalan ammattikorkeakoulututkinto; jalkaterapeutti (AMK), röntgenhoitaja (AMK), geronomi (AMK), toimintaterapeutti (AMK) tai oste
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006061>)
+
+### 90/100 — STRONG — Julkisen toiminnan johtaminen ja julkisoikeus, hallintotieteiden maisteri (2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Hallintotieteiden maisteriohjelmaan haetaan korkeakoulujen kevään yhteishaussa. Opiskelija saa opiskeluoikeuden suoraan hallintotieteiden maisterin tutkintoon ja johonkin kahdesta opintosuunnasta julkisen toiminnan johtaminen (sis. oppiaineet aluetiede ja julkisjohtaminen) tai julkisoikeus. Julkisen toiminnan johtamisen maisteriopinnoista valmistuu monipuolisia julkisen hallinnon osaajia ja uudistajia. Valmistuttuasi omaat valmiudet työskennellä 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021474>)
+
+### 90/100 — STRONG — Pedagoginen johtaminen, (ylempi AMK)
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Pedagogisen johtamisen YAMK-​tutkinto rakentaa oppivia yhteisöjä ammatillisessa koulutuksessa Pedagogisen johtamisen YAMK on suunnattu ammatillisessa koulutuksessa esihenkilö- ja johtotehtävissä toimiville tai niihin hakeutuville. Koulutus soveltuu myös pedagogisen kehittämisen asiantuntijoille sekä muille ammattilaisille, jotka työssään käsittelevät oppimisen ja osaamisen johtamisen kysymyksiä. Koulutus vahvistaa kykyä johtaa oppimista, osaamist
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Alempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043399>)
+
+### 90/100 — STRONG — Pelastusalan johtamisen maisterikoulutus, Kuopio, hallintotieteiden tai yhteiskuntatieteiden maisteri (2 v)   
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Pelastusalan maisterikoulutuksessa sovelletaan hallinto- ja yhteiskuntatieteiden teoreettisia ja metodologisia lähtökohtia pelastusalan toimintaympäristössä hyödyntäen erityisesti johtamis- ja organisaatiotutkimuksen käsitteitä ja näkökulmia. Opintojen painopisteitä ovat muun muassa: Pelastusalan johtaminen organisaatioissa, verkostoissa ja monitasoisessa hallinnossa Ennakointi ja strateginen uudistuminen muuttuvassa toimintaympäristössä Vaikutta
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043089>)
+
+### 90/100 — STRONG — Tradenomi (YAMK), Talous ja johtaminen julkishallinnossa, verkko-opinnot
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Talous ja johtaminen julkishallinnossa YAMK-koulutusohjelma on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmis
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031220>)
+
+### 90/100 — STRONG — Insinööri (ylempi AMK), teknologiaosaamisen johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Teknologiaosaamisen johtamisen koulutuksessa opit liiketoimintaosaamista, esimiestaitoja, organisaation osaamisen kehittämistä, prosessi- ja laatuosaamista, analyyttista ajattelua sekä projektinhallintataitoja. Koulutus antaa sinulle valmiudet ennakoida työelämän teknologiamuutoksia ja hyödyntää niiden mahdollisuuksia. Opit myös toteuttamaan ja johtamaan kehittämisprojekteja ja projektitoimintaa, johtamaan ja kehittämään organisaation osaamista, 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003516>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), teknologiaosaamisen johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Teknologiaosaamisen johtamisen koulutuksessa opit liiketoimintaosaamista, esimiestaitoja, organisaation osaamisen kehittämistä, prosessi- ja laatuosaamista, analyyttista ajattelua sekä projektinhallintataitoja. Koulutus antaa sinulle valmiudet ennakoida työelämän teknologiamuutoksia ja hyödyntää niiden mahdollisuuksia. Opit myös toteuttamaan ja johtamaan kehittämisprojekteja ja projektitoimintaa, johtamaan ja kehittämään organisaation osaamista, 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002310>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), SOTE-palvelujen ja -liiketoiminnan johtaminen
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: SOTE-palveluiden ja -liiketoiminnan johtamisen koulutuksessa opit sosiaali- ja terveydenhuollon tiedolla johtamista, talousjohtamista, tuotantotaloutta ja itsesi johtamista. SOTE-palveluiden ja -liiketoiminnan johtamisen koulutuksen jälkeen ymmärrät SOTE-toimintaympäristössä vaikuttavia tekijöitä, ja sinulla on valmiuksia toimia esihenkilötehtävissä. Osaat jalostaa tietoa SOTE-palveluiden ja liiketoiminnan tarpeisiin sekä arvioida SOTE-palveluide
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003132>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), Strateginen johtaminen
+
+Laurea-ammattikorkeakoulu
+Vantaa
+Yhteenveto: Voit hakea tähän koulutukseen, jos sinulla on tradenomi (AMK) tai muu soveltuva korkeakoulututkinto. Käytössä on myös harkinnanvarainen valinta, jolloin hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväksyä soveltuva Suomessa suoritettu opistoasteen tai ammatillisen korkea-asteen tutkinto. Harkinnanvaraisuus koskee vain hakijan hakukelpoisuutta. Soveltuvan tutkinnon lisäksi vaaditaan kahden vuoden soveltuva työkokemus tutkinnon suorittam
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006568>)
+
+### 90/100 — STRONG — Insinööri (ylempi AMK), Lean-johtaminen
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Lean-johtamisen ylempi ammattikorkeakoulututkinto (insinööri, YAMK) Oulun ammattikorkeakoulussa kehittää sinusta muutoskykyisen ja tuloksellisen johtajan. Koulutus keskittyy Lean-menetelmiin, Strategiseen johtamiseen ja Lean Six Sigma -menetelmään, joita sovelletaan asiantuntija-, palvelu-, liiketoiminta ja tuotanto-organisaatioissa. Opinnot ovat käytännönläheisiä ja kytkeytyvät suoraan omaan työhösi: kehität prosesseja, jalkautat strategiaa ja h
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000534>)
+
+### 90/100 — STRONG — Restonomi (ylempi AMK), vastuullisuuden ja palveluiden johtaminen, kevään 2027 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Vastuullisuuden ja palveluiden johtamisen YAMK-opinnot sopivat sinulle, joka haluat edetä urallasi ja kehittyä vastuullisena johtajana ja esihenkilönä sekä uudistaa ajatteluasi ja soveltaa tutkittua tietoa vastuullisuudesta ja palveluliiketoiminnasta organisaatiosi ja johtajuutesi kehittämisessä. Opiskele Master-tutkinto joustavasti verkossa Opinnot on mahdollista suorittaa kokonaan verkko-opintoina, joten opiskelu onnistuu riippumatta siitä, mis
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043895>)
+
+### 90/100 — STRONG — Master of Business Administration (MBA), International Business Management, blended learning / Kokkola
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Check this degree programme on our website ! Centria’s Master’s Degree Programme in International Business Management is the right pick for you, if you want to develop your expertise and take the next step to advance in your career. A Master’s degree is an excellent way to increase your professional knowledge about business administration, especially in the field of international business. The MBA studies are conducted in English and in a blended
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Tuition fees are charged from Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read more about the tuition fees and scholarships
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003972>)
+
+### 90/100 — STRONG — Master's Programme in International Food Business and Gastronomy, Autumn 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Are you fascinated by food and driven by business? In this programme you learn to build food brands, grow international markets and turn gastronomy into a competitive advantage. You explore food through culture, consumption, business and sustainability, and you graduate with a genuinely global mindset. You work on real cases with Finnish and international food companies, network across the industry, and develop the analytical and creative skills 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039921>)
+
+### 90/100 — STRONG — Sosiaali- ja terveyshallintotiede, hallintotieteiden maisteri (2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Sosiaali- ja terveyshallintotieteen maisteriopinnoissa tarkastellaan hyvinvointiyhteiskunnan ja sen organisaatioiden toimintaa, palveluita ja johtamista. Tutkimukseen pohjautuvassa opetuksessa tuotetaan asiantuntijuutta ja johtamisvalmiuksia tulevaisuuden toimintaympäristöön. Opintoja kehystävänä ajatuksena on, että hallinnonalakohtaisesta toiminnan organisoimisesta ollaan siirtymässä kohti ilmiöpohjaista, yhteiskunnallisten ja globaalien ongelmi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004166>)
+
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
@@ -1021,6 +1969,174 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030310>)
 
+### 85/100 — STRONG — International Business – Sustainable Global Business, Master of Science (Economics and Business Administration) (2 years)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Global business needs graduates with resilience against the uncertainty created by a constantly changing international environment, equipped with a holistic understanding of business. At the same time, the importance of developing responsible and sustainable global business to meet the needs of companies, consumers, and societies will continue to grow. This is why the focus of our International Business Master’s Degree Programme is on Sustainable
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are charged tuition fees. The fees do not concern students who: are EU/EEA citizen are equivalent to EU/EEA citizen (i.e. citizen of Switzerland) are residing in Finland on a permanent basis (P type or A type residence permit issued for purposes other than studies) have an EU Blu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009814>)
+
+### 85/100 — STRONG — International Marketing Management, Master of Science in Economics and Business Administration
+
+Lappeenrannan-Lahden teknillinen yliopisto LUT
+Lappeenranta
+Yhteenveto: In this master's programme, you will develop expertise in strategic global marketing, digital marketing, marketing analytics, international business and value creation in a rapidly changing world. The curriculum of this EFMD accredited programme is carefully designed to carry strong career-building potential. During your studies, you will gain real-life competencies in case studies, simulation games, elevator pitches, company assignments and role
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; If you are required to pay tuition fees, you will receive an Early bird discount of EUR 5,000 for the first academic year. To qualify, you must accept your study place and pay the remaining first-year tuition fee of EUR 10,000 within 21 days of your official admission email. Discounts for master's s
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041508>)
+
+### 85/100 — STRONG — Strategic Business Development, Master of Science (Economics and Business Administration) (2 years)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Do you aim for a successful career in business development and strategy? Do you see yourself in developing prosperous businesses? If you have completed a Bachelor’s degree in management and organization, international business, marketing, or your degree includes a minimum of 35 ECTS business studies, your dream of obtaining a M.Sc. in Economics and Business Administration can be realized. The Master’s Programme in Strategic Business Development i
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are charged tuition fees. The fees do not concern students who: are EU/EEA citizen are equivalent to EU/EEA citizen (i.e. citizen of Switzerland) are residing in Finland on a permanent basis (P type or A type residence permit issued for purposes other than studies) have an EU Blu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009812>)
+
+### 85/100 — STRONG — Joint Master's in Green Economy and Sustainable Future
+
+Savonia-ammattikorkeakoulu
+Kuopio
+Yhteenveto: The Joint Master's in Green Economy and Sustainable Future is developed by EU4Dual alliance partner universities and connects students with academic, industrial and regional ecosystems across Europe. The programme has a strong connection to working life, and integrated international mobility. This programme promotes green transition and sustainable development. It builds a future-oriented, resource-efficient, and competitive economy. The programm
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: maksullinen: 5500.0 (lähteen summa; tarkista ehdot) ; The tuition fee is €5500 per semester for non-EU/EEA citizens, and €3500 per semester for EU/EEA citizens.​ Please note that the tuition fees for the first and second semesters (i.e. the first academic year) must be paid at once when confirming the study place, within 14 days of admission.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-02-14T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040141>)
+
+### 85/100 — STRONG — Technology, Environment and Societal Change, Master of Social Sciences
+
+Lappeenrannan-Lahden teknillinen yliopisto LUT
+Lappeenranta
+Yhteenveto: This master’s programme places you at the forefront of the sustainability transformation and the societal renewal it requires. Designed for forward-thinking students, it offers both conceptual and practical tools to understand and address sociotechnical challenges. As a graduate, you will be prepared for a wide variety of expert and leadership roles in sustainability, policy, and technology governance.
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; If you are required to pay tuition fees, you will receive an Early bird discount of EUR 5,000 for the first academic year. To qualify, you must accept your study place and pay the remaining first-year tuition fee of EUR 10,000 within 21 days of your official admission email. Discounts for master's s
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025152>)
+
+### 85/100 — STRONG — Artificial Intelligence and Analytics, Master of Science (2 years)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: The Master’s Programme in Artificial Intelligence and Analytics is a comprehensive and cutting-edge education programme designed for individuals who want to pursue a career in the present day dynamic and fast developing domains of artificial intelligence, machine learning, financial engineering, and data analytics, with a strong mathematical foundation. Artificial intelligence and analytics have become increasingly essential in today's technology
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are charged tuition fees. The fees do not concern students who: are EU/EEA citizen are equivalent to EU/EEA citizen (i.e. citizen of Switzerland) are residing in Finland on a permanent basis (P type or A type residence permit issued for purposes other than studies) have an EU Blu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037282>)
+
+### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Puolustus- ja turvallisuusalan tuotteiden ja palveluiden kysyntä on kasvanut viime vuosina merkittävästi. Tämä tarkoittaa kasvumahdollisuuksia niille yrityksille ja osaajille, joilla on kaupallisia ja teknisiä kyvykkyyksiä palvella ja ymmärtää puolustus- ja turvallisuusalaa. Tätä osaamista on tällä hetkellä työmarkkinoilla rajallinen määrä ja se muodostaa pullonkaulan monen yrityksen kasvumahdollisuuksille. Defence4SME-koulutus pyrkii auttamaan t
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 10.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen rahoittama ja osallistujalle ilmainen.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-01-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041716>)
+
 ### 75/100 — STRONG — Tietojenkäsittelytiede, Joensuu, filosofian maisteri (2 v)
 
 Itä-Suomen yliopisto
@@ -1136,7 +2252,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003006>)
 
-### 75/100 — STRONG — Tietojenkäsittelytieteet, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
+### 75/100 — STRONG — Tietojenkäsittely ja digitaaliset järjestelmät, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
 
 Vaasan yliopisto
 Vaasa
@@ -1734,29 +2850,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042283>)
 
-### 75/100 — STRONG — Master of Business Administration, Business Technologies and Management
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Business Technologies and Management is a Double Degree programme provided jointly by Haaga-Helia and Management Center Innsbruck | The Entrepreneurial School®, Austria (later MCI). The programme provides the skills and competence to work in demanding expert, development and manager positions at the crossroads of business and digital technology. Graduates become experts in the field of digital business and management, and can produce digital busi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020576>)
-
 ### 75/100 — STRONG — International Business Management, Master of Business Administration, Mikkeli, full-time studies
 
 Kaakkois-Suomen ammattikorkeakoulu
@@ -1764,11 +2857,12 @@ Mikkeli
 Yhteenveto: Develop expertise in international business management. Prepare for demanding management, development and specialist roles. The International Business Management programme strengthens your competence in managing and developing business in international operating environments. After completing the degree, you will be able to analyse international business environments, develop business processes and customer-oriented operations, and apply marketin
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13500.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 13 500 /academic year. Read more about the tuition fees at Xamk.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Alempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-02-15T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -1776,413 +2870,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043079>)
-
-### 75/100 — STRONG — International Business Management, Master of Business Administration, Kouvola, part-time studies
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Develop expertise in international business management. Prepare for demanding management, development and specialist roles. The International Business Management programme strengthens your competence in managing and developing business in international operating environments. After completing the degree, you will be able to analyse international business environments, develop business processes and customer-oriented operations, and apply marketin
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000486>)
-
-### 75/100 — STRONG — International Business Management, Master of Business Administration, Kouvola, full-time studies
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Develop expertise in international business management. Prepare for demanding management, development and specialist roles. The International Business Management programme strengthens your competence in managing and developing business in international operating environments. After completing the degree, you will be able to analyse international business environments, develop business processes and customer-oriented operations, and apply marketin
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038522>)
-
-### 75/100 — STRONG — European Joint Master of Business Administration (Erasmus Mundus), AI for Business Transformation
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: AI for Business Transformation (“UlysseusAI”) is a two-year, full-time 120 ECTS Erasmus Mundus Joint European Master program coordinated by Haaga-Helia University of Applied Sciences (HH) and offered jointly with two other Ulysseus European University alliance member institutions: Technical University of Košice (TUKE), and University of Seville (USE), with cooperation of Université Côte d’Azur, University of Genoa, and Management Center Innsbruck
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023989>)
-
-### 75/100 — STRONG — Master of Business Administration, Leading Business Transformation
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: The Degree Programme in Leading Business Transformation prepares the student to work in demanding expert and management positions. The studies deepen the student's competencies required in demanding expert and development work in their chosen specialisation area. The specialisation areas of this degree programme are strategic management and innovation, strategic people management and integrated leadership in marketing, sales and communication.  A
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011596>)
-
-### 75/100 — STRONG — International Business – Sustainable Global Business, Master of Science (Economics and Business Administration) (2 years)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Global business needs graduates with resilience against the uncertainty created by a constantly changing international environment, equipped with a holistic understanding of business. At the same time, the importance of developing responsible and sustainable global business to meet the needs of companies, consumers, and societies will continue to grow. This is why the focus of our International Business Master’s Degree Programme is on Sustainable
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009814>)
-
-### 75/100 — STRONG — Master of Business Administration, Business Management, blended studies
-
-Metropolia Ammattikorkeakoulu
-Helsinki
-Yhteenveto: Business Management is a Master’s degree programme for business professionals who want to enhance their competencies in business management and leadership. The programme is designed to empower professionals with advanced competencies in strategic business management, leadership, and communication. The first intake of students to this degree programme starts in August 2027. This Master’s programme can also be entered via Diploma in Business Manage
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040078>)
-
-### 75/100 — STRONG — Master of Business Administration, Business Management and Transformation
-
-Yrkeshögskolan Arcada
-Helsinki
-Yhteenveto: With a focus on digital and sustainable transformation and technologically driven service design, Arcada’s master’s programme in Business Management and Transformation equips you with the skills to drive change in a rapidly evolving world. You will deepen your expertise in areas such as leading data-driven businesses, AI implementation, digital marketing, business transformation, financial management, and service design innovation. Our programme 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042068>)
-
-### 75/100 — STRONG — International Marketing Management, Master of Science in Economics and Business Administration
-
-Lappeenrannan-Lahden teknillinen yliopisto LUT
-Lappeenranta
-Yhteenveto: In this master's programme, you will develop expertise in strategic global marketing, digital marketing, marketing analytics, international business and value creation in a rapidly changing world. The curriculum of this EFMD accredited programme is carefully designed to carry strong career-building potential. During your studies, you will gain real-life competencies in case studies, simulation games, elevator pitches, company assignments and role
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041508>)
-
-### 75/100 — STRONG — Strategic Business Development, Master of Science (Economics and Business Administration) (2 years)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Do you aim for a successful career in business development and strategy? Do you see yourself in developing prosperous businesses? If you have completed a Bachelor’s degree in management and organization, international business, marketing, or your degree includes a minimum of 35 ECTS business studies, your dream of obtaining a M.Sc. in Economics and Business Administration can be realized. The Master’s Programme in Strategic Business Development i
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009812>)
-
-### 75/100 — STRONG — Joint Master's in Green Economy and Sustainable Future
-
-Savonia-ammattikorkeakoulu
-Kuopio
-Yhteenveto: The Joint Master's in Green Economy and Sustainable Future is developed by EU4Dual alliance partner universities and connects students with academic, industrial and regional ecosystems across Europe. The programme has a strong connection to working life, and integrated international mobility. This programme promotes green transition and sustainable development. It builds a future-oriented, resource-efficient, and competitive economy. The programm
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040141>)
-
-### 75/100 — STRONG — Master of Business Administration, Interactive Technologies
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: The degree programme Master of Business Administration – Interactive Technologies is centred on full-stack development for programmers. The programme is designed to equip students with the comprehensive skills and in-depth knowledge required to excel in the dynamic field of full-stack interactive technology development. This intensive programme offers a rigorous curriculum that blends theory and hands-on experience, preparing graduates to tackle 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020559>)
-
-### 75/100 — STRONG — Master of Social Services and Health Care, Disaster Management
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kotka
-Yhteenveto: The degree programme provides practical skills in disaster management by integrating technology, leadership, and multidisciplinary collaboration. You will graduate as a specialist capable of operating in disaster and crisis situations, developing sustainable solutions, and leading multidisciplinary teams.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030610>)
-
-### 75/100 — STRONG — Master of Hospitality Management, Tourism and Business Management
-
-Satakunnan ammattikorkeakoulu
-Pori
-Yhteenveto: Expert in Tourism and Business Management By studying in this programme, you will gain the tools to advance your career and enhance your professional profile. You will study in an international student group and develop management expertise in the tourism business environment, learning how to apply this knowledge in a variety of contexts. As a student in a world-class higher education system, you will have a personal tutor appointed by the facult
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032126>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), myynnin ja kasvun johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Myynnin ja kasvun johtaminen -koulutus on suunnattu sinulle, joka toimit liiketoiminnallisissa esihenkilö-, tiiminvetäjä- tai asiantuntijatehtävissä tai haluat tulevaisuudessa siirtyä vastuullisempiin esihenkilö-, tiiminvetäjä- tai asiantuntijatehtäviin. Koulutus kehittää valmiuksiasi toimia liiketoiminnallisen kasvun moottorina tai tavoitteellisena innovaatioiden kaupallistajana. Koulutus keskittyy esihenkilötyön käytännön perusvalmiuksiin ja ar
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043463>)
-
-### 75/100 — STRONG — Markkinoinnin johtaminen, kauppatieteiden maisteri (2 v)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Markkinoinnilla on keskeinen voima yritysten menestymisessä, liiketoiminnan uudistamisessa ja myös kestävän kehityksen tavoitteiden saavuttamisessa. Teknologioiden kehittyminen, vastuullisuuden vaatimukset ja muuttuva asiakaskäyttäytyminen muokkaavat markkinoita koko ajan kiihtyvällä tahdilla luoden yrityksille sekä haasteita että mahdollisuuksia. Markkinointia opiskelemalla saat syvällisen ymmärryksen siitä, kuinka liiketoimintaa voidaan uudista
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003463>)
-
-### 75/100 — STRONG — Master of Business Administration, International Business Management
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: SeAMKin työelämälähtöinen Master of Business Administration-tutkinto on tarjolla juuri sinua varten, joka haluat laajentaa omia vahvuuksiasi asiantuntija- ja johtotehtävissä. Tutkinnon myötä kehität osaamistasi kehittämistyössä ja kansainvälisissä toimintaympäristöissä.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001728>)
-
-### 75/100 — STRONG — Erillishaku kevät 2026: Master of Business Administration, Sport Business Management
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Tutkinnon opinnot on suunniteltu siten, että ne voidaan suorittaa osa-aikaisena opiskeluna, mutta opinnot voi suorittaa myös täysiaikaisena opiskeluna. Ohjelma koostuu sekä kampuksella tapahtuvasta lähiopetuksesta että verkko-opetuksesta. Osa-aikaisten opintojen suoritusaika on 3 vuotta (15 op / lukukausi). Kokoaikaisena opiskeluna suoritusaika on 1,5 vuotta (30 op / lukukausi) Tutkinto-ohjelma on suunnattu urheiluliiketoiminnan parissa työskente
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034155>)
 
 ### 75/100 — STRONG — International Design Business Management, Master of Science (Economics and Business Administration) (2 yrs)
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Elämme syvenevän epävarmuuden ja myllerryksen aikaa, jossa monet eilisen innovaatiot ovat osa tämän päivän haasteita. Pitkään toiminut IDBM-ohjelma uudistuu vastatakseen paremmin tämän hetken tarpeisiin. Ohjelmassa kehitetään uudenlaista innovointia, jossa monimutkaisiin kysymyksiin tartutaan luovuuden ja strategisen ajattelun avulla. IDBM on laboratorio, jossa tutkitaan aikamme vaikeimpia kysymyksiä poikkitieteisissä tiimeissä ja yhteistyössä yr
+Yhteenveto: Emme työskentele siiloissa, joten miksi meidän pitäisi opiskella sellaisissa? IDBM-maisteriohjelman opiskelijat ratkaisevat monimutkaisia todellisia haasteita monialaisissa tiimeissä ja oppivat ymmärtämään kokonaisvaltaisesti tulevaisuuden haasteita. Ohjelmassa käsitellään muotoilua laajemmin menetelmänä, ajattelutapana ja kilpailuetuna. Tämä tapahtuu keskittymällä tuote-, palvelu- ja liiketoimintamuotoiluun, tekniikkaan ja innovaatiojohtamiseen.
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2190,91 +2893,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008027>)
-
-### 75/100 — STRONG — Master of Business Administration, International Business Management, spring 2026 application
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Osaamisen kehittyminen Tradenomin YAMK-opinnot tarjoavat työelämässä kokemusta hankkineiden kehittää omaa asiantuntijuuttaan liiketoiminnan saralla urakehityksensä tueksi. International Business Management -opinnoissa painoarvo on erityisesti kansainvälisessä liiketoiminnassa - sen kasvumahdollisuuksien tunnistamisessa ja hyödyntämisessä. Opetustavat/-muodot YAMK-ohjelmille on yleistä ilta- ja viikonloppuopetus, joka perinteisesti mahdollistaa op
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031272>)
-
-### 75/100 — STRONG — Separate application autumn 2026: Master of Business Administration, International Business Management
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Osaamisen kehittyminen Tradenomin YAMK-opinnot tarjoavat työelämässä kokemusta hankkineiden kehittää omaa asiantuntijuuttaan liiketoiminnan saralla urakehityksensä tueksi. International Business Management -opinnoissa painoarvo on erityisesti kansainvälisessä liiketoiminnassa - sen kasvumahdollisuuksien tunnistamisessa ja hyödyntämisessä. Opetustavat/-muodot YAMK-ohjelmille on yleistä ilta- ja viikonloppuopetus, joka perinteisesti mahdollistaa op
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037969>)
-
-### 75/100 — STRONG — Master of Business Administration, International Business Management, studies starting in autumn 2027
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Osaamisen kehittyminen Tradenomin YAMK-opinnot tarjoavat työelämässä kokemusta hankkineiden kehittää omaa asiantuntijuuttaan liiketoiminnan saralla urakehityksensä tueksi. International Business Management -opinnoissa painoarvo on erityisesti kansainvälisessä liiketoiminnassa - sen kasvumahdollisuuksien tunnistamisessa ja hyödyntämisessä. Opetustavat/-muodot YAMK-ohjelmille on yleistä ilta- ja viikonloppuopetus, joka perinteisesti mahdollistaa op
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039604>)
 
 ### 75/100 — STRONG — International Design Business Management, Master of Science (Technology) (2 yrs)
 
 Aalto-yliopisto
 Espoo
-Yhteenveto: Elämme syvenevän epävarmuuden ja myllerryksen aikaa, jossa monet eilisen innovaatiot ovat osa tämän päivän haasteita. Pitkään toiminut IDBM-ohjelma uudistuu vastatakseen paremmin tämän hetken tarpeisiin. Ohjelmassa kehitetään uudenlaista innovointia, jossa monimutkaisiin kysymyksiin tartutaan luovuuden ja strategisen ajattelun avulla. IDBM on laboratorio, jossa tutkitaan aikamme vaikeimpia kysymyksiä poikkitieteisissä tiimeissä ja yhteistyössä yr
+Yhteenveto: Huom! Hakukohteen opetuskieli on englanti. Emme työskentele siiloissa, joten miksi meidän pitäisi opiskella sellaisissa? IDBM-maisteriohjelman opiskelijat ratkaisevat monimutkaisia todellisia haasteita monialaisissa tiimeissä ja oppivat ymmärtämään kokonaisvaltaisesti tulevaisuuden haasteita. Ohjelmassa käsitellään muotoilua laajemmin menetelmänä, ajattelutapana ja kilpailuetuna. Tämä tapahtuu keskittymällä tuote-, palvelu- ja liiketoimintamuotoi
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2282,7 +2916,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008098>)
 
@@ -2290,14 +2923,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Yrittäjyys voi luoda liiketoiminta-arvoa samalla, kun se ratkoo polttavia ympäristö- ja yhteiskunnallisia kysymyksiä. Tämä ohjelma yhdistää yritysten perustamisen, rahoituksen, markkinoille pääsyn ja sosiaalisen innovaation kestävyyteen ja käytännönläheiseen startup-oppimiseen. Ohjelmasta valmistuneet oppivat taitoja yrittäjyyden toteuttamiseen erilaisissa konteksteissa, mm. yrityksissä, startupeissa ja päätöksenteossa.
+Yhteenveto: Nykypäivän haasteet vaativat osaamista, omistautumista ja sydämellä tekemistä. Sustainable Entrepreneurship -maisteriohjelma pyrkii vastaamaan tähän tarpeeseen kouluttamalla seuraavan sukupolven kestävän liiketoiminnan johtavia osaajia, jotka ovat sitoutuneita samanaikaisesti yhteiskunnallisten asioiden edistämiseen, positiivisiin ympäristövaikutuksiin ja taloudelliseen menestykseen. Liike-elämä siirtyy kohti holistisempaa yrittäjyyskäsitystä, jo
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2305,7 +2939,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017192>)
 
@@ -2313,14 +2946,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Luvut voivat paljastaa, miten yritykset menestyvät, missä riskit piilevät ja mitkä päätökset luovat arvoa. Accounting-maisteriohjelma yhdistää ulkoisen laskentatoimen ja johdon laskentatoimen tietojen analysointiin, kestävään kehitykseen ja todellisiin liiketoimintatapauksiin. Tutustu siihen, miten taloudelliset ja muut tiedot – mukaan lukien ympäristöön, yhteiskuntaan ja hallintotapaan liittyvät tekijät – voivat tukea parempia päätöksiä, vastuul
+Yhteenveto: Laskentatoimella on keskeinen rooli jokaisen yhtiön strategisessa ja operatiivisessa päätöksenteossa. Sen tehtävänä on tuottaa ja hyödyntää taloudellista ja ei-taloudellista tietoa, joka mahdollistaa oikeiden valintojen ja strategisten muutosten tekemisen turbulentissa globaalissa yritysmaailmassa. Accounting-ohjelmasta valmistuvilla on: Syvällistä taloudellista      osaamista. He      pystyvät tuottamaan, analysoimaan, tulkitsemaan ja viestimään
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2328,7 +2962,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008017>)
 
@@ -2336,37 +2969,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Economics-maisteriohjelmassa opit tarkastelemaan maailmaa taloustieteen näkökulmasta ja yhdistämään vahvan analyyttisen osaamisen tietojenkäsittely- ja datankäsittelytaitoihin. Taloustiede tarjoaa tehokkaita työkaluja monimutkaisten yhteiskunnallisten haasteiden, kuten ilmastomuutoksen ja eriarvoisuuden, ratkaisemiseen.
+Yhteenveto: Asiantuntijat, joilla on vankka taloustieteellinen osaaminen yhdistettynä laskenta- ja tietojenkäsittelytaitoihin, ovat hyvin kysyttyjä. Economics-maisteriohjelma on tarkoitettu opiskelijoille, jotka haluavat lähestyä maailman erilaisia haasteita systemaattisesti ja empiirisesti. Miten kansainvälinen kauppa ja maahanmuutto vaikuttavat globaaliin eriarvoisuuteen? Miten voidaan rakentaa instituutioita, jotka kestävät talouskriisien kaltaiset iskut?
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008019>)
-
-### 75/100 — STRONG — Finance, Master of Science (Economics and Business Administration) (2 yrs)
-
-Aalto-yliopisto
-Helsinki
-Yhteenveto: Finance -maisteriohjelma tarjoaa kiinnostavan opetussuunnitelman, joka kattaa laajasti eri aiheita: yritysrahoitus, (vaihtoehtoiset) sijoitukset, fuusiot ja yritysostot, behavioristinen rahoitus, kestävyys, kiinteä tulo, uusien yrityshankkeiden rahoitus, finanssiteknologia ja rahoituksen ekonometria. Opiskelijat voivat valita sivuaineen ja vapaasti valittavia opintoja muilta aloilta kuten taloustieteestä, laskentatoimesta, analytiikasta ja datati
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2374,22 +2985,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008020>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008019>)
 
 ### 75/100 — STRONG — International Management, Master of Science (Economics and Business Administration) (2 yrs)
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: International Management -maisteriohjelmasta valmistuneet ovat päätöksentekijöitä vastuullisissa ja menestyksekkäissä tehtävissä globaalissa ympäristössä. Opinnot kehittävät opiskelijoiden osaamista strategiassa, liiketoiminnan kehittämisessä, johtajuudessa ja eri kulttuureissa toimimisessa. Ohjelma tarjoaa ainutlaatuisen mahdollisuuden suorittaa kaksi arvostettua tutkintoa: valmistuvat saavat sekä Kauppatieteiden maisterin tutkinnon että CEMSin 
+Yhteenveto: International Management -maisteriohjelmasta valmistuneet toimivat vastuullisina päätöksentekijöinä vaikutusvaltaisissa tehtävissä globaalissa ympäristössä. Opinnot kehittävät opiskelijoiden osaamista strategiassa, liiketoiminnan kehittämisessä, johtajuudessa ja eri liiketoimintaympäristöissä toimimisessa. International Management yhdistää ainutlaatuisella tavalla kaksi arvostettua ohjelmaa: valmistuvat saavat sekä Kauppatieteiden maisterin tutki
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2397,7 +3008,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008021>)
 
@@ -2405,14 +3015,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Ilmastokriisi, luontokato, köyhyys ja eriarvoisuus ovat monimutkaisia yhteiskunnallisia haasteita, joiden ratkaisemisessa tarvitaan uudenlaista ajattelua ja uusia taitoja. Creative Sustainability -maisteriohjelma on poikkitieteinen ohjelma, jossa yhdistyvät liiketoiminta, muotoilu sekä materiaali- ja kemian tekniikka. Kauppatieteiden opiskelijoille ohjelma antaa tiedot ja taidot kestävän kehityksen edistämiseen liiketoiminnan avulla.
+Yhteenveto: Creative Sustainability -maisteriohjelma tarjoaa poikkitieteellisen alustan liiketoiminnan, muotoilun, materiaalitekniikan and kemian tekniikan opintoihin. Kauppatieteen opiskelijoille ohjelma antaa valmiudet edistää kestävää kehitystä liiketoiminnan avulla. Liiketoiminnan ja kestävyyden yhteydet ovat nykypäivän organisaatioissa äärimmäisen tärkeitä riippumatta siitä, onko opiskelijan tavoitteena olla liike-elämän kestävyysasiantuntija tai johtam
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Euroopan unionin (EU) jäsenmaiden, Euroopan talousalueen (ETA) tai Sveitsin kansalaisilta ei peritä lukuvuosimaksua. Kaikkien muiden maiden kansalaisilta peritään lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2420,7 +3031,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008026>)
 
@@ -2428,14 +3038,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Espoo
-Yhteenveto: IDBM-ohjelma antaa luovalla alalla opiskeleville mahdollisuuden laajentaa vaikuttavuuttaan ja muokata paitsi tuotteita ja palveluita myös organisaatioita ja päätöksentekoa. Muotoilua hyödynnetään yhä laajemmin eri tarkoituksiin ja eri tieteenaloilla. IDBM-ohjelma antaa opiskelijoille taitoja ja tietoja työskennellä strategisemmin ja rakentaa uraansa siten, että he voivat hyödyntää muotoiluajattelua johtamisessa.
+Yhteenveto: Uraauurtava International Design Business Management -maisteriohjelma on malliesimerkki Aalto-yliopiston visiosta, sillä se yhdistää muotoilun ja tekniikan globaalin liiketoiminnan kehittämiseen. IDBM-maisteriohjelmassa opiskelijoista koulutetaan seuraavan sukupolven muotoilun ammattilaisia poikkitieteellisen tiimityön ja alan merkittävien kumppaneidemme tarjoamien todellisten liiketoimintahaasteiden avulla. Ainutlaatuinen International Design Bu
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2443,7 +3054,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007985>)
 
@@ -2454,11 +3064,12 @@ Helsinki
 Yhteenveto: Applications to Music Business programme are accepted only every other year. Why study here As a student in our master’s programme, you will be part of the acclaimed Finnish education system, gaining new perspectives on the evolving field of music business. In your daily life as a student, you will feel the care and attention we provide to all students in our community. You will study in exceptional facilities and have tools to connect digitally 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 28000.0 (lähteen summa; tarkista ehdot) ; Uniarts Helsinki will charge an annual tuition fee from non-EU and non-EEA students studying for a bachelor’s or a master’s degree in English. The amount of the fee will stay the same for the duration of your studies. Read more about tuition fees.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2466,7 +3077,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028583>)
 
@@ -2474,14 +3084,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Espoo
-Yhteenveto: Elämme syvenevän epävarmuuden ja myllerryksen aikaa, jossa monet eilisen innovaatiot ovat osa tämän päivän haasteita. Pitkään toiminut IDBM-ohjelma uudistuu vastatakseen paremmin tämän hetken tarpeisiin. Ohjelmassa kehitetään uudenlaista innovointia, jossa monimutkaisiin kysymyksiin tartutaan luovuuden ja strategisen ajattelun avulla. IDBM on laboratorio, jossa tutkitaan aikamme vaikeimpia kysymyksiä poikkitieteisissä tiimeissä ja yhteistyössä yr
+Yhteenveto: Emme työskentele siiloissa, joten miksi meidän pitäisi opiskella sellaisissa? IDBM-maisteriohjelman opiskelijat ratkaisevat monimutkaisia todellisia haasteita monialaisissa tiimeissä ja oppivat ymmärtämään kokonaisvaltaisesti tulevaisuuden haasteita. Ohjelmassa käsitellään muotoilua laajemmin menetelmänä, ajattelutapana ja kilpailuetuna. Tämä tapahtuu keskittymällä tuote-, palvelu- ja liiketoimintamuotoiluun, tekniikkaan ja innovaatiojohtamiseen.
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2489,7 +3100,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019481>)
 
@@ -2497,14 +3107,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Ihmiset ovat edelleen keskeisessä asemassa siinä, miten organisaatiot toimivat, sopeutuvat ja menestyvät. Tämä ohjelma valmistaa opiskelijoita ymmärtämään ja käsittelemään organisaatioiden monimutkaisia haasteita ja tekemään perusteltuja henkilöstöön ja työntekoon liittyviä päätöksiä yhdistämällä tutkimukseen perustuvaa tietoa ja käytännön toimijoiden näkökulmia. Ohjelmasta valmistuneet hakeutuvat henkilöstöhallinnon ja organisaatiokehityksen mon
+Yhteenveto: Aalto-yliopisto on yksi Euroopan johtavista yliopistoista johtamisen alalla, kahdeksas vuonna 2021 (Academic Ranking of World Universities). People Management and Organizational Development -maisteriohjelman tavoitteena on kouluttaa vastuullisia ammattilaisia ja tulevaisuuden johtajia, jotka osaavat johtaa henkilöstöresursseja menestyksellisesti ja kehittää organisaatioiden toimintoja nopeasti muuttuvassa maailmassa. Ohjelma on monitieteinen ja s
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2512,7 +3123,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008028>)
 
@@ -2520,14 +3130,15 @@ Miksi / huomioitavaa:
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: Strategia auttaa organisaatioita muuttamaan epävarmuuden ja muutoksen mahdollisuuksiksi kehittyä. Ohjelmassa kehität strategista ajattelua ja päätöksentekoa talousanalyysin, johtamisen, käytännön strategiatyön ja yritysprojektien avulla. Saat vahvan pohjan uralle strategisen konsultoinnin, liiketoiminnan kehittämisen tai johtamisen parissa.
+Yhteenveto: Strategic Management in a Changing World -maisteriohjelma yhdistää ainutlaatuisella tavalla liiketoiminnan, kestävän kehityksen, johtamisen ja yrittäjyyden. Opiskelijat oppivat päivittämään ja pitämään strategian menestyksekkäänä monimutkaisessa ja muuttuvassa liiketoimintaympäristössä. Ohjelma tarjoaa opiskelijoille arvokasta tietotaitoa strategisessa, dataan perustuvassa päätöksenteossa. Aalto yliopisto on Financial Timesin European Business Sc
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2535,124 +3146,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008029>)
-
-### 75/100 — STRONG — Johtaminen, yhteiskuntatieteiden maisteri (2 v)
-
-Lapin yliopisto
-Rovaniemi
-Yhteenveto: Liiketaloustieteeseen perustuvat johtamisen opinnot tarjoavat sinulle perusteet toimia kasvunjälkeisessä yhteiskunnassa kestävällä ja vastuullisella tavalla. Opintojen lähtökohtana on siirtyminen ihmiskeskeisyydestä maapallon monilajisuuden kunnioittamiseen sekä talouden epätasa-arvoisuuksien tunnistaminen ja oikeudenmukaisempien käytäntöjen kehittäminen. Johtamisen opiskelijana saat uusimpaan tutkimukseen perustuvia käsitteellisiä työkaluja ja k
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002731>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), pedagoginen johtaminen, Helsinki
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Pedagogisen johtamisen koulutus antaa valmiudet toimia vaativissa asiantuntija-, kehittämis- ja johtamistehtävissä oppimisen, osaamisen kehittämisen ja organisaatioiden uudistamisen alueilla. Opinnoissa syvennetään pedagogisen johtamisen osaamista sekä tarkastellaan, miten oppimista, hyvinvointia, yhteisöllisyyttä ja jatkuvaa kehittymistä voidaan johtaa erilaisissa organisaatioissa. Koulutus yhdistää pedagogiikan, organisaatioiden kehittämisen, d
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042399>)
-
-### 75/100 — STRONG — Sosiaali- ja terveysalan johtaminen (ylempi AMK)
-
-Laurea-ammattikorkeakoulu
-Vantaa
-Yhteenveto: Koulutuksen tavoitteena on sosiaali- ja terveysalan laaja-alaisen johtamisosaamisen kehittyminen. Koulutuksen aikana saat valmiudet sosiaali- ja terveysalan palvelujen kehittämiseen ja uudistamiseen jatkuvasti muuttuvassa toimintaympäristössä. Opiskelun aikana vahvistat osaamistasi uusimman tutkimustiedon innovatiivisessa soveltamisessa käytännön työelämässä. Hallitset monipuolisesti kehittämismenetelmien käyttöä ja näyttöön perustuvaa toimintaa 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000480>)
-
-### 75/100 — STRONG — Sosiaali- ja terveysalan johtaminen ja kehittäminen (ylempi AMK), erillisvalinnat
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Koulutuksen tavoitteena on sosiaali- ja terveysalan laaja-alaisen johtamisosaamisen kehittyminen. Koulutuksen aikana saat valmiudet sosiaali- ja terveysalan palvelujen kehittämiseen ja uudistamiseen jatkuvasti muuttuvassa toimintaympäristössä. Opiskelun aikana vahvistat osaamistasi uusimman tutkimustiedon innovatiivisessa soveltamisessa käytännön työelämässä. Hallitset monipuolisesti kehittämismenetelmien käyttöä ja näyttöön perustuvaa toimintaa 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001733>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), brändin johtaminen
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Haluatko johtaa brändiä osana liiketoiminnan kehittämistä, uudistumista ja arvonluontia? Ylempi AMK antaa käsitteelliset ja käytännölliset välineet rakentaa ja johtaa brändiä koko organisaation läpäisevänä strategisena kyvykkyytenä. Koulutus sopii sinulle, joka haluat syventää tai laajentaa osaamistasi brändin strategisessa johtamisessa. Brändi on arvonluonnin ja kilpailukyvyn väline yhtä lailla tuotteille, palveluille, organisaatioille kuin julk
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039389>)
 
 ### 75/100 — STRONG — Johtaminen ja organisaatiot, Kauppatieteiden maisteriohjelma, Kauppatieteiden maisteri (2 v), syksy 2027
 
@@ -2661,11 +3156,12 @@ Tampere
 Yhteenveto: Yrityksen johtamisen maisteriohjelma antaa laaja-alaisen ymmärryksen erilaisten organisaatioiden johtamisesta ja suhteesta ympäröivään yhteiskuntaan sekä käytännön valmiudet toimia erilaisissa asiantuntija-, kehittämis- ja johtotehtävissä. Opinnoissa syvennytään erityisesti strategiaan, liiketoimintaan sekä ihmisten ja organisaatioiden johtamiseen. Opintojen läpileikkaava teema on kestävä kehitys. Valmistuttuaan opiskelija pystyy analysoimaan ja 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -2673,643 +3169,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042829>)
 
-### 75/100 — STRONG — Tradenomi (ylempi AMK), taide- ja kulttuurialan johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Koulutuksen aikana kehität osaamistasi taide- ja kulttuurialan organisaatioiden toiminnan strategialähtöisessä kehittämisessä, talouden ja juridiikan kysymyksissä sekä työyhteisön yhteistoiminnan ja hyvinvoinnin edistämisessä. Koulutuksessa keskeisessä roolissa on kunkin opiskelijan oman johtamisidentiteetin, itsensä johtamisen ja työhyvinvoinnin kehittäminen. Koulutuksen tavoitteena on edistää valmiuksiasi kehittää taide- ja kulttuurialaa ja sen
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003169>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), palvelujen muotoilu ja johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Palvelumuotoilun YAMK-koulutusohjelma on tarkoitettu sinulle, joka haluat laajentaa osaamistasi palvelumuotoilusta ja palvelujen johtamisesta. Opintojesi aikana opit hyödyntämään erilaisia palvelumuotoilun menetelmiä ja työkaluja sekä kehittämään ja johtamaan palveluja. Palvelumuotoilun YAMK-koulutusohjelmassa oppimistehtävät sekä opinnäytetyö voivat liittyä suoraan omaan työhösi. Näin ollen myös työnantajaorganisaatiosi hyötyy opinnoistasi. Palv
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028246>)
-
-### 75/100 — STRONG — Insinööri (ylempi AMK), teknologiaosaamisen johtaminen, verkkototeutus
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Centria-ammattikorkeakoulun teknologiaosaamisen johtamisen koulutus on tarkoitettu sinulle, joka työskentelet tai haluat tulevaisuudessa työskennellä teknologia-alan johtamis- ja esimiestehtävissä. Koulutuksessa perehdytään etenkin teknologia-alan yritysten ja henkilöstön johtamiseen ja kehittämiseen. Opinnoissa korostuvat esimiestaitojen lisäksi strateginen johtaminen, laatu- ja innovaatiojohtaminen sekä tuotekehitykseen liittyvien prosessien jo
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003304>)
-
-### 75/100 — STRONG — Restonomi (ylempi AMK), Palveluliiketoiminnan johtaminen
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: Palveluliiketoiminnan  johtamisen ylempi tutkinto-ohjelma antaa sinulle erinomaiset valmiudet  toimia vaativissa asiantuntija- ja johtotehtävissä palvelu- ja  vieraanvaraisuustoimialoilla ja niiden kehittäjänä. Päätyöllistäjinä  ovat sekä kansainväliset että kotimaiset yritykset ja hankkeet, joiden  ydintoimintaa ovat matkailu- ja majoituspalvelut, ravitsemis- ja  ruokapalvelut sekä elämykset. Tutkinto-ohjelma on tarkoitettu henkilöille,  joilla 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000490>)
-
-### 75/100 — STRONG — Restonomi (ylempi AMK), palveluliiketoiminnan johtaminen ja kehittäminen
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Palveluliiketoiminnan johtamisen ja kehittämisen koulutuksen tavoitteena on antaa opiskelijalle valmiudet toimia vaativissa asiantuntija-, kehitys- ja johtotehtävissä palveluliiketoiminnan ja elämystalouden aloilla. Opinnoissa syvennetään vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamista valitulla suuntautumisalueella. Koulutuksen suuntautumisalueet ovat palveluliiketoiminnan strateginen johtaminen ja palveluliiketoiminnan innovaati
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008589>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), esihenkilötyö ja työyhteisön johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Esihenkilötyö ja työyhteisön johtaminen -koulutus on suunnattu sinulle, joka toimit esihenkilö-, tiiminvetäjä- tai asiantuntijatehtävissä tai haluat tulevaisuudessa siirtyä esihenkilö- tai tiiminvetovastuuseen. Koulutus kehittää valmiuksiasi toimia ihmislähtöisenä ja tavoitteellisena esihenkilönä sekä työyhteisön kehittäjänä. Koulutus keskittyy esihenkilötyön käytännön perusvalmiuksiin ja arjen johtamiseen. Opiskelija vahvistaa osaamistaan esihen
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038661>)
-
-### 75/100 — STRONG — Tuloksellinen toimitusketjujen johtaminen, tradenomi (ylempi AMK)
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Xamkin tuloksellisen toimitusketjujen johtamisen YAMK-koulutuksesta valmistut monipuoliseksi logistiikan ammattilaiseksi perehtymällä mm. logistiikka-alan talous- ja tietojohtamiseen, käytännön haasteisiin ja riskienhallintaan, sekä logistiikkaprosessien analysointiin ja kehittämiseen. Osaat ottaa huomioon eri logististen toimintojen kustannus- ja ristikkäisvaikutukset sekä muodostat itsellesi kokonaiskuvan toimitusketjukokonaisuudesta . Valmistu
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001996>)
-
-### 75/100 — STRONG — Sosiaali- ja terveysalan johtaminen ja kehittäminen (ylempi AMK)
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Oletko sosiaali- tai terveysalan ammattilainen, joka haluaa vahvistaa osaamistaan johtamis-, kehittämis- tai asiantuntijatehtävissä sosiaali- ja terveysalan murroksessa? Ylempi AMK-tutkinto antaa valmiuden johtaa muutosta ja kehittää palveluja. Tutkinto vastaa virka- ja tehtäväkelpoisuudeltaan yliopiston maisteritutkintoa. Mitä opit? Kehityt johtamisen ja kehittämisen asiantuntijaksi sosiaali- ja terveysalan murroksessa. Ydinosaamisen opinnot koo
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006061>)
-
-### 75/100 — STRONG — Julkisen toiminnan johtaminen ja julkisoikeus, hallintotieteiden maisteri (2 v)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Hallintotieteiden maisteriohjelmaan haetaan korkeakoulujen kevään yhteishaussa. Opiskelija saa opiskeluoikeuden suoraan hallintotieteiden maisterin tutkintoon ja johonkin kahdesta opintosuunnasta julkisen toiminnan johtaminen (sis. oppiaineet aluetiede ja julkisjohtaminen) tai julkisoikeus. Julkisen toiminnan johtamisen maisteriopinnoista valmistuu monipuolisia julkisen hallinnon osaajia ja uudistajia. Valmistuttuasi omaat valmiudet työskennellä 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021474>)
-
-### 75/100 — STRONG — Pedagoginen johtaminen, (ylempi AMK)
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Pedagogisen johtamisen YAMK-​tutkinto rakentaa oppivia yhteisöjä ammatillisessa koulutuksessa Pedagogisen johtamisen YAMK on suunnattu ammatillisessa koulutuksessa esihenkilö- ja johtotehtävissä toimiville tai niihin hakeutuville. Koulutus soveltuu myös pedagogisen kehittämisen asiantuntijoille sekä muille ammattilaisille, jotka työssään käsittelevät oppimisen ja osaamisen johtamisen kysymyksiä. Koulutus vahvistaa kykyä johtaa oppimista, osaamist
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043399>)
-
-### 75/100 — STRONG — Insinööri (ylempi AMK), Teknologiaosaamisen johtaminen, verkkopainotteinen monimuotototeutus
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: SeAMKin Teknologiaosaamisen johtaminen -koulutuksen tavoitteena on laajentaa ja syventää osaamista ja valmiutta toimia teknologiayrityksen johto- ja asiantuntijatehtävissä. Opintojen keskeisiä osa-alueita ovat mm. teknologiaosaamisen ja -osaajien johtaminen, strategiatyö, johdon laskentatoimi ja projektitoiminta. Valinnaisia opintoja ovat mm. tuotekehitys, teollinen internet, asiakkuuksien johtaminen ja tulevaisuuden esimiestyö. Tutustu koulutuks
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021373>)
-
-### 75/100 — STRONG — Pelastusalan johtamisen maisterikoulutus, Kuopio, hallintotieteiden tai yhteiskuntatieteiden maisteri (2 v)   
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Kiinnostavatko sinua johtamis-, asiantuntija- ja kehittämistehtävät pelastusalalla? Tahdotko vahvistaa strategista osaamistasi sekä syventää ymmärrystäsi pelastusalan johtamisesta, johtamisen yhteiskunnallisesta kontekstista sekä monitoimijaisen palvelujärjestelmän toiminnasta ja tutkimusperusteisesta kehittämisestä? Maisterikoulutus tarjoaa sinulle mahdollisuuden syventää johtajuuttasi, vahvistaa tutkimus- ja kehittämisosaamistasi sekä laajentaa
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043089>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), Talous ja johtaminen julkishallinnossa
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: YAMK-tutkinto-ohjelma Talous ja johtaminen julkishallinnossa on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031173>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), talous ja johtaminen julkishallinnossa, syksyn 2026 haku
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: YAMK-tutkinto-ohjelma Talous ja johtaminen julkishallinnossa on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037491>)
-
-### 75/100 — STRONG — Tradenomi (YAMK), Talous ja johtaminen julkishallinnossa, verkko-opinnot
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: YAMK-tutkinto-ohjelma Talous ja johtaminen julkishallinnossa on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031220>)
-
-### 75/100 — STRONG — Insinööri (ylempi AMK), teknologiaosaamisen johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Teknologiaosaamisen johtamisen koulutuksessa opit liiketoimintaosaamista, esimiestaitoja, organisaation osaamisen kehittämistä, prosessi- ja laatuosaamista, analyyttista ajattelua sekä projektinhallintataitoja. Koulutus antaa sinulle valmiudet ennakoida työelämän teknologiamuutoksia ja hyödyntää niiden mahdollisuuksia. Opit myös toteuttamaan ja johtamaan kehittämisprojekteja ja projektitoimintaa, johtamaan ja kehittämään organisaation osaamista, 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003516>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), teknologiaosaamisen johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Teknologiaosaamisen johtamisen koulutuksessa opit liiketoimintaosaamista, esimiestaitoja, organisaation osaamisen kehittämistä, prosessi- ja laatuosaamista, analyyttista ajattelua sekä projektinhallintataitoja. Koulutus antaa sinulle valmiudet ennakoida työelämän teknologiamuutoksia ja hyödyntää niiden mahdollisuuksia. Opit myös toteuttamaan ja johtamaan kehittämisprojekteja ja projektitoimintaa, johtamaan ja kehittämään organisaation osaamista, 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002310>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), SOTE-palvelujen ja -liiketoiminnan johtaminen
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: SOTE-palveluiden ja -liiketoiminnan johtamisen koulutuksessa opit sosiaali- ja terveydenhuollon tiedolla johtamista, talousjohtamista, tuotantotaloutta ja itsesi johtamista. SOTE-palveluiden ja -liiketoiminnan johtamisen koulutuksen jälkeen ymmärrät SOTE-toimintaympäristössä vaikuttavia tekijöitä, ja sinulla on valmiuksia toimia esihenkilötehtävissä. Osaat jalostaa tietoa SOTE-palveluiden ja liiketoiminnan tarpeisiin sekä arvioida SOTE-palveluide
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003132>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), Strateginen johtaminen
-
-Laurea-ammattikorkeakoulu
-Vantaa
-Yhteenveto: Oletko esihenkilö tai asiantuntija, joka haluaa kehittää organisaation strategista johtamista? Ylempi (AMK) -tutkinto antaa syvällistä osaamista strategisesta ajattelusta. Pääset perehtymään mm. organisaatioiden strategiatyöhön ja yhteiskehittämiseen sekä kaiken kaikkiaan vaikuttaviin johtamiskäytäntöihin, kuten vaikkapa muutosjohtamiseen. Tämä koulutus valmistaa sinut toimimaan organisaation strategisessa kehittämisessä. Kykenet analysoimaan, su
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006568>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), Strateginen johtaminen, erillisvalinnat
-
-Laurea-ammattikorkeakoulu
-Espoo, Vantaa
-Yhteenveto: Oletko esihenkilö tai asiantuntija, joka haluaa kehittää organisaation strategista johtamista? Ylempi (AMK) -tutkinto antaa syvällistä osaamista strategisesta ajattelusta. Pääset perehtymään mm. organisaatioiden strategiatyöhön ja yhteiskehittämiseen sekä kaiken kaikkiaan vaikuttaviin johtamiskäytäntöihin, kuten vaikkapa muutosjohtamiseen. Tämä koulutus valmistaa sinut toimimaan organisaation strategisessa kehittämisessä. Kykenet analysoimaan, su
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009791>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), Tulevaisuuden johtaminen, Pori
-
-Satakunnan ammattikorkeakoulu
-Pori
-Yhteenveto: Tulevaisuuden johtaminen -koulutus valmistaa työelämän uudistajia ja kehittäjiä, jotka tunnistavat työyhteisöjen kehittämistarpeet sekä osaavat suunnitella ja johtaa vaikuttavia muutosprosesseja. Koulutuksen tavoitteena on vahvistaa opiskelijan valmiuksia kehittää ja johtaa yritysten sekä julkisten palveluiden prosesseja yrittäjämäisellä ja uudistavalla otteella. Samalla liiketoimintaosaaminen syvenee erityisesti muuttuvassa ja kompleksisessa toi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002612>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Helsinki
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Liiketoiminnan uudistamisen ja johtamisen koulutuksen tavoitteena on antaa opiskelijalle valmiudet toimia vaativissa asiantuntija-, kehitys- ja johtotehtävissä.  Opinnoissa syvennetään vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamista valitulla suuntautumisalueella. Koulutuksen suuntautumisalueet ovat strateginen johtaminen ja innovaatiot, strateginen henkilöstöjohtaminen sekä markkinoinnin, myynnin ja viestinnän integroitu johtamin
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008585>)
-
-### 75/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Porvoo
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki, Porvoo
-Yhteenveto: Liiketoiminnan uudistamisen ja johtamisen koulutuksen tavoitteena on antaa opiskelijalle valmiudet toimia vaativissa asiantuntija-, kehitys- ja johtotehtävissä.  Opinnoissa syvennetään vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamista valitulla suuntautumisalueella. Koulutuksen suuntautumisalueet ovat strateginen johtaminen ja innovaatiot, strateginen henkilöstöjohtaminen sekä markkinoinnin, myynnin ja viestinnän integroitu johtamin
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011594>)
-
-### 75/100 — STRONG — HR, viestintä ja johtaminen, tradenomi (ylempi AMK)
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Kiinnostavatko henkilöstöjohtaminen ja viestintä sekä niiden kehittäminen? Oletko kiinnostunut organisaation kehittämisestä? Haluatko kehittää osaamistasi muuttuvassa työelämässä ja samalla luoda uusia ammatillisia verkostoja samoista asioista kiinnostuneiden kanssa? HR, viestintä ja johtaminen YAMK-koulutuksen suoritettuasi pystyt viemään läpi henkilöstöön, viestintään ja johtamiseen kohdistuvia muutosprosesseja ammattimaisesti. Osaat johtaa ja 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010158>)
-
-### 75/100 — STRONG — Insinööri (ylempi AMK), Lean-johtaminen
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Lean-johtamisen ylempi ammattikorkeakoulututkinto (insinööri, YAMK) Oulun ammattikorkeakoulussa kehittää sinusta muutoskykyisen ja tuloksellisen johtajan. Koulutus keskittyy Lean-menetelmiin, Strategiseen johtamiseen ja Lean Six Sigma -menetelmään, joita sovelletaan asiantuntija-, palvelu-, liiketoiminta ja tuotanto-organisaatioissa. Opinnot ovat käytännönläheisiä ja kytkeytyvät suoraan omaan työhösi: kehität prosesseja, jalkautat strategiaa ja h
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000534>)
-
-### 75/100 — STRONG — Insinööri (ylempi AMK), Lean-johtaminen, erillishaut
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Lean-johtamisen ylempi ammattikorkeakoulututkinto (insinööri, YAMK) Oulun ammattikorkeakoulussa kehittää sinusta muutoskykyisen ja tuloksellisen johtajan. Koulutus keskittyy Lean-menetelmiin, Strategiseen johtamiseen ja Lean Six Sigma -menetelmään, joita sovelletaan asiantuntija-, palvelu-, liiketoiminta ja tuotanto-organisaatioissa. Opinnot ovat käytännönläheisiä ja kytkeytyvät suoraan omaan työhösi: kehität prosesseja, jalkautat strategiaa ja h
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003682>)
-
-### 75/100 — STRONG — Restonomi (ylempi AMK), vastuullisuuden ja palveluiden johtaminen, kevään 2027 haku
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Haluatko kehittyä vastuullisena johtajana ja uudistaa organisaatiosi toimintaa? Vastuullisuuden ja palveluiden johtamisen ylemmissä AMK-opinnoissa syvennät osaamistasi ja opit soveltamaan tutkittua tietoa vastuullisuudesta ja palveluliiketoiminnasta. Saat myös uusia näkökulmia oman johtajuutesi kehittämiseen. Opit uudistamaan organisaation ja työyhteisön toimintatapoja vastaamaan kestävyyden haasteisiin muuttuvassa toimintaympäristössä. Opinnoiss
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043895>)
-
-### 75/100 — STRONG — Marketing, Master of Science (Economics and Business Administration) (2 yrs)
+### 75/100 — STRONG — Marketing/Marknadsföring, Master of Science (Economics and Business Administration) (2 yrs)
 
 Svenska handelshögskolan
 Helsinki
-Yhteenveto: Hanken Svenska handelshögskolanin maisterintutkinto tuo arvostusta työmarkkinoilla! Hankenilla voit erikoistua kiinnostavaan pääaineeseen: voit valita kansantalouden, rahoituksen, kirjanpidon, yrittäjyyden, johtamisen ja organisaatiot, markkinoinnin, logistiikan tai IP-oikeuden. Kaksivuotisen maisterintutkintomme voit suorittaa joko Helsingissä tai Vaasassa, joko sekä englanniksi tai ruotsiksi. Hankenilta saat maisterintutkinnon, joka pohjautuu a
+Yhteenveto: Tämä hakukohde on tarjolla sekä ruotsiksi että englanniksi. Hanken ei tarjoa opetusta suomeksi. Markkinoinnin maisteriohjelma valmistaa sinua rakentamaan tulevaisuuden kestäviä liiketoimintoja ymmärtämällä globaaleja trendejä, jotka vaikuttavat yritysten brändeihin, liiketoimintamalleihin ja strategioihin. Opinnot antavat valmiudet kerätä ja ymmärtää tietoa asiakaskäyttäytymisestä erilaisissa markkinaympäristöissä sekä auttaa yrityksiä kehittämää
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Ohjelmasta ei peritä lukukausimaksuja, kun opetuskieli on ruotsi.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3317,22 +3192,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042600>)
 
-### 75/100 — STRONG — Marketing and Management, Master of Science (Economics and Business Administration) (2 yrs)
+### 75/100 — STRONG — Marketing and Management/Marknadsföring och företagsledning, Master of Science (Economics and Business Administration) (2 yrs)
 
 Svenska handelshögskolan
 Vaasa
-Yhteenveto: Hanken Svenska handelshögskolanin maisterintutkinto tuo arvostusta työmarkkinoilla! Hankenilla voit erikoistua kiinnostavaan pääaineeseen: voit valita kansantalouden, rahoituksen, kirjanpidon, yrittäjyyden, johtamisen ja organisaatiot, markkinoinnin, logistiikan tai IP-oikeuden. Kaksivuotisen maisterintutkintomme voit suorittaa joko Helsingissä tai Vaasassa, joko sekä englanniksi tai ruotsiksi. Hankenilta saat maisterintutkinnon, joka pohjautuu a
+Yhteenveto: Tämä hakukohde on tarjolla sekä ruotsiksi että englanniksi. Hanken ei tarjoa opetusta suomeksi. Vaasan markkinoinnin ja johtamisen maisteriohjelma yhdistää markkinoinnin ja johtamisen opinnot innovatiivisella tavalla. Opinnot valmentavat sinua johtamis- ja strategisen markkinoinnin tehtäviin markkinalähtöisissä yrityksissä. Saat myös valmiudet kehittää markkina- ja asiakaslähtöisiä strategioita sekä kestäviä markkinointiratkaisuja nopeasti muuttu
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Ohjelmasta ei peritä lukukausimaksuja, kun opetuskieli on ruotsi.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3340,7 +3215,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042566>)
 
@@ -3348,14 +3222,15 @@ Miksi / huomioitavaa:
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Master's Degree Programme in Tourism Marketing and Management is not  only about making money; we aim to make tourism better. Better for  tourism businesses, better for tourists, better for the environment and better for local communities. This is what we teach our students and  this is what the students can do when they have finished our degree  programme.
+Yhteenveto: The strengths of our programme lie in the nature that surrounds us. The world is filled with tourism destinations and businesses that do not have well-known attractions or world-class infrastructure, but still manage to provide tourists with amazing, unique experiences and thrive in the marketplace. During this two-year Master’s degree programme, you will learn to market and manage tourism destinations and businesses in a modern, rapidly changing
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Starting from 2027, an annual tuition fee of 12.000 euros will be applied in the Master's Degree Programme of Tourism Marketing and Management for non-EU/EEA students. The accepted applicants automatically receive an Early Bird discount of 30% ( 3.600€ ). The Early Bird deduction ends on 6 January 2
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3363,7 +3238,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033024>)
 
@@ -3371,14 +3245,15 @@ Miksi / huomioitavaa:
 
 Centria-ammattikorkeakoulu
 Kokkola
-Yhteenveto: The Master’s Degree Programme in International Business Management at Centria University of Applied Sciences is for you who want to develop your expertise and take the next step to advance in your career. A Master’s degree is an excellent way to increase your professional knowledge of business administration, especially in the field of international business. During your studies, you will deepen your knowledge and get new perspectives on internat
+Yhteenveto: Check this degree programme on our website ! The Master’s Degree Programme in International Business Management is the right pick for you, if you want to develop your expertise and take the next step to advance in your career. A Master’s degree is an excellent way to increase your professional knowledge about business administration, especially in the field of international business. The MBA studies are conducted in English on weekdays at our Tal
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Tuition fees are charged from Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read more about the tuition fees and scholarships
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3386,68 +3261,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003974>)
-
-### 75/100 — STRONG — Master of Business Administration (MBA), International Business Management, blended learning / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: The Master’s Degree Programme in International Business Management at Centria University of Applied Sciences is for you who want to develop your expertise and take the next step to advance in your career. A Master’s degree is an excellent way to increase your professional knowledge of business administration, especially in the field of international business. During your studies, you will deepen your knowledge and get new perspectives on internat
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003972>)
-
-### 75/100 — STRONG — Master's Programme in International Food Business and Gastronomy, Autumn 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: The Master’s Programme in International Food Business and Gastronomy at the University of Helsinki turns your passion for food into a global business career. You combine food business, gastronomy and sustainability through real industry projects and strong company links. You graduate ready to build brands, grow exports and shape the future of food in multicultural companies and markets worldwide.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039921>)
 
 ### 75/100 — STRONG — International Business and Sales Management, Kuopio, Master of Science (Economics and Business Administration) (2 years)
 
 Itä-Suomen yliopisto
 Kuopio
-Yhteenveto: The Master's Degree Programme in International Business and Sales Management is a multidisciplinary two-year programme that combines  high-level teaching and research. The programme is designed for both  Finnish and international students so that people with different  backgrounds come to study and learn together how to operate successfully  in challenging business environments.
+Yhteenveto: International Business and Sales Management (IBS) is a multidisciplinary two-year Master's degree programme that combines high level research and teaching. The programme is designed for both Finnish and international students. Internationalization of firms, business-to-business sales and cross-cultural communication skills are core themes emphasized in the programme. The content is based on the latest theoretical findings, and case exercises, gro
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Starting from 2027, an annual tuition fee of 12.000 euros is applied in the Master's Degree Programme of International Business and Sales Management for non-EU/EEA students. The accepted applicants automatically receive an Early Bird discount of 30% ( 3.600€ ). The Early Bird deduction ends on 6 Jan
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3455,55 +3284,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033023>)
-
-### 75/100 — STRONG — Double Degree, Financial and Management Accounting, Master of Science (Economics and Business Administration) (2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: The master’s degree programme in Financial and Management Accounting (FMA) educates you for accounting positions in companies and other organizations. You can specialize in either Financial Accounting or Management Accounting according to your interests and career goals. The programme provides a strong theoretical and methodological foundation in accounting, while developing your ability to apply knowledge in practical business environments. Your
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032564>)
-
-### 75/100 — STRONG — Master of Business Administration, DP in International Business Management, VAMK
-
-Vaasan ammattikorkeakoulu
-Vaasa
-Yhteenveto: Master of Business Administration is a degree corresponding to the level EQF 7 in the European Qualifications Framework for Higher Education. The programme aims to increase professional knowledge of international business management. Having completed the programme, the student has grown into a business management professional capable of independent decision-making, working with management or demanding expert tasks in businesses that operate in th
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001613>)
 
 ### 75/100 — STRONG — Master of Business Administration, Management in Sustainable Business
 
@@ -3528,87 +3310,19 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
 
-### 75/100 — STRONG — Industrial Engineering and Management, Master of Science (Technology) (2 yrs)
-
-Aalto-yliopisto
-Espoo
-Yhteenveto: Mitä mahdollisuuksia uudet teknologiat tarjoavat yrityksille? Miten tarvittavat muutokset voidaan toteuttaa? Miten johtaja voi motivoida työntekijät ottamaan muutoksen vastaan? Master’s Programme in Industrial Engineering and Management -maisteriohjelma (IEM) vastaa näihin kysymyksiin ja kouluttaa tulevia johtajia ja muutoksentekijöitä, jotka tietävät, mitä teknologiayritysten luominen, johtaminen ja uudistaminen edellyttää.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008120>)
-
-### 75/100 — STRONG — Sosiaali- ja terveysala (ylempi AMK), Kliininen asiantuntija, bioanalytiikka, monimuoto-opinnot
-
-Metropolia Ammattikorkeakoulu
-Helsinki
-Yhteenveto: Kliinisen asiantuntijan YAMK-tutkinto: bioanalytiikka (EQF7) on tarkoitettu bioanalyytikon tutkinnon suorittaneille.. Kliininen asiantuntija toimii moniulotteisesti potilaiden, palvelujärjestelmien ja teknologioiden rajapinnoilla. Metropolia Ammattikorkeakoulun kliinisen asiantuntijan tutkinto-ohjelmasta valmistuu diagnostisten palvelujen, digitalisaation tai johtamisen asiantuntijoita, työelämän kehittäjiä ja soveltavan tutkimuksen osaajia. Koul
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032538>)
-
-### 75/100 — STRONG — Sosiaali- ja terveysala (ylempi AMK), Kliininen asiantuntija, radiografia, verkko-opinnot
-
-Metropolia Ammattikorkeakoulu
-Helsinki
-Yhteenveto: Kliinisen asiantuntijan: radiografia YAMK-tutkinto (EQF7) on tarkoitettu röntgenhoitajatutkinnon suorittaneille. Kliininen asiantuntija toimii moniulotteisesti potilaiden, palvelujärjestelmien ja teknologioiden rajapinnoilla. Metropolia Ammattikorkeakoulun kliinisen asiantuntijan tutkinto-ohjelmasta valmistuu diagnostisten palvelujen, digitalisaation tai johtamisen asiantuntijoita, työelämän kehittäjiä ja soveltavan tutkimuksen osaajia. Koulutus 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032541>)
-
 ### 75/100 — STRONG — Master's Degree Programme in Inequalities, Interventions and New Welfare State, Master of Social Sciences, (2 years)
 
 Turun yliopisto
 Turku
-Yhteenveto: The Master’s Degree Programme in Inequalities, Interventions and New Welfare State is a cross-disciplinary, international study programme. The programme is designed to give students rigorous training on social inequalities and welfare, effective social policy or intervention design, and using advanced statistical methods to measure data on these topics. The programme gives students a solid foundation to pursue further doctoral research in this fi
+Yhteenveto: The Master's Degree Programme on Inequalities, Interventions and New Welfare State is designed to give students rigorous training on social inequalities and welfare, effective social policy or intervention design, and using advanced statistical methods to measure data on these topics. The programme gives students a solid foundation to pursue further doctoral research in this field, while also providing advanced skills suitable for a career as a p
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3616,7 +3330,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001500>)
 
@@ -3624,22 +3337,22 @@ Miksi / huomioitavaa:
 
 Helsingin yliopisto
 Helsinki
-Yhteenveto: Contemporary societies face urgent and complex challenges: widening inequality, cultural diversity, datafication, environmental crises, and political polarisation. At the University of Helsinki, the Master's Programme in Contemporary Societies (COS) gives you the theoretical depth and cutting-edge methodological tools to analyse these dynamics across Nordic, European, and global contexts. COS allows diverse orientations into these complex challen
+Yhteenveto: COS is a multidisciplinary, research-oriented programme in the social sciences with a strong emphasis on both theory and methods. You develop solid skills in qualitative and quantitative research, from established techniques like surveys and interviews to innovative approaches such as computational analysis of data – text, numbers or multimodal – so you can investigate pressing societal questions with rigour and creativity. The programme is built
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: IT, SOCIAL
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039909>)
 
@@ -3650,11 +3363,12 @@ Tampere
 Yhteenveto: Maisteriohjelmassa työtä ja hyvinvointia tarkastellaan monipuolisesti ja monitieteisesti, teemoina korostuvat työelämän laatu, työelämän suhteet ja sukupuoli, työvoiman käyttö ja työmarkkinat, työelämän vuorovaikutus, työyhteisöjen muutos ja kehittäminen sekä työhyvinvoinnin johtaminen. Sisältöosaamisen ohella maisteriohjelma tuottaa opiskelijalle monipuolista metodista osaamista, jossa korostuvat toimintatutkimuksen, työelämän kehittämisen sekä 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3662,124 +3376,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041537>)
-
-### 75/100 — STRONG — Työn ja hyvinvoinnin maisteriohjelma, Pori, yhteiskuntatieteiden maisteri (2 v)
-
-Tampereen yliopisto
-Pori
-Yhteenveto: Maisteriohjelmassa työtä ja hyvinvointia tarkastellaan monipuolisesti ja monitieteisesti, teemoina korostuvat työelämän laatu, työelämän suhteet ja sukupuoli, työvoiman käyttö ja työmarkkinat, työelämän vuorovaikutus, työyhteisöjen muutos ja kehittäminen sekä työhyvinvoinnin johtaminen. Sisältöosaamisen ohella maisteriohjelma tuottaa opiskelijalle monipuolista metodista osaamista, jossa korostuvat toimintatutkimuksen, työelämän kehittämisen sekä 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033264>)
-
-### 75/100 — STRONG — Technology, Environment and Societal Change, Master of Social Sciences
-
-Lappeenrannan-Lahden teknillinen yliopisto LUT
-Lappeenranta
-Yhteenveto: This master’s programme places you at the forefront of the sustainability transformation and the societal renewal it requires. Designed for forward-thinking students, it offers both conceptual and practical tools to understand and address sociotechnical challenges. As a graduate, you will be prepared for a wide variety of expert and leadership roles in sustainability, policy, and technology governance.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025152>)
-
-### 75/100 — STRONG — Early Admission, Technology, Environment and Societal Change, Master of Social Sciences (2 years), Lappeenranta
-
-Lappeenrannan-Lahden teknillinen yliopisto LUT
-Lappeenranta
-Yhteenveto: This master’s programme places you at the forefront of the sustainability transformation and the societal renewal it requires. Designed for forward-thinking students, it offers both conceptual and practical tools to understand and address sociotechnical challenges. As a graduate, you will be prepared for a wide variety of expert and leadership roles in sustainability, policy, and technology governance.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025979>)
-
-### 75/100 — STRONG — Sosiaali- ja terveyshallintotiede, hallintotieteiden maisteri (2 v)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Sosiaali- ja terveyshallintotieteen maisteriopinnoissa tarkastellaan hyvinvointiyhteiskunnan ja sen organisaatioiden toimintaa, palveluita ja johtamista. Tutkimukseen pohjautuvassa opetuksessa tuotetaan asiantuntijuutta ja johtamisvalmiuksia tulevaisuuden toimintaympäristöön. Opintoja kehystävänä ajatuksena on, että hallinnonalakohtaisesta toiminnan organisoimisesta ollaan siirtymässä kohti ilmiöpohjaista, yhteiskunnallisten ja globaalien ongelmi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004166>)
-
-### 75/100 — STRONG — Artificial Intelligence and Analytics, Master of Science (2 years)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: The Master’s Programme in Artificial Intelligence and Analytics is a comprehensive and cutting-edge education programme designed for individuals who want to pursue a career in the present day dynamic and fast developing domains of artificial intelligence, machine learning, financial engineering, and data analytics, with a strong mathematical foundation. Artificial intelligence and analytics have become increasingly essential in today's technology
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037282>)
 
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
@@ -4123,87 +3721,385 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005525>)
 
-### 70/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, polkuopinnot
+### 70/100 — STRONG — Master of Business Administration, Business Technologies and Management
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Business Technologies and Management is a Double Degree programme provided jointly by Haaga-Helia and Management Center Innsbruck, The Entrepreneurial School®, Austria (later MCI). Business Technologies and Management programme provides the skills and competence to work in demanding expert, development and manager positions at the crossroads of business and digital technology. Graduates become experts in the field of digital business, management 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2026
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; A scholarship system is available in Haaga-Helia UAS in every Master´s degree programme subjected to tuition fees. Scholarships can be awarded to degree students who are admitted to a degree programme conducted in English in Haaga-Helia UAS and who are studying in Finland. Scholarships are granted o
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Alempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-05-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020576>)
+
+### 70/100 — STRONG — European Joint Master of Business Administration (Erasmus Mundus), AI for Business Transformation
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: AI for Business Transformation (“UlysseusAI”) is a two-year, full-time 120 ECTS Erasmus Mundus Joint European Master program coordinated by Haaga-Helia University of Applied Sciences (HH) and offered jointly with two other Ulysseus European University alliance member institutions: Technical University of Košice (TUKE), and University of Seville (USE), with cooperation of Université Côte d’Azur, University of Genoa, and Management Center Innsbruck
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee and other costs: Erasmus Mundus scholarship holders are exempted from tuition fees. NON-EU/EEA citizens: The tuition fee for non-EU/EEA citizens is 12 000 € per year. For EU/EEA citizens, there are university-specific, lower fees depending on the partner institution and the national regu
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023989>)
+
+### 70/100 — STRONG — Master of Business Administration, Interactive Technologies
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Avoimen AMK:n polkuopinnot ovat reitti tutkintoon! Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400 €. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintoj
-Koulutustyyppi: MODULE
-Laajuus: 60.0 opintopistettä
+Yhteenveto: The degree programme Master of Business Administration – Interactive Technologies is centred on full-stack development for programmers. The programme is designed to equip students with the comprehensive skills and in-depth knowledge required to excel in the dynamic field of full-stack interactive technology development. This intensive programme offers a rigorous curriculum that blends theory and hands-on experience, preparing graduates to tackle 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, exemption from the fee and scholarship programme on Turku UAS website
+Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: CLOSED
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030565>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020559>)
 
-### 70/100 — STRONG — Avoin yo: Tietojenkäsittelytieteen aineopintoja, lv. 2026-2027
+### 70/100 — STRONG — Master of Hospitality Management, Tourism and Business Management
 
-Itä-Suomen yliopisto
-Joensuu, Kuopio
-Yhteenveto: Tietojenkäsittelytieteen aineopinnoissa laajennetaan perusopinnoissa opittua: mennään syvemmälle ohjelmointiin ja arkkitehtuuriin, mutta myös tutustutaan uusiin aiheisiin ja kurssivalinnoilla muotoillaan itselle hyödyllistä osaamista: dataa, rakenteita, laskentaa, testausta, tekoälyä. Aineopintojen kurssien taustaksi suositellaan perusopintoja tai muuta vastaavaa osaamista. Aineopintojen kursseista erityisesti Ohjelmointi II on hyödyllinen muiden
-Koulutustyyppi: MODULE
-Laajuus: 62.0 opintopistettä
+Satakunnan ammattikorkeakoulu
+Pori
+Yhteenveto: Expert in Tourism and Business Management By studying in this programme, you will gain the tools to advance your career and enhance your professional profile. You will study in an international student group and develop management expertise in the tourism business environment, learning how to apply this knowledge in a variety of contexts. As a student in a world-class higher education system, you will have a personal tutor appointed by the facult
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; The tuition fee is 9,500 euros per academic year for non-EU/EEA students.
+Toteutus: HYBRID
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: CLOSED
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040154>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032126>)
 
-### 70/100 — STRONG — Avoin yo: Tietojenkäsittelytieteen perusopinnot, lv. 2026-2027
+### 70/100 — STRONG — Erillishaku kevät 2026: Master of Business Administration, Sport Business Management
 
-Itä-Suomen yliopisto
-Joensuu, Kuopio
-Yhteenveto: Tietojenkäsittelytieteessä tutkitaan tiedon esittämistä, tiedonkäsittelymenetelmiä ja tietojärjestelmiä sekä tietokoneita ja niiden hyödyntämistä osana tietojärjestelmiä. Vaikka alan tekninen kehitys on hyvin nopeaa, saat koulutuksesta vahvan perustan muutosten ennakoimiseen ja ymmärtämiseen. Perusopinnoista muodostuu opintokokonaisuus, joka antaa yleiskatsauksen tietojenkäsittelytieteeseen sekä tietotekniikan ja ohjelmoinnin perustaitoihin. Tiet
-Koulutustyyppi: MODULE
-Laajuus: 25.0 opintopistettä
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Tutkinto-ohjelma on suunnattu urheiluliiketoiminnan parissa työskenteleville tai siitä kiinnostuneille henkilöille, joilla on halua kasvattaa osaamistaan urheiluliiketoiminnan saralla. Tutkinnon aikana opiskelija oppii tuntemaan vahvasti kansainvälisen urheiluliiketoiminnan ympäristön sekä tukemaan organisaatioiden kehittymistä tällä pelikentällä. Opintojen tavoitteena on tarjota sinulle sekä tietoa että työkaluja urheiluliiketoiminnassa toimimis
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000€/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: CLOSED
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040129>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034155>)
+
+### 70/100 — STRONG — Master of Business Administration, International Business Management, spring 2026 application
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Jamkin International Business Management -koulutus on suunnattu tulevaisuuden johtajille ja kokeneille ammattilaisille, jotka haluavat syventää osaamistaan kansainvälisen liiketoiminnan strategiassa, innovaatiossa ja digitaalisessa muutoksessa. Olitpa urasi alkuvaiheessa tai jo kokenut tekijä, koulutus tarjoaa työelämälähtöisen opintokokonaisuuden, jossa yhdistyvät teoria ja käytännön soveltaminen. Opintojen aikana kehität strategista ajattelua j
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) e
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031272>)
+
+### 70/100 — STRONG — Sosiaali- ja terveysalan johtaminen (ylempi AMK)
+
+Laurea-ammattikorkeakoulu
+Vantaa
+Yhteenveto: Voit hakea tähän koulutukseen jos sinulla on sairaanhoitaja (AMK), terveydenhoitaja (AMK), fysioterapeutti (AMK), sosionomi (AMK) tai kuntoutuksenohjaaja (AMK) -tutkinto. Koulutuksessa on käytössä harkinnanvarainen valinta, jolloin hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväksyä myös muu soveltuva sosiaali- ja terveysalan ammattikorkeakoulututkinto; jalkaterapeutti (AMK), röntgenhoitaja (AMK), geronomi (AMK), toimintaterapeutti (AM
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000480>)
+
+### 70/100 — STRONG — Sosiaali- ja terveysalan johtaminen ja kehittäminen (ylempi AMK), erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Onko sinulla jo suoritettuja YAMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 30 opintopistettä tai hakevat siirtohaussa. Voit hakea tähän koulutukseen kun sinulla on sairaanhoitaja (AMK), terveydenhoitaja (AMK), fysioterapeutti (AMK), sosionomi (AMK) tai kuntoutuksenohjaaja (AMK) -tutkinto. Käytössä myös harkinnanvarainen valinta, jolloin hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväk
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001733>)
+
+### 70/100 — STRONG — Tradenomi (ylempi AMK), brändin johtaminen
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Voit hakea tähän koulutukseen, kun sinulla on tradenomi (AMK) tai muu soveltuva korkeakoulututkinto. Koulutuksessa on käytössä harkinnanvarainen valinta. Hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväksyä myös soveltuva Suomessa suoritettu opistoasteen tai ammatillisen korkea-asteen tutkinto. Harkinnanvaraisuus koskee vain hakijan hakukelpoisuutta. Soveltuvan tutkinnon lisäksi vaaditaan kahden vuoden soveltuva työkokemus tutkinnon suo
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039389>)
+
+### 70/100 — STRONG — Restonomi (ylempi AMK), Palveluliiketoiminnan johtaminen
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Palveluliiketoiminnan   johtamisen ylempi tutkinto-ohjelma antaa sinulle erinomaiset valmiudet   toimia vaativissa asiantuntija- ja johtotehtävissä palvelu- ja   vieraanvaraisuustoimialoilla ja niiden kehittäjänä. Päätyöllistäjinä   ovat sekä kansainväliset että kotimaiset yritykset ja hankkeet, joiden   ydintoimintaa ovat matkailu- ja majoituspalvelut, ravitsemis- ja   ruokapalvelut sekä elämykset. Tutkinto-ohjelma on  tarkoitettu henkilöille,  
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-22T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000490>)
+
+### 70/100 — STRONG — Tradenomi (ylempi AMK), Talous ja johtaminen julkishallinnossa
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Talous ja johtaminen julkishallinnossa YAMK-koulutusohjelma on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmis
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031173>)
+
+### 70/100 — STRONG — Tradenomi (ylempi AMK), talous ja johtaminen julkishallinnossa, syksyn 2026 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Talouden ja johtamisen julkishallinnon YAMK-tutkinnossa opit johtamaan ja uudistamaan julkista sektoria ja julkisia organisaatioita. Master Schoolin opintojaksoilla kehität ammattiosaamistasi talouden ja henkilöstön johtamisessa, strategioiden laatimisessa sekä julkisoikeuden sääntelyssä sekä hankintojen johtamisessa. Voit kytkeä opinnot oman työsi ja organisaatiosi toiminnan kehittämiseen. Yhdistät opinnoissasi tutkimusta, ajankohtaista teoreett
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037491>)
+
+### 70/100 — STRONG — Tradenomi (ylempi AMK), Strateginen johtaminen, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo, Vantaa
+Yhteenveto: Onko sinulla jo suoritettuja YAMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 30 opintopistettä tai hakevat siirtohaussa. Voit hakea tähän koulutukseen, jos sinulla on tradenomi (AMK) tai muu soveltuva korkeakoulututkinto. Käytössä on myös harkinnanvarainen valinta, jolloin hakukelpoisuuden antavaksi pohjakoulutukseksi voidaan hyväksyä soveltuva Suomessa suoritettu opistoasteen tai ammatillisen kor
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009791>)
+
+### 70/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Porvoo
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki, Porvoo
+Yhteenveto: Liiketoiminnan uudistamisen ja johtamisen koulutus on suunniteltu suoritettavaksi työn ohessa, mikä edesauttaa todellisten työelämän kehitystehtävien yhdistämisen opintoihin. Työn ja opintojen yhdistäminen vahvistaa juuri niitä taitoja ja osaamisia, joita opiskelija tarvitsee edetäkseen uralla. Liiketoiminnan uudistamisen ja johtamisen koulutus antaa valmiudet toimia vaativissa asiantuntija-, kehitys- ja esihenkilötehtävissä esimerkiksi kehittämi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011594>)
+
+### 70/100 — STRONG — Double Degree, Financial and Management Accounting, Master of Science (Economics and Business Administration) (2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: The Double Degree Programme in Financial and Management Accounting (FMA) is only available for double degree students according to the agreement between Pforzheim University, Germany and University of Oulu, Oulu Business School, Finland. To be eligible to apply, the applicant must be admitted to the FMA Master's Programme and have preliminary acceptance offer for the double degree programme from Pforzheim University. The Master Programme in Finan
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032564>)
 
 ### 70/100 — STRONG — Bachelor-level path studies, Bachelor of Business Administration, Business Information Systems, on-campus studies, Lahti
 
 LAB-ammattikorkeakoulu
 Lahti
-Yhteenveto: Avoimen ammattikorkeakoulun polkuopinnot soveltuvat sinulle, jos tähtäät tutkinto-opintoihin ja olet valmis sitoutumaan täysipäiväiseen opiskeluun. Polkuopinnot koostuvat kunkin koulutuksen ensimmäisen opiskeluvuoden opinnoista. Polkuopintojen laajuus on 55 opintopistettä. Polun suoritettuasi voit hakea avoimen väylän erillishaussa tutkinto-opiskelijaksi. Avoimessa ammattikorkeakoulussa opiskelu on maksullista. Lukukausimaksu on 100 € / lukukausi
-Koulutustyyppi: MODULE
+Yhteenveto: The path studies concept is used to refer to a set of open studies completed at a Finnish open UAS in a goal-oriented manner. We recommend path studies for motivated people whose aim is to apply for a LAB degree programme in the future. As a bachelor-level path student, your aim is to complete 55 credits of first year studies of a LAB degree programme at Open University of Applied Sciences, after which you can apply as a degree student in a separ
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
 Laajuus: 55.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; There is a semester-based fee for path studies. The fee is 100 € per semester + VAT 0 %. The bachelor-level path studies typically take two semesters to complete, so the all-in-all cost of the path studies is €200 + VAT 0 %.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-01T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4211,7 +4107,6 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 osaamista täydentävä kokonaisuus
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043280>)
 
@@ -4219,14 +4114,15 @@ Miksi / huomioitavaa:
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Avoimen AMK:n polkuopinnot ovat reitti tutkintoon! Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400 €. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintoj
-Koulutustyyppi: MODULE
+Yhteenveto: Open Studies’ path studies provide a channel to a degree As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Yo
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
 Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-01T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4234,68 +4130,22 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 osaamista täydentävä kokonaisuus
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043098>)
-
-### 70/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: Puolustus- ja turvallisuusalan tuotteiden ja palveluiden kysyntä on kasvanut viime vuosina merkittävästi. Tämä tarkoittaa kasvumahdollisuuksia niille yrityksille ja osaajille, joilla on kaupallisia ja teknisiä kyvykkyyksiä palvella ja ymmärtää puolustus- ja turvallisuusalaa. Tätä osaamista on tällä hetkellä työmarkkinoilla rajallinen määrä ja se muodostaa pullonkaulan monen yrityksen kasvumahdollisuuksille. Defence4SME-koulutus pyrkii auttamaan t
-Koulutustyyppi: MODULE
-Laajuus: 10.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041546>)
-
-### 70/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: Puolustus- ja turvallisuusalan tuotteiden ja palveluiden kysyntä on kasvanut viime vuosina merkittävästi. Tämä tarkoittaa kasvumahdollisuuksia niille yrityksille ja osaajille, joilla on kaupallisia ja teknisiä kyvykkyyksiä palvella ja ymmärtää puolustus- ja turvallisuusalaa. Tätä osaamista on tällä hetkellä työmarkkinoilla rajallinen määrä ja se muodostaa pullonkaulan monen yrityksen kasvumahdollisuuksille. Defence4SME-koulutus pyrkii auttamaan t
-Koulutustyyppi: MODULE
-Laajuus: 10.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041716>)
 
 ### 70/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, path studies
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Avoimen AMK:n polkuopinnot ovat reitti tutkintoon! Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400 €. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintoj
-Koulutustyyppi: MODULE
+Yhteenveto: Open Studies’ path studies provide a channel to a degree In path studies, you complete the first-year studies of a Bachelor’s degree in a group of degree students in an academic year. The extent of UAS path studies is about 60 ECTS credits. Open Studies are subject to a charge and the price of path studies is EUR 500. Path studies are full-time studies, and the presence requirement varies between the modes of teaching. Completing studies through 
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
 Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-01T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4303,55 +4153,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 osaamista täydentävä kokonaisuus
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043101>)
-
-### 70/100 — STRONG — Tekoäly - avain parempaan oppimiseen
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Tekoäly - avain parempaan oppimiseen -koulutusten tavoitteena on edistää tekoälyyn liittyvää ymmärrystä ja tekoälyn pedagogisesti tarkoituksenmukaista käyttöä. Koulutuksissa keskitytään kielimalliin pohjautuvaan tekoälyyn ja sen hyödyntämiseen niin opettajan kuin opiskelijan oppimisen tukena. Miten opettaja voi hyödyntää tekoälyä suunnittelussa ja opetusmateriaalin tuottamisessa sekä miten opiskelijat hyödyntävät oppimisessa tekoälyä sekä miten s
-Koulutustyyppi: MODULE
-Laajuus: 3.0–6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036311>)
-
-### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen ajoneuvoalalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, datan hyödyntämistä ja datataloutta sekä muutoksen johtamista. Tavoitteenamme on lisätä osallistujien valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jokapäiväisessä työssään.
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028721>)
 
 ### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen kuljetusalalla (Jotpa)
 
@@ -5019,6 +4822,79 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031595>)
+
+### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
+
+Laurea-ammattikorkeakoulu
+Espoo, Vantaa
+Yhteenveto: Onko sinulla jo suoritettuja YAMK-opintoja tai maisteritason opintoja yliopistosta? Seuraavat erillishaut ovat tarkoitettu hakijoille, joilla on jo aiempia ylempiä korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat hakukohtaiset kuvaukset. Tradenomin ylempi AMK-tutkinto antaa sinulle laaja-alaisen liiketalouden osaamisen, jota tarvitaan liiketoiminnan esimies-, kehittämis- ja asiantuntijatehtävissä. Tutkinto muodostuu monialaisista joht
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043944>)
+
+### 65/100 — STRONG — Avoin yo: Tietojenkäsittelytieteen aineopintoja, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Joensuu, Kuopio
+Yhteenveto: Aineopintoihin sisältyvistä opintojaksoista ovat lukuvuonna 2026-2027 tarjolla alla olevat opintojaksot. Lähiopetusosuudet järjestetään samanlaisina sekä Kuopion että Joensuun kampuksilla. Linkit alla ovat Pepin opinto-oppaaseen, josta näet kurssien sisällöt ja tarkemmat opetusaikataulut. Etäopetettavat: Android-ohjelmoinnin perusteet , 4 op (3621325), verkkokurssi suoritettavissa 1.9.2026–31.5.2027. Itsenäisesti omalla aikataululla opiskeltava v
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 62.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 20.0 (lähteen summa; tarkista ehdot) ; Lukuvuoden 2026-27 ajan opintojen hinta on 20 e/op. Tutustu avoimen yliopisto-opetuksen perumisehtoihin: Opinto-oikeus ja maksuehdot . Kirjallisuuden hankinta/lainauskulut eivät sisälly opintomaksuun.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040154>)
+
+### 65/100 — STRONG — Tekoäly - avain parempaan oppimiseen
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Tekoäly opettajan työn tukena 3 op Tavoite: Ymmärtää tekoälyn perusteet ja löytää sovelluksia opetustyöhön. Keskeiset sisällöt: Mitä tekoäly on? Tekoälyn soveltaminen opetus- ja ohjaustyössä Opetuksen suunnittelu Materiaalien laadinta Tiedonhaku Tietoturvallinen käyttäminen, tietosuoja sekä eettinen toiminta ja tekijänoikeudet Kehittämistehtävä: suunnittele ja kokeile tekoälyä hyödyntävä ratkaisu omaan opetukseen Opiskelijat tekoälyä hyödyntämäss
+Koulutustyyppi: MODULE
+Laajuus: 6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2025-11-21T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036311>)
 
 ### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -8302,7 +8178,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009390>)
 
-### 60/100 — REVIEW — Data-arkkitehtuuri, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
+### 60/100 — REVIEW — Ohjelmistot ja data-arkkitehtuuri, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
 
 Vaasan yliopisto
 Vaasa
@@ -10342,7 +10218,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041753>)
 
-### 60/100 — REVIEW — Kosmetiikan myynti ja neuvonta 35 osp - Jatkuva haku
+### 60/100 — REVIEW — Kosmetiikan myynti ja neuvonta 35 osp - Eduko
 
 Kouvolan Ammattiopisto Eduko
 Kouvola
@@ -14591,6 +14467,99 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037991>)
 
+### 55/100 — REVIEW — International Business Management, Master of Business Administration, Kouvola, full-time studies
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Develop expertise in international business management. Prepare for demanding management, development, and specialist roles. The International Business Management programme strengthens your competence in managing and developing business in international operating environments. After completing the degree, you will be able to analyse international business environments, develop business processes and customer-oriented operations, and apply marketi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 13500.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 13 500 /academic year. Read more about the tuition fees at Xamk.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038522>)
+
+### 55/100 — REVIEW — Finance, Master of Science (Economics and Business Administration) (2 yrs)
+
+Aalto-yliopisto
+Helsinki
+Yhteenveto: Rahoituksen opiskelussa tutkitaan päätöksentekoa riskitilanteessa. Opiskelijat oppivat analysoimaan ja mittaamaan riskejä sekä punnitsemaan niitä suhteessa mahdollisiin hyötyihin. Näitä periaatteita voidaan soveltaa monessa rahoituksen kontekstissa: silloin, kun yritykset punnitsevat eri rahoitusvaihtoehtoja tai silloin, kun sijoittaja muodostaa arvopaperisalkkuaan. Ohjelma antaa perustavanlaatuista tietoa siitä, miten yritykset keräävät varoja, 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008020>)
+
+### 55/100 — REVIEW — Työn ja hyvinvoinnin maisteriohjelma, Pori, yhteiskuntatieteiden maisteri (2 v)
+
+Tampereen yliopisto
+Pori
+Yhteenveto: Ei sisäänottoa vuonna 2027. Maisteriohjelmassa työtä ja hyvinvointia tarkastellaan monipuolisesti ja monitieteisesti, teemoina korostuvat työelämän laatu, työelämän suhteet ja sukupuoli, työvoiman käyttö ja työmarkkinat, työelämän vuorovaikutus, työyhteisöjen muutos ja kehittäminen sekä työhyvinvoinnin johtaminen. Sisältöosaamisen ohella maisteriohjelma tuottaa opiskelijalle monipuolista metodista osaamista, jossa korostuvat toimintatutkimuksen, 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033264>)
+
+### 55/100 — REVIEW — Early Admission, Technology, Environment and Societal Change, Master of Social Sciences (2 years), Lappeenranta
+
+Lappeenrannan-Lahden teknillinen yliopisto LUT
+Lappeenranta
+Yhteenveto: This master’s programme places you at the forefront of the sustainability transformation and the societal renewal it requires. Designed for forward-thinking students, it offers both conceptual and practical tools to understand and address sociotechnical challenges. As a graduate, you will be prepared for a wide variety of expert and leadership roles in sustainability, policy, and technology governance.
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; We offer an Early Bird discount of EUR 5 000 for the first academic year to students who are required to pay a tuition fee. To receive the discount, you must confirm your place and pay the remaining tuition fee of EUR 10 000 within 21 days from having been emailed the official email for admission.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025979>)
+
 ### 55/100 — REVIEW — Avoin yo: Kansainväliset muuttoliikkeet, liikkuvuus ja rajankäynti lv. 2026-2027
 
 Itä-Suomen yliopisto
@@ -14636,6 +14605,77 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038270>)
+
+### 55/100 — REVIEW — Master’s Programme in Engineering of Data-intensive Intelligent Software Systems (EDISS, Erasmus Mundus), Master of Science (Technology) (2 years), 2027
+
+Åbo Akademi
+Turku
+Yhteenveto: The first year studies in the programme take place at Åbo Akademi University, Finland. During this academic year, students will take courses worth 60 ECTS and the courses will cover the fundamentals of data science. The students will take part in a one-week Winter school during the second semester of the first academic year. The programme includes a mandatory internship that shall take place in the summer between the first and second year. More i
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; Costs of participation in the EDISS Master’s programme amount to 9 000 € per year. However, the EDISS programme offers Erasmus Mundus scholarships, EDISS scholarships (containing of a waiver of the participation costs and a monthly contribution to subsistence costs), and tuition fee waiver scholarsh
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043406>)
+
+### 50/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, polkuopinnot
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joustavampaa, vaan läsnäolovaatimukset koskevat polkuopiskelijoitakin. Tutkintoa polkuopinno
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-04T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030565>)
+
+### 50/100 — REVIEW — Business Opportunities in the Defence and Security industry - Defence4SME Training
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Puolustus- ja turvallisuusalan tuotteiden ja palveluiden kysyntä on kasvanut viime vuosina merkittävästi. Tämä tarkoittaa kasvumahdollisuuksia niille yrityksille ja osaajille, joilla on kaupallisia ja teknisiä kyvykkyyksiä palvella ja ymmärtää puolustus- ja turvallisuusalaa. Tätä osaamista on tällä hetkellä työmarkkinoilla rajallinen määrä ja se muodostaa pullonkaulan monen yrityksen kasvumahdollisuuksille. Defence4SME-koulutus pyrkii auttamaan t
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 10.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen rahoittama ja osallistujalle ilmainen.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041546>)
 
 ### 50/100 — REVIEW — Valtiotieteet ja politiikka
 
