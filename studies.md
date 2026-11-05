@@ -601,6 +601,277 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028721>)
 
+### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen kuljetusalalla (Jotpa)
+
+Minna Learning Oy
+Helsinki
+Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
+Koulutustyyppi: CONTINUING EDUCATION
+Laajuus: 27.0–108.0 tuntia
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028720>)
+
+### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen maatalousalalla (Jotpa)
+
+Minna Learning Oy
+Helsinki
+Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
+Koulutustyyppi: CONTINUING EDUCATION
+Laajuus: 27.0–108.0 tuntia
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028427>)
+
+### 95/100 — STRONG — Tekoälyn monitieteinen opintokokonaisuus (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Tekoälyn monitieteiseen opintokokonaisuuteen kuuluu useita eri teemoja käsitteleviä opintojaksoja, joita voi opiskella oman kiinnostuksen mukaan. Opintojaksoja on tarjonnassa jaksosta riippuen syys- tai kevätlukukaudella, osa on suoritettavissa koko lukuvuoden ajan. Opinnot järjestetään tutkinto-opetukseen integroituna opetuksena Turun yliopistossa, pääosin kokonaan verkossa. Osaan opintojaksoista sisältyy Exam-tentti. Exam-tenttejä voi suorittaa
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 1.0–45.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Tekoälyn perusteet 2 op, AI & Cybersecurity (MOOC) 2 ECTS ja Tekoälyn menetelmät 5 op -jaksot ovat maksuttomia. Muiden jaksojen opintomaksut ovat 18 euroa/opintopiste.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-26T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014480>)
+
+### 95/100 — STRONG — Kasvua datasta ja tekoälystä mikro- ja PK-yrityksille
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Ota data ja tekoäly hyötykäyttöön omassa työssäsi Tiedätkö miten yritykselläsi menee ja mistä löydät uudet kasvun siemenet? Kaipaatko uusia datapohjaisia näkökulmia myyntiin ja markkinointiin? Joko teillä on data- ja AI-strategiat ja tiekartat laadittuna? Tämä käytännönläheinen 8 opintopisteen koulutuskokonaisuus antaa valmiudet hyödyntää dataa, asiakastietoa ja tekoälyä tehokkaasti, turvallisesti ja vastuullisesti yrityksen kasvun vauhdittamisek
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 8.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043294>)
+
+### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen matkailu- ja ravintola-alalla (Jotpa)
+
+Minna Learning Oy
+Helsinki
+Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
+Koulutustyyppi: CONTINUING EDUCATION
+Laajuus: 27.0–108.0 tuntia
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028722>)
+
+### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen puhtaus-, kiinteistöpalvelu-, ja isännöintialoilla (Jotpa)
+
+Minna Learning Oy
+Helsinki
+Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
+Koulutustyyppi: CONTINUING EDUCATION
+Laajuus: 27.0–108.0 tuntia
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028723>)
+
+### 95/100 — STRONG — Datasta tehoa liiketoimintaan
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Datasta tehoa liiketoimintaan -koulutuksessa lisätään mikro- ja pk-yritysten työntekijöiden osaamista datan hyödyntämisestä liiketoiminnan kehittämisessä. Opinnot vahvistavat opiskelijan datan hyödyntämiseen liittyvää osaamista erityisesti liiketoiminnan kehittämisen näkökulmasta. Opintokokonaisuuden laajuus on yhteensä 15 op, ja koulutukseen osallistuva opiskelija voi valita opintokokonaisuudesta omaa osaamistaan parhaiten vahvistavat opintojaks
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 15.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043544>)
+
+### 95/100 — STRONG — CREA – Creative Business Toolkit
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: CREA – Creative Business Toolkit toteutetaan lukuvuoden 2026-2027 aikana. Lue lisää: https://www.hamk.fi/opinnot/crea-creative-business-toolkit/
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 20.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-01T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042533>)
+
+### 95/100 — STRONG — Markkinoinnin perusopinnot
+
+Helsingin seudun kesäyliopisto
+Helsinki
+Yhteenveto: Markkinoinnin opintokokonaisuudessa käsitellään markkinoiden rakenteita ja toimintaa, kilpailustrategioita, kuluttajakäyttäytymistä ja markkinointiviestintää sekä markkinoinnin suunnittelua ja johtamista. Voit syventyä myös vastuullisen markkinoinnin, kansainvälisen liiketoiminnan tai vähittäiskaupan teemoihin. Opinnot suoritettuasi ymmärrät markkinoinnin osana yritysten ja organisaatioiden ydintoimintoja. Opinnoista voi opiskella yksittäisiä opi
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 26.0–30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 390.0 (lähteen summa; tarkista ehdot) ; 390-660 €. Opintokokonaisuuden hinta riippuu opiskeltavien opintojaksojen määrästä: minimi 25 op, maksimi 44 op.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025229>)
+
+### 95/100 — STRONG — Avoin yo: Johtaminen aineopinnot (UEF) lv. 2026-2027
+
+Kymenlaakson kesäyliopisto
+Kouvola
+Yhteenveto: Johtaminen aineopinnot 30 op (UEF) Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asioiden johtamista opiskellaan mm. esihenkilötyön ja asiantuntijaorganisaation ja osaamisen näkökulmista. Johtamisen opinnot sopivat kaikille yritysten ja erilaisten organisaatioiden johtamisesta kiinnostuneille. Johtamisen aineopintokokonaisuudessa käsitellään organisaation ja asiakaslähtöisen liiketoimi
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0–36.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 530.0 (lähteen summa; tarkista ehdot) ; Hinta : Kymenlaakson kesäyliopiston maksu 170 € + Itä-Suomen avoimen yliopiston maksu 12€/op
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-15T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041130>)
+
+### 95/100 — STRONG — Avoin yo: Johtaminen, aineopinnot, lv. 2026-2027
+
+Päijät-Hämeen kesäyliopisto
+Lahti
+Yhteenveto: Johtamisen osaamista joustavasti verkossa! Johtamisen opinnoissa perehdytään organisaatioihin, johtamiseen ja johtajuuteen – niin ihmisten kuin asioiden johtamisen näkökulmasta. Opit tarkastelemaan johtamista esimerkiksi esihenkilötyön, asiantuntijaorganisaatioiden, muutosjohtamisen ja kilpailustrategioiden kautta. Opinnoissa käsitellään myös vastuullista liiketoimintaa ja johtamista tukevia analysointimalleja. Mikäli haluat suorittaa Johtamisen 
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; Hinta on Päijät-Hämeen kesäyliopiston perimä lukuvuosimaksu 90 € + Itä-Suomen avoimen yliopiston perimä maksu 12 € /opintopiste.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039957>)
+
 ### 90/100 — STRONG — Software Engineering and Information Systems, Master of Science (2 years)
 
 Oulun yliopisto
@@ -1825,6 +2096,456 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004166>)
 
+### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tekoälyn perusteet (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-01T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041547>)
+
+### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Kyberturvallisuus (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-01T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041549>)
+
+### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Ohjelmoinnin perusteet (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-01T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041548>)
+
+### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tietotekniikan laboratoriot (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina. Lähi- ja etäohjausta tarjolla sovittuina ajankohtina. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoaly-tyoelamassa-pk-yrityksille
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-01T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041550>)
+
+### 90/100 — STRONG — Open Uni: Processing of UAV remote sensing data with open-source software, 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Modes of study: Self-learning in DigiCampus platform. The self-assessment multi-choice questions are automated while the final assignment is assessed by a teacher. Teaching methods: Online materials, computer lab work, final assignment. The course is available online between Aug 1st, 2026 and July 30th, 2027. Completed course is assessed and study attainment published every other month. Open university students' study right will be valid until Ju
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 60.0 (lähteen summa; tarkista ehdot) ; Study units cost 20 € / ECTS credit. This price holds for the academic year 2026-2027. For more information on study fees and payment and cancellation terms, please see: Registration, study fees and right to study | University of Eastern Finland (uef.fi) . Right to study will cover the lessons and e
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-21T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039624>)
+
+### 90/100 — STRONG — Avoin yo: Tekoäly, algoritmit ja dataistuminen viestinnän kentällä lv. 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Suoritustavat Opintojakso suoritetaan osallistumalla luento-opetukseen ja tekemällä itsenäisiä harjoitustehtäviä. Opintojaksolla on seitsemän luentotapaamista (yht. 14 t.). Itsenäinen työskentely koostuu opintojaksolla annetusta kurssilukemistosta (46 t) ja harjoitustehtävistä (75 t). Aikataulu Opintojakso on suoritettavissa16.3.2027 – 14.5.2027. Kts. tarkemmat opetusajankohdat https://opas.peppi.uef.fi/fi/opintojakso/FH00FA44/143559?period=2026-
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste, ja opintokokonaisuuksille 15 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026–2027. Et voi ostaa opintokokonaisuutta, jos olet ostanut yksittäisiä opintojaksoja. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoi
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040389>)
+
+### 90/100 — STRONG — Tilastotiede ja data I (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Tilastotiede ja data I -opintojakson voi opiskella itsenäisesti suoritettavina verkko-opintoina. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/matemaattis-luonnontieteellinen-tiedekunta/matematiikka-tilastotiede
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-09T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025856>)
+
+### 90/100 — STRONG — Tilastotiede ja data II (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Tilastotiede ja data II (4 op) opintojakso järjestetään lähiopetuksena Turun yliopistossa. Luentojen materiaaleista tehdään koostetallenteet, joten jakso on mahdollista suorittaa koko lukuvuoden ajan myös itsenäisesti opiskellen verkko-opintoina. Opintosuorituksena on Exam-tenttipalvelussa suoritettava tentti. Tentin voi tehdä Turun yliopistossa ja lisäksi useiden muiden korkeakoulujen Exam-tenttipalvelujen tiloissa. Tarkemmat tiedot ovat opintoj
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 72.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-02T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025857>)
+
+### 90/100 — STRONG — AI & Cybersecurity (MOOC) (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: AI & Cybersecurity -opintojakson (2 op) voi opiskella itsenäisesti suoritettavina verkko-opintoina. Opintojakso on englanninkielinen ja se on suoritettavissa syys- ja kevätlukukaudella. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-23T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017406>)
+
+### 90/100 — STRONG — Avoin yo: Digital Platforms and Analytics, lv. 2026-2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Kurssi esittelee data-analytiikkatyökalut kategorioittain, BI- ja AI-dashboardit sekä vahvistaa asiantuntijuutta liike-elämän analytiikassa. Kurssilla keskitytään asiakkaiden sitoutumisen analysointiin ja tiivistämiseen digitaalisissa ympäristöissä, kilpailijoiden ja toimialan vertailuun sekä digitaalisten kanavien suorituskyvyn arviointiin ja parantamiseen. Opiskelijat oppivat tunnistamaan, hyödyntämään uudelleen ja tulkitsemaan KPI-mittareita e
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041434>)
+
+### 90/100 — STRONG — Avoin yo: Kestävän matkailun markkinointi ja myynti 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sisältö: Kestävän matkailun markkinointi, myynti ja brändäys, viherpesun tunnistaminen, markkinoinnin ja kestävyyden mittaaminen, mittausdatan hyödyntäminen, päästökompensaatiot Suoritustapa: Itsenäinen työskentely verkkoympäristössä, verkkotehtävien hyväksytty suoritus. Opiskelijan itsenäisen työn osuus: 27 t. Voit suorittaa opintojakson omassa aikataulussasi. Opettaja arvio suoritukset kerran kuukaudessa. Poikkeuksena opetuksen kesätauko 15.6-1
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 20.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040638>)
+
+### 90/100 — STRONG — Kauppatieteet: Markkinointi (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0–6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014965>)
+
+### 90/100 — STRONG — Englannin kieli ja liikeviestintä: Business Communication I ja II (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Englannin kielen ja liikeviestinnän opintojaksoja järjestetään syyslukukaudella ja kevätlukukaudella. Tarkista jaksojen opetusperiodit. Opetus pidetään Turussa, Porin yksikössä tai verkossa opintojaksosta riippuen. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-13T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019113>)
+
+### 90/100 — STRONG — Johtaminen ja organisointi: Business and Nature (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojakso järjestetään verkko-opintoina, jotka voi opiskella itsenäisesti. Katso tarkemmat tiedot opiskelutavoista ja esitietosuosituksista opintojen esittelysivulta: https://www.utu.fi/en/open-university-studies/courses/business-nature
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 36.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-20T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022454>)
+
+### 90/100 — STRONG — Kauppatieteet: Kansainvälinen liiketoiminta (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Turun kauppakorkeakoulun opintojaksot järjestetään lukuvuoden aikana neljän opetusperiodin aikataulujen mukaisesti. Tarkista, millä periodeilla kansainvälisen liiketoiminnan opintojaksot järjestetään ja miten ne toteutetaan. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0–29.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-20T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014963>)
+
+### 90/100 — STRONG — Kauppatieteet: Toimitusketjujen johtaminen (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0–14.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014969>)
+
+### 90/100 — STRONG — Liiketoiminta-ajattelu ja kaupallistaminen terveysteknologiassa
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Kurssi suoritetaan itsenäisenä opiskeluna verkko-oppimisympäristössä (verkko-opinnot, luentotallenteet ja verkkotehtävät), ja arvostellaan verkkotehtävien hyväksytyn suorituksen mukaan hyväksytty/hylätty. Opiskelijan itsenäisen työn osuus on n. 27 tuntia. Kurssi suoritetaan oman aikataulun mukaan ajalla 5.5.–15.12.2026.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Opintojakso on maksuton Jatkuvan oppimisen ja työllisyyden palvelukeskuksen (JOTPA) rahoittaman Terveysteknologian osaamistarpeet-hankkeen ajan (hanke päättyy 31.12.2026).
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038686>)
+
+### 90/100 — STRONG — Avoin yo: Innovative Entrepreneurship MOOC, lv. 2026-2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Unlock your entrepreneurial potential with our Innovative Entrepreneurship MOOC, designed for learners who want to turn ideas into real opportunities. This course gives you the tools, mindset, and confidence to identify problems, create value, and develop solutions that matter. Through engaging online video tutorials, practical examples, and quizzes, you’ll learn how innovators think and how successful entrepreneurs build, test, and refine their 
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-07-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041421>)
+
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
@@ -2113,6 +2834,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037282>)
 
+### 85/100 — STRONG — Tradenomi (AMK), Markkinointi ja myynti, monimuotototeutus, Salo, polkuopinnot
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400€ (lukuvuosi). Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joust
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-01T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
+
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
 Metropolia Ammattikorkeakoulu
@@ -2136,6 +2881,198 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041716>)
+
+### 80/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Tiedätkö mitä tekoäly on? Tiedätkö mihin sitä voi käyttää? Tällä kurssilla voit saada vastauksia näihin sekä moniin muihin tekoälyyn liittyviin kysymyksiin.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-03T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041057>)
+
+### 80/100 — STRONG — Oikeus ja tekoäly: johdatus tematiikkaan (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojakso järjestetään Turun yliopistossa ja opetuksen voi seurata myös verkossa. Jakson tentti suoritetaan Exam-tenttipalvelussa. Tenttejä voi tehdä myös muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Alustavan tiedon mukaan jakso järjestetään tammi-maaliskuussa 2026. Tarkemmat tiedot ovat opintojen esittelysivuilla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/oikeustieteellisen-tiedekunnan-opinnot/oikeustie
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-06T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022334>)
+
+### 80/100 — STRONG — Yleinen tekoäly ja teoriat mielestä (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojaksoon kuuluu luentotallenteita ja tapaamisia joko Turun yliopistossa ja verkossa. Tarkista aikataulut ja muut tiedot opintojen esittelysivulta: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022335>)
+
+### 80/100 — STRONG — Oikeus ja tekoäly: julkisen ja yksityisen vallan välissä (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojakso suoritetaan itsenäisesti verkko-opintoina ja siihen sisältyy Exam-tentti. Tenttejä voi tehdä myös muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Alustavan tiedon mukaan opintojakso järjestetään helmi-maaliskuussa 2026. Tarkemmat tiedot ovat opintojen esittelysivuilla. https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/oikeustieteellisen-tiedekunnan-opinnot/oikeustiede https://www.utu.fi/fi/avoin-yliopisto-
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-06T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022338>)
+
+### 80/100 — STRONG — Open Uni: Digital Transformation in Business, spring 2027, online studies
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Content The main theoretical concepts of digital transformation, the role of digital transformation in the international business. Digital processes, models, and development. Study methods: Online-course, Workshops (online) Studying is independent. Academic studies require self-direction, good study skills, and planning. The course has predetermined completion dates. Retaking an exam or increasing your grade also takes place on these course-speci
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; The study fee is 20 euros per ECTS credit for individual study units, and 15 euros per credit for study modules. The study fee is paid at registration. By paying the study fee, the student receives a temporary right to study that entitles them to attend a particular course. The right to study is cou
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-02-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039534>)
+
+### 80/100 — STRONG — Avoin yo: EU Business Law, kevät 2027
+
+Itä-Suomen yliopisto
+Joensuu
+Yhteenveto: More information in course catalogue. Please, check timetables before registration and payment. The course has two methods of study: Mode of study 1: Lectures (15-20 hours) covering main issues of course literature with insights from recent practice (eg guest lecture with lawyer from European Commission), voluntary written assignments (2) during the course which can contribute max. 2 points towards the score of the final exam, Electronic exam (EX
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Ilmoittaudu yksittäisille opintojaksoille 20€. Hinnat ovat voimassa lukuvuoden 2026-2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeus päättyy aina viimeistään 30.7.2026. Kirjallisuuden hankinta/lainauskulut eivät si
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-05-14T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038266>)
+
+### 80/100 — STRONG — Avoin yo: Academic and Professional English for Business, kevät 2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Suoritustavat: Opintojaksoa varten opiskelijan tulee varata 108 tuntia. Opintojaksolla on esim. luentoja, suullisia ja kirjallisia yksilö- ja ryhmätehtäviä, itsenäistä työskentelyä, keskusteluita ja pienimuotoisia esitelmiä. Opiskelijalta edellytetään aktiivista osallistumista opetukseen, joka voi olla sekä kaikille yhteistä että pienryhmiin jaettua lähi- ja/tai etäopetusta, johon opiskelijan on osallistuttava opettajan ilmoittamalla tavalla. Opi
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026 - 2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039098>)
+
+### 80/100 — STRONG — Avoin yo: Kulttuurienvälinen viestintä ja asiakassuhteiden johtaminen, lv.2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sisältö Kulttuuri, kulttuurienvälinen viestintä, kulttuurinen älykkyys ja kulttuurienvälisen viestinnän keskeiset teoriat. Asiakassuhteet ja niiden kehittyminen (B2C ja B2B näkökulmat). Asiakassuhteiden strateginen johtaminen (segmentointi, avainasiakkuudet, tuottavuus) Suoritustapa: Verkkovälitteiset aikataulutetut luennot ja tehtävät (24 t), itsenäinen työskentely (138 t). Opiskelu on itsenäistä. Akateeminen opiskelu edellyttää itseohjautuvuutt
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-24T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039150>)
 
 ### 75/100 — STRONG — Tietojenkäsittelytiede, Joensuu, filosofian maisteri (2 v)
 
@@ -3379,6 +4316,104 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041537>)
 
+### 75/100 — STRONG — Avoin yo: European Health Data Space in a Nutshell (Sámi), 2026-2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: European Health Data Space in a Nutshell (MOOC) is open to all and free-of-charge. You can complete the course at your own pace. To enroll in this MOOC, you must first complete the course in DigiCampus. Once you have done so, you can proceed with the enrollment process in DigiCampus.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040547>)
+
+### 75/100 — STRONG — Avoin yo: Introduction to European Health Data Space, 2026-2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Introduction to European Health Data Space (AVOIN YO) -MOOC on kaikille avoin ja ilmainen verkkokurssi. Voit suorittaa kurssin omassa tahdissasi, sinulle sopivana ajankohtana toteutusaikojen puitteissa. Avoimina yliopisto-opintoina suoritettavaan MOOCiin ilmoittaudutaan DigiCampuksen kautta. Tarkemmat ohjeet DigiCampuksessa.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-07-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040537>)
+
+### 75/100 — STRONG — Kauppatieteet: Johtaminen ja organisointi (avoin yliopisto-opetus)
+
+Turun yliopisto
+Pori
+Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014839>)
+
+### 75/100 — STRONG — Kauppatieteet: Yrittäjyys (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0–27.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014970>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -4156,386 +5191,19 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043101>)
 
-### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen kuljetusalalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, datan hyödyntämistä ja datataloutta sekä muutoksen johtamista. Tavoitteenamme on lisätä osallistujien valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jokapäiväisessä työssään.
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028720>)
-
-### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen maatalousalalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, datan hyödyntämistä ja datataloutta sekä muutoksen johtamista. Tavoitteenamme on lisätä osallistujien valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jokapäiväisessä työssään.
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028427>)
-
-### 70/100 — STRONG — Tekoälyn hyödyntäminen ja ohjelmistorobotiikka (JOTPA)
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Generatiivinen tekoäly on yksi mullistavimmista keksinnöistä viime vuosien aikana. Tekoälyn avulla voit generoida erilaisia sisältöjä ja automatisoida työtehtäviä. Tule oppimaan, miten voit hyödyntää uusimpia tekoälypalveluita työssäsi. Koulutuksessa syvennyt tekoälypalveluiden ammattimaiseen hyödyntämiseen sekä yksityisen generatiivisen tekoälyn käyttöön. Lisäksi opit, miten voit hyödyntää tekoälyä ohjelmoinnissa ja ohjelmistorobotiikassa. Koulu
-Koulutustyyppi: MODULE
-Laajuus: 1.0–10.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030388>)
-
-### 70/100 — STRONG — Tekoälyn monitieteinen opintokokonaisuus (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Turun yliopiston Tekoälyakatemian tuottama Tekoälyn monitieteinen opintokokonaisuus käsittelee nykyajan työelämän asiantuntijoiden tekoäly-osaamiselle olennaisia kysymyksiä: mitä tekoäly on, millaisia tekoälysovelluksia on olemassa ja miten tekoäly vaikuttaa yhteiskunnan eri osa-alueisiin. Tekoälyn monitieteisen opintokokonaisuuden tavoitteena on antaa opiskelijoille valmiudet ymmärtää tekoälyn merkitys ja sen yleistymisen mukanaan tuomia muutoks
-Koulutustyyppi: MODULE
-Laajuus: 1.0–45.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014480>)
-
-### 70/100 — STRONG — Kasvua datasta ja tekoälystä mikro- ja PK-yrityksille
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Data, tekoäly ja kyberturvallisuus muuttavat työelämää vauhdilla. Haluatko ymmärtää, mitä ne tarkoittavat juuri sinun työssäsi ja organisaatiossasi? Tämä käytännönläheinen 8 opintopisteen koulutuskokonaisuus antaa valmiudet hyödyntää dataa, asiakastietoa ja tekoälyä tehokkaasti, turvallisesti ja vastuullisesti. Kokonaisuuden päätteeksi toteutat käytännön projektin, jossa sovellat oppimaasi oman työsi tai työelämälähtöisen kehittämistehtävän kautt
-Koulutustyyppi: MODULE
-Laajuus: 2.0–8.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043294>)
-
-### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen matkailu- ja ravintola-alalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, datan hyödyntämistä ja datataloutta sekä muutoksen johtamista. Tavoitteenamme on lisätä osallistujien valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jokapäiväisessä työssään.
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028722>)
-
-### 70/100 — STRONG — Tekoälyn hyödyntämisosaaminen puhtaus-, kiinteistöpalvelu-, ja isännöintialoilla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, datan hyödyntämistä ja datataloutta sekä muutoksen johtamista. Tavoitteenamme on lisätä osallistujien valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jokapäiväisessä työssään.
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028723>)
-
-### 70/100 — STRONG — Datasta tehoa liiketoimintaan
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Datasta tehoa liiketoimintaan -koulutuksessa lisätään mikro- ja pk-yritysten työntekijöiden osaamista datan hyödyntämisestä liiketoiminnan kehittämisessä. Opinnot vahvistavat opiskelijan datan hyödyntämiseen liittyvää osaamista erityisesti liiketoiminnan kehittämisen näkökulmasta. Opintokokonaisuuden laajuus on yhteensä 15 op, ja koulutukseen osallistuva opiskelija voi valita opintokokonaisuudesta omaa osaamistaan parhaiten vahvistavat opintojaks
-Koulutustyyppi: MODULE
-Laajuus: 5.0–15.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043544>)
-
-### 70/100 — STRONG — Avoin yo: Datatieteen perusopinnot, lv. 2026-2027
-
-Itä-Suomen yliopisto
-Joensuu, Kuopio
-Yhteenveto: Datatiede tutkii ja kehittää menetelmiä datan analysointiin ja tiedon löytämiseen suurista datajoukoista. Datatieteessä yhdistyvät tilastotiede ja useat tietojenkäsittelytieteen alat (algoritmiikka, hahmontunnistus, koneoppiminen, tekoäly, jne.) Datatieteen sivuaineopinnot soveltuvat kaikille opiskelijoille, ja datalähtöisen tutkimuksen yleistyessä kaikilla aloilla datatieteen opinnot ovat erityisen tärkeitä tutkijan uraa suunnitteleville. Datati
-Koulutustyyppi: MODULE
-Laajuus: 25.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040192>)
-
-### 70/100 — STRONG — Syvenny data-analytiikkaan ja koneoppimiseen
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Avoimen ammattikorkeakoulun osaamiskokonaisuudet ovat tiiviitä paketteja, joissa voit hankkia juuri sinulle sopivaa täsmäosaamista. Opintojen laajuus vaihtelee muutamasta opintopisteestä 60 opintopisteen korkeakouludiplomeihin. Osaamiskokonaisuudet muodostuvat korkeakoulututkintojen osista - alalle soveltuvat, suoritetut opinnot voi myöhemmin sisällyttää osaksi tutkintoa. Osaamiskokonaisuudet sopivat sinulle, joka haluat syventävää osaamistasi ti
-Koulutustyyppi: MODULE
-Laajuus: 1.0–60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040089>)
-
-### 70/100 — STRONG — Myynti ja markkinointi pienyrityksille
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Avoimen ammattikorkeakoulun osaamiskokonaisuudet ovat tiiviitä paketteja, joissa voit hankkia juuri sinulle sopivaa täsmäosaamista. Opintojen laajuus vaihtelee muutamasta opintopisteestä 60 opintopisteen korkeakouludiplomeihin. Osaamiskokonaisuudet muodostuvat korkeakoulututkintojen osista - alalle soveltuvat, suoritetut opinnot voi myöhemmin sisällyttää osaksi tutkintoa. Osaamiskokonaisuudet sopivat sinulle, joka haluat syventävää osaamistasi ti
-Koulutustyyppi: MODULE
-Laajuus: 1.0–60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040058>)
-
-### 70/100 — STRONG — Tradenomi (AMK), Markkinointi ja myynti, monimuotototeutus, Salo, polkuopinnot
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Avoimen AMK:n polkuopinnot ovat reitti tutkintoon! Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400 €. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintoj
-Koulutustyyppi: MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
-
-### 70/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus, polkuopinnot
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Avoimen AMK:n polkuopinnot ovat reitti tutkintoon! Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400 €. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintoj
-Koulutustyyppi: MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030557>)
-
-### 70/100 — STRONG — Myyntityö ja myynnin johtaminen (JOTPA)
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Valtionavustuksella toteuttavilla tuulivoima-alan osaamispalveluiden avulla vastataan Etelä-Pohjanmaan alueella olevaan osaajatarpeeseen tuulivoimahankkeiden eri vaiheissa. Avustuksella toteutetaan ammatillisen toisen asteen ja korkeakoulutuksen yhteinen koulutustarjotin sekä alaan liittyvää ohjausta ja markkinointia, jotka edistävät tuulivoima-alalla jo työskentelevien sitoutumista alaan sekä toisella alalla tai työelämän ulkopuolella olevien al
-Koulutustyyppi: MODULE
-Laajuus: 1.0–55.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028194>)
-
-### 70/100 — STRONG — CREA – Creative Business Toolkit
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Osaamispalvelun taustalla on Valtioneuvoston Luovan talouden kasvustrategia 2025-2030, joka käsittelee muiden muassa osaamista ja ennakointia. Koulutuksen tavoitteena on pk-, mikro- ja freelanceyrittäjien kyvykkyyden kasvattaminen vientiin sekä viennin aloittamiseen tekstiili-, vaatetus- ja muotoilualoilla. Koulutuskokonaisuudessa keskitytään erityisesti arvoketjun loppupäähän; tuotteiden ja palveluiden levittämiseen, jakeluun, markkinointiin ja 
-Koulutustyyppi: MODULE
-Laajuus: 1.0–20.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042533>)
-
-### 70/100 — STRONG — Sustainable consultation for companies and sustainable, innovative business models
-
-Hämeen ammattikorkeakoulu
-Valkeakoski
-Yhteenveto: In the studies of Sustainable consultation for companies and sustainable, innovative business models you will deepen your understanding of sustainable development, sustainability consultation, energy wisdom, business design as well as sustainable and innovative business models. The training aims to increase the knowledge of the commercial and technical development of clean transition among professionals working in the export sector. Content areas
-Koulutustyyppi: MODULE
-Laajuus: 1.0–21.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028293>)
-
 ### 70/100 — STRONG — Bachelor-level path studies, Bachelor of Business Administration, International Business, on-campus studies, Lahti
 
 LAB-ammattikorkeakoulu
 Lahti
-Yhteenveto: Avoimen ammattikorkeakoulun polkuopinnot soveltuvat sinulle, jos tähtäät tutkinto-opintoihin ja olet valmis sitoutumaan täysipäiväiseen opiskeluun. Polkuopinnot koostuvat kunkin koulutuksen ensimmäisen opiskeluvuoden opinnoista. Polkuopintojen laajuus on 55 opintopistettä. Polun suoritettuasi voit hakea avoimen väylän erillishaussa tutkinto-opiskelijaksi. Avoimessa ammattikorkeakoulussa opiskelu on maksullista. Lukukausimaksu on 100 € / lukukausi
-Koulutustyyppi: MODULE
+Yhteenveto: The path studies concept is used to refer to a set of open studies completed at a Finnish open UAS in a goal-oriented manner. We recommend path studies for motivated people whose aim is to apply for a LAB degree programme in the future. As a bachelor-level path student, your aim is to complete 55 credits of first year studies of a LAB degree programme at Open University of Applied Sciences, after which you can apply as a degree student in a separ
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
 Laajuus: 55.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; There is a semester-based fee for path studies. The fee is 100 € per semester + VAT 0 %. The bachelor-level path studies typically take two semesters to complete, so the all-in-all cost of the path studies is €200 + VAT 0 %.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-01T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4543,285 +5211,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 osaamista täydentävä kokonaisuus
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037632>)
-
-### 70/100 — STRONG — Markkinoinnin perusopinnot
-
-Helsingin seudun kesäyliopisto
-Helsinki
-Yhteenveto: Markkinoinnin opintokokonaisuudessa käsitellään markkinoiden rakenteita ja toimintaa, kilpailustrategioita, kuluttajakäyttäytymistä ja markkinointiviestintää sekä markkinoinnin suunnittelua ja johtamista. Voit syventyä myös vastuullisen markkinoinnin tai kansainvälisen liiketoiminnan  teemoihin. Opinnot suoritettuasi ymmärrät markkinoinnin osana yritysten ja organisaatioiden ydintoimintoja. Opintojen jälkeen osaat soveltaa markkinoinnin peruskäsi
-Koulutustyyppi: MODULE
-Laajuus: 26.0–30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025229>)
-
-### 70/100 — STRONG — Johtaminen ja kehittäminen gerontologian alalla -osaajakoulutus
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Opintojen aikana pureudutaan gerontologian alan johtamisen ja kehittämisen haasteisiin sekä tulevaisuuden toimintaympäristöihin. Koulutuksen suorittanut osaa vaikuttaa vanhuspalveluiden uudistamiseen. Opintojen keskeisiä sisältöjä ovat: Gerontologisen asiantuntijuuden ammatillinen ympäristö Gerontologisen työn kehittäminen ja eettisyys
-Koulutustyyppi: MODULE
-Laajuus: 30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026232>)
-
-### 70/100 — STRONG — Johtaminen ja kehittäminen gerontologian alalla -osaajakoulutus
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Opintojen aikana pureudutaan gerontologian alan johtamisen ja kehittämisen haasteisiin sekä tulevaisuuden toimintaympäristöihin. Koulutuksen suorittanut osaa vaikuttaa vanhuspalveluiden uudistamiseen. Opintojen keskeisiä sisältöjä ovat: Gerontologisen asiantuntijuuden ammatillinen ympäristö Gerontologisen työn kehittäminen ja eettisyys
-Koulutustyyppi: MODULE
-Laajuus: 30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033018>)
-
-### 70/100 — STRONG — Johtaminen ja opetushallinto, 25 op
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Johtaminen ja opetushallinto-opintokokonaisuus vastaa opetustoimen henkilöstön kelpoisuusvaatimuksissa esitettyjä rehtorin kelpoisuuteen kuuluvia yliopiston järjestämiä opetushallinnon opintoja (asetus 14.12.1998/986, 2§). Koulutus on suunnattu rehtorin tehtäviin hakeutumista suunnitteleville opettajille. Rehtorilta edellytetään opettajan kelpoisuutta sille kouluasteelle, jossa toimii rehtorina. Opintokokonaisuus muodostuu viidestä jaksosta, jois
-Koulutustyyppi: MODULE
-Laajuus: 25.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029318>)
-
-### 70/100 — STRONG — Johtamisen opintoja (avoin yliopisto-opetus)
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Johtamisesta on tullut entistä merkittävämpi osa koko yhteiskunnan ja ihmisten arkielämän hallintaa. Hyvä johtaminen on edellytys toiminnan sujuvuudelle ja menestykselle liiketoiminnassa, julkisella sektorilla, kansalaisjärjestöissä ja -liikkeissä sekä poliittisissa organisaatioissa. Tarkemmat tiedot opintojaksoista ja -kokonaisuuksista, kuten opintojen toteutuksesta, aikatauluista ja suoritustapavaihtoehdoista, löydät verkkosivuiltamme (ks. opin
-Koulutustyyppi: MODULE
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000013417>)
-
-### 70/100 — STRONG — Avoin yo: Johtaminen aineopinnot (UEF) lv. 2026-2027
-
-Kymenlaakson kesäyliopisto
-Kouvola
-Yhteenveto: Johtamisen aineopintokokonaisuudessa käsitellään organisaation ja asiakaslähtöisen liiketoiminnan jatkuvaa kehittämistä. Johtamisen opinnoissa keskeisiä teemoja ovat yritysten ja yhteisöjen rakentuminen ja kehittäminen, yhteisöjen moninaisuus ja vastuullinen johtaminen sekä vuorovaikutus ja viestintä johtamisessa ja muutostilanteissa. Itä-Suomen yliopiston Avoin yliopisto järjestää johtamisen aineopinnot etä- ja verkko-opintoina. Opetus on Itä-Su
-Koulutustyyppi: MODULE
-Laajuus: 30.0–36.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041130>)
-
-### 70/100 — STRONG — Avoin yo: Johtaminen, aineopinnot, lv. 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Johtamisen aineopintokokonaisuudessa käsitellään organisaation ja asiakaslähtöisen liiketoiminnan jatkuvaa kehittämistä. Johtamisen opinnoissa keskeisiä teemoja ovat yritysten ja yhteisöjen rakentuminen ja kehittäminen, yhteisöjen moninaisuus ja vastuullinen johtaminen sekä vuorovaikutus ja viestintä johtamisessa ja muutostilanteissa. Itä-Suomen yliopiston Avoin yliopisto järjestää johtamisen aineopinnot etä- ja verkko-opintoina. Opetus on Itä-Su
-Koulutustyyppi: MODULE
-Laajuus: 30.0–36.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037898>)
-
-### 70/100 — STRONG — Avoin yo: Johtaminen, aineopinnot, lv. 2026-2027
-
-Päijät-Hämeen kesäyliopisto
-Lahti
-Yhteenveto: Johtamisen aineopintokokonaisuudessa käsitellään organisaation ja asiakaslähtöisen liiketoiminnan jatkuvaa kehittämistä. Johtamisen opinnoissa keskeisiä teemoja ovat yritysten ja yhteisöjen rakentuminen ja kehittäminen, yhteisöjen moninaisuus ja vastuullinen johtaminen sekä vuorovaikutus ja viestintä johtamisessa ja muutostilanteissa. Itä-Suomen yliopiston Avoin yliopisto järjestää johtamisen aineopinnot etä- ja verkko-opintoina. Opetus on Itä-Su
-Koulutustyyppi: MODULE
-Laajuus: 30.0–36.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039957>)
-
-### 70/100 — STRONG — Työelämä, oppiminen ja johtaminen (avoin yliopisto-opetus)
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Työelämä, oppiminen ja johtaminen -moduulin opinnoilla voit vahvistaa osaamistasi teemaan liittyvistä aiheista.  Voit suorittaa moduulista joko yksittäisiä jaksoja tai 15–25 opintopistettä ja koota ne yhdeksi kokonaisuudeksi. Teemaan kuuluvia opintojaksoja ovat mm. Pedagoginen johtajuus, Oppiminen ja asiantuntijuus työssä, organisaatioissa ja verkostoissa, Talousosaaminen. Tarkempia tietoja Helsingin yliopiston verkkopalvelussa .
-Koulutustyyppi: MODULE
-Laajuus: 15.0–25.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025635>)
-
-### 70/100 — STRONG — Vastuullisen kuljetusyrityksen johtaminen
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Vastuullisen kuljetusyrityksen johtaminen -koulutus on kuljetusyrityksille räätälöityä koulutusta. Koulutuksen aikana yrityksessä viedään läpi konkreettinen kehitysprojekti, jonka avulla kehitetään yrityksen päivittäistä toimintaa tai laitetaan liikkeelle pitkäaikaisempi muutosprosessi. Koulutuksessa hankitun osaamisen jalkauttaminen yrityksen työntekijöille tai kumppaneille on koulutuksen keskeinen tavoite. Koulutuksen jälkeen sinulla on työkalu
-Koulutustyyppi: MODULE
-Laajuus: 24.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024144>)
-
-### 70/100 — STRONG — Senioreiden liiketoiminta- ja digiosaamisen vahvistaminen tavoitteena yrittäjyys tai työllistyminen
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Tämä verkkokoulutus on suunniteltu jo pidempään työelämässä olleille tai jo eläköityneille esihenkilö- tai asiantuntijatehtävissä työskennelleille. Oli tavoitteenasi sitten päivittää osaamistasi tai palata työelämään – ilmoittaudu 26.2.2024 mennessä! Koulutus toteutetaan yhteistyössä Jyväskylän ammattikorkeakoulu Jamkin ja Centria-ammattikorkeakoulun kanssa. Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen rahoittama. Palvelukeskus
-Koulutustyyppi: MODULE
-Laajuus: 2.0–30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022383>)
-
-### 70/100 — STRONG — Monialainen sosiaali- ja terveyspalvelujen johtaminen, 25–30 op
-
-Helsingin seudun kesäyliopisto
-Helsinki
-Yhteenveto: Huom.! Sosiaali- ja terveyshallintotieteen perusopinnot (25 op) sekä sosiaali- ja terveydenhuollon tiedonhallinnan perusopinnot (25 op) ovat 1.8.2025 alkaen korvautuneet Monialainen sosiaali- ja terveyspalvelujen johtaminen -opintokokonaisuudella. Ennen 1.8.2025 aloitetut perusopinnot voidaan soveltuvin osin sisällyttää tai korvata uuteen kokonaisuuteen. Monialainen sosiaali- ja terveyspalvelujen johtaminen -opintokokonaisuus soveltuu erinomaises
-Koulutustyyppi: MODULE
-Laajuus: 20.0–30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031595>)
 
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
@@ -4896,41 +5287,362 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036311>)
 
-### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
+### 65/100 — STRONG — Avoin yo: Datatieteen perusopinnot, lv. 2026-2027
 
-Oulun yliopisto
-Oulu
-Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
+Itä-Suomen yliopisto
+Joensuu, Kuopio
+Yhteenveto: Opintokokonaisuus (25 op) koostuu seuraavista opintojaksoista: Pakolliset (14 op): Tilastotieteen johdantokurssi 5 op (3622230) aikataulutettu monimuoto-opetus tai omatoiminen etäopiskelu 2.9.–4.11.2026. Kurssin voi muuten opiskella kokonaan etänä, mutta tenttiminen (kurssikuulustelu 4.11., uusintakuulustelu 9.12.) tapahtuu valvotusti salissa kampuksella. Esitiedoiksi suositellaan lukion lyhyttä tai pitkää matematiikkaa; lyhyestä erityisesti kurs
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: maksullinen: 375.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 €/opintopiste; kokonaisuuspaketin 15 €/opintopiste. Hinnat ovat voimassa lukuvuoden 2025-2026. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukais
+Toteutus: HYBRID
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: CLOSED
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040482>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040192>)
+
+### 65/100 — STRONG — Syvenny data-analytiikkaan ja koneoppimiseen
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Haluatko muuttaa datamassat vaikuttavaksi tiedoksi? Data-analytiikan osaamisen avulla muutat yksittäiset datarivit kokonaisuuksiksi, joiden avulla organisaatio voi tehdä tietoon perustuvia päätöksiä, realistisia ennusteita sekä tehostaa toimintaansa. Data-analytiikka 2 -koulutuksessa pääset kehittämään osaamistasi käytännönläheisesti. Koulutuksen jälkeen osaat analysoida ja visualisoida dataa, tunnet koneoppimisen perusteet sekä hallitset erilais
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 15.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 225.0 (lähteen summa; tarkista ehdot) ; Opintomaksu maksetaan ilmoittautumisen yhteydessä verkkopankissa. Paytrailissa on mahdollisuus valita maksutavaksi myös lasku tai osamaksu: OP Lasku, OP Tililuotto, Walley tai Klarna. Saat ilmoittautumisen jälkeen automaattiviestin (sis. maksutiedot), mikäli tarvitset kuittia maksustasi.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-09T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040089>)
+
+### 65/100 — STRONG — Myynti ja markkinointi pienyrityksille
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Haluatko saada enemmän tuloksia yrityksesi markkinoinnista ja myynnistä? Myynti ja markkinointi pienyrityksille -koulutus auttaa sinua kehittämään markkinointia suunnitelmallisesti, asiakaslähtöisesti ja pk-yrityksen resurssit huomioiden. Käytännönläheisessä verkkokoulutuksessa opit hyödyntämään asiakasymmärrystä, suunnittelemaan tavoitteellista markkinointia ja tekemään parempia päätöksiä dataan pohjautuen. Voit ottaa opitut työkalut ja toiminta
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 75.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-06T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040058>)
+
+### 65/100 — STRONG — Myyntityö ja myynnin johtaminen (JOTPA)
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: Opiskelija hallitsee myyntityön perusteet. Opiskelija osaa kuvata myyntityön roolia markkinointiviestinnän kokonaisuudessa. Opiskelija osaa arvioida myyntitilanteita ja omia vahvuuksiaan ja kehittymistarpeitaan myyjänä. Opiskelija osaa analysoida ja suunnitella myyntityötä ja sen johtamista.
+Koulutustyyppi: MODULE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on osallistujalle maksuton. Koulutus toteutetaan osana TUULI – Uutta nostetta tuulivoima-alan osaajatarpeisiin ohjauksella ja osaamisella (JOTPA) Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan t
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028194>)
+
+### 65/100 — STRONG — Sustainable consultation for companies and sustainable, innovative business models
+
+Hämeen ammattikorkeakoulu
+Valkeakoski
+Yhteenveto: Sustainable consultation for companies and sustainable, innovative business models runs from November 2024 to April 2025. Read more: Sustainable consultation for companies and sustainable, innovative business models - HAMK
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 21.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-11-22T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028293>)
+
+### 65/100 — STRONG — Johtaminen ja kehittäminen gerontologian alalla -osaajakoulutus
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Opintojen aikana pureudutaan gerontologian alan johtamisen ja kehittämisen haasteisiin sekä tulevaisuuden toimintaympäristöihin. Koulutuksen suorittanut osaa vaikuttaa vanhuspalveluiden uudistamiseen. Opintojen keskeisiä sisältöjä ovat: Gerontologisen asiantuntijuuden ammatillinen ympäristö Gerontologisen työn kehittäminen ja eettisyys
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 360.0 (lähteen summa; tarkista ehdot) ; Avoimen AMK:n opinnoista peritään opintomaksu. Osaajakoulutuksen opintojen hinta on 360€. Opintomaksu maksetaan opintojen alkaessa. Valitut opiskelijat saavat sähköpostiinsa ohjeet opintomaksun maksamiseen. Opiskelupaikan vastaanottaminen Opintopolussa on sitova. Tarkat peruutusehdot löytyvät Turun 
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026232>)
+
+### 65/100 — STRONG — Johtaminen ja kehittäminen gerontologian alalla -osaajakoulutus
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Opintojen aikana pureudutaan gerontologian alan johtamisen ja kehittämisen haasteisiin sekä tulevaisuuden toimintaympäristöihin. Koulutuksen suorittanut osaa vaikuttaa vanhuspalveluiden uudistamiseen. Opintojen keskeisiä sisältöjä ovat: Gerontologisen asiantuntijuuden ammatillinen ympäristö Gerontologisen työn kehittäminen ja eettisyys
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 360.0 (lähteen summa; tarkista ehdot) ; Avoimen AMK:n opinnoista peritään opintomaksu. Osaajakoulutuksen opintojen hinta on 360€. Opintomaksu maksetaan opintojen alkaessa. Valitut opiskelijat saavat sähköpostiinsa ohjeet opintomaksun maksamiseen. Opiskelupaikan vastaanottaminen Opintopolussa on sitova. Tarkat peruutusehdot löytyvät Turun 
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033018>)
+
+### 65/100 — STRONG — Johtaminen ja opetushallinto, 25 op
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Opintokokonaisuus vastaa opetustoimen henkilöstön kelpoisuusvaatimuksissa esitettyjä rehtorin kelpoisuuteen kuuluvia yliopiston järjestämiä opetushallinnon opintoja (asetus nro 986/1998, 2§). Koulutus on suunnattu rehtorin tehtäviin hakeutumista suunnitteleville opettajille. Rehtorilta edellytetään opettajan kelpoisuutta sille kouluasteelle, jossa toimii rehtorina. Opintokokonaisuus muodostuu viidestä jaksosta, joista voidaan suorittaa myös osia.
+Koulutustyyppi: MODULE
+Laajuus: 25.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 2975.0 (lähteen summa; tarkista ehdot) ; Koulutus maksetaan opintojaksoittain viidessä erässä.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029318>)
+
+### 65/100 — STRONG — Johtamisen opintoja (avoin yliopisto-opetus)
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Johtamisesta on tullut entistä merkittävämpi osa koko yhteiskunnan ja ihmisten arkielämän hallintaa. Hyvä johtaminen on edellytys toiminnan sujuvuudelle ja menestykselle liiketoiminnassa, julkisella sektorilla, kansalaisjärjestöissä ja -liikkeissä sekä poliittisissa organisaatioissa. Tarkemmat tiedot opintojaksoista ja -kokonaisuuksista, kuten opintojen toteutuksesta, aikatauluista ja suoritustapavaihtoehdoista, löydät verkkosivuiltamme (ks. opin
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 15.0 (lähteen summa; tarkista ehdot) ; Opintomaksu määräytyy kurssin laajuuden mukaan ja on 15-45 euroa per opintopiste. Tarkistathan opintomaksun kunkin opintojakson kurssisivulta verkkopalvelustamme. Opintotarjonnassamme on myös maksuttomia opintoja, kuten tutustumiskurssit. Lisätietoa verkkosivuillamme: Etsi avoimia yliopisto-opintoja
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000013417>)
+
+### 65/100 — STRONG — Avoin yo: Johtaminen, aineopinnot, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Jos haluat suorittaa Johtaminen aineopintokokonaisuuden 60 op , silloin suoritat Johtaminen perusopinnot (myös Johtaminen ja markkinointi perusopinnot käy)(väh. 25 op) ja lisäksi valitset seuraavista opintojaksoista niin, että aineopintojen vähimmäislaajuus 60 op täyttyy. Perusopinnot tulee suorittaa ennen aineopintojen suorittamista. Perusopintoihin suoritettu opintojakso ei voi enää sisältyä aineopintoihin. OPINTOJAKSOT: Valitaan vähintään 30 o
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 600.0 (lähteen summa; tarkista ehdot) ; Ilmoittaudu yksittäisille opintojaksoille. Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutus
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037898>)
+
+### 65/100 — STRONG — Työelämä, oppiminen ja johtaminen (avoin yliopisto-opetus)
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Työelämä, oppiminen ja johtaminen -moduulin opinnoilla voit vahvistaa osaamistasi teemaan liittyvistä aiheista.  Voit suorittaa moduulista joko yksittäisiä jaksoja tai 15–25 opintopistettä ja koota ne yhdeksi kokonaisuudeksi. Teemaan kuuluvia opintojaksoja ovat mm. Pedagoginen johtajuus, Oppiminen ja asiantuntijuus työssä, organisaatioissa ja verkostoissa, Talousosaaminen. Tarkempia tietoja Helsingin yliopiston verkkopalvelussa .
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 15.0 (lähteen summa; tarkista ehdot) ; Opintomaksu määräytyy kurssin laajuuden mukaan ja on 15-45 euroa per opintopiste. Tarkistathan opintomaksun kunkin opintojakson kurssisivulta verkkopalvelustamme. Opintotarjonnassamme on myös maksuttomia opintoja, kuten tutustumiskurssit. Lisätietoa verkkosivuillamme: Etsi avoimia yliopisto-opintoja
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025635>)
+
+### 65/100 — STRONG — Vastuullisen kuljetusyrityksen johtaminen
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Vastuullisen kuljetusyrityksen johtaminen -koulutus on kuljetusyrityksille räätälöityä koulutusta. Koulutuksen aikana yrityksessä viedään läpi konkreettinen kehitysprojekti, jonka avulla kehitetään yrityksen päivittäistä toimintaa tai laitetaan liikkeelle pitkäaikaisempi muutosprosessi. Koulutuksessa hankitun osaamisen jalkauttaminen yrityksen työntekijöille tai kumppaneille on koulutuksen keskeinen tavoite. Koulutuksen jälkeen sinulla on työkalu
+Koulutustyyppi: MODULE
+Laajuus: 24.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-08-11T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024144>)
+
+### 65/100 — STRONG — Senioreiden liiketoiminta- ja digiosaamisen vahvistaminen tavoitteena yrittäjyys tai työllistyminen
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Tämä verkkokoulutus on suunniteltu jo pidempään työelämässä olleille tai jo eläköityneille esihenkilö- tai asiantuntijatehtävissä työskennelleille. Oli tavoitteenasi sitten päivittää osaamistasi tai palata työelämään – ilmoittaudu 26.2.2024 mennessä! Koulutus toteutetaan yhteistyössä Jyväskylän ammattikorkeakoulu Jamkin ja Centria-ammattikorkeakoulun kanssa. Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen rahoittama. Palvelukeskus
+Koulutustyyppi: MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-02-26T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022383>)
+
+### 65/100 — STRONG — Monialainen sosiaali- ja terveyspalvelujen johtaminen, 25–30 op
+
+Helsingin seudun kesäyliopisto
+Helsinki
+Yhteenveto: Sosiaali- ja terveyspalvelujen monimutkainen toimintaympäristö edellyttää monialaista asiantuntijuutta. Monialaisten palvelujen johtamiseksi, kehittämiseksi ja päätöksenteon tueksi on tärkeää ymmärtää niin alan toiminnan reunaehtoja, taloudellista organisointia, sosiaali- ja terveyspalvelujen johtamista kuin alan tietoperustaa ja tiedonhallintaa. Opintokokonaisuuden suorittaneella on perustiedot sosiaali- ja terveyshallintotieteen, sosiaali- ja t
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 340.0 (lähteen summa; tarkista ehdot) ; Kokonaisuusmaksu: 340–400 €. Tästä kesäyliopiston koulutusmaksu on 100 € (maksetaan kesäyliopiston ilmoittautumisen yhteydessä) ja UEF:n avoimen yliopiston maksuosuus 240 €/25 op tai 300 €/30 op (maksetaan UEF:n Ilpa-järjestelmässä).
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-29T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031595>)
 
 ### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, kevät 2027
 
 Oulun yliopisto
 Oulu
 Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
-Koulutustyyppi: COURSE
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
 Laajuus: 5.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
 Toteutus: UNKNOWN
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-03T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4942,110 +5654,19 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041062>)
 
-### 65/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tekoälyn perusteet (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tekoälyn perusteet (2 op) -opintojakso sisältyy Data ja tekoäly työelämässä -koulutuskokonaisuuteen (2 - 17 op), joka tarjoaa käytännönläheistä osaamista datan ja tekoälytyökalujen hyödyntämiseen. Koulutus on suunnattu erityisesti mikro- ja pk-yritysten tarpeisiin sekä muille työelämässä oleville. Opintojakson tarkoituksena on antaa käsitys siitä, mitä tekoäly on, ja mitkä ovat sen keskeiset vaikutukset yhteiskuntaamme. Suorituksen jälkeen opiske
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041547>)
-
-### 65/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Kyberturvallisuus (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Kyberturvallisuus (5 op) -opintojakso sisältyy Data ja tekoäly työelämässä -koulutuskokonaisuuteen (2 - 17 op), joka tarjoaa käytännönläheistä osaamista datan ja tekoälytyökalujen hyödyntämiseen. Koulutus on suunnattu erityisesti mikro- ja pk-yritysten tarpeisiin sekä muille työelämässä oleville. Kurssin sisältö: Datan turvallinen käsittely ja säilytys sekä tietoturvariskien tunnistaminen. Lisäksi esitellään kyberturvallisuuden peruskäsitteet, me
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041549>)
-
-### 65/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Ohjelmoinnin perusteet (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Ohjelmoinnin perusteet (5 op) -opintojakso sisältyy Data ja tekoäly työelämässä -koulutuskokonaisuuteen (2 - 17 op), joka tarjoaa käytännönläheistä osaamista datan ja tekoälytyökalujen hyödyntämiseen. Koulutus on suunnattu erityisesti mikro- ja pk-yritysten tarpeisiin sekä muille työelämässä oleville. Kurssi tutustuttaa opiskelijan Python-ohjelmoinnin perusteisiin ja ohjelmoinnilliseen ajatteluun. Tavoitteena on antaa opiskelijalle valmiuksia dat
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041548>)
-
-### 65/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tietotekniikan laboratoriot (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tietotekniikan laboratoriot (5 op) -opintojakso sisältyy Data ja tekoäly työelämässä -koulutuskokonaisuuteen (2 - 17 op), joka tarjoaa käytännönläheistä osaamista datan ja tekoälytyökalujen hyödyntämiseen. Koulutus on suunnattu erityisesti mikro- ja pk-yritysten tarpeisiin sekä muille työelämässä oleville. Kurssin tavoitteena on vahvistaa opiskelijan valmiuksia soveltaa aiemmin oppimaansa käytännössä. Opiskelija toteuttaa omaan alaansa liittyvän 
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041550>)
-
 ### 65/100 — STRONG — Avoin yo: Ohjelmointi 2, kevät 2027
 
 Oulun yliopisto
 Oulu
-Yhteenveto: Kurssilla opit olio-ohjelmoinnin ja Java-kielen perusteet.
-Koulutustyyppi: COURSE
+Yhteenveto: Opi ohjelmoimaan Javalla. Kurssilla keskitytään Java-ohjelmoinnin peruskäsitteiden, syntaksin ja rakenteen ymmärtämiseen ja oppimiseen - ohjelmoimalla Javalla.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
 Laajuus: 5.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: Maksuton
+Toteutus: ON_SITE
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: UPCOMING
+Hakuaika päättyy: 2026-12-17T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5053,1481 +5674,8 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +5 yksittäinen kurssi, ei kokonainen tutkinto
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041066>)
-
-### 65/100 — STRONG — Tekoäly terveystiedon tukena (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tekoäly terveystiedon tukena -opintojaksolla tutustutaan terveystietojen keräämiseen, tietojen tallentumiseen tietojärjestelmiin ja terveystietovarastoihin, sekä terveystietojen käyttömahdollisuuksiin tekoälyä hyödyntämällä erilaisissa terveydenhuollon ympäristöissä. Lisäksi perehdytään eettisiin ja lainsäädännöllisiin näkökulmiin, joita terveystietojen hyödyntämisessä tekoälyn keinoin tulee huomioida. Opintojakso sisältyy Tekoälyakatemian moniti
-Koulutustyyppi: COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028362>)
-
-### 65/100 — STRONG — Kauppatieteet: Tietojärjestelmätiede (avoin yliopisto-opetus)
-
-Turun yliopisto
-Pori
-Yhteenveto: Turun kauppakorkeakoulun Porin yksikön tietojärjestelmätieteen opintojakso avoimena yliopisto-opetuksena: Tietojenkäsittelyn perusteet 4 op Opintojakso järjestetään Porin yliopistokeskuksessa tutkinto-opetukseen integroituna lähiopetuksena. Kauppatieteiden opinnot sopivat tutkintoon tähtääville ja ammatilliseksi lisäkoulutukseksi. Tarkista opintojaksokohtaisesti mahdolliset esitietovaatimukset. Avoimessa yliopisto-opetuksessa suoritettujen opinto
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019119>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteeseen, lv. 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Informaatio, sen esittäminen ja tallentaminen ja sen käsittelemisen automatisointi. Ohjelmointi, ohjelmointikielet, ja kuinka niillä luodaan ohjelmia ja ohjelmistoja. Tiedon mallintaminen, tietokannat, tietoverkot ja kuinka tietoa hallitaan. Laskennan rajat. Suunnittelu, design ja älykkäät järjestelmät. Tietojenkäsittelyn ja tietojenkäsittelijän tehtävät ja vastuut yhteiskunnassa. Kurssin jälkeen opiskelija tietää miten tietoa esitetään, tallenne
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039937>)
-
-### 65/100 — STRONG — Avoin yo: Digitalisation and Innovation, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: The course takes students through the main avenues of digitalisation of businesses and services, of innovation to support digitalisation, and innovation in terms of creating new business opportunities.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040498>)
-
-### 65/100 — STRONG — Avoin yo: European Health Data Space in a Nutshell (Sámi), 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: (Davvisámegiella) - eDearvvašvuohta – digitála dearvvašvuohta ja dikšu - EHDS-ásahus ja infrastruktuvra - Neavvut ja teknologiijat EHDS-ekosystema várás - Dearvvašvuođadieđuid dorvvolašvuohta ja priváhtavuohta
-Koulutustyyppi: COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040547>)
-
-### 65/100 — STRONG — Avoin yo: Introduction to European Health Data Space, 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Introduction to European Health Data Space (AVOIN YO) -MOOC on kaikille avoin ja ilmainen verkkokurssi. Voit suorittaa kurssin omassa tahdissasi, sinulle sopivana ajankohtana toteutusaikojen puitteissa. Avoimina yliopisto-opintoina suoritettavaan MOOCiin ilmoittaudutaan DigiCampuksen kautta. Tarkemmat ohjeet DigiCampuksessa.
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040537>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus ohjelmistotuotantoon, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Pelit, tekoäly, autot ja lähes kaikki modernit tuotteet ja palvelut ovat ohjelmistopohjaisia. Tällä kurssilla opit ammattimaisen ohjelmistotuotannon perusteet.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040487>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus Python ohjelmointiin, lv. 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Johdatus ohjelmointiin käyttäen Python-ohjelmointikieltä. Ohjelmointi prosessina, ohjelmiin perehtyminen, perusohjausrakenteet (peräkkäisyys, ehto, valinta) käyttötarkoituksineen, syöttö, tulostus ja tiedostonkäsittely, muuttujat ja niiden käyttötavat, muuttujien roolit, merkkijonot, listat, sanakirjat, modulaarisuuden idea ja hyödyntäminen funktioilla, olio ja periytyminen, yksinkertainen graafinen käyttöliittymä, dokumentointi ja testaus. Kurss
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039962>)
-
-### 65/100 — STRONG — Avoin yo: Ohjelmointi 1, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Kurssi, jolla opit nollasta ohjelmoimaan perusjuttuja.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040491>)
-
-### 65/100 — STRONG — Avoin yo: Ohjelmointi 3, kevät 2025
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Tällä opintojaksolla opit mm. tunnistamaan rajapintamäärittelyn vaikutukset ja vaatimukset palvelimen kehitysprosesseille
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028550>)
-
-### 65/100 — STRONG — Open Uni: Accounting Information Systems, 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Learning outcomes The student will be able to: - identify the key concepts, frameworks, and literature of accounting information systems in organizations; - understand the role of accounting information systems in organization; and - design, evaluate, and adopt accounting information systems in different organization contexts. This course unit develops the following generic competences: Leadership and development, digitalization.
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039445>)
-
-### 65/100 — STRONG — Avoin yo: Software Development, Maintenance and Operations, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: How to work with large software systems that can have millions of lines of code?
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040495>)
-
-### 65/100 — STRONG — Avoin yo: Professional Software Engineering Processes and Human Factors, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Learn ways to organize software development work in professional way, and acknowledge human factors in software development teams.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040497>)
-
-### 65/100 — STRONG — Open Uni: Processing of UAV remote sensing data with open-source software, 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Course contents: General introduction to Unmanned Aerial Vehicles and Systems. General introduction to drone mapping. General information of collecting field data with drones. General instructions on processing drone images. How to process drone images with OpenDroneMap. Introduction to drone regulations in Finland and European Union. After completing the course, the student: Has a good knowledge about Unmanned Aerial Vehicles (UAV's). Has good k
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039624>)
-
-### 65/100 — STRONG — Avoin yo:  Servitisation, Co-creation and Business Development, syksy 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: In this course you learn how to write a business plan from start to finish.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040501>)
-
-### 65/100 — STRONG — Avoin yo, Tekoäly opetuksen tukena
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso ITKY1300 Tekoäly opetuksen tukena (1 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia informaatioteknologian opintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintojaksoja.
-Koulutustyyppi: COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015770>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Tiedätkö mitä tekoäly on? Tiedätkö mihin sitä voi käyttää? Tällä kurssilla voit saada vastauksia näihin sekä moniin muihin tekoälyyn liittyviin kysymyksiin.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041057>)
-
-### 65/100 — STRONG — Tekoälyn perusteet (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tekoälyn perusteet 2 op -opintojakso sisältyy Turun yliopiston teknillisen tiedekunnan tietojenkäsittelytieteen opintoihin ja Tekoälyakatemian monitieteiseen opintokokonaisuuteen. Suorituksen voi hyväksyttää myös osaksi useita muita tutkinto-ohjelmia. Kurssin  tarkoituksena on antaa käsitys siitä, mitä tekoäly on ja mitkä ovat sen keskeiset vaikutukset yhteiskuntaamme. Tämän tiedon avulla on  mahdollista muun muassa seurata kriittisesti asiaan li
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000016786>)
-
-### 65/100 — STRONG — Tekoälyn filosofia ja etiikka (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojakso tarjoaa kokonaiskuvan tekoälyyn liittyvistä filosofisista ja käsitteellisistä kysymyksistä sekä tekoälyn käytön yleistymiseen liittyvistä eettisistä ja yhteiskunnallisista haasteista. Opintojakso käsittelee laajasti tekoälyyn liittyviä teoreettiisia ja eettisiä kysymyksiä. Käsiteltäviä teemoja ovat esim. voiko kone olla älykäs, komputationaalinen malli mielestä, Turingin testi, kiinalaisen huoneen argumentti ja tietoisuuden ongelma. O
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000016792>)
-
-### 65/100 — STRONG — Avoin yo: Tekoälyn ja oppimisanalytiikan etiikka ja tietosuoja, kesä 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Interested to learn how to apply learning analytics and artificial intelligence for teaching and learning? This is what teachers now and, in the future, need! Join our summer course to gain an overview of pedagogical premises on using algorithm-based technologies in different educational settings. Our summer course provides both theoretical understanding and hands-on practices to train your competence and knowledge over these topics. During the c
-Koulutustyyppi: COURSE
-Laajuus: 1.0–5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038202>)
-
-### 65/100 — STRONG — Oikeus ja tekoäly: johdatus tematiikkaan (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Oikeus ja tekoäly: johdatus tematiikkaan -opintojakso kuuluu ON-tutkinnon muihin opintoihin. Sen voi sisällyttää myös Tekoälyakatemian monitieteiseen opintokokonaisuuteen. Opintojakson sisältö: Tekoälyn haasteet oikeudelliselle sääntelylle ja päätöksenteolle. Oikeuden ja teknologian vuorovaikutus. Tekoälyn ja oikeuden vuorovaikutuksen peruskysymyksenasettelut ja ratkaisumallit. Tarkemmat tiedot ovat opintojen esittelysivuilla: https://www.utu.fi/
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022334>)
-
-### 65/100 — STRONG — Yleinen tekoäly ja teoriat mielestä (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Yleinen tekoäly ja teoriat mielestä 3 op -opintojakso kuuluu Tekoälyn monitieteiseen opintokokonaisuuteen ja filosofian opintoihin. Opintojaksolla syvennytään yleisen tekoälyn ja/tai vahvan tekoälyn edellytyksiin suhteessa keskeisiin filosofisiin, neurobiologisiin sekä laskennallisiin mielenteorioihin. Näitä teemoja käsitellään rikkaassa teoreettisessa kontekstissa, mukaan lukien kysymykset simulaatioiden luonteesta, representaation sisällön määr
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022335>)
-
-### 65/100 — STRONG — Tekoäly lääkekehityksessä, lääketieteellisessä diagnostiikassa ja kuvantamisessa (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tekoäly lääkekehityksessä, lääketieteellisessä diagnostiikassa ja kuvantamisessa -opintojakso sisältyy Turun yliopiston teknillisen tiedekunnan tietojenkäsittelytieteen opintoihin ja Tekoälyakatemian monitieteiseen opintokokonaisuuteen. Kurssilla perehdytään muun muassa digitaalisen patologian ja lääketieteellisen kuvantamisen aineistojen käsittelyyn liittyviin tekoälysovelluksiin. Lisäksi tutustutaan omiikkadataan ja miten tekoälyä hyödynnetään 
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041429>)
-
-### 65/100 — STRONG — Oikeus ja tekoäly: julkisen ja yksityisen vallan välissä (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Oikeus ja tekoäly: julkisen ja yksityisen vallan välissä -opintojakso kuuluu ON-tutkinnon muihin opintoihin. Sen voi sisällyttää myös Tekoälyakatemian monitieteiseen opintokokonaisuuteen. Opintojen sisältö: tekoäly ja ihmisoikeudet syrjintä yksityisyys oikeudenmukainen oikeudenkäynti oikeus tehokkaisiin oikeussuojakeinoihin vastuullisuus, läpinäkyvyys ja avoimuus. Tarkemmat tiedot ovat opintojen esittelysivuilla: https://www.utu.fi/fi/avoin-yliop
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022338>)
-
-### 65/100 — STRONG — Avoin yo: Tekoäly, algoritmit ja dataistuminen viestinnän kentällä lv. 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Sisältö Opintojaksolla käsitellään tekoälykehityksen tausta ja laajojen kielimallien toimintalogiikka, määritellään tekoälyn, algoritmien ja dataistumisen käsitteet. Opintojaksolla tutustutaan alustojen ja dataistumisen toimintalogiikkaan ja niiden vaikutukseen viestintään. Lisäksi harjoitellaan generatiivisen tekoälyn työkalujen käyttöä media- ja viestintätuotannoissa sekä tutustutaan aihepiiriin liittyviin eettisiin kysymyksiin. Osaamistavoitte
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040389>)
-
-### 65/100 — STRONG — Avoin yo: Digitalisaatio ja tekoäly hoitotyössä ja hoitotyön johtamisessa, syksy 2026
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Sisältö: Yleiskatsaus Sosiaali- ja terveydenhuollon digitalisaation ja tiedonhallinnan strategiaan 2023–2035 Digitalisaatio, robotiikka ja tekoäly hyvinvointialueiden palvelujärjestelmissä - Strategia, vastuut, rahoitus - asiakkaan osallisuus - henkilöstön tarpeet - johtaminen Digitalisaation tietovarannot ja tekoäly hoitotyön johtamisessa - Algoritminen johtaminen - henkilöstövoimavarojen johtaminen, HR johtaminen - hoitotyön, potilas- ja organi
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039045>)
-
-### 65/100 — STRONG — Avoin yo: Digitalisaatio ja tekoäly hoitotyössä ja hoitotyön johtamisessa 4 op (UEF), lv. 2026-2027
-
-Mikkelin kesäyliopisto
-Mikkeli
-Yhteenveto: Sisältö: Yleiskatsaus Sosiaali- ja terveydenhuollon digitalisaation ja tiedonhallinnan strategiaan 2023–2035 Digitalisaatio, robotiikka ja tekoäly hyvinvointialueiden palvelujärjestelmissä - Strategia, vastuut, rahoitus - asiakkaan osallisuus - henkilöstön tarpeet - johtaminen Digitalisaation tietovarannot ja tekoäly hoitotyön johtamisessa - Algoritminen johtaminen - henkilöstövoimavarojen johtaminen, HR johtaminen - hoitotyön, potilas- ja organi
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039601>)
-
-### 65/100 — STRONG — Avoin yo: Data mining and data-based models, 5 op, 2023-2024
-
-Oulun yliopisto
-Oulu
-Yhteenveto: After completing the course, students should be able to: - understand, find and mine biomedical data sources - devise strategies for the mining of aggregated and sparse data - identify static and responsive databases and interact with them - perform basic data mining operations, including ontological enrichments and pathway/network analysis - evaluate the quality of data and their usability in further contexts Sources and types of biomedical data
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000012909>)
-
-### 65/100 — STRONG — Avoin yo: Data mining and data-based models, 5 op, 2024-2025
-
-Oulun yliopisto
-Oulu
-Yhteenveto: After completing the course, students should be able to: - understand, find and mine biomedical data sources - devise strategies for the mining of aggregated and sparse data - identify static and responsive databases and interact with them - perform basic data mining operations, including ontological enrichments and pathway/network analysis - evaluate the quality of data and their usability in further contexts Sources and types of biomedical data
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023112>)
-
-### 65/100 — STRONG — Avoin yo: Bio-data, 5 op, 2023-2024
-
-Oulun yliopisto
-Oulu
-Yhteenveto: After completing the course, students should be able to handle different  types of biomedical data (e.g., RNAseq, scRNA-seq, ChIPseq, etc.),  processing them through suitable pipelines both on local machines and  cloud services. Typical types of biomedical data “omics big data”, pipelines and services for data processing, advantages and pitfalls of different omics and their associated data types and processing pipelines, hands-on data processing
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000012916>)
-
-### 65/100 — STRONG — Avoin yo: Bio-data, 5 op, 2024-2025
-
-Oulun yliopisto
-Oulu
-Yhteenveto: After completing the course, students should be able to handle different  types of biomedical data (e.g., RNAseq, scRNA-seq, ChIPseq, etc.),  processing them through suitable pipelines both on local machines and  cloud services. Typical types of biomedical data “omics big data”, pipelines and services for data processing, advantages and pitfalls of different omics and their associated data types and processing pipelines, hands-on data processing
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023111>)
-
-### 65/100 — STRONG — Tilastotiede ja data I (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tilastotiede ja data I (2 op) -opintojakso kuuluu tilastotieteen perusopintoihin. Itsenäisesti suoritettava verkkokurssi sopii tutustumiskurssiksi erityisesti lukiolaisille ja kaikille alasta kiinnostuneille. Kurssi sopii myös ammatilliseksi lisäkoulutukseksi. Opintojakso antaa kokonaiskuvan tilastotieteestä ja sen perusteista. Jakson sisältö: Tilastotiede tieteenalana ja sen suhde lähitieteisiin, kuten datatieteeseen (data science) Tilastotietee
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025856>)
-
-### 65/100 — STRONG — Tilastotiede ja data II (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tilastotiede ja data II (4 op) -opintojakso kuuluu tilastotieteen perusopintoihin. Opintojakso täydentää Tilastotiede ja data I (2 op) -jakson tietoja. Sisältö: Tilastolliset aineistot (data), niiden kerääminen ja mittaaminen Tilastollisen päättelyn perusteita Otannan perusteet Regressioanalyysin (yhden selittäjän lineaarisen regressiomallin) perusteet Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/o
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025857>)
-
-### 65/100 — STRONG — AI & Cybersecurity (MOOC) (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tietoturva ja tietosuoja tekoälysovelluksissa / AI & Cybersecurity -kurssilla opit, mitä tekoäly ja kyberturvallisuus ovat, miten ne liittyvät toisiinsa ja miten ne voivat täydentää toisiaan. Kurssilla esitellään tekoälyn ja kyberturvallisuuden peruskäsitteet, kyberturvallisuuden keskeiset uhat, sekä esimerkkejä siitä miten tekoälyn sovellukset vaikuttavat elämäämme. Kurssilla käsitellään tekoälyyn liittyviä huolenaiheita, kuten miten tekoälyn av
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017406>)
-
-### 65/100 — STRONG — Open Uni: Digital Transformation in Business, spring 2027, online studies
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: This course is part of the YUFE Skills of the Future Programme Knowledge related: Student will - know the main theoretical definitions and concepts used for describing and analyzing digital transformation - understand the role of digital transformation for modern business survival and development. - understand how to analyze digital transformation process from different managerial perspectives (e.g., IT, customers, business model transformation, 
-Koulutustyyppi: COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039534>)
-
-### 65/100 — STRONG — Avoin yo: Digital Platforms and Analytics, lv. 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Kurssi esittelee data-analytiikkatyökalut kategorioittain, BI- ja AI-dashboardit sekä vahvistaa asiantuntijuutta liike-elämän analytiikassa. Kurssilla keskitytään asiakkaiden sitoutumisen analysointiin ja tiivistämiseen digitaalisissa ympäristöissä, kilpailijoiden ja toimialan vertailuun sekä digitaalisten kanavien suorituskyvyn arviointiin ja parantamiseen. Opiskelijat oppivat tunnistamaan, hyödyntämään uudelleen ja tulkitsemaan KPI-mittareita e
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041434>)
-
-### 65/100 — STRONG — Avoin yo: Kestävän matkailun markkinointi ja myynti 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Osaamistavoitteet: Opiskelija tulee • oppimaan, kuinka kestävän matkailun palveluita voidaan markkinoida uskottavasti ja houkuttelevasti rakentamalla tehokas myyntisuppilo • oppimaan, miten tunnistetaan ja vältetään viherpesua sekä sen liitännäisilmiöitä • oppimaan, miten hyödynnetään kestävyyteen, markkinointiin ja myyntiin liittyvää dataa brändin vahvistamiksi ja liiketoiminnan kehittämiseksi • tutustumaan, mikä EU:n Green Claims –direktiivi on
-Koulutustyyppi: COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040638>)
-
-### 65/100 — STRONG — Kauppatieteet: Markkinointi (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Turun kauppakorkeakoulun markkinoinnin opintojaksoja avoimena yliopisto-opetuksena: Markkinoinnin perusteet 3 op Markkinoinnin strateginen johtaminen 5 op Kuluttajakäyttäytyminen 6 op Markkinointiviestintä 6 op Nykymarkkinointiviestinnän strategiat ja innovaatiot: teoriasta käytäntöön 6 op B2B Marketing 6 ECTS credits Verkkokauppa 6 op Opintojaksoja järjestetään jaksosta riippuen lähiopetuksena Turun kauppakorkeakoulussa tai verkko-opintoina. Ver
-Koulutustyyppi: COURSE
-Laajuus: 3.0–6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014965>)
-
-### 65/100 — STRONG — Avoin yo, Corporate Responsibility and Business Ethics
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YJOA2210 Corporate Responsibility and Business Ethics (5 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia johtamisen opintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintoj
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015690>)
-
-### 65/100 — STRONG — Avoin yo: Business English Interaction
-
-Pohjois-Pohjanmaan kesäyliopisto
-Oulu
-Yhteenveto: This course is a phenomenon-based learning experience which has a focus on the major language learning skills areas such as reading, writing, speaking, listening as well as vocabulary expansion and grammatical competence development.  Active participation in the Moodle course and Zoom sessions is mandatory and all projects must be completed successfully.  All deadlines must be met.  The course includes 8 projects each of which requires individual
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037103>)
-
-### 65/100 — STRONG — Englannin kieli ja liikeviestintä: Business Communication I ja II (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Avoimena yliopisto-opetuksena järjestetään seuraavia Turun kauppakorkeakoulun tutkintoihin sisältyviä englannin kielen ja liikeviestinnän opintojaksoja: Business Communication I 3 ECTS Business Communication II 3 ECTS Opintojaksosta riippuen opetus pidetään Turussa, Porin yksikössä tai verkossa. Opinnot sopivat tutkintoon tähtääville ja kaikille kielitaitojensa kehittämisestä kiinnostuneille. Tarkemmat tiedot ovat opintojen esittelysivulla: https
-Koulutustyyppi: COURSE
-Laajuus: 3.0–6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019113>)
-
-### 65/100 — STRONG — Avoin yo: EU Business Law, kevät 2027
-
-Itä-Suomen yliopisto
-Joensuu
-Yhteenveto: The course explores the EU policy and legal framework governing the customs union, free movement, competition and state aid . You will gain an overview of the internal market rules, institutional competences and key Treaty provisions shaping EU business law and their application.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038266>)
-
-### 65/100 — STRONG — Avoin yo, Introduction to Sustainable Business
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso CEMA2330 Introduction to Sustainable Business (4 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavaa vastuullisuus ja kestävä kehitys työelämässä -opintokokonaisuutta . Voit opiskella koko opintokokona
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015917>)
-
-### 65/100 — STRONG — Johtaminen ja organisointi: Business and Nature (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Business and Nature course seeks to provide a general understanding of the dependencies  as well as negative and positive impacts that business can have on  nature. The course deals with core concepts, such as biodiversity,  ecosystem services and natural capital. During the course, the  participants will become familiar with the main drivers of nature loss,  and possible ways for firms and individuals to address these challenges  through busines
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022454>)
-
-### 65/100 — STRONG — Avoin yo: Academic and Professional English for Business, kevät 2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Sisältö : Alakohtaiseen akateemiseen ja ammatilliseen englannin käyttöön liittyviä luku-, kirjoitus- ja sanastotehtäviä, suullisia yksilö- ja ryhmätehtäviä sekä keskusteluita. Tarkoituksenmukaiset lukustrategiat, englanninkielisen tieteellisen artikkelin rakenne, asioiden välisiä suhteita ilmaisevat vihjesanat, yleistieteellistä ja oman alan keskeistä sanastoa. Osaamistavoitteet: Opiskelija • ymmärtää englanninkielisiä kauppatieteellisiä tekstejä
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039098>)
-
-### 65/100 — STRONG — Kauppatieteet: Kansainvälinen liiketoiminta (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Turun kauppakorkeakoulun avoimena yliopisto-opetuksena järjestetään seuraavia kansainvälisen liiketoiminnan opintojaksoja: Kansainvälisen liiketoiminnan perusteet 3 op International Business Management 6 ECTS credits Business Intelligence and the Global Business Environment 6 ECTS credits Exports and SME Internationalisation 6 ECTS credits Geopolitics and Geoeconomy in Northern Europe 6 ECTS credits Trade and policy: international tensions influe
-Koulutustyyppi: COURSE
-Laajuus: 2.0–29.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014963>)
-
-### 65/100 — STRONG — Avoin yo, Strateginen johtaminen
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YJOA3110 Strateginen johtaminen (5 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia johtamisen aineopintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintojaksoja.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015776>)
-
-### 65/100 — STRONG — Avoin yo: Strateginen johtaminen, kevät 2026
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Strategisen johtamisen kurssilla tarkastellaan strategiaa ihmisten toiminnan kautta - toisaalta suunnittelun, mutta toisaalta jatkuvan muutoksen ja epävarmuuden kanssa tasapainoilun näkökulmasta. Kurssin aikana: 1. Perehdytään strategisen johtamisen keskeisiin käsitteisiin, strategisen johtamisen historialliseen kehitykseen ja strategisen johtamisen kannalta keskeisiin koulukuntiin. 2. Tarkastellaan tämän päivän strategisen johtamisen tutkimuksen
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035805>)
-
-### 65/100 — STRONG — Avoin yo, Markkinoinnin johtaminen
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YMAA2130 Markkinoinnin johtaminen (5 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia markkinoinnin aineopintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintojaksoja.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015890>)
-
-### 65/100 — STRONG — Avoin yo, Tiimityön johtaminen ja ryhmädynamiikka
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YJOA2190 Tiimityön johtaminen ja ryhmädynamiikka (5 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia johtamisen opintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintojaksoj
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015696>)
-
-### 65/100 — STRONG — Avoin yo: Palvelumuotoilun johtaminen 4 op (LY), kevät 2027
-
-Mikkelin kesäyliopisto
-Mikkeli
-Yhteenveto: Osaamistavoitteet Opintojakson suoritettuaan opiskelija osaa kuvata muotoilijan ja muotoilun tehtävien eri tasoja yrityksen liiketoiminta kentässä soveltaa palvelumuotoilun menetelmiä ja prosessia organisaation sisäisen toiminnan kehittämiseen ja johtamiseen analysoida ja suunnitella johtamista muotoilun ja yrityksen liiketoiminnan kehittämisen näkökulmasta. Sisältö Palvelumuotoiluosaaminen  yrityksen toiminnassa, muotoilutoiminnan eri tasot yrit
-Koulutustyyppi: COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032562>)
-
-### 65/100 — STRONG — Avoin yo, Aineopintojen seminaarityöskentely ja tutkielma (johtaminen)
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YJOA1920 Aineopintojen seminaarityöskentely ja tutkielma (10 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia johtamisen aineopintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä
-Koulutustyyppi: COURSE
-Laajuus: 10.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023316>)
-
-### 65/100 — STRONG — Avoin yo: Kulttuurienvälinen viestintä ja asiakassuhteiden johtaminen, lv.2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Osaamistavoitteet Opiskelija osaa • tunnistaa oman kulttuurisen taustansa erityispiirteet ja sen vaikutuksen viestintäkäyttäytymiseen • kuvata ja soveltaa keskeisiä kulttuurienvälisen viestinnän teorioita • nimetä ja selittää kuinka pitkäaikaiset asiakassuhteet kehittyvät ja kuinka niitä ylläpidetään • ymmärtää asiakassuhteiden johtaminen organisaation strategisena lähestymistapana • geneerisiä taitoja: johtaminen, kansainvälisyys, vuorovaikutus 
-Koulutustyyppi: COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039150>)
-
-### 65/100 — STRONG — Kauppatieteet: Toimitusketjujen johtaminen (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Turun kauppakorkeakoulun toimitusketjujen johtamisen opintojaksoja avoimena yliopisto-opetuksena: Toimitusketjujen johtamisen perusteet 3 op Toimitusketjujen johtaminen 5 op (Supply Chain Management) Kuljetustoiminnot ja -markkinat 6 op Opintojaksoja järjestetään jaksosta riippuen lähiopetuksena Turun kauppakorkeakoulussa tai verkko-opintoina. Verkko-opintoihin voi kuulua Exam-tenttipalvelussa suoritettavia tenttejä. Opinnot sopivat tutkintoon tä
-Koulutustyyppi: COURSE
-Laajuus: 3.0–14.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014969>)
-
-### 65/100 — STRONG — Kauppatieteet: Johtaminen ja organisointi (avoin yliopisto-opetus)
-
-Turun yliopisto
-Pori
-Yhteenveto: Turun kauppakorkeakoulun Porin yksikön johtamisen ja organisoinnin opintojaksoja avoimena yliopisto-opetuksena: Organisaatiot ja johtaminen 5 op Henkilöstöjohtaminen 5 op Strateginen johtaminen 5 op Organisaatiokäyttäytyminen 5 op Opintojaksot järjestetään Porin yliopistokeskuksessa tutkinto-opetukseen integroituna lähiopetuksena. Opinnot sopivat tutkintoon tähtääville ja ammatilliseksi lisäkoulutukseksi. Tarkista opintojaksokohtaisesti mahdollis
-Koulutustyyppi: COURSE
-Laajuus: 5.0–20.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014839>)
-
-### 65/100 — STRONG — Avoin yo, Aineopintojen seminaarityöskentely ja tutkielma (viestinnän johtaminen)
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YCCA1920 Aineopintojen seminaarityöskentely ja tutkielma (10 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia viestinnän johtamisen opintoja . Voit opiskella koko opintokokonaisuuden tai valita yksi
-Koulutustyyppi: COURSE
-Laajuus: 10.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015935>)
-
-### 65/100 — STRONG — Avoin yo, B2B Marketing and Sales
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! YMAA2230 B2B Marketing and Sales (6 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia markkinoinnin aineopintoja ja viestinnän johtamisen aineopintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittä
-Koulutustyyppi: COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023323>)
-
-### 65/100 — STRONG — Avoin yo, Communication, Behavior Insight and Social Marketing
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YCCA2220 Communication, Behavior Insight and Social Marketing (4-6 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia markkinoinnin aineopintoja ja viestinnän johtamisen aineopintoja . Voit opiskella 
-Koulutustyyppi: COURSE
-Laajuus: 4.0–6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023319>)
-
-### 65/100 — STRONG — Avoin yo, Digitaalinen markkinointi
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Innostu ja ilmoittaudu: Avoimia yliopisto-opintoja on ulottuvillasi ympäri vuoden, pääosin etäyhteyksin. Valtaosassa kursseista on vuosittain useita toteutuksia. Valitse niistä sinulle sopivin, ilmoittaudu ja opiskele! Opintojakso YMAA3220 Digitaalinen markkinointi (6 op) on osa Jyväskylän yliopiston avoimessa yliopistossa suoritettavia markkinoinnin aineopintoja . Voit opiskella koko opintokokonaisuuden tai valita yksittäisiä opintojaksoja.
-Koulutustyyppi: COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015565>)
-
-### 65/100 — STRONG — Avoin yo: International Brand Marketing, 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: The basic concepts related to brands, introduction to branding in international markets, designing and implementing brand communications, designing consumer’s brand experience in international context, evaluating strategic brand management in global business environment.
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041433>)
-
-### 65/100 — STRONG — Liiketoiminta-ajattelu ja kaupallistaminen terveysteknologiassa
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Opintojaksolla perehdytään terveysteknologialiiketoimintaan. Opiskelija oppii ymmärtämään asiakaslähtöisyyden merkityksen liiketoiminnan kehittämisessä ja teknologioiden kaupallistamisessa. Opintojakso kehittää liiketoiminnallista ajattelua ja tarjoaa kokonaiskuvan liiketoiminnan osa-alueista, lisää tietoa kaupallistamisprosesseista ja asiakasnäkökulmasta toiminnan lähtökohtana. Kurssin jälkeen opiskelija osaa määritellä liiketoiminnan keskeiset 
-Koulutustyyppi: COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038686>)
-
-### 65/100 — STRONG — Kauppatieteet: Yrittäjyys (avoin yliopisto-opetus)
-
-Turun yliopisto
-Pori
-Yhteenveto: Turun kauppakorkeakoulun Porin yksikösn yrittäjyyden opintojakso avoimena yliopisto-opetuksena: Yrittäjämäinen liiketoiminta 3 op Opintojakso järjestetään Porin yliopistokeskuksessa tutkinto-opetukseen integroituna lähiopetuksena. Kauppatieteiden opinnot sopivat tutkintoon tähtääville ja ammatilliseksi lisäkoulutukseksi. Tarkista opintojaksokohtaisesti mahdolliset esitietovaatimukset. Avoimessa yliopisto-opetuksessa suoritettujen opintojen perust
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019117>)
-
-### 65/100 — STRONG — Kauppatieteet: Yrittäjyys (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Turun kauppakorkeakoulun johtamisen ja organisoinnin opintojaksoja avoimena yliopisto-opetuksena: Introduction to Entrepreneurial Business 3 ECTS credits Entrepreneurial Opportunities 6 ECTS credits Venture Creation 6 ECTS credits Social Value Creation through Entrepreneuring 6 op ECTS credits Entrepreneurial Leadership 6 op ECTS credits Opintoja järjestetään Turun kauppakorkeakoulussa opintojaksosta riippuen lähiopetuksena ja/tai verkko-opintoin
-Koulutustyyppi: COURSE
-Laajuus: 3.0–27.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014970>)
-
-### 65/100 — STRONG — Avoin yo: Innovative Entrepreneurship MOOC, lv. 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Unlock your entrepreneurial potential with our Innovative Entrepreneurship MOOC, designed for learners who want to turn ideas into real opportunities. This course gives you the tools, mindset, and confidence to identify problems, create value, and develop solutions that matter. Through engaging online video tutorials, practical examples, and quizzes, you’ll learn how innovators think and how successful entrepreneurs build, test, and refine their 
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041421>)
 
 ### 65/100 — STRONG — Avoin yo: Aloittavan yrityksen markkinointi, lv 2026-2027, verkko-opinnot
 
@@ -7011,6 +6159,820 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039466>)
+
+### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040482>)
+
+### 60/100 — REVIEW — Tekoäly terveystiedon tukena (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Tekoäly terveystiedon tukena -opintojakson voi opiskella verkko-opintoina. Opintoihin sisältyy verkkoluentoja ja -seminaareja (läsnäolovelvollisuus) sekä itsenäistä työskentelyä. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-21T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028362>)
+
+### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteeseen, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Suoritustavat: Joko aktiivinen osallistuminen harjoituksiin ja tehtävien tekeminen; tai tentti. Toteutustavat: Aikataulutettu verkkokurssi 3.9.-30.10.2026. Opiskelu verkossa 95 t, luennot 16 t, verkkotehtävät 7 t, harjoitukset 14 t; tai tentti 3 t. Kurssin opetukseen voi osallistua etänä Zoomilla, tai osittain paikan päällä Kuopiossa tai Joensuussa. Näet tarkemman opetusaikataulun opinto-oppaasta ; avoimen opiskelijat valitsevat harjoitusryhmän R
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 €/opintopiste, ja opintokokonaisuuksille 15 €/opintopiste. Hinnat ovat voimassa lukuvuoden 2026–2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-27T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039937>)
+
+### 60/100 — REVIEW — Avoin yo: Digitalisation and Innovation, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: The course takes students through the main avenues of digitalisation of businesses and services, of innovation to support digitalisation, and innovation in terms of creating new business opportunities.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040498>)
+
+### 60/100 — REVIEW — Avoin yo: Johdatus ohjelmistotuotantoon, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Pelit, tekoäly, autot ja lähes kaikki modernit tuotteet ja palvelut ovat ohjelmistopohjaisia. Tällä kurssilla opit ammattimaisen ohjelmistotuotannon perusteet.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-13T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040487>)
+
+### 60/100 — REVIEW — Avoin yo: Ohjelmointi 1, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Kurssi, jolla opit nollasta ohjelmoimaan perusjuttuja.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040491>)
+
+### 60/100 — REVIEW — Avoin yo: Ohjelmointi 3, kevät 2025
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Tällä opintojaksolla opit mm. tunnistamaan rajapintamäärittelyn vaikutukset ja vaatimukset palvelimen kehitysprosesseille
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2025-01-02T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028550>)
+
+### 60/100 — REVIEW — Open Uni: Accounting Information Systems, 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Course content: - Accounting information systems - Methods for design, implement and use of accounting information systems. Lectures 18 h (Classroom teaching in Kuopio, online hybrid). 03.11.2026 12.00 - 16.00 05.11.2026 08.00 - 12.00 10.11.2026 12.00 - 16.00 Lectures, cases/essays, independent study. Language: English Materials given by teacher. Evaluation 0-5 This is an Advanced studies level course. Quota 5 students Guidance services for Busin
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 60.0 (lähteen summa; tarkista ehdot) ; Individual study units cost 20 e / credit. These prices hold for the academic year 2026–2027. The study fee is paid at registration. By paying the study fee, the student receives a temporary right to study that entitles them to attend a particular course. The right to study is course-specific, and i
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-13T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039445>)
+
+### 60/100 — REVIEW — Avoin yo: Software Development, Maintenance and Operations, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: How to work with large software systems that can have millions of lines of code?
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040495>)
+
+### 60/100 — REVIEW — Avoin yo: Professional Software Engineering Processes and Human Factors, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Learn ways to organize software development work in professional way, and acknowledge human factors in software development teams.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-13T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040497>)
+
+### 60/100 — REVIEW — Avoin yo:  Servitisation, Co-creation and Business Development, syksy 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: In this course you learn how to write a business plan from start to finish.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-13T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040501>)
+
+### 60/100 — REVIEW — Avoin yo, Tekoäly opetuksen tukena
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Kurssin tavoitteena on opettaa perusteita nykyaikaisista tekoälymalleista ja antaa eväitä niiden ymmärtämiseen erilaisissa käyttötilanteissa. ChatGPT on nostattanut paljon keskustelua esimerkiksi koulutussektorilla. JYU avoimen yliopiston uutuuskurssilla sukelletaan tekoälyn toimintaan ja sen pedagogisiin näkökulmiin. Osaamist
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015770>)
+
+### 60/100 — REVIEW — Avoin yo: Tekoälyn ja oppimisanalytiikan etiikka ja tietosuoja, kesä 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Interested to learn about ethics of AI and Learning Analytics? Join our summer course to get a comprehensive overview of this growing field! During the course we will analyze legal and ethical issues surrounding AI and Learning Analytics in educational contexts. The course provides important skills and knowledge to critically engage with and evaluate data intensive educational technologies. Together we will explore AI ethics, privacy, data protec
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; You can complete the course with a scope of 1-5 credits. The study fee is 100 euros despite the scope of completed studies.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-04-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038202>)
+
+### 60/100 — REVIEW — Tekoäly lääkekehityksessä, lääketieteellisessä diagnostiikassa ja kuvantamisessa (avoin yliopisto-opetus)
+
+Turun yliopisto
+Turku
+Yhteenveto: Opintojakso on mahdollista opiskella osallistumalla verkko-opetukseen tai lähiopetukseen Turun yliopistossa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 36.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-15T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041429>)
+
+### 60/100 — REVIEW — Avoin yo: Digitalisaatio ja tekoäly hoitotyössä ja hoitotyön johtamisessa, syksy 2026
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Katso Ohjeita opiskeluun avoimessa yliopistossa . Opetusaika: 11.11.2026 - 20.01.2027 Kirjaudu Moodleen heti jakson alkaessa. Opintojaksolla on aikataulutettuja tehtäviä ja se tulee suorittaa annetussa aikataulussa. Ilmoittaudu opintojaksolle viimeistään 4.11.2026 mennessä. Suoritustapa: Verkko-opinnot ja itsenäinen opiskelu. Aloitusverkkoluento 4 tuntia, luentotallenteet 8 tuntia, seminaarityöskentely (12 tuntia, sisältäen kaksi verkkoseminaarik
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026-2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit. K
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-04T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039045>)
+
+### 60/100 — REVIEW — Avoin yo: Digitalisaatio ja tekoäly hoitotyössä ja hoitotyön johtamisessa 4 op (UEF), lv. 2026-2027
+
+Mikkelin kesäyliopisto
+Mikkeli
+Yhteenveto: Opintojakso kuuluu Hoitotyön ja terveydenhuollon johtaminen 15 op (UEF), opintopaketti 2 opintoihin. Opintojakson sisältönä on: Yleiskatsaus Sosiaali- ja terveydenhuollon digitalisaation ja tiedonhallinnan strategiaan 2023–2035 Digitalisaatio, robotiikka ja tekoäly hyvinvointialueiden palvelujärjestelmissä Strategia, vastuut, rahoitus asiakkaan osallisuus henkilöstön tarpeet johtaminen Digitalisaation tietovarannot ja tekoäly hoitotyön johtamises
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 95.0 (lähteen summa; tarkista ehdot) ; Hinta sisältää Mikkelin kesäyliopiston maksun ja Itä-Suomen avoimen yliopiston opintojaksokohtaisen maksun yhteensä 48 €.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-29T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039601>)
+
+### 60/100 — REVIEW — Avoin yo: Data mining and data-based models, 5 op, 2023-2024
+
+Oulun yliopisto
+Oulu
+Yhteenveto: After completing the course, students should be able to: - understand, find and mine biomedical data sources - devise strategies for the mining of aggregated and sparse data - identify static and responsive databases and interact with them - perform basic data mining operations, including ontological enrichments and pathway/network analysis - evaluate the quality of data and their usability in further contexts Sources and types of biomedical data
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2023-10-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000012909>)
+
+### 60/100 — REVIEW — Avoin yo: Data mining and data-based models, 5 op, 2024-2025
+
+Oulun yliopisto
+Oulu
+Yhteenveto: After completing the course, students should be able to: - understand, find and mine biomedical data sources - devise strategies for the mining of aggregated and sparse data - identify static and responsive databases and interact with them - perform basic data mining operations, including ontological enrichments and pathway/network analysis - evaluate the quality of data and their usability in further contexts Sources and types of biomedical data
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-09-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023112>)
+
+### 60/100 — REVIEW — Avoin yo: Bio-data, 5 op, 2023-2024
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Typical types of biomedical data “omics big data”, pipelines and services for data processing, advantages and pitfalls of different omics and their associated data types and processing pipelines, hands-on data processing The course is completed by passing all learning assignment and exercises.Mode of delivery Web-based self-study / teaching (local face-to-face teaching will be arranged if the situation allows) 30h of exercise groups, 105h self-st
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2023-10-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000012916>)
+
+### 60/100 — REVIEW — Avoin yo: Bio-data, 5 op, 2024-2025
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Typical types of biomedical data “omics big data”, pipelines and services for data processing, advantages and pitfalls of different omics and their associated data types and processing pipelines, hands-on data processing The course is completed by passing all learning assignment and exercises.Mode of delivery Web-based self-study / teaching (local face-to-face teaching will be arranged if the situation allows) 30h of exercise groups, 105h self-st
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-09-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023111>)
+
+### 60/100 — REVIEW — Avoin yo, Corporate Responsibility and Business Ethics
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Corporate responsibility, business ethics and ethical issues in management and leadership from academic discipline and practice viewpoints. The differences and interrelationships between the concepts and phenomena of CSR, business ethics, organizational ethics and ethical management. Introduction to ethical theories and moral 
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015690>)
+
+### 60/100 — REVIEW — Avoin yo: Business English Interaction
+
+Pohjois-Pohjanmaan kesäyliopisto
+Oulu
+Yhteenveto: This course is a learning experience which has a focus on the major language learning skills areas such as reading, writing, speaking, listening as well as vocabulary expansion and further development of grammatical competence. Active participation in the Moodle course and Zoom sessions is mandatory and all projects must be completed successfully. All deadlines must be met as well. The course includes 8 projects each of which may require individu
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 160.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-04-20T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037103>)
+
+### 60/100 — REVIEW — Avoin yo, Introduction to Sustainable Business
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Global sustainability challenges. Concepts of business ethics, corporate social responsibility and corporate sustainability. Threats and business possibilities related to sustainability. Sustainability practices in business. Future perspectives to corporate social responsibility. UN Sustainable development goals: all the susta
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015917>)
+
+### 60/100 — REVIEW — Avoin yo, Strateginen johtaminen
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Opintojakso tarjoaa yleiskatsauksen vastuullisen strategisen johtamisen keskeisistä periaatteista ja käytännöistä. Tavoitteena on oppia hahmottamaan strategisen johtamisen moniulotteisuutta organisaation tulevaisuustyön osana. Strategiaa ja strategista johtamista tarkastellaan lähestymistapana organisaatioiden kokonaisvaltaise
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015776>)
+
+### 60/100 — REVIEW — Avoin yo: Strateginen johtaminen, kevät 2026
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Järjestämistapa: Verkko-opinnot Verkkokurssi on jaettu viikkokohtaisiin opetusjaksoihin (7 viikkoa). Opetusjakson luennot, harjoitukset ja reflektiot voi tehdä omassa tahdissa viikon aikana. Esitietovaatimukset: Suositellaan ay724102P Johtajuus ja organisaatiot 5 op -opintojakson suorittamista.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-03-06T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035805>)
+
+### 60/100 — REVIEW — Avoin yo, Markkinoinnin johtaminen
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Markkinoinnin strategiset avainprosessit: kuluttajien, asiakkaiden ja toimintaympäristön ymmärtäminen, houkuttelevien tarjoomien kehittäminen, hinnoittelu, myynti- ja jakelukanavat, markkinointiviestintä ja myynti, sekä markkinoinnin tuloksellisuuden mittaus ja analytiikka Markkinoinnin toimenpiteiden johtaminen ja päätöksente
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste.Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015890>)
+
+### 60/100 — REVIEW — Avoin yo, Tiimityön johtaminen ja ryhmädynamiikka
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Tiimit ja ryhmät, ja niiden erot. Johtaminen ja johtajuus tiimeissä ja ryhmissä. Itseohjautuvuus ja itsensä johtaminen osana ryhmädynamiikkaa. Motivaatio, yhteistyö ja vuorovaikutus ryhmissä. Ihmisten johtaminen projekteissa. Opintojakson sisällöt auttavat ymmärtämään YK:n Kestävän kehityksen tavoitteita 8 Ihmisarvoista työtä 
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015696>)
+
+### 60/100 — REVIEW — Avoin yo: Palvelumuotoilun johtaminen 4 op (LY), kevät 2027
+
+Mikkelin kesäyliopisto
+Mikkeli
+Yhteenveto: Opintojakso kuuluu opintokokonaisuuteen Palvelumuotoilun perusopinnot 25 op (LY). Opintojakson keskeisenä sisältönä: palvelumuotoiluosaaminen yrityksen toiminnassa, muotoilutoiminnan eri tasot yrityksissä ja organisaatioissa, muotoilun strateginen osaaminen ja johtaminen, muotoilu yrityksen toiminnan kehittämisessä ja päätöksenteossa ja kyky kommunikoida muotoilun merkitys ja mahdollisuudet organisaatiossa. Opintojakon suoritustapana on aktiivine
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 175.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-04-01T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032562>)
+
+### 60/100 — REVIEW — Avoin yo, Aineopintojen seminaarityöskentely ja tutkielma (johtaminen)
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Opiskelija osallistuu seminaarityöskentelyyn. Seminaarityöskentelyssä opiskelija osallistuu tieteelliseen keskusteluun sekä suullisesti että kirjallisesti. Seminaarityöskentely on tarkoitettu ainoastaan johtamisen opintosuunnan opiskelijoille. Opintojakso tuottaa osaamista liittyen YK:n kestävän kehityksen tavoitteisiin 4 Hyvä
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 10.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023316>)
+
+### 60/100 — REVIEW — Avoin yo, Aineopintojen seminaarityöskentely ja tutkielma (viestinnän johtaminen)
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Opintojaksolla perehdytään viestinnän johtamisen tutkimusalueisiin ja tiedonhankitaan sekä tutkimuseettisiin periaatteisiin. Opintojakso harjaannuttaa tieteelliseen ajatteluun ja argumentaatioon, ja kehittää valmiuksia itsenäiseen tutkimustyöhön, tieteelliseen raportointiin ja tutkimusten arviointiin. Opintojakso tukee vastuul
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 10.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta nousee pääsääntöisesti 20 euroon opintopistettä kohti opintojaksojen toteutuksissa, joiden ilmoittautuminen alkaa 1.1.2025 tai sen jälkeen. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015935>)
+
+### 60/100 — REVIEW — Avoin yo, B2B Marketing and Sales
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö This course covers topics such as organizational buying behavior, formation of value propositions, and effective communication of value through value-based selling techniques. We will also discuss more focused topics, such as, how the changing conceptualization of customer value has led to the emergence of service intensive bu
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023323>)
+
+### 60/100 — REVIEW — Avoin yo, Communication, Behavior Insight and Social Marketing
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Social Marketing is an approach where commercial principles are used to change or maintain people’s behaviour for the benefit of individuals and society as a whole. It leverages behavioural insights to promote behavioural change and is de facto part of the approaches that applies behavioural sciences to address different socie
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopistettä. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023319>)
+
+### 60/100 — REVIEW — Avoin yo, Digitaalinen markkinointi
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö This course introduces students to digital marketing. The course explains the principles of formulating a digital marketing strategy and implementing it to practice via various digital marketing tactics. The course is designed for both practitioners and university students who want a comprehensive understanding of digital mark
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 6.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa opintopistettä kohti.  Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015565>)
 
 ### 60/100 — REVIEW — Erillishaku: Tradenomi (AMK), tietojenkäsittely, VAMK
 
@@ -14677,6 +14639,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041546>)
 
+### 50/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus, polkuopinnot
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joustavampaa, vaan läsnäolovaatimukset koskevat polkuopiskelijoitakin. Tutkintoa polkuopinno
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-04T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030557>)
+
 ### 50/100 — REVIEW — Valtiotieteet ja politiikka
 
 Helsingin Evankelinen opisto
@@ -15028,3 +15014,75 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042180>)
+
+### 45/100 — REVIEW — Kauppatieteet: Tietojärjestelmätiede (avoin yliopisto-opetus)
+
+Turun yliopisto
+Pori
+Yhteenveto: Opintojakso järjestetään Porin yksikössä lähiopetuksena opetusperiodilla I. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019119>)
+
+### 45/100 — REVIEW — Avoin yo: International Brand Marketing, 2026-2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: The basic concepts related to brands, introduction to branding in international markets, designing and implementing brand communications, designing consumer’s brand experience in international context, evaluating strategic brand management in global business environment.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041433>)
+
+### 45/100 — REVIEW — Kauppatieteet: Yrittäjyys (avoin yliopisto-opetus)
+
+Turun yliopisto
+Pori
+Yhteenveto: Opintojakso toteutetaan Porin yksikössä lähiopetuksena opetusperiodilla I. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-26T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019117>)
