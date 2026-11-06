@@ -1,1250 +1,1341 @@
 # JOB AGENT
 
-Haku: 2026-11-05T23:41+02:00
+Haku: 2026-11-06T15:40+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 6 uutta sopivaa työpaikkaa.
+Sinulle on 7 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 6
-Tällä ajolla luettuja hakutuloksia: 168 | Lähetysrajan täyttäviä työpaikkoja: 80
-Vahvat: 5 | Harkitse: 1
+Uusia sopivia työpaikkoja: 7
+Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 96
+Vahvat: 7 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 95/100 — STRONG — Data & AI -konsultti, Pengon Oy
+### 90/100 — STRONG — Internal Sales Support, Vantaa
 
-Pengon Oy
-Vantaa tai Jyväskylä
-Yhteenveto: Tehtävänkuvaus Data & AI -konsulttina vastaat analytiikkaratkaisujen (Power BI, Qlik, Fabric, Databricks, Azure) itsenäisestä toteutuksesta tarvemäärittelystä aina julkaisuun saakka. Konkreettisesti työsi sisältää ratkaisujen määrittelyjen vastaanottamista, työmääräarvioiden tekemistä, tietovarastojen ja -mallien suunnittelua, BI-sovellusten toteuttamista sekä lukujen täsmäytystä ja testausta asiakkaan ympäristöissä. Arkesi on erittäin tekoälyvet
+Adecco
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Internal Sales Support -tehtävä Troax Nordic Ab:lla Vantaan Aviapoliksessa on vakituinen rooli neljän hengen tiimissä, jossa tuetaan myyntiä ja varmistetaan tilaus‑toimitusprosessin sujuvuus. Työ painottuu tarjouspyyntöjen käsittelyyn ja tarjousten laatimiseen (noin 40 %) sekä tilausten käsittelyyn (noin 40 %), ja sisältää asiakasyhteydenpidon sekä toimitusten seurannan. Edellytämme soveltuvaa koulutusta (esim.
+Hakuaika päättyy: 2027-01-05
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/internal-sales-support-vantaa-2794492>)
+
+### 90/100 — STRONG — Key Account Manager
+
+TietoAkseli Group
+Helsinki, FI, Lahti, Hamina, Kouvola, Mikkeli, Pieksämäki, Savonlinna, Jyväskylä, Tampere, Turku, Oulu
+Julkaistu: 2026-11-06
+Yhteenveto: TietoAkseli on talous- ja henkilöstöhallinnon sekä yritysjärjestelyjen ratkaisuja tarjoava suomalainen asiantuntijayritys. Vuodesta 2025 alkaen olemme olleet osa pohjoismaista ECIT-konsernia. ECIT on taloushallinnon, palkanlaskennan ja IT-palveluiden asiantuntijatalo. Haluatko ottaa kokonaisvastuun merkittävistä asiakkuuksista ja rakentaa niiden kanssa pitkäjänteistä kasvua? Etsimme TietoAkselille kokenutta Key Account Manageria vahvistamaan uutt
+Hakuaika päättyy: 2026-11-20
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/key-account-manager-2794287>)
+
+### 90/100 — STRONG — Coordinator, Logistics and Sales support
+
+Dedicated Network Partners
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will coordinate international customer orders from placement through delivery and invoicing, maintain product codes, pricing and installed-base records, and compile inventory and sustainability reports. You will support Sales by organizing customer meetings, maintaining price lists and managing customer-specific contractual data. Candidates should have commercial or logistics experience in international equ
+Hakuaika päättyy: 2027-01-05
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/coordinator-logistics-and-sales-support-2794371>)
+
+### 90/100 — STRONG — Myyntipäällikkö, DOKS
+
+Alma Media
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haetaan Myyntipäällikköä, joka vastaa DOKSin uusasiakashankinnasta ja myynnin kasvattamisesta Ruotsissa. Tehtävä kattaa koko myyntiprosessin prospektoinnista kaupan solmimiseen sekä myyntiputken ja ennusteiden järjestelmällisen hallinnan. Edellytämme vähintään kahden vuoden kokemusta B2B-myynnistä mielellään SaaS- tai teknologia-alalta sekä näyttöä uusasiakashankinnasta ja sujuvaa ruotsin ja englannin kielitait
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-doks-2794207>)
+
+### 85/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
+
+Vaisala Oyj
+Vantaa
+Yhteenveto: About the role As a Software Test Engineer, you will join a team dedicated to testing embedded systems for HVAC products. You will start with guided onboarding, gradually taking on test automation and manual testing tasks using modern AI-assisted tools. We are looking for Educational background in Software Engineering, Electrical Engineering, or a related field (completed studies) Minimum one year of relevant work experience Strong interest in wo
 Lähteet: Academic Work
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
 - +10 teknologia: python
-- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
 - +10 Uusimaa
-- ? ilmoituksessa mainitaan Azure, Power BI, SQL; osaamista ei ole vahvistettu profiilissa
 
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/data--ai-konsultti-pengon-oy/LGYKIH>)
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-software-test-engineer-vaisala-vantaa/24YCL8>)
 
-### 95/100 — STRONG — Data & AI -konsultti, Pengon Oy
+### 75/100 — STRONG — Teknisen tuen ja huoltoneuvonnan asiantuntija Vantaalle / NIBE Energy Systems
+
+Compass Human Resources Group Finland Oy
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: NIBE on maailmanlaajuinen konserni, joka kehittää ja valmistaa älykkäitä ja energiatehokkaita ratkaisuja sisätilojen mukavuuteen kaikenlaisille kiinteistöille. NIBEn tarina sai alkunsa 70 vuotta sitten Smoolannin Markarydissä yrittäjähenkisyydestään tunnetulla alueella. NIBE-konserni työllistää yli 20 000 työntekijää ja harjoittaa liiketoimintaa Euroopassa, Pohjois-Amerikassa, Aasiassa ja Australiassa. Pohjoismaissa NIBE on suurin lämmitysjärjest
+Hakuaika päättyy: 2026-11-20
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/teknisen-tuen-ja-huoltoneuvonnan-asiantuntija-vantaalle-nibe-energy-systems-2794512>)
+
+### 65/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
 
 Academic Work
-Jyväskylä, FI, Vantaa
-Julkaistu: 2026-11-05
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Data & AI -konsulttina toteutat itsenäisesti analytiikkaratkaisuja (Power BI, Qlik, Microsoft Fabric, Databricks, Azure) tarvemäärittelystä julkaisuun asti. Työhön kuuluu tietovarastojen ja tietomallien suunnittelu, BI-sovellusten rakentaminen, datan laadun varmistus sekä tekoälyagenttien (esim. Claude) hyödyntäminen kehitysprosessissa. Tehtävään vaaditaan kokemusta vähintään yhdestä alustasta (Microsoft Fabric
-Hakuaika päättyy: 2027-01-04
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will join a team testing embedded systems for HVAC products, focusing on test automation and manual hardware testing. Daily tasks include automation and manual testing with Robot Framework, Jenkins, Python, Jira and GitHub while using AI-assisted tools and following lab safety protocols. Applicants must have a completed degree in software or electrical engineering (or related), at least one year of relevant
+Hakuaika päättyy: 2027-01-05
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
 - +10 teknologia: python
-- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- ? ilmoituksessa mainitaan Azure, Power BI, SQL; osaamista ei ole vahvistettu profiilissa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-ai-konsultti-pengon-oy-2794073>)
-
-### 90/100 — STRONG — Asiakaskohtaamisten sopija – Avaa ovia yritysten kasvulle
-
-Intensive Sales Partners Oy
-Helsinki, Uusimaa, FI, Espoo, Vantaa, Järvenpää
-Julkaistu: 2026-11-05
-Yhteenveto: Haluatko työn, jossa jokainen päivä on erilainen ja jokainen onnistuminen vie sinua eteenpäin? Etsimme uusia Asiakaskohtaamisten sopijoita kasvavaan tiimiimme. Tehtävässä toimit yritysten ensimmäisenä yhteyshenkilönä ja autat asiakkaitamme löytämään uusia liiketoimintamahdollisuuksia. Työsi tärkein tavoite on sopia laadukkaita asiakastapaamisia myyntitiimeille – juuri sinun työsi käynnistää uusia asiakassuhteita. Aikaisempaa kokemusta et tarvitse
-Hakuaika päättyy: 2026-11-18
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakaskohtaamisten-sopija-avaa-ovia-yritysten-kasvulle-2794104>)
-
-### 80/100 — STRONG — Sales Team Leader Trainee – Myynnin esihenkilöharjoittelija
-
-Intensive Sales Partners Oy
-Helsinki, FI, Espoo, Vantaa, Järvenpää
-Julkaistu: 2026-11-05
-Yhteenveto: Oletko kaupallisen alan opiskelija? Haluatko edistää uraasi seuraavalla askeleella vastuullisessa roolissa, jossa pääset vastaamaan omasta tiimistä ja sen tuloksesta? Juuri sinä, tämä ilmoitus varmasti kiinnostaa sinua!🫵 Etsimme tekijää noin 5-6 kuukauden harjoitteluun, joka hakee seuraavaa askelta urallaan myynnin johtamisen parissa. Työ on suunnattu korkeakouluopiskelijalle (esim. tradenomi), jolla on opintoihin liittyvä harjoittelu suorittamat
-Hakuaika päättyy: 2026-11-18
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
 - +5 junior-/aloitustaso
 - +10 Uusimaa
+- -20 pyytää vähintään 90 vuotta kokemusta
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-team-leader-trainee-myynnin-esihenkiloharjoittelija-2794102>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-software-test-engineer-vaisala-vantaa-2794490>)
 
-### 75/100 — STRONG — Myyjä
+## KOULUTUKSET — 50 UUTTA / MUUTTUNUTTA
 
-Intensive Sales Partners Oy
-Helsinki, FI, Turku, Varsinais-Suomi, Espoo, Uusimaa, Vantaa
-Julkaistu: 2026-11-05
-Yhteenveto: 🚀 Etsitkö työtä, jossa tekeminen ratkaisee? Me emme odota, että asiakkaat löytävät meidät. Me etsimme heidät – ja rakennamme samalla uusia myyntiuria. Intensive Sales Partners Oy etsii uusia myyjiä, buukkareita ja asiakashankinnan tekijöitä kasvavaan tiimiinsä. Jos pidät tavoitteista, haluat kehittyä ja uskot siihen, että omalla tekemisellä voi vaikuttaa omiin ansioihin, jatka lukemista. Mitä meillä tehdään? Meillä pääset työskentelemään monipuol
-Hakuaika päättyy: 2026-11-18
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-2794103>)
-
-### 60/100 — REVIEW — Architect, IT Hybrid Networks
-
-UPM
-Tampere, FI, Helsinki, Uusimaa
-Julkaistu: 2026-11-05
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Architect, IT Hybrid Networks will own the architecture, technology roadmap and lifecycle management of enterprise firewall platforms, OT networks and partner connectivity at UPM. The role requires creating and maintaining architecture documentation, standards and implementation guidelines while ensuring compliance with cybersecurity and enterprise architecture principles. The successful candidate will have
-Hakuaika päättyy: 2027-01-04
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- -30 senioriteetti ylittää nykyisen taustan
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/architect-it-hybrid-networks-2794109>)
-
-## KOULUTUKSET — 45 UUTTA / MUUTTUNUTTA
-
-### 95/100 — STRONG — Tekoälyn monitieteinen opintokokonaisuus (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tekoälyn monitieteiseen opintokokonaisuuteen kuuluu useita eri teemoja käsitteleviä opintojaksoja, joita voi opiskella oman kiinnostuksen mukaan. Opintojaksoja on tarjonnassa jaksosta riippuen syys- tai kevätlukukaudella, osa on suoritettavissa koko lukuvuoden ajan. Opinnot järjestetään tutkinto-opetukseen integroituna opetuksena Turun yliopistossa, pääosin kokonaan verkossa. Osaan opintojaksoista sisältyy Exam-tentti. Exam-tenttejä voi suorittaa
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 1.0–45.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Tekoälyn perusteet 2 op, AI & Cybersecurity (MOOC) 2 ECTS ja Tekoälyn menetelmät 5 op -jaksot ovat maksuttomia. Muiden jaksojen opintomaksut ovat 18 euroa/opintopiste.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-04-26T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014480>)
-
-### 95/100 — STRONG — Markkinoinnin perusopinnot
-
-Helsingin seudun kesäyliopisto
-Helsinki
-Yhteenveto: Markkinoinnin opintokokonaisuudessa käsitellään markkinoiden rakenteita ja toimintaa, kilpailustrategioita, kuluttajakäyttäytymistä ja markkinointiviestintää sekä markkinoinnin suunnittelua ja johtamista. Voit syventyä myös vastuullisen markkinoinnin, kansainvälisen liiketoiminnan tai vähittäiskaupan teemoihin. Opinnot suoritettuasi ymmärrät markkinoinnin osana yritysten ja organisaatioiden ydintoimintoja. Opinnoista voi opiskella yksittäisiä opi
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 26.0–30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 390.0 (lähteen summa; tarkista ehdot) ; 390-660 €. Opintokokonaisuuden hinta riippuu opiskeltavien opintojaksojen määrästä: minimi 25 op, maksimi 44 op.
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-30T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025229>)
-
-### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen maatalousalalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028427>)
-
-### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen kuljetusalalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028720>)
-
-### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen matkailu- ja ravintola-alalla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028722>)
-
-### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen puhtaus-, kiinteistöpalvelu-, ja isännöintialoilla (Jotpa)
-
-Minna Learning Oy
-Helsinki
-Yhteenveto: Tekoäly tulee muuttamaan jokaista toimialaa. Mitä nopeammin otat tekoälyn haltuun, sitä nopeammin pääset nauttimaan sen hyödyistä. Kurssit käsittelevät tekoälyn perusteita, tekoälytyökalujen hyödyntämistä käytännössä, tietojohtamista ja liiketoiminnan tehostamista datalla ja tekoälyllä sekä muutoksen kohtaamista. Tavoitteena on lisätä pienten ja keskisuurten yritysten henkilöstön valmiuksia käyttää ja hyödyntää tekoälyn tuomia mahdollisuuksia jok
-Koulutustyyppi: CONTINUING EDUCATION
-Laajuus: 27.0–108.0 tuntia
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on Jatkuvan oppimisen ja työllisyyden palvelukeskuksen sekä EU:n rahoittama. Palvelukeskus edistää työikäisten osaamisen kehittämistä ja osaavan työvoiman saatavuutta. Hae ilmaista opiskeluoikeutta: tekoalytalkoot.fi
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028723>)
-
-### 95/100 — STRONG — Avoin yo: Johtaminen, aineopinnot, lv. 2026-2027
-
-Päijät-Hämeen kesäyliopisto
-Lahti
-Yhteenveto: Johtamisen osaamista joustavasti verkossa! Johtamisen opinnoissa perehdytään organisaatioihin, johtamiseen ja johtajuuteen – niin ihmisten kuin asioiden johtamisen näkökulmasta. Opit tarkastelemaan johtamista esimerkiksi esihenkilötyön, asiantuntijaorganisaatioiden, muutosjohtamisen ja kilpailustrategioiden kautta. Opinnoissa käsitellään myös vastuullista liiketoimintaa ja johtamista tukevia analysointimalleja. Mikäli haluat suorittaa Johtamisen 
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 30.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; Hinta on Päijät-Hämeen kesäyliopiston perimä lukuvuosimaksu 90 € + Itä-Suomen avoimen yliopiston perimä maksu 12 € /opintopiste.
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-31T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039957>)
-
-### 95/100 — STRONG — Avoin yo: Johtaminen aineopinnot (UEF) lv. 2026-2027
-
-Kymenlaakson kesäyliopisto
-Kouvola
-Yhteenveto: Johtaminen aineopinnot 30 op (UEF) Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asioiden johtamista opiskellaan mm. esihenkilötyön ja asiantuntijaorganisaation ja osaamisen näkökulmista. Johtamisen opinnot sopivat kaikille yritysten ja erilaisten organisaatioiden johtamisesta kiinnostuneille. Johtamisen aineopintokokonaisuudessa käsitellään organisaation ja asiakaslähtöisen liiketoimi
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 30.0–36.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 530.0 (lähteen summa; tarkista ehdot) ; Hinta : Kymenlaakson kesäyliopiston maksu 170 € + Itä-Suomen avoimen yliopiston maksu 12€/op
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-12-15T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041130>)
-
-### 95/100 — STRONG — CREA – Creative Business Toolkit
+### 100/100 — STRONG — Master of Business Administration, Management in Sustainable Business
 
 Hämeen ammattikorkeakoulu
 Hämeenlinna
-Yhteenveto: CREA – Creative Business Toolkit toteutetaan lukuvuoden 2026-2027 aikana. Lue lisää: https://www.hamk.fi/opinnot/crea-creative-business-toolkit/
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 20.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
+Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
 Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
-Hakuaika päättyy: 2027-04-01T23:59
+Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042533>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
 
-### 95/100 — STRONG — Kasvua datasta ja tekoälystä mikro- ja PK-yrityksille
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Ota data ja tekoäly hyötykäyttöön omassa työssäsi Tiedätkö miten yritykselläsi menee ja mistä löydät uudet kasvun siemenet? Kaipaatko uusia datapohjaisia näkökulmia myyntiin ja markkinointiin? Joko teillä on data- ja AI-strategiat ja tiekartat laadittuna? Tämä käytännönläheinen 8 opintopisteen koulutuskokonaisuus antaa valmiudet hyödyntää dataa, asiakastietoa ja tekoälyä tehokkaasti, turvallisesti ja vastuullisesti yrityksen kasvun vauhdittamisek
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 8.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-04-30T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043294>)
-
-### 95/100 — STRONG — Datasta tehoa liiketoimintaan
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Datasta tehoa liiketoimintaan -koulutuksessa lisätään mikro- ja pk-yritysten työntekijöiden osaamista datan hyödyntämisestä liiketoiminnan kehittämisessä. Opinnot vahvistavat opiskelijan datan hyödyntämiseen liittyvää osaamista erityisesti liiketoiminnan kehittämisen näkökulmasta. Opintokokonaisuuden laajuus on yhteensä 15 op, ja koulutukseen osallistuva opiskelija voi valita opintokokonaisuudesta omaa osaamistaan parhaiten vahvistavat opintojaks
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 15.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-11T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043544>)
-
-### 90/100 — STRONG — Kauppatieteet: Kansainvälinen liiketoiminta (avoin yliopisto-opetus)
+### 90/100 — STRONG — Master's Degree Programme in Futures Studies, Master of Social Sciences (2 years)
 
 Turun yliopisto
 Turku
-Yhteenveto: Turun kauppakorkeakoulun opintojaksot järjestetään lukuvuoden aikana neljän opetusperiodin aikataulujen mukaisesti. Tarkista, millä periodeilla kansainvälisen liiketoiminnan opintojaksot järjestetään ja miten ne toteutetaan. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0–29.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
+Yhteenveto: Futures Studies is a new emerging field of research. As the future does not exist yet, futurists study the future projections of and discontinuities in past trends and current views of the long-term future. Futures Studies is interested in the probable futures, possible futures and preferred futures. As a societal action, futures studies aim to serve private and public decision-makers by outlining alternative long-term strategies in a changing op
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
 Toteutus: HYBRID
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-06-20T00:00
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014963>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001624>)
 
-### 90/100 — STRONG — Kauppatieteet: Markkinointi (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0–6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014965>)
-
-### 90/100 — STRONG — Kauppatieteet: Toimitusketjujen johtaminen (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0–14.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
-Toteutus: HYBRID
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014969>)
-
-### 90/100 — STRONG — AI & Cybersecurity (MOOC) (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: AI & Cybersecurity -opintojakson (2 op) voi opiskella itsenäisesti suoritettavina verkko-opintoina. Opintojakso on englanninkielinen ja se on suoritettavissa syys- ja kevätlukukaudella. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-06-23T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017406>)
-
-### 90/100 — STRONG — Englannin kieli ja liikeviestintä: Business Communication I ja II (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Englannin kielen ja liikeviestinnän opintojaksoja järjestetään syyslukukaudella ja kevätlukukaudella. Tarkista jaksojen opetusperiodit. Opetus pidetään Turussa, Porin yksikössä tai verkossa opintojaksosta riippuen. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-12-13T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019113>)
-
-### 90/100 — STRONG — Johtaminen ja organisointi: Business and Nature (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojakso järjestetään verkko-opintoina, jotka voi opiskella itsenäisesti. Katso tarkemmat tiedot opiskelutavoista ja esitietosuosituksista opintojen esittelysivulta: https://www.utu.fi/en/open-university-studies/courses/business-nature
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 36.0 (lähteen summa; tarkista ehdot)
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-06-20T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022454>)
-
-### 90/100 — STRONG — Tilastotiede ja data I (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tilastotiede ja data I -opintojakson voi opiskella itsenäisesti suoritettavina verkko-opintoina. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/matemaattis-luonnontieteellinen-tiedekunta/matematiikka-tilastotiede
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-09T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025856>)
-
-### 90/100 — STRONG — Tilastotiede ja data II (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tilastotiede ja data II (4 op) opintojakso järjestetään lähiopetuksena Turun yliopistossa. Luentojen materiaaleista tehdään koostetallenteet, joten jakso on mahdollista suorittaa koko lukuvuoden ajan myös itsenäisesti opiskellen verkko-opintoina. Opintosuorituksena on Exam-tenttipalvelussa suoritettava tentti. Tentin voi tehdä Turun yliopistossa ja lisäksi useiden muiden korkeakoulujen Exam-tenttipalvelujen tiloissa. Tarkemmat tiedot ovat opintoj
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 72.0 (lähteen summa; tarkista ehdot)
-Toteutus: HYBRID
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-02T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025857>)
-
-### 90/100 — STRONG — Liiketoiminta-ajattelu ja kaupallistaminen terveysteknologiassa
+### 90/100 — STRONG — Avoin yo: Aloittavan yrityksen markkinointi, lv 2026-2027, verkko-opinnot
 
 Itä-Suomen yliopisto
 Kuopio
-Yhteenveto: Kurssi suoritetaan itsenäisenä opiskeluna verkko-oppimisympäristössä (verkko-opinnot, luentotallenteet ja verkkotehtävät), ja arvostellaan verkkotehtävien hyväksytyn suorituksen mukaan hyväksytty/hylätty. Opiskelijan itsenäisen työn osuus on n. 27 tuntia. Kurssi suoritetaan oman aikataulun mukaan ajalla 5.5.–15.12.2026.
+Yhteenveto: Sisältö yrittäjämäinen markkinointi, aloittavan yrityksen markkinointistrategiat, asiakashankinta ja asiakassuhteiden kehittäminen, hinnoittelu, myynti, kannattavuuslaskelmat, Business Model Canvas (erityisesti kanavat, asiakassuhteet, tulovirrat, kustannusrakenne) Suoritustapa: Opinnot suoritetaan verkko-opintoina perehtymällä oppimateriaaliin ja palauttamalla oppimistehtäviä.  Kurssisuoritukseen kuuluu, että teet kurssin eri osioissa olevat teh
 Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 1.0 opintopistettä
+Laajuus: 2.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Opintojakso on maksuton Jatkuvan oppimisen ja työllisyyden palvelukeskuksen (JOTPA) rahoittaman Terveysteknologian osaamistarpeet-hankkeen ajan (hanke päättyy 31.12.2026).
+Hinta: maksullinen: 40.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
 Toteutus: ONLINE
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037897>)
+
+### 90/100 — STRONG — Avoin yo: Monialaiset ja yhteentoimivat sosiaali- ja terveyspalvelut, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Ilmoittautuminen: 6.8.2026-15.6.2027. Suoritusaika: 14.9.2026-30.7.2027. Opintojakson vaihtoehtoiset suorituspäivät ovat 6.11., 11.12., 8.3., 7.5., 31.5. Mikäli kaikki opintojakson vaaditut tehtävät on palautettu johonkin näistä päivämääristä mennessä, suoritus otetaan opettajan arvioitavaksi. Hyväksytyt suoritukset kirjataan opintorekisteriin arvioinnin jälkeen kolmen viikon kuluessa palautuspäivästä. HUOM! Kesä- ja heinäkuun aikana tehdyt suori
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 60.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026–2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit. K
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039466>)
+
+### 90/100 — STRONG — Avoin yo: Yrittäjämäinen asenne ja ajattelutapa, lv 2026-2027, verkko-opinnot
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sisältö yrittäjämäinen ajattelutapa, effektuaatio, yrittäjyyden erilaiset muodot/tavat, Business Model Canvas (erityisesti resurssit, kumppanuudet) Suoritustapa: Opinnot suoritetaan verkko-opintoina perehtymällä oppimateriaaliin ja palauttamalla oppimistehtäviä. Kurssisuoritukseen kuuluu, että teet kurssin eri osioissa olevat tehtävät ja kurssin kokoavan oppimistehtävän vertaisarviointeineen. Opiskelu on täysin itsenäistä. Akateeminen opiskelu ed
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 40.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039496>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Haluatko olla mukana rakentamassa käyttäjälähtöisiä älykkäitä palveluja, joilla on oikeasti merkitystä? Käyttäjälähtöiset älykkäät palvelut ovat tänä päivänä keskeinen osa työelämää, yritysten menestystä ja ihmisten arkea. Niiden tarve kasvaa jatkuvasti – ja samalla kasvaa tarve osaaville, oppimiskykyisille ja mukautuville tekijöille. Xamkin tietojenkäsittelyn koulutus antaa sinulle erinomaiset valmiudet työllistyä ja kehittyä nopeasti muuttuvall
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000787>)
+
+### 85/100 — STRONG — Erillishaku: Tradenomi (AMK), tietojenkäsittely, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Tutkinto-ohjelma tarjoaa sinulle mahdollisuuden kehittyä tulevaisuuden teknologia-asiantuntijaksi, jonka ydinosaamista ovat ohjelmistokehitys ja tekoälyratkaisujen suunnittelu sekä toteutus. Järjestämme koulutuksen kokonaan verkossa etäopintoina , mutta et jää opinnoissasi yksin. Opiskeluun sisältyy ryhmätyöskentelyä ja järjestämme verkko-oppitunnit päiväsaikaan, pääsääntöisesti maanantaista perjantaihin kello 8 -16 välisenä aikana. Toteutamme tu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot, Suomalaisen lukion oppimäärä tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000882>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, AI-Driven Development, päivätoteutus
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Tietotekniikan insinöörinä kehität ratkaisuja digitaaliseen maailmaan, jossa ohjelmistot, tietoverkot ja tekoäly ohjaavat kaikkia toimialoja. Opit ymmärtämään ja hyödyntämään nykyaikaista teknologiaa aina laitteistoista ja käyttöjärjestelmistä ohjelmistoihin, tietoverkkoihin ja tekoälyratkaisuihin. Tekoäly ja koneoppiminen ovat osa opintojasi koko koulutuksen ajan, valmentaen sinua jatkuvasti kehittyvän ICT-alan tarpeisiin. Käytännönläheisten pro
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lukuvuosimaksu on 10 000 euroa. Lisätietoa lukuvuosimaksuista ja apurahoista Oamkin www-sivuilla.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001468>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Kasva IT-alan ammattilaiseksi kehittämään tulevaisuuden ratkaisuja liiketoiminnalle! Tietojenkäsittelyn koulutuksessa opit kehittämään, turvaamaan ja ylläpitämään laadukkaita ja kestäviä ohjelmistoratkaisuja sekä saat mahdollisuuden kasvaa osaavaksi työyhteisön jäseneksi ratkomalla todellisia työelämältä tulevia haasteita. Opiskelet tekemällä, yhteistyössä muiden opiskelijoiden ja yritysten kanssa. Tekoälyä hyödynnetään IT-alalla enenevissä määri
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002276>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Maailma ei muutu vain teknologioilla, vaan niiden avulla rakennetuilla älykkäillä ratkaisuilla. Tekoäly, automaatio ja pilvipalvelut muokkaavat parhaillaan sitä, miten elämme ja teemme töitä. Tulevaisuuden IT -asiantuntijana et vain seuraa tätä kehitystä, vaan hyödynnät ja johdat sitä. Tekoälyn nopea kehitys ja vaikutukset työelämään on herättänyt paljon keskustelua jo viimevuosina; opintoja suunnitellessa voi jopa tulla mieleen, onko IT- ala ede
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003168>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, erillishaut
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003765>)
+
+### 85/100 — STRONG — Erillishaut Lapin AMK, Tradenomi (AMK), tietojenkäsittely, Siirtohaku ja Avoimen AMKin ja/tai muilla opinnoilla tutkinto-opiskelijaksi
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Avoimen AMKin ja/tai muilla opinnoilla Hakuaika on 1.6. - 30.11., kun aloittaa opiskelun syyslukukaudella. Hakuaika on 1.12. - 31.5., kun aloittaa opiskelun kevätlukukaudella. Siirtohaku Hakuajat 1.-15.5. ja 1.-15.11. Lisää tietoa löytyy täältä .
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038686>)
-
-### 90/100 — STRONG — Open Uni: Processing of UAV remote sensing data with open-source software, 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Modes of study: Self-learning in DigiCampus platform. The self-assessment multi-choice questions are automated while the final assignment is assessed by a teacher. Teaching methods: Online materials, computer lab work, final assignment. The course is available online between Aug 1st, 2026 and July 30th, 2027. Completed course is assessed and study attainment published every other month. Open university students' study right will be valid until Ju
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 60.0 (lähteen summa; tarkista ehdot) ; Study units cost 20 € / ECTS credit. This price holds for the academic year 2026-2027. For more information on study fees and payment and cancellation terms, please see: Registration, study fees and right to study | University of Eastern Finland (uef.fi) . Right to study will cover the lessons and e
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-06-21T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039624>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005545>)
 
-### 90/100 — STRONG — Avoin yo: Tekoäly, algoritmit ja dataistuminen viestinnän kentällä lv. 2026-2027
+### 85/100 — STRONG — Tietojenkäsittelytiede, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v)
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Suoritustavat Opintojakso suoritetaan osallistumalla luento-opetukseen ja tekemällä itsenäisiä harjoitustehtäviä. Opintojaksolla on seitsemän luentotapaamista (yht. 14 t.). Itsenäinen työskentely koostuu opintojaksolla annetusta kurssilukemistosta (46 t) ja harjoitustehtävistä (75 t). Aikataulu Opintojakso on suoritettavissa16.3.2027 – 14.5.2027. Kts. tarkemmat opetusajankohdat https://opas.peppi.uef.fi/fi/opintojakso/FH00FA44/143559?period=2026-
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste, ja opintokokonaisuuksille 15 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026–2027. Et voi ostaa opintokokonaisuutta, jos olet ostanut yksittäisiä opintojaksoja. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoi
+Oulun yliopisto
+Oulu
+Yhteenveto: Tietojenkäsittelytieteen opinnot tarjoavat näköalapaikan informaatioteknologian parissa työskentelyyn. Opinnoissa keskitytään kehittämään käyttäjien tarpeisiin suunniteltuja tekoäly- ja ohjelmistotuotteita sekä tietojärjestelmiä. Digitalisaatio ja tekoäly kehittävät alaa voimakkaasti. Maailma tarvitsee alan osaajia, jotka ymmärtävät, millaisia mahdollisuuksia uudet teknologian tarjoavat ja osaavat suunnitella ratkaisuja joista on aidosti hyötyä n
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2027-03-15T23:59
+Hakuaika päättyy: 2026-11-16T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040389>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008949>)
 
-### 90/100 — STRONG — Avoin yo: Kestävän matkailun markkinointi ja myynti 2026-2027
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely
 
-Itä-Suomen yliopisto
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helian tietojenkäsittelyn tradenomina olet työnantajien arvostama IT-asiantuntija, joka työskentelee eri kehittämistehtävissä erilaisissa yrityksissä ja organisaatioissa. Haaga-Heliassa voit yhdistää teknologian ja liiketoiminnan osaamiset oppimispolullasi. Tietojenkäsittelyn tradenomikoulutus vastaa kehittyviin työelämän tarpeisiin ja tarjoaa sinulle mahdollisuuden muotoilla omia opintojasi joustavasti. Voit suunnitella henkilökohtaisen op
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009237>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
+
+Savonia-ammattikorkeakoulu
 Kuopio
-Yhteenveto: Sisältö: Kestävän matkailun markkinointi, myynti ja brändäys, viherpesun tunnistaminen, markkinoinnin ja kestävyyden mittaaminen, mittausdatan hyödyntäminen, päästökompensaatiot Suoritustapa: Itsenäinen työskentely verkkoympäristössä, verkkotehtävien hyväksytty suoritus. Opiskelijan itsenäisen työn osuus: 27 t. Voit suorittaa opintojakson omassa aikataulussasi. Opettaja arvio suoritukset kerran kuukaudessa. Poikkeuksena opetuksen kesätauko 15.6-1
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 20.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Yhteenveto: Yhdistä tietojenkäsittely ja liiketoiminta – verkossa opiskellen Tietojenkäsittelyn tradenomina olet tietojenkäsittelyn asiantuntija ja sinulla on myös hyvä liiketoimintaosaaminen. Opinnot ovatkin yhdistelmä tietojenkäsittelyä ja liiketoimintaa. Tietojenkäsittelyn tradenomin työllistymismahdollisuudet ovat laajat ja tietojenkäsittelyn osaamista tarvitaan kaikilla toimialoilla. Koulutuksessa painotetaan erityisesti datan käsittelyä ja sen jalostam
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
-Hakuaika päättyy: 2027-06-16T23:59
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040638>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010451>)
 
-### 90/100 — STRONG — Avoin yo: Innovative Entrepreneurship MOOC, lv. 2026-2027
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Software Development in the Age of AI (blended studies), Helsinki, KAMK
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Software Development in the Age of AI is a cutting-edge, part-time engineering program designed to equip students with the skills and knowledge to excel in the rapidly evolving field of software development. This program merges traditional software engineering principles with modern AI techniques, providing a comprehensive education that prepares students to design, develop, and deploy intelligent software systems. The program is designed as a bl
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fee and scholarship system.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026725>)
+
+### 85/100 — STRONG — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
 
 Oulun yliopisto
 Oulu
-Yhteenveto: Unlock your entrepreneurial potential with our Innovative Entrepreneurship MOOC, designed for learners who want to turn ideas into real opportunities. This course gives you the tools, mindset, and confidence to identify problems, create value, and develop solutions that matter. Through engaging online video tutorials, practical examples, and quizzes, you’ll learn how innovators think and how successful entrepreneurs build, test, and refine their 
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2027-07-31T23:59
+Hakuaika päättyy: 2026-11-16T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041421>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
 
-### 90/100 — STRONG — Avoin yo: Digital Platforms and Analytics, lv. 2026-2027
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, kyberturvallisuus, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034644>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, digitaalisten palveluiden kehittäminen, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo, Vantaa
+Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034785>)
+
+### 85/100 — STRONG — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
 
 Oulun yliopisto
 Oulu
-Yhteenveto: Kurssi esittelee data-analytiikkatyökalut kategorioittain, BI- ja AI-dashboardit sekä vahvistaa asiantuntijuutta liike-elämän analytiikassa. Kurssilla keskitytään asiakkaiden sitoutumisen analysointiin ja tiivistämiseen digitaalisissa ympäristöissä, kilpailijoiden ja toimialan vertailuun sekä digitaalisten kanavien suorituskyvyn arviointiin ja parantamiseen. Opiskelijat oppivat tunnistamaan, hyödyntämään uudelleen ja tulkitsemaan KPI-mittareita e
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot)
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2027-03-31T23:59
+Hakuaika päättyy: 2026-11-16T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041434>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
 
-### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tekoälyn perusteet (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-01T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041547>)
-
-### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Ohjelmoinnin perusteet (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-01T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041548>)
-
-### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Kyberturvallisuus (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina, joihin voi osallistua paikkakunnasta riippumatta lukuun ottamatta Exam-tenttipalvelussa suoritettavia tenttejä. Tenttejä voi tehdä Turun yliopistossa ja lisäksi muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoal
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-01T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041549>)
-
-### 90/100 — STRONG — Data ja tekoäly työelämässä – perustaidot pk-yrityksille: Tietotekniikan laboratoriot (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojaksoja voi opiskella itsenäisesti ja omaan tahtiin verkko-opintoina. Lähi- ja etäohjausta tarjolla sovittuina ajankohtina. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/teknillinen-tiedekunta/data-ja-tekoaly-tyoelamassa-pk-yrityksille
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-05-01T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041550>)
-
-### 85/100 — STRONG — Tradenomi (AMK), Markkinointi ja myynti, monimuotototeutus, Salo, polkuopinnot
+### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, full-time
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400€ (lukuvuosi). Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joust
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
+Yhteenveto: In the Data Engineering and AI degree programme, you learn to build AI systems, train machine learning models, and design cloud data pipelines. You will move from being a technology user to becoming a data expert. The goal is to ensure you understand the entire data pipeline: how data is collected, processed, and stored (data engineering), how it is analyzed, and how it is leveraged in intelligent applications and decision-making. The extent of t
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-01T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
-
-### 80/100 — STRONG — Oikeus ja tekoäly: johdatus tematiikkaan (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojakso järjestetään Turun yliopistossa ja opetuksen voi seurata myös verkossa. Jakson tentti suoritetaan Exam-tenttipalvelussa. Tenttejä voi tehdä myös muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Alustavan tiedon mukaan jakso järjestetään tammi-maaliskuussa 2026. Tarkemmat tiedot ovat opintojen esittelysivuilla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/oikeustieteellisen-tiedekunnan-opinnot/oikeustie
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-06T00:00
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022334>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038152>)
 
-### 80/100 — STRONG — Yleinen tekoäly ja teoriat mielestä (avoin yliopisto-opetus)
+### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Software Engineering, full-time
 
-Turun yliopisto
+Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Opintojaksoon kuuluu luentotallenteita ja tapaamisia joko Turun yliopistossa ja verkossa. Tarkista aikataulut ja muut tiedot opintojen esittelysivulta: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/tekoalyakatemia/tekoaly
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-31T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022335>)
-
-### 80/100 — STRONG — Oikeus ja tekoäly: julkisen ja yksityisen vallan välissä (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Opintojakso suoritetaan itsenäisesti verkko-opintoina ja siihen sisältyy Exam-tentti. Tenttejä voi tehdä myös muiden Exam-järjestelmää käyttävien korkeakoulujen tenttitiloissa. Alustavan tiedon mukaan opintojakso järjestetään helmi-maaliskuussa 2026. Tarkemmat tiedot ovat opintojen esittelysivuilla. https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/oikeustieteellisen-tiedekunnan-opinnot/oikeustiede https://www.utu.fi/fi/avoin-yliopisto-
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 54.0 (lähteen summa; tarkista ehdot)
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-06T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022338>)
-
-### 80/100 — STRONG — Avoin yo: EU Business Law, kevät 2027
-
-Itä-Suomen yliopisto
-Joensuu
-Yhteenveto: More information in course catalogue. Please, check timetables before registration and payment. The course has two methods of study: Mode of study 1: Lectures (15-20 hours) covering main issues of course literature with insights from recent practice (eg guest lecture with lawyer from European Commission), voluntary written assignments (2) during the course which can contribute max. 2 points towards the score of the final exam, Electronic exam (EX
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Ilmoittaudu yksittäisille opintojaksoille 20€. Hinnat ovat voimassa lukuvuoden 2026-2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeus päättyy aina viimeistään 30.7.2026. Kirjallisuuden hankinta/lainauskulut eivät si
+Yhteenveto: As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Your studies take place in an inspiring setting where long-
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-05-14T23:59
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038266>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038153>)
 
-### 80/100 — STRONG — Avoin yo: Academic and Professional English for Business, kevät 2027
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Sustainable Software Engineering 
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Suoritustavat: Opintojaksoa varten opiskelijan tulee varata 108 tuntia. Opintojaksolla on esim. luentoja, suullisia ja kirjallisia yksilö- ja ryhmätehtäviä, itsenäistä työskentelyä, keskusteluita ja pienimuotoisia esitelmiä. Opiskelijalta edellytetään aktiivista osallistumista opetukseen, joka voi olla sekä kaikille yhteistä että pienryhmiin jaettua lähi- ja/tai etäopetusta, johon opiskelijan on osallistuttava opettajan ilmoittamalla tavalla. Opi
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026 - 2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit.
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-31T23:59
+Centria-ammattikorkeakoulu
+Pietarsaari
+Yhteenveto: The Sustainable Software Engineering (SSE) programme equips you with the skills needed to thrive in a rapidly evolving digital society. As the world moves toward both a digital and green transition, you’ll learn to combine modern software engineering expertise with sustainable, ethical and energy‑efficient digital technologies. A Flexible Bachelor’s degree designed for modern life Our Bachelor of Engineering in Information Technology in Pietarsaa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fees are charged from Bachelor’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read more about the tuition fees and scholarships
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-05-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039098>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039097>)
 
-### 80/100 — STRONG — Avoin yo: Kulttuurienvälinen viestintä ja asiakassuhteiden johtaminen, lv.2026-2027
+### 80/100 — STRONG — Kansainvälinen politiikka, Politiikan tutkimuksen maisteriohjelma, Yhteiskuntatieteiden maisteri (2 v), syksy 2027
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Sisältö Kulttuuri, kulttuurienvälinen viestintä, kulttuurinen älykkyys ja kulttuurienvälisen viestinnän keskeiset teoriat. Asiakassuhteet ja niiden kehittyminen (B2C ja B2B näkökulmat). Asiakassuhteiden strateginen johtaminen (segmentointi, avainasiakkuudet, tuottavuus) Suoritustapa: Verkkovälitteiset aikataulutetut luennot ja tehtävät (24 t), itsenäinen työskentely (138 t). Opiskelu on itsenäistä. Akateeminen opiskelu edellyttää itseohjautuvuutt
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Tampereen yliopisto
+Tampere
+Yhteenveto: Kansainvälisen politiikan maisteriopinnoissa pureudumme nopeasti muuttuvaan maailmaan ja tarjoamme välineitä sen ymmärtämiseen, selittämiseen ja muuttamiseen. Vaalimme laaja-alaisuutta. Yhdistämme teoriaa ja käytäntöä. Voit erikoistua maailman-politiikkaan, rauhan- ja konfliktin¬tutkimukseen tai Eurooppa-tutkimukseen (mukaan lukien Venäjä ja muu laajempi Eurooppa). Tarkastelemme myös turvallisuuden, kansainvälisen poliittisen talouden sekä ympäri
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-24T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039150>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038902>)
 
-### 80/100 — STRONG — Open Uni: Digital Transformation in Business, spring 2027, online studies
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Content The main theoretical concepts of digital transformation, the role of digital transformation in the international business. Digital processes, models, and development. Study methods: Online-course, Workshops (online) Studying is independent. Academic studies require self-direction, good study skills, and planning. The course has predetermined completion dates. Retaking an exam or increasing your grade also takes place on these course-speci
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 6.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 120.0 (lähteen summa; tarkista ehdot) ; The study fee is 20 euros per ECTS credit for individual study units, and 15 euros per credit for study modules. The study fee is paid at registration. By paying the study fee, the student receives a temporary right to study that entitles them to attend a particular course. The right to study is cou
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-02-15T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039534>)
-
-### 80/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
-
-Oulun yliopisto
+Oulun ammattikorkeakoulu
 Oulu
-Yhteenveto: Tiedätkö mitä tekoäly on? Tiedätkö mihin sitä voi käyttää? Tällä kurssilla voit saada vastauksia näihin sekä moniin muihin tekoälyyn liittyviin kysymyksiin.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Yhteenveto: Tutkinto tietojenkäsittelyn tradenomina avaa oven monipuolisiin ja mielenkiintoisiin työtehtäviin digitaalisen yhteiskunnan kehittämisen parissa! Opit ensin IT-tradenomin perustaidot, joita ovat tietokoneen käyttötaito, ohjelmointi, web-kehitys, viestintä, asiakaslähtöinen suunnittelu, käyttöliittymän suunnittelu, tietokannat ja digitaalisen markkinoinnin osa-alueet, kuten verkkokaupat ja markkinointidatan analysointi. Kun hallitset nämä taidot, 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002127>)
+
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, Datan elinkaarihallinta ja IT-johtaminen, verkko-opinnot
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Joustavasti 100 % verkossa toteutettava tietojenkäsittelyn tradenomikoulutus valmistaa sinut hyödyntämään dataa, tietojärjestelmiä ja teknologiaa organisaatioiden toiminnan kehittämisessä. Opinnoissa painottuvat datan hallinta sen koko elinkaaren ajan sekä IT-toiminnan ja digitaalisten palveluiden kehittäminen. Saat valmiudet yhdistää teknisen osaamisen ja liiketoiminnan tarpeet sekä toimia digitaalisten ratkaisujen asiantuntijana. Opinnot etenev
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-03T23:59
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002958>)
+
+### 75/100 — STRONG — Tradenomi AMK, tietojenkäsittely, verkkototeutus, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Tekoälyn ja ohjelmoinnin taitajana luot ratkaisuja Kiinnostaako sinua ohjelmointi ja tekoäly? Tietojenkäsittelyn tutkinto-ohjelmasta valmistut tradenomiksi, joka hallitsee ohjelmistonkehitystehtävät sekä tekoälyä hyödyntävien palveluiden suunnittelun ja toteutuksen. Tutkinto-ohjelman toteuttavat yhteistyössä Tampereen ammattikorkeakoulu (TAMK) ja Vaasan ammattikorkeakoulu (VAMK). Koulutus toteutetaan kokonaan verkossa ja se sisältää aikaan sidott
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003258>)
+
+### 75/100 — STRONG — Ohjelmistot ja data-arkkitehtuuri, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Vaasan yliopistosta valmistuneiden diplomi-insinöörien työllisyysnäkymät ovat maamme huippua! Vaasan seudun menestyksekäs energiakeskittymä tarjoaa tekniikan opiskelijoillemme parhaita harjoittelumahdollisuuksia sekä ainutlaatuisia Takuuteekkari-kesätyöpaikkoja ja meiltä valmistuneille diplomi-insinööreille merkityksellisiä työuria kestävän energian ja älykkään teknologian parissa. Koulutamme diplomi-insinöörejä rakentamaan kestävää hyvinvointia 
+Koulutustyyppi: UNIVERSITY DEGREE
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041057>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006717>)
 
-### 75/100 — STRONG — Kauppatieteet: Johtaminen ja organisointi (avoin yliopisto-opetus)
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkopainotteinen monimuotototeutus / Kokkola
 
-Turun yliopisto
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Liiketalouden opinnoissamme perehdytään monipuolisesti liiketalouden alaan. Opinnoissa lähdetään liikkeelle perusteista, joten et tarvitse aikaisempia alan opintoja tai työkokemusta. Opintojen aikana käydään läpi kattavasti liiketalouden osa-alueita sekä opit käyttämään erilaisia ohjelmistoja ja työkaluja. Opinnot sisältävät myös kieli- ja viestintäopintoja. Valmistuttuasi olet liiketalouden osaaja, tietojenkäsittelyn asiantuntija ja voit työsken
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021626>)
+
+### 75/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Tekoälyn ja ohjelmoinnin taitajana luot ratkaisuja Kiinnostaako sinua ohjelmointi ja tekoäly? Tietojenkäsittelyn tutkinto-ohjelmasta valmistut tradenomiksi, joka hallitsee ohjelmistonkehitystehtävät sekä tekoälyä hyödyntävien palveluiden suunnittelun ja toteutuksen. Tutkinto-ohjelman toteuttavat yhteistyössä Tampereen ammattikorkeakoulu (TAMK) ja Vaasan ammattikorkeakoulu (VAMK). Koulutus toteutetaan kokonaan verkossa ja se sisältää aikaansidottu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028491>)
+
+### 75/100 — STRONG — Älykäs liiketoiminta ja palvelut (Tradenomi AMK tai Restonomi AMK)
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Etkö vielä tiedä, mikä ala olisi juuri sinun juttusi? Ei hätää – sinun ei tarvitse tietää heti. Älykkään liiketoiminnan ja palveluiden koulutuksessa pääset ensimmäisen vuoden aikana tutustumaan neljään kiinnostavaan alaan: liiketalouteen, tietojenkäsittelyyn, turvallisuuteen ja riskienhallintaan sekä elämyspalveluiden tuottamiseen ja johtamiseen. Opit esimerkiksi, miten yrityksiä ja palveluita kehitetään tekoäly huomioiden, miten dataa hyödynnetä
+Koulutustyyppi: UAS DEGREE
+Laajuus: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043824>)
+
+### 70/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Tavoite Tietojenkäsittelyn koulutus antaa sinulle vahvan perusosaamisen, jota voit soveltaa monissa työtehtävissä yrityksissä ja julkisella sektorilla. Valmistumisen jälkeen työpaikkasi voi olla esimerkiksi jonkin yrityksen tai kunnan tietohallinto- tai tuotekehitysosastolla. Työtehtäviäsi voivat olla esimerkiksi tietojärjestelmien hankinta, kehitys ja ylläpito, tietoturvasta vastaaminen tai yrityksen verkkosivujen tai sovellusten kehittäminen. T
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001381>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, päivätoteutus, Pori
+
+Satakunnan ammattikorkeakoulu
 Pori
-Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
-Toteutus: ON_SITE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014839>)
-
-### 75/100 — STRONG — Kauppatieteet: Yrittäjyys (avoin yliopisto-opetus)
-
-Turun yliopisto
-Turku
-Yhteenveto: Kauppakorkeakoulun opintojaksoja järjestetään neljällä opetusperiodilla lukuvuoden aikana. Tarkista, millä periodeilla eri oppiaineiden opintojaksoja järjestetään. Tarkemmat tiedot ovat opintojen esittelysivulla: https://www.utu.fi/fi/avoin-yliopisto-opetus/opintotarjonta/turun-kauppakorkeakoulun-opinnot
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0–27.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 18.0 (lähteen summa; tarkista ehdot) ; Opintomaksu on 18 euroa/opintopiste.
-Toteutus: ON_SITE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014970>)
-
-### 75/100 — STRONG — Avoin yo: Introduction to European Health Data Space, 2026-2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Introduction to European Health Data Space (AVOIN YO) -MOOC on kaikille avoin ja ilmainen verkkokurssi. Voit suorittaa kurssin omassa tahdissasi, sinulle sopivana ajankohtana toteutusaikojen puitteissa. Avoimina yliopisto-opintoina suoritettavaan MOOCiin ilmoittaudutaan DigiCampuksen kautta. Tarkemmat ohjeet DigiCampuksessa.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Yhteenveto: Tähän tietojenkäsittelyn tutkinto-ohjelmaan voit hakea enää siirtohaussa (1.-15.5. ja 1.-15.11.). Edellytyksenä on voimassaoleva korkeakoulun opiskeluoikeus vastaavan alan ohjelmassa. Nettisivuillamme voit tutustua siirtohaun kriteereihin . Tietojenkäsittelyn tutkinto-ohjelma ei siis ole enää mukana yhteishaussa. Jos et täytä siirtohaun ehtoja, voit hakea tieto- ja viestintätekniikan monimuotototeutukseen . Tietojenkäsittelyn tutkinto-ohjelma Kou
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
 Hinta: Maksuton
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2027-07-31T23:59
+Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040537>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002125>)
 
-### 75/100 — STRONG — Avoin yo: European Health Data Space in a Nutshell (Sámi), 2026-2027
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Peliala, päiväopinnot, Kajaani
 
-Oulun yliopisto
-Oulu
-Yhteenveto: European Health Data Space in a Nutshell (MOOC) is open to all and free-of-charge. You can complete the course at your own pace. To enroll in this MOOC, you must first complete the course in DigiCampus. Once you have done so, you can proceed with the enrollment process in DigiCampus.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 1.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Unelmoitko urasta pelituottajana, peligraafikkona tai peliohjelmoijana? Pelialan opinnoissa voit opiskella unelmiesi ammattia varten innostuneiden, samanhenkisten ja hyvien tyyppien kanssa, huippuympäristöä unohtamatta. Pelialan koulutuksen johtoajatus on oikeissa peliprojekteissa työskenteleminen ja tekemisen kautta oppiminen. Opinnoista suuri osa toteutetaankin erilaisina projekteina, joiden kautta saavutat syvällisen ja käytännönläheisen ymmär
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
 Haku: OPEN
-Hakuaika päättyy: 2027-04-30T00:00
+Hakuaika päättyy: 2026-11-13T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040547>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002985>)
 
-### 70/100 — STRONG — Bachelor-level path studies, Bachelor of Business Administration, International Business, on-campus studies, Lahti
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Datacenter, päivätoteutus
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Tervetuloa opiskelemaan Euroopanlaajuisesti ainutlaatuiseen konesaliympäristöön! Datacenter-opinnoissa opiskelet keskeisiä palvelin- ja työasematuotteita sekä nykyaikaisia organisaatioiden verkkoratkaisuja. Ylläpidon perusvalmiuksien lisäksi saat valmiudet suunnitella ja kehittää tietoteknisiä ratkaisuja osana organisaation muuta kehittämistyötä. Ammattiopinnot pääset suorittamaan tietojärjestelmälaboratoriossa tai virtualisoitujen ympäristöjen a
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004516>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, Business Information Technology
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: The Degree Programme in Business Information Technology provides you with practical professional Business IT skills combined with an extensive theoretical base. The programme offers the most interesting areas of current IT education: software development; digital services; ICT Infrastructures, Cloud Services and Cybersecurity; and ICT and Business. In addition, the studies typically include content and practical application arranged in cooperatio
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009206>)
+
+### 70/100 — STRONG — Bachelor of Engineering, Industrial Information Technology, on-campus studies, Lahti
 
 LAB-ammattikorkeakoulu
 Lahti
-Yhteenveto: The path studies concept is used to refer to a set of open studies completed at a Finnish open UAS in a goal-oriented manner. We recommend path studies for motivated people whose aim is to apply for a LAB degree programme in the future. As a bachelor-level path student, your aim is to complete 55 credits of first year studies of a LAB degree programme at Open University of Applied Sciences, after which you can apply as a degree student in a separ
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 55.0 opintopistettä
+Yhteenveto: International career in the field of IT As a graduate of the Industrial Information Technology degree programme , you can work in designing and developing digital solutions in industrial environments. In your work, you will utilize new IT technologies and methods and can build a career focusing on software production, networks, embedded systems, IoT, and research and development. As an IT engineer, you can find work in Finland, Europe, and around
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020305>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, Business Information Systems, on-campus studies, Lahti
+
+LAB-ammattikorkeakoulu
+Lahti
+Yhteenveto: The Business Information Systems for Digital Commerce programme trains digital commerce specialists capable of leading and developing digital commerce in organisations of varying sizes. The programme builds competence around data, information systems, and customer value creation as an integrated whole. Students develop a combination of data-driven business understanding and foundational programming skills, enabling them to contribute measurably t
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000 € per academic year for bachelor’s degree programmes.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039298>)
+
+### 70/100 — STRONG — Tietojenkäsittelytieteen kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri, (3 v + 2 v), kevät 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: LAAJA-ALAINEN IT-ASIANTUNTIJA Haluatko tulla IT-alan vahvaksi osaajaksi, joka kehittää ohjelmistoja ja järjestelmiä jatkuvasti muuttuvan maailman tarpeisiin? Opiskele tietojenkäsittelytiedettä ja valmistu filosofian maisteriksi Jyväskylän yliopistosta. Monipuolisella tietojenkäsittelytieteen osaamisella sinusta tulee tulevien ohjelmisto-, data-, tekoäly-, algoritmi- ja tietoturvakysymysten analysoija, ongelmanratkaisija ja digitaalisen maailman u
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
 Ajankohta: Kevät 2027
-Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; There is a semester-based fee for path studies. The fee is 100 € per semester + VAT 0 %. The bachelor-level path studies typically take two semesters to complete, so the all-in-all cost of the path studies is €200 + VAT 0 %.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-01T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037632>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, kevät 2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: Maksuton
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-03T23:59
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041062>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039322>)
 
-### 65/100 — STRONG — Avoin yo: Ohjelmointi 2, kevät 2027
+### 70/100 — STRONG — Bachelor of Engineering, Information Technology
 
-Oulun yliopisto
-Oulu
-Yhteenveto: Opi ohjelmoimaan Javalla. Kurssilla keskitytään Java-ohjelmoinnin peruskäsitteiden, syntaksin ja rakenteen ymmärtämiseen ja oppimiseen - ohjelmoimalla Javalla.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
+Yrkeshögskolan Arcada
+Helsinki
+Yhteenveto: Do you have a logical mindset and a burning passion for the application of new technologies? In this bachelor’s degree programme you will learn software development with the opportunity to specialise in one of two study tracks: Intelligent Robotics or Data Processing and Analytics . By the time you graduate, you will have a solid understanding of the interaction between programming and artificial intelligence. You will know how to design and deve
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9800.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee of 9,800 €/year for non-EU/EEA citizens. There is an early-bird discount of €1,500 for an admitted student who bindingly accepts the study place and pays within 14 days. In addition there is a deduction of the tuition fee for the ACT, OMPT, or SAT test for those admitted throu
 Toteutus: ON_SITE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-17T23:59
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041066>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041181>)
+
+### 70/100 — STRONG — Bachelor of Engineering, AI and Digital Infrastructure Engineering, on-campus studies, Lappeenranta 
+
+LAB-ammattikorkeakoulu
+Lappeenranta
+Yhteenveto: The growing use of artificial intelligence, cloud computing, and digital services is increasing the demand for professionals who understand both digital technologies and the infrastructure that supports them. The AI and Digital Infrastructure Engineering programme prepares you to design, build and operate the infrastructure behind tomorrow's digital world. The studies give you a solid foundation in electrical engineering and information technolog
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: maksullinen: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. The tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes. Scholarships offered by LAB University of Applied Sciences are available from the second year onwards for bachelor's degree stude
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ammatillinen perustutkinto, European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043358>)
+
+### 65/100 — STRONG — Master's Degree Programme in East Asian Studies, Master of Social Sciences (2 years)
+
+Turun yliopisto
+Turku
+Yhteenveto: The Master’s Degree Programme in East Asian Studies (EAST) that is offered by the Centre for East Asian Studies (CEAS) at the University of Turku gives a unique opportunity to gain in-depth knowledge about the dynamic societies and politics of contemporary East Asia: China, Japan, South Korea and North Korea, taught by academic staff with wide and versatile knowledge on East Asia. The Master’s Degree Programme in East Asian Studies provides multi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001444>)
+
+### 65/100 — STRONG — Arctic World Politics, Master of Social Sciences (2 years)
+
+Lapin yliopisto
+Rovaniemi
+Yhteenveto: Why is the Arctic so central to world politics today? Is it simply a new arena of great-power rivalry and militarisation, where climate change opens up shipping routes and natural resources to be contested? Or is it also a place that can challenge such framings: home to histories, knowledges, aspirations and worldviews that help us imagine a more sustainable and just world? In Arctic World Politics, you learn to take both questions seriously. Gro
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee For non-EU/EEA/Swiss citizens annually 13000 €.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025888>)
+
+### 65/100 — STRONG — Master's Programme in European and Nordic Studies, Autumn 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: ENS is a two-year master's programme that trains you to analyse the European Union, European societies, and Nordic cooperation from multiple disciplinary perspectives. The programme draws on political science, history, EU studies, area studies, and cultural studies, while also offering optional courses in global politics, law, philosophy, communication, and sociology. Helsinki is a fascinating place to study European politics. Finland's location 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039910>)
+
+### 65/100 — STRONG — Master's Programme in One Health, Autumn 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: The world’s most pressing health problems, from emerging infections and antimicrobial resistance to food and water safety, climate change and biodiversity loss, cross the boundaries of any single field. The Master’s Programme in One Health brings human health, animal health, environmental and ecosystem sciences, food systems and health governance together in one degree. You build a shared foundation across these domains and strengthen your skills
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 18000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039919>)
+
+### 65/100 — STRONG — International Security, Security Management and Politics, Master of Social Sciences (2 yrs), autumn 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: The Master’s Programme in Security Management and Politics (SAFER) is a unique combination of approaches based on administrative science and international politics. The insightful and dynamic programme provides students with a solid understanding in security management and governance, strategic issues and geopolitics as well as cross-boundary, cross-sectoral and hybridised nature of domestic and international security domains. The studies consist
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041491>)
+
+### 65/100 — STRONG — Security Governance, Security Management and Politics , Master of Administrative Sciences (2 yrs), autumn 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: The Master’s Programme in Security Management and Politics (SAFER) is a unique combination of approaches based on administrative science and international politics. The insightful and dynamic programme provides students with a solid understanding in security management and governance, strategic issues and geopolitics as well as cross-boundary, cross-sectoral and hybridised nature of domestic and international security domains. The studies consist
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041492>)
+
+### 65/100 — STRONG — Transformative Urban and Regional Governance, Master of Administrative Sciences (2 yrs), autumn 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: There is an increasing global demand for academic experts and highly qualified professionals capable of understanding and steering transformative change in cities and regions. Climate and sustainability transitions, socio-spatial inequalities, economic restructuring, and demographic challenges are fundamentally reshaping urban and regional development across the world. This need has been recognised by public authorities, international organisatio
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042118>)
+
+### 65/100 — STRONG — Transforming Societies, Social Science Research, Master of Social Sciences (2 yrs), autumn 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: Transforming Societies offers an interdisciplinary approach to understanding contemporary societal challenges in a rapidly changing world. The programme focuses on the relationships between citizens, institutions, and environmental and public policies and equips students with the knowledge and skills needed to analyse and guide societal transformations toward socially just and environmentally sustainable futures. The programme builds on Tampere U
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042123>)
+
+### 65/100 — STRONG — Master's Degree Programme in Developmental and Educational Psychology (DYNAMIC) (Vaasa), Master of Social Sciences (2 years), autumn 2027
+
+Åbo Akademi
+Vaasa, Turku
+Yhteenveto: The aim of the Master's Degree Programme in Developmental and Educational Psychology (DYNAMIC) is to prepare students for professional activity as experts in learning, motivation, and wellbeing across developmental and educational contexts, and to provide a strong foundation for postgraduate studies and independent research work. This programme is located at the Vasa campus of Åbo Akademi University. After completion of this programme, students c
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens. For more information please see https://www.abo.fi/en/study/tuition-fees/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042428>)
 
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
 - LinkedIn: BLOCKED — robots.txt disallows automated access
-- Jobly: PARTIAL — ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) | Jobly: page limit reached (5); some results remain unread
+- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread
 - Laura: FAILED — 500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 7 tämän haun relevantissa ilmoituksessa.
-- Python mainittiin 4 tämän haun relevantissa ilmoituksessa.
-- SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 9 tämän haun relevantissa ilmoituksessa.
+- Python mainittiin 7 tämän haun relevantissa ilmoituksessa.
+- SQL mainittiin 5 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
 
@@ -2991,7 +3082,7 @@ Muistiinpanot:
 
 Oy Moccamaster Nordic Ab
 Espoo, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: Moccamasterin tarina alkoi vuonna 1964, kun hollantilainen Gerard Clement Smit perusti yrityksen kotinsa autotallissa intohimonaan kehittää maailman paras kahvinkeitin. Tuloksena syntyi Moccamaster – tyylikäs ja teknisesti edistyksellinen kodinkone. Tänäkin päivänä Moccamasterissa yhdistyy ajaton muotoilu ja huippuluokan teknologia – ja jokainen laite valmistetaan edelleen käsityönä Hollannissa. Haemme Moccamaster Suomen tiimiin Field Sales Repre
 Hakuaika päättyy: 2026-11-13
 Lähteet: Jobly
@@ -3066,6 +3157,109 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakaskohtaamisten-sopija-avaa-ovia-yritysten-kasvulle-2794104>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Coordinator, Logistics and Sales support
+
+Dedicated Network Partners
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will coordinate international customer orders from placement through delivery and invoicing, maintain product codes, pricing and installed-base records, and compile inventory and sustainability reports. You will support Sales by organizing customer meetings, maintaining price lists and managing customer-specific contractual data. Candidates should have commercial or logistics experience in international equ
+Hakuaika päättyy: 2027-01-05
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/coordinator-logistics-and-sales-support-2794371>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Internal Sales Support, Vantaa
+
+Adecco
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Internal Sales Support -tehtävä Troax Nordic Ab:lla Vantaan Aviapoliksessa on vakituinen rooli neljän hengen tiimissä, jossa tuetaan myyntiä ja varmistetaan tilaus‑toimitusprosessin sujuvuus. Työ painottuu tarjouspyyntöjen käsittelyyn ja tarjousten laatimiseen (noin 40 %) sekä tilausten käsittelyyn (noin 40 %), ja sisältää asiakasyhteydenpidon sekä toimitusten seurannan. Edellytämme soveltuvaa koulutusta (esim.
+Hakuaika päättyy: 2027-01-05
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/internal-sales-support-vantaa-2794492>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Key Account Manager
+
+TietoAkseli Group
+Helsinki, FI, Lahti, Hamina, Kouvola, Mikkeli, Pieksämäki, Savonlinna, Jyväskylä, Tampere, Turku, Oulu
+Julkaistu: 2026-11-06
+Yhteenveto: TietoAkseli on talous- ja henkilöstöhallinnon sekä yritysjärjestelyjen ratkaisuja tarjoava suomalainen asiantuntijayritys. Vuodesta 2025 alkaen olemme olleet osa pohjoismaista ECIT-konsernia. ECIT on taloushallinnon, palkanlaskennan ja IT-palveluiden asiantuntijatalo. Haluatko ottaa kokonaisvastuun merkittävistä asiakkuuksista ja rakentaa niiden kanssa pitkäjänteistä kasvua? Etsimme TietoAkselille kokenutta Key Account Manageria vahvistamaan uutt
+Hakuaika päättyy: 2026-11-20
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/key-account-manager-2794287>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Myyntipäällikkö, DOKS
+
+Alma Media
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haetaan Myyntipäällikköä, joka vastaa DOKSin uusasiakashankinnasta ja myynnin kasvattamisesta Ruotsissa. Tehtävä kattaa koko myyntiprosessin prospektoinnista kaupan solmimiseen sekä myyntiputken ja ennusteiden järjestelmällisen hallinnan. Edellytämme vähintään kahden vuoden kokemusta B2B-myynnistä mielellään SaaS- tai teknologia-alalta sekä näyttöä uusasiakashankinnasta ja sujuvaa ruotsin ja englannin kielitait
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-doks-2794207>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 85/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
+
+Vaisala Oyj
+Vantaa
+Yhteenveto: About the role As a Software Test Engineer, you will join a team dedicated to testing embedded systems for HVAC products. You will start with guided onboarding, gradually taking on test automation and manual testing tasks using modern AI-assisted tools. We are looking for Educational background in Software Engineering, Electrical Engineering, or a related field (completed studies) Minimum one year of relevant work experience Strong interest in wo
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-software-test-engineer-vaisala-vantaa/24YCL8>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -3291,6 +3485,27 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://laura.fi/avoimet-tyopaikat/academic-work-finland-oy/junior-ostaja-espoo/3799424>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — IT Specialist for Translational Oncology Research
+
+Helsingin yliopisto
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-05
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The IT Specialist will manage and maintain research computing infrastructure, cloud storage, and established bioinformatics workflows to support translational oncology research. Applicants must hold a Master's degree (or PhD) with at least three years' relevant experience and strong skills in Python, Linux, HPC/cloud environments, and large-scale data management. This is a full-time 12-month position (part-time
+Hakuaika päättyy: 2027-01-04
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Docker, Kubernetes; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-specialist-translational-oncology-research-2793825>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -5968,7 +6183,7 @@ Muistiinpanot:
 
 JS Suomi Oy
 Helsinki, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: B2B-myyntityöhön viestinnän ja markkinoinnin maailmaan? JS Suomi tarjoaa asiakasorganisaatioilleen räätälöityjä viestintäpaketteja . Projektikonsultin (Project Consultant) tehtävä on yksi konseptimme avaintehtävistä. Rooli sopii tavoitteelliselle ja reippaalle tekijälle! Projektikonsulttina olet ensimmäinen kontakti potentiaalisiin asiakkaisiimme ja toimit siten yrityksemme käyntikorttina. Tehtäväsi: Uniikki konseptimme perustuu yhteisnäkyvyyteen
 Hakuaika päättyy: 2026-11-13
 Lähteet: Jobly
@@ -5987,7 +6202,7 @@ Muistiinpanot:
 
 JS Suomi Oy
 Helsinki, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: B2B-myyntityöhön viestinnän ja markkinoinnin maailmaan? JS Suomi tarjoaa asiakasorganisaatioilleen räätälöityjä viestintäpaketteja. Ilmoituskonsultin (Advertising Consultant) rooli on yksi konseptimme avaintehtävistä. Rooli sopii tuloshakuiselle, sinnikkäälle ja aktiiviselle henkilölle, joka viihtyy nopeatempoisessa ympäristössä. Luuri nousee noin sata kertaa päivässä ja kauppoja klousataan päivittäin! Työtehtäväsi: Uniikki konseptimme perustuu y
 Hakuaika päättyy: 2026-11-13
 Lähteet: Jobly
@@ -6204,6 +6419,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-2794103>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Teknisen tuen ja huoltoneuvonnan asiantuntija Vantaalle / NIBE Energy Systems
+
+Compass Human Resources Group Finland Oy
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: NIBE on maailmanlaajuinen konserni, joka kehittää ja valmistaa älykkäitä ja energiatehokkaita ratkaisuja sisätilojen mukavuuteen kaikenlaisille kiinteistöille. NIBEn tarina sai alkunsa 70 vuotta sitten Smoolannin Markarydissä yrittäjähenkisyydestään tunnetulla alueella. NIBE-konserni työllistää yli 20 000 työntekijää ja harjoittaa liiketoimintaa Euroopassa, Pohjois-Amerikassa, Aasiassa ja Australiassa. Pohjoismaissa NIBE on suurin lämmitysjärjest
+Hakuaika päättyy: 2026-11-20
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/teknisen-tuen-ja-huoltoneuvonnan-asiantuntija-vantaalle-nibe-energy-systems-2794512>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6752,6 +6986,27 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 65/100 — STRONG — Data Analyst, Wärtsilä
+
+Academic Work
+Helsinki, Uusimaa, FI, Vaasa, Turku
+Julkaistu: 2026-11-03
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will act as a link between business and IT to translate business needs into technical data solutions and support data governance and digitalization in the energy and marine sectors. Key tasks include coordinating between business and IT teams, collecting and analysing data to support decision-making, developing and maintaining Power BI reports and dashboards, and monitoring data quality and reporting practi
+Hakuaika päättyy: 2027-01-02
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, Power BI, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-analyst-wartsila-2791772>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 65/100 — STRONG — Tietoliikenneasentaja, pääkaupunkiseutu
 
 Are Oy
@@ -6839,7 +7094,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Rooli vastaa korkeatasoisten Board Certificate -hallitusohjelmien myynnistä suomalaisille yrityspäättäjille ja ylimmälle johdolle Helsingissä. Työ sisältää valmiiden liidien kontaktoinnin ilman kylmäprospektointia, online-tapaamisten vetämisen ja konsultatiivisen myyntiprosessin kaupantekoon asti. Edellytämme 3–5 vuoden näyttöihin perustuvaa B2B-myyntikokemusta, kokemusta premium-palveluiden myynnistä sekä suju
 Hakuaika päättyy: 2026-12-29
 Lähteet: Jobly
@@ -6852,6 +7107,28 @@ Miksi / huomioitavaa:
 - -10 pyytää vähintään 3 vuotta kokemusta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-executive-board-company-helsinki-2789950>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 65/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
+
+Academic Work
+Vantaa, FI
+Julkaistu: 2026-11-06
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will join a team testing embedded systems for HVAC products, focusing on test automation and manual hardware testing. Daily tasks include automation and manual testing with Robot Framework, Jenkins, Python, Jira and GitHub while using AI-assisted tools and following lab safety protocols. Applicants must have a completed degree in software or electrical engineering (or related), at least one year of relevant
+Hakuaika päättyy: 2027-01-05
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- -20 pyytää vähintään 90 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-software-test-engineer-vaisala-vantaa-2794490>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6919,7 +7196,7 @@ Muistiinpanot:
 
 Kiilto
 Lempäälä, FI, Pirkanmaa, Turku, Varsinais-Suomi, Helsinki, Uusimaa
-Julkaistu: 2026-11-04
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Own the architecture for One Kiilto ERP and business applications based on Microsoft Dynamics 365, acting as design authority for the global template and roll-outs. Lead solution design, integration and security decisions across finance, supply chain and manufacturing, steer partners and build the application architecture practice while coaching internal teams. Require about seven years of experience with Dynam
 Hakuaika päättyy: 2026-12-29
 Lähteet: Jobly
@@ -6942,7 +7219,7 @@ Muistiinpanot:
 
 Kiilto
 Lempäälä, FI, Pirkanmaa, Turku, Varsinais-Suomi, Helsinki, Uusimaa
-Julkaistu: 2026-11-04
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will design and implement Kiilto's Data & AI architecture and roadmap, reporting to the CIO as part of the Business Technology Office. You will build the data foundation for AI, analytics and digital services by connecting One ERP, master data and other business systems into a coherent data landscape. You will define principles for data ownership, quality, security and responsible AI and guide technology ch
 Hakuaika päättyy: 2026-12-29
 Lähteet: Jobly
@@ -8668,26 +8945,6 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
-### 50/100 — REVIEW — IT Specialist for Translational Oncology Research
-
-Helsingin yliopisto
-Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-05
-Yhteenveto: Tallenna työpaikka Tallenna työpaikka IT Specialist for Translational Oncology Research 05.11.2026, Helsingin yliopisto Helsinki Tallenna työpaikka Tallenna työpaikka
-Hakuaika päättyy: 2027-01-04
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 Uusimaa
-- ? koko ilmoitusta ei saatu luettua; tarkista vaatimukset linkistä
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-specialist-translational-oncology-research-2793825>)
-Tila: UUSI
-Muistiinpanot: 
-
 ### 50/100 — REVIEW — IT-projektipäällikkö (ruotsinkielinen), Matrix42, Espoo, Kuopio, Tukholma, Oulu
 
 Academic Work
@@ -8905,7 +9162,7 @@ Muistiinpanot:
 
 KPMG
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-10-31
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: KPMG hakee Cloud Security Specialistia Cyber Advisory -tiimiin varmistamaan asiakkaiden pilvipalveluiden tietoturvaa erityisesti Microsoft-teknologioissa kuten Azure ja Microsoft 365. Tehtäviisi kuuluvat pilviympäristöjen ja -palveluiden tietoturva- ja compliance-arvioinnit, tietoturva-arkkitehtuurien arviointi sekä asiakkaiden neuvominen parhaista käytännöistä. Edellytämme kokemusta Microsoft Azuresta ja Micro
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -8925,7 +9182,7 @@ Muistiinpanot:
 
 Helsingin yliopisto
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Helsingin yliopiston tietotekniikkakeskuksen Windows-palvelut -ryhmään haetaan M365-asiantuntijaa vastaamaan Microsoft 365 -ympäristön ylläpidosta ja sähköposti- ja kalenteripalveluiden tukemisesta. Tehtäviin kuuluu M365-ympäristön ylläpito ja toiminnan seuranta, postilaatikoihin ja käyttöoikeuksiin liittyvien ongelmien ratkaiseminen, tukipyyntöjen käsittely, dokumentointi sekä osallistuminen kehitys- ja käyttö
 Hakuaika päättyy: 2026-12-27
 Lähteet: Jobly
@@ -9057,6 +9314,26 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan SQL; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/teamcenter-technical-lead--plm-technical-architect/OWA3NK>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Technical Product Owner (Cloud & Digital Development)
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-04
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will turn an internal monitoring prototype into a secure, scalable cloud production tool while bridging business and software teams. You will translate operational needs into user stories, maintain backlogs and roadmaps, facilitate steering meetings, and support the agile team to ensure aligned delivery. The role requires practical Product Owner or Technical Project Manager experience, strong stakeholder ma
+Hakuaika päättyy: 2027-01-03
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-product-owner-cloud-digital-development-2793233>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -9419,25 +9696,6 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
-### 45/100 — REVIEW — Data Analyst, Wärtsilä
-
-Academic Work
-Helsinki, Uusimaa, FI, Vaasa, Turku
-Julkaistu: 2026-11-03
-Yhteenveto: Tallenna työpaikka Tallenna työpaikka Data Analyst, Wärtsilä 03.11.2026, Academic Work Helsinki, Vaasa, Turku Tallenna työpaikka Tallenna työpaikka
-Hakuaika päättyy: 2027-01-02
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +10 Uusimaa
-- ? koko ilmoitusta ei saatu luettua; tarkista vaatimukset linkistä
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-analyst-wartsila-2791772>)
-Tila: UUSI
-Muistiinpanot: 
-
 ### 45/100 — REVIEW — Manual QA Tester for Mobile & Web (iOS, Android, Accessibility) – Banking Sector
 
 Academic Work
@@ -9478,7 +9736,7 @@ Muistiinpanot:
 
 KPMG
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-10-31
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tehtävässä toteutat web- ja mobiilisovellusten sekä API-rajapintojen, pilvi- ja on‑prem-ympäristöjen tietoturvatestauksia, tunnistat ja analysoit haavoittuvuuksia sekä laadit korjaussuosituksia. Työskentelet vaihtelevissa asiakasprojekteissa, osallistut toimeksiantojen suunnitteluun ja laajuuden määrittelyyn sekä esität löydökset selkeästi niin teknisille kuin vähemmän teknisille sidosryhmille. Edellytämme koke
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -9514,7 +9772,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-10-30
+Julkaistu: 2026-11-06
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive AI and automation initiatives in a manufacturing environment by transforming raw data into scalable production solutions. You will develop and expand factory automations, design and execute Databricks data pipelines, and build models for forecasting resource needs. The role requires excellent SQL and Databricks skills, hands-on experience building AI solutions and working with frameworks like Cop
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly

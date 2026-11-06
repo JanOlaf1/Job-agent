@@ -577,6 +577,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001613>)
 
+### 100/100 — STRONG — Master of Business Administration, Management in Sustainable Business
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Harkinnanvaraisuus tai erivapaus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
+
 ### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen ajoneuvoalalla (Jotpa)
 
 Minna Learning Oy
@@ -2546,6 +2571,105 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041421>)
 
+### 90/100 — STRONG — Avoin yo: Aloittavan yrityksen markkinointi, lv 2026-2027, verkko-opinnot
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sisältö yrittäjämäinen markkinointi, aloittavan yrityksen markkinointistrategiat, asiakashankinta ja asiakassuhteiden kehittäminen, hinnoittelu, myynti, kannattavuuslaskelmat, Business Model Canvas (erityisesti kanavat, asiakassuhteet, tulovirrat, kustannusrakenne) Suoritustapa: Opinnot suoritetaan verkko-opintoina perehtymällä oppimateriaaliin ja palauttamalla oppimistehtäviä.  Kurssisuoritukseen kuuluu, että teet kurssin eri osioissa olevat teh
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 40.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037897>)
+
+### 90/100 — STRONG — Avoin yo: Yrittäjämäinen asenne ja ajattelutapa, lv 2026-2027, verkko-opinnot
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sisältö yrittäjämäinen ajattelutapa, effektuaatio, yrittäjyyden erilaiset muodot/tavat, Business Model Canvas (erityisesti resurssit, kumppanuudet) Suoritustapa: Opinnot suoritetaan verkko-opintoina perehtymällä oppimateriaaliin ja palauttamalla oppimistehtäviä. Kurssisuoritukseen kuuluu, että teet kurssin eri osioissa olevat tehtävät ja kurssin kokoavan oppimistehtävän vertaisarviointeineen. Opiskelu on täysin itsenäistä. Akateeminen opiskelu ed
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 40.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:45
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039496>)
+
+### 90/100 — STRONG — Master's Degree Programme in Futures Studies, Master of Social Sciences (2 years)
+
+Turun yliopisto
+Turku
+Yhteenveto: Futures Studies is a new emerging field of research. As the future does not exist yet, futurists study the future projections of and discontinuities in past trends and current views of the long-term future. Futures Studies is interested in the probable futures, possible futures and preferred futures. As a societal action, futures studies aim to serve private and public decision-makers by outlining alternative long-term strategies in a changing op
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001624>)
+
+### 90/100 — STRONG — Avoin yo: Monialaiset ja yhteentoimivat sosiaali- ja terveyspalvelut, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Ilmoittautuminen: 6.8.2026-15.6.2027. Suoritusaika: 14.9.2026-30.7.2027. Opintojakson vaihtoehtoiset suorituspäivät ovat 6.11., 11.12., 8.3., 7.5., 31.5. Mikäli kaikki opintojakson vaaditut tehtävät on palautettu johonkin näistä päivämääristä mennessä, suoritus otetaan opettajan arvioitavaksi. Hyväksytyt suoritukset kirjataan opintorekisteriin arvioinnin jälkeen kolmen viikon kuluessa palautuspäivästä. HUOM! Kesä- ja heinäkuun aikana tehdyt suori
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 3.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 60.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026–2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit. K
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-06-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039466>)
+
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
@@ -2858,6 +2982,438 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
 
+### 85/100 — STRONG — Erillishaku: Tradenomi (AMK), tietojenkäsittely, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Tutkinto-ohjelma tarjoaa sinulle mahdollisuuden kehittyä tulevaisuuden teknologia-asiantuntijaksi, jonka ydinosaamista ovat ohjelmistokehitys ja tekoälyratkaisujen suunnittelu sekä toteutus. Järjestämme koulutuksen kokonaan verkossa etäopintoina , mutta et jää opinnoissasi yksin. Opiskeluun sisältyy ryhmätyöskentelyä ja järjestämme verkko-oppitunnit päiväsaikaan, pääsääntöisesti maanantaista perjantaihin kello 8 -16 välisenä aikana. Toteutamme tu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot, Suomalaisen lukion oppimäärä tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000882>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, kyberturvallisuus, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034644>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
+
+Savonia-ammattikorkeakoulu
+Kuopio
+Yhteenveto: Yhdistä tietojenkäsittely ja liiketoiminta – verkossa opiskellen Tietojenkäsittelyn tradenomina olet tietojenkäsittelyn asiantuntija ja sinulla on myös hyvä liiketoimintaosaaminen. Opinnot ovatkin yhdistelmä tietojenkäsittelyä ja liiketoimintaa. Tietojenkäsittelyn tradenomin työllistymismahdollisuudet ovat laajat ja tietojenkäsittelyn osaamista tarvitaan kaikilla toimialoilla. Koulutuksessa painotetaan erityisesti datan käsittelyä ja sen jalostam
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010451>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Kasva IT-alan ammattilaiseksi kehittämään tulevaisuuden ratkaisuja liiketoiminnalle! Tietojenkäsittelyn koulutuksessa opit kehittämään, turvaamaan ja ylläpitämään laadukkaita ja kestäviä ohjelmistoratkaisuja sekä saat mahdollisuuden kasvaa osaavaksi työyhteisön jäseneksi ratkomalla todellisia työelämältä tulevia haasteita. Opiskelet tekemällä, yhteistyössä muiden opiskelijoiden ja yritysten kanssa. Tekoälyä hyödynnetään IT-alalla enenevissä määri
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002276>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Haluatko olla mukana rakentamassa käyttäjälähtöisiä älykkäitä palveluja, joilla on oikeasti merkitystä? Käyttäjälähtöiset älykkäät palvelut ovat tänä päivänä keskeinen osa työelämää, yritysten menestystä ja ihmisten arkea. Niiden tarve kasvaa jatkuvasti – ja samalla kasvaa tarve osaaville, oppimiskykyisille ja mukautuville tekijöille. Xamkin tietojenkäsittelyn koulutus antaa sinulle erinomaiset valmiudet työllistyä ja kehittyä nopeasti muuttuvall
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000787>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helian tietojenkäsittelyn tradenomina olet työnantajien arvostama IT-asiantuntija, joka työskentelee eri kehittämistehtävissä erilaisissa yrityksissä ja organisaatioissa. Haaga-Heliassa voit yhdistää teknologian ja liiketoiminnan osaamiset oppimispolullasi. Tietojenkäsittelyn tradenomikoulutus vastaa kehittyviin työelämän tarpeisiin ja tarjoaa sinulle mahdollisuuden muotoilla omia opintojasi joustavasti. Voit suunnitella henkilökohtaisen op
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009237>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, erillishaut
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003765>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Maailma ei muutu vain teknologioilla, vaan niiden avulla rakennetuilla älykkäillä ratkaisuilla. Tekoäly, automaatio ja pilvipalvelut muokkaavat parhaillaan sitä, miten elämme ja teemme töitä. Tulevaisuuden IT -asiantuntijana et vain seuraa tätä kehitystä, vaan hyödynnät ja johdat sitä. Tekoälyn nopea kehitys ja vaikutukset työelämään on herättänyt paljon keskustelua jo viimevuosina; opintoja suunnitellessa voi jopa tulla mieleen, onko IT- ala ede
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003168>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, digitaalisten palveluiden kehittäminen, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo, Vantaa
+Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034785>)
+
+### 85/100 — STRONG — Erillishaut Lapin AMK, Tradenomi (AMK), tietojenkäsittely, Siirtohaku ja Avoimen AMKin ja/tai muilla opinnoilla tutkinto-opiskelijaksi
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Avoimen AMKin ja/tai muilla opinnoilla Hakuaika on 1.6. - 30.11., kun aloittaa opiskelun syyslukukaudella. Hakuaika on 1.12. - 31.5., kun aloittaa opiskelun kevätlukukaudella. Siirtohaku Hakuajat 1.-15.5. ja 1.-15.11. Lisää tietoa löytyy täältä .
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005545>)
+
+### 85/100 — STRONG — Tietojenkäsittelytiede, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Tietojenkäsittelytieteen opinnot tarjoavat näköalapaikan informaatioteknologian parissa työskentelyyn. Opinnoissa keskitytään kehittämään käyttäjien tarpeisiin suunniteltuja tekoäly- ja ohjelmistotuotteita sekä tietojärjestelmiä. Digitalisaatio ja tekoäly kehittävät alaa voimakkaasti. Maailma tarvitsee alan osaajia, jotka ymmärtävät, millaisia mahdollisuuksia uudet teknologian tarjoavat ja osaavat suunnitella ratkaisuja joista on aidosti hyötyä n
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008949>)
+
+### 85/100 — STRONG — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, AI-Driven Development, päivätoteutus
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Tietotekniikan insinöörinä kehität ratkaisuja digitaaliseen maailmaan, jossa ohjelmistot, tietoverkot ja tekoäly ohjaavat kaikkia toimialoja. Opit ymmärtämään ja hyödyntämään nykyaikaista teknologiaa aina laitteistoista ja käyttöjärjestelmistä ohjelmistoihin, tietoverkkoihin ja tekoälyratkaisuihin. Tekoäly ja koneoppiminen ovat osa opintojasi koko koulutuksen ajan, valmentaen sinua jatkuvasti kehittyvän ICT-alan tarpeisiin. Käytännönläheisten pro
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lukuvuosimaksu on 10 000 euroa. Lisätietoa lukuvuosimaksuista ja apurahoista Oamkin www-sivuilla.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001468>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Software Engineering, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Your studies take place in an inspiring setting where long-
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038153>)
+
+### 85/100 — STRONG — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Software Development in the Age of AI (blended studies), Helsinki, KAMK
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Software Development in the Age of AI is a cutting-edge, part-time engineering program designed to equip students with the skills and knowledge to excel in the rapidly evolving field of software development. This program merges traditional software engineering principles with modern AI techniques, providing a comprehensive education that prepares students to design, develop, and deploy intelligent software systems. The program is designed as a bl
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fee and scholarship system.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026725>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Sustainable Software Engineering 
+
+Centria-ammattikorkeakoulu
+Pietarsaari
+Yhteenveto: The Sustainable Software Engineering (SSE) programme equips you with the skills needed to thrive in a rapidly evolving digital society. As the world moves toward both a digital and green transition, you’ll learn to combine modern software engineering expertise with sustainable, ethical and energy‑efficient digital technologies. A Flexible Bachelor’s degree designed for modern life Our Bachelor of Engineering in Information Technology in Pietarsaa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fees are charged from Bachelor’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read more about the tuition fees and scholarships
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-05-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039097>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: In the Data Engineering and AI degree programme, you learn to build AI systems, train machine learning models, and design cloud data pipelines. You will move from being a technology user to becoming a data expert. The goal is to ensure you understand the entire data pipeline: how data is collected, processed, and stored (data engineering), how it is analyzed, and how it is leveraged in intelligent applications and decision-making. The extent of t
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038152>)
+
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
 Metropolia Ammattikorkeakoulu
@@ -3073,6 +3629,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039150>)
+
+### 80/100 — STRONG — Kansainvälinen politiikka, Politiikan tutkimuksen maisteriohjelma, Yhteiskuntatieteiden maisteri (2 v), syksy 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: Kansainvälisen politiikan maisteriopinnoissa pureudumme nopeasti muuttuvaan maailmaan ja tarjoamme välineitä sen ymmärtämiseen, selittämiseen ja muuttamiseen. Vaalimme laaja-alaisuutta. Yhdistämme teoriaa ja käytäntöä. Voit erikoistua maailman-politiikkaan, rauhan- ja konfliktin¬tutkimukseen tai Eurooppa-tutkimukseen (mukaan lukien Venäjä ja muu laajempi Eurooppa). Tarkastelemme myös turvallisuuden, kansainvälisen poliittisen talouden sekä ympäri
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038902>)
 
 ### 75/100 — STRONG — Tietojenkäsittelytiede, Joensuu, filosofian maisteri (2 v)
 
@@ -4224,29 +4804,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033023>)
 
-### 75/100 — STRONG — Master of Business Administration, Management in Sustainable Business
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
-
 ### 75/100 — STRONG — Master's Degree Programme in Inequalities, Interventions and New Welfare State, Master of Social Sciences, (2 years)
 
 Turun yliopisto
@@ -4413,6 +4970,167 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014970>)
+
+### 75/100 — STRONG — Tradenomi AMK, tietojenkäsittely, verkkototeutus, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Tekoälyn ja ohjelmoinnin taitajana luot ratkaisuja Kiinnostaako sinua ohjelmointi ja tekoäly? Tietojenkäsittelyn tutkinto-ohjelmasta valmistut tradenomiksi, joka hallitsee ohjelmistonkehitystehtävät sekä tekoälyä hyödyntävien palveluiden suunnittelun ja toteutuksen. Tutkinto-ohjelman toteuttavat yhteistyössä Tampereen ammattikorkeakoulu (TAMK) ja Vaasan ammattikorkeakoulu (VAMK). Koulutus toteutetaan kokonaan verkossa ja se sisältää aikaan sidott
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003258>)
+
+### 75/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Tekoälyn ja ohjelmoinnin taitajana luot ratkaisuja Kiinnostaako sinua ohjelmointi ja tekoäly? Tietojenkäsittelyn tutkinto-ohjelmasta valmistut tradenomiksi, joka hallitsee ohjelmistonkehitystehtävät sekä tekoälyä hyödyntävien palveluiden suunnittelun ja toteutuksen. Tutkinto-ohjelman toteuttavat yhteistyössä Tampereen ammattikorkeakoulu (TAMK) ja Vaasan ammattikorkeakoulu (VAMK). Koulutus toteutetaan kokonaan verkossa ja se sisältää aikaansidottu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028491>)
+
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, Datan elinkaarihallinta ja IT-johtaminen, verkko-opinnot
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Joustavasti 100 % verkossa toteutettava tietojenkäsittelyn tradenomikoulutus valmistaa sinut hyödyntämään dataa, tietojärjestelmiä ja teknologiaa organisaatioiden toiminnan kehittämisessä. Opinnoissa painottuvat datan hallinta sen koko elinkaaren ajan sekä IT-toiminnan ja digitaalisten palveluiden kehittäminen. Saat valmiudet yhdistää teknisen osaamisen ja liiketoiminnan tarpeet sekä toimia digitaalisten ratkaisujen asiantuntijana. Opinnot etenev
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002958>)
+
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Tutkinto tietojenkäsittelyn tradenomina avaa oven monipuolisiin ja mielenkiintoisiin työtehtäviin digitaalisen yhteiskunnan kehittämisen parissa! Opit ensin IT-tradenomin perustaidot, joita ovat tietokoneen käyttötaito, ohjelmointi, web-kehitys, viestintä, asiakaslähtöinen suunnittelu, käyttöliittymän suunnittelu, tietokannat ja digitaalisen markkinoinnin osa-alueet, kuten verkkokaupat ja markkinointidatan analysointi. Kun hallitset nämä taidot, 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002127>)
+
+### 75/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, verkkopainotteinen monimuotototeutus / Kokkola
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Liiketalouden opinnoissamme perehdytään monipuolisesti liiketalouden alaan. Opinnoissa lähdetään liikkeelle perusteista, joten et tarvitse aikaisempia alan opintoja tai työkokemusta. Opintojen aikana käydään läpi kattavasti liiketalouden osa-alueita sekä opit käyttämään erilaisia ohjelmistoja ja työkaluja. Opinnot sisältävät myös kieli- ja viestintäopintoja. Valmistuttuasi olet liiketalouden osaaja, tietojenkäsittelyn asiantuntija ja voit työsken
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021626>)
+
+### 75/100 — STRONG — Ohjelmistot ja data-arkkitehtuuri, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Vaasan yliopistosta valmistuneiden diplomi-insinöörien työllisyysnäkymät ovat maamme huippua! Vaasan seudun menestyksekäs energiakeskittymä tarjoaa tekniikan opiskelijoillemme parhaita harjoittelumahdollisuuksia sekä ainutlaatuisia Takuuteekkari-kesätyöpaikkoja ja meiltä valmistuneille diplomi-insinööreille merkityksellisiä työuria kestävän energian ja älykkään teknologian parissa. Koulutamme diplomi-insinöörejä rakentamaan kestävää hyvinvointia 
+Koulutustyyppi: UNIVERSITY DEGREE
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006717>)
+
+### 75/100 — STRONG — Älykäs liiketoiminta ja palvelut (Tradenomi AMK tai Restonomi AMK)
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Etkö vielä tiedä, mikä ala olisi juuri sinun juttusi? Ei hätää – sinun ei tarvitse tietää heti. Älykkään liiketoiminnan ja palveluiden koulutuksessa pääset ensimmäisen vuoden aikana tutustumaan neljään kiinnostavaan alaan: liiketalouteen, tietojenkäsittelyyn, turvallisuuteen ja riskienhallintaan sekä elämyspalveluiden tuottamiseen ja johtamiseen. Opit esimerkiksi, miten yrityksiä ja palveluita kehitetään tekoäly huomioiden, miten dataa hyödynnetä
+Koulutustyyppi: UAS DEGREE
+Laajuus: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043824>)
 
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
@@ -5214,6 +5932,236 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037632>)
 
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Peliala, päiväopinnot, Kajaani
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Unelmoitko urasta pelituottajana, peligraafikkona tai peliohjelmoijana? Pelialan opinnoissa voit opiskella unelmiesi ammattia varten innostuneiden, samanhenkisten ja hyvien tyyppien kanssa, huippuympäristöä unohtamatta. Pelialan koulutuksen johtoajatus on oikeissa peliprojekteissa työskenteleminen ja tekemisen kautta oppiminen. Opinnoista suuri osa toteutetaankin erilaisina projekteina, joiden kautta saavutat syvällisen ja käytännönläheisen ymmär
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002985>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Datacenter, päivätoteutus
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Tervetuloa opiskelemaan Euroopanlaajuisesti ainutlaatuiseen konesaliympäristöön! Datacenter-opinnoissa opiskelet keskeisiä palvelin- ja työasematuotteita sekä nykyaikaisia organisaatioiden verkkoratkaisuja. Ylläpidon perusvalmiuksien lisäksi saat valmiudet suunnitella ja kehittää tietoteknisiä ratkaisuja osana organisaation muuta kehittämistyötä. Ammattiopinnot pääset suorittamaan tietojärjestelmälaboratoriossa tai virtualisoitujen ympäristöjen a
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004516>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, päivätoteutus, Pori
+
+Satakunnan ammattikorkeakoulu
+Pori
+Yhteenveto: Tähän tietojenkäsittelyn tutkinto-ohjelmaan voit hakea enää siirtohaussa (1.-15.5. ja 1.-15.11.). Edellytyksenä on voimassaoleva korkeakoulun opiskeluoikeus vastaavan alan ohjelmassa. Nettisivuillamme voit tutustua siirtohaun kriteereihin . Tietojenkäsittelyn tutkinto-ohjelma ei siis ole enää mukana yhteishaussa. Jos et täytä siirtohaun ehtoja, voit hakea tieto- ja viestintätekniikan monimuotototeutukseen . Tietojenkäsittelyn tutkinto-ohjelma Kou
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002125>)
+
+### 70/100 — STRONG — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Tavoite Tietojenkäsittelyn koulutus antaa sinulle vahvan perusosaamisen, jota voit soveltaa monissa työtehtävissä yrityksissä ja julkisella sektorilla. Valmistumisen jälkeen työpaikkasi voi olla esimerkiksi jonkin yrityksen tai kunnan tietohallinto- tai tuotekehitysosastolla. Työtehtäviäsi voivat olla esimerkiksi tietojärjestelmien hankinta, kehitys ja ylläpito, tietoturvasta vastaaminen tai yrityksen verkkosivujen tai sovellusten kehittäminen. T
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001381>)
+
+### 70/100 — STRONG — Tietojenkäsittelytieteen kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri, (3 v + 2 v), kevät 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: LAAJA-ALAINEN IT-ASIANTUNTIJA Haluatko tulla IT-alan vahvaksi osaajaksi, joka kehittää ohjelmistoja ja järjestelmiä jatkuvasti muuttuvan maailman tarpeisiin? Opiskele tietojenkäsittelytiedettä ja valmistu filosofian maisteriksi Jyväskylän yliopistosta. Monipuolisella tietojenkäsittelytieteen osaamisella sinusta tulee tulevien ohjelmisto-, data-, tekoäly-, algoritmi- ja tietoturvakysymysten analysoija, ongelmanratkaisija ja digitaalisen maailman u
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039322>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, Business Information Systems, on-campus studies, Lahti
+
+LAB-ammattikorkeakoulu
+Lahti
+Yhteenveto: The Business Information Systems for Digital Commerce programme trains digital commerce specialists capable of leading and developing digital commerce in organisations of varying sizes. The programme builds competence around data, information systems, and customer value creation as an integrated whole. Students develop a combination of data-driven business understanding and foundational programming skills, enabling them to contribute measurably t
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000 € per academic year for bachelor’s degree programmes.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039298>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, Business Information Technology
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: The Degree Programme in Business Information Technology provides you with practical professional Business IT skills combined with an extensive theoretical base. The programme offers the most interesting areas of current IT education: software development; digital services; ICT Infrastructures, Cloud Services and Cybersecurity; and ICT and Business. In addition, the studies typically include content and practical application arranged in cooperatio
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009206>)
+
+### 70/100 — STRONG — Bachelor of Engineering, Industrial Information Technology, on-campus studies, Lahti
+
+LAB-ammattikorkeakoulu
+Lahti
+Yhteenveto: International career in the field of IT As a graduate of the Industrial Information Technology degree programme , you can work in designing and developing digital solutions in industrial environments. In your work, you will utilize new IT technologies and methods and can build a career focusing on software production, networks, embedded systems, IoT, and research and development. As an IT engineer, you can find work in Finland, Europe, and around
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020305>)
+
+### 70/100 — STRONG — Bachelor of Engineering, AI and Digital Infrastructure Engineering, on-campus studies, Lappeenranta 
+
+LAB-ammattikorkeakoulu
+Lappeenranta
+Yhteenveto: The growing use of artificial intelligence, cloud computing, and digital services is increasing the demand for professionals who understand both digital technologies and the infrastructure that supports them. The AI and Digital Infrastructure Engineering programme prepares you to design, build and operate the infrastructure behind tomorrow's digital world. The studies give you a solid foundation in electrical engineering and information technolog
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: maksullinen: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. The tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes. Scholarships offered by LAB University of Applied Sciences are available from the second year onwards for bachelor's degree stude
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ammatillinen perustutkinto, European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ulkomainen toisen asteen tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043358>)
+
+### 70/100 — STRONG — Bachelor of Engineering, Information Technology
+
+Yrkeshögskolan Arcada
+Helsinki
+Yhteenveto: Do you have a logical mindset and a burning passion for the application of new technologies? In this bachelor’s degree programme you will learn software development with the opportunity to specialise in one of two study tracks: Intelligent Robotics or Data Processing and Analytics . By the time you graduate, you will have a solid understanding of the interaction between programming and artificial intelligence. You will know how to design and deve
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9800.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee of 9,800 €/year for non-EU/EEA citizens. There is an early-bird discount of €1,500 for an admitted student who bindingly accepts the study place and pays within 14 days. In addition there is a deduction of the tuition fee for the ACT, OMPT, or SAT test for those admitted throu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-04-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041181>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -5677,75 +6625,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041066>)
 
-### 65/100 — STRONG — Avoin yo: Aloittavan yrityksen markkinointi, lv 2026-2027, verkko-opinnot
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Osaamistavoitteet Opiskelija kehittää taitojaan käyttää innovatiivisia ja kekseliäitä markkinointistrategioita, jotka ovat joustavia, luovia ja hyödyntävät esiin nousevia mahdollisuuksia harjaannuttaa valmiuksiaan hinnoitella ja myydä sekä ymmärtää hinnoittelun ja myynnin merkityksen yritystoiminnan kannattavuudelle Opintojakso kehittää geneerisiä taitoja seuraavissa osa-alueissa: henkinen joustavuus, kommunikointi ja yrittäjyys Verkko-opinnot.
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037897>)
-
-### 65/100 — STRONG — Avoin yo: Yrittäjämäinen asenne ja ajattelutapa, lv 2026-2027, verkko-opinnot
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Osaamistavoitteet Opiskelija ·kehittää taitojaan ajatella luovasti ja innovatiivisesti ·edistää kykyjään tarttua liiketoimintamahdollisuuksiin ·harjaannuttaa ennakoivaa ja aloitteellista toimintatapaa, kekseliäisyyttä ja sopeutumista nopeasti muuttuviin ja kehittyviin tilanteisiin ja haasteisiin ·tunnistaa itselleen sopivia muotoja/tapoja toimia yrittäjänä Opintojakso kehittää geneerisiä taitoja seuraavissa osa-alueissa: henkinen joustavuus, itse
-Koulutustyyppi: COURSE
-Laajuus: 2.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039496>)
-
-### 65/100 — STRONG — Yhteiskunnallisen muutoksen maisteriohjelma, syksy 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Yhteiskunnallisen muutoksen maisteriohjelmassa tutkit, miten talous, politiikka ja kulttuuri kietoutuvat yhteen eri aikoina ja eri puolilla maailmaa. Helsingin yliopistossa voit erikoistua yhteen neljästä tieteenalasta: globaali kehitystutkimus, poliittinen historia, sosiaali- ja kulttuuriantropologia tai talous- ja sosiaalihistoria. Saat valmiudet analysoida valtarakenteita, eriarvoisuutta ja muutosprosesseja kriittisesti ja konkreettisesti.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040612>)
-
 ### 65/100 — STRONG — Master's Degree Programme in Developmental and Educational Psychology (DYNAMIC) (Vaasa), Master of Social Sciences (2 years), autumn 2027
 
 Åbo Akademi
@@ -5753,11 +6632,12 @@ Vaasa, Turku
 Yhteenveto: The aim of the Master's Degree Programme in Developmental and Educational Psychology (DYNAMIC) is to prepare students for professional activity as experts in learning, motivation, and wellbeing across developmental and educational contexts, and to provide a strong foundation for postgraduate studies and independent research work. This programme is located at the Vasa campus of Åbo Akademi University. After completion of this programme, students c
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens. For more information please see https://www.abo.fi/en/study/tuition-fees/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5765,7 +6645,6 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042428>)
 
@@ -5773,14 +6652,15 @@ Miksi / huomioitavaa:
 
 Turun yliopisto
 Turku
-Yhteenveto: The Master’s Degree Programme in East Asian Studies (EAST) that is offered by the Centre for East Asian Studies (CEAS) at the University of Turku gives a unique opportunity to gain in-depth knowledge about the dynamic societies and politics of contemporary East Asia: China, Japan, South Korea and North Korea, taught by academic staff with wide and versatile knowledge on East Asia. As part of the EAST programme, students further develop their rese
+Yhteenveto: The Master’s Degree Programme in East Asian Studies (EAST) that is offered by the Centre for East Asian Studies (CEAS) at the University of Turku gives a unique opportunity to gain in-depth knowledge about the dynamic societies and politics of contemporary East Asia: China, Japan, South Korea and North Korea, taught by academic staff with wide and versatile knowledge on East Asia. The Master’s Degree Programme in East Asian Studies provides multi
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5788,45 +6668,22 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001444>)
-
-### 65/100 — STRONG — Master's Degree Programme in Futures Studies, Master of Social Sciences (2 years)
-
-Turun yliopisto
-Turku
-Yhteenveto: The Master’s Degree Programme in Futures Studies provides comprehensive, multidisciplinary and practical education in the field of futures studies. It is designed to educate foresight experts who help organisations to harness future opportunities and avoid unnecessary risks.
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001624>)
 
 ### 65/100 — STRONG — Master's Programme in European and Nordic Studies, Autumn 2027
 
 Helsingin yliopisto
 Helsinki
-Yhteenveto: The Master's Programme in European and Nordic Studies (ENS) at the University of Helsinki offers you an interdisciplinary perspective on the European Union, European politics and societies, and the Nordic region. You can specialise in EU studies, European political history, or Nordic societies, and graduate with either a Master of Arts or a Master of Social Sciences degree.
+Yhteenveto: ENS is a two-year master's programme that trains you to analyse the European Union, European societies, and Nordic cooperation from multiple disciplinary perspectives. The programme draws on political science, history, EU studies, area studies, and cultural studies, while also offering optional courses in global politics, law, philosophy, communication, and sociology. Helsinki is a fascinating place to study European politics. Finland's location 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5834,32 +6691,8 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039910>)
-
-### 65/100 — STRONG — Yhteiskuntatieteiden ja filosofian maisteriohjelma, yhteiskuntatieteiden maisteri (2 v), syksy 2027
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Yhteiskuntatieteiden ja filosofian opinnoissa opit ymmärtämään ja selittämään yhteiskuntaa, ihmistä ja inhimillistä toimintaa. Opit ottamaan kantaa yhteiskunnallisiin kysymyksiin ja ratkaisemaan niitä. Osallistut uutta tietoa luovaan toimintaan ja sovellat tietoa itsenäisesti ja yhteistyössä muiden kanssa. Opinnot tarjoavat mahdollisuuden pohtia rakentavasti omaa itseäsi ja paikkaasi maailmassa. Tutkintosi alana voi olla filosofia, politiikka, so
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043716>)
 
 ### 65/100 — STRONG — Yhteiskuntatieteiden ja filosofian maisteriohjelma, yhteiskuntatieteiden maisteri (2 v), syksy 2026
 
@@ -5884,98 +6717,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035609>)
 
-### 65/100 — STRONG — Sosiaalipedagogiikka, Joensuu, yhteiskuntatieteiden maisteri (2 v)
-
-Itä-Suomen yliopisto
-Joensuu
-Yhteenveto: Sosiaalipedagogiikka etsii ratkaisuja kriisiytyvän ajan haasteisiin. Sen opiskelu on paras valinta sinulle, joka haluat ymmärtää ihmisen kasvua täydempään ihmisyyteen osana yhteisöjä, yhteiskuntaa ja maailmaa. Sosiaalipedagogiikka tarjoaa teorioita, käsitteitä ja käytännön työn suuntaviivoja tasa-arvoisemman, oikeudenmukaisemman ja kestävämmän elämän rakentamiseen. Se yhdistää teorian ja käytännön sekä suuntautuu toimintaan. Sosiaalipedagogiikka 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028004>)
-
-### 65/100 — STRONG — Sosiologia, Joensuu, yhteiskuntatieteiden maisteri (2 v)
-
-Itä-Suomen yliopisto
-Joensuu
-Yhteenveto: Sosiologian opiskelu on hyvä valinta, jos olet kiinnostunut siitä, mitä yhteiskunnassa tapahtuu, miksi asiat ovat siten kuin ovat ja miten ne voisivat olla toisin, miten ihmiset ovat vuorovaikutuksessa toistensa kanssa, ja millaiset prosessit säätelevät ihmisten sosiaalista toimintaa ja ajattelua. Sosiologia on tieteenala, joka tarkastelee yhteiskuntaa ja sen rakenteita, yhteisöjä ja vuorovaikutusta sekä niiden muutosta. Se pyrkii ymmärtämään, mi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028005>)
-
-### 65/100 — STRONG — Yhteiskuntapolitiikka, Joensuu, yhteiskuntatieteiden maisteri (2 v)
-
-Itä-Suomen yliopisto
-Joensuu
-Yhteenveto: Yhteiskuntapolitiikka etsii välineitä ymmärtää sitä, miten yhteiskunnista on tullut sellaisia kuin ne ovat nyt, ja miten niitä voi muuttaa. Miten hyvinvointia ja yhdenvertaisuutta parhaiten edistetään? Kenelle kaikille ne kuuluvat? Tuleeko sosiaaliturva ja hyvinvointi ansaita, ja jos niin miten? Yhteiskuntapolitiikka tarjoaa käsitteitä yhteiskunnallisten ilmiöiden jäsentämiseen, sekä valikoiman menetelmiä tieteellisen tiedon ja analyysin rakentam
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028006>)
-
-### 65/100 — STRONG — Kansainvälinen politiikka, Politiikan tutkimuksen maisteriohjelma, Yhteiskuntatieteiden maisteri (2 v), syksy 2027
-
-Tampereen yliopisto
-Tampere
-Yhteenveto: Kansainvälisen politiikan maisteriopinnoissa pureudumme nopeasti muuttuvaan maailmaan ja tarjoamme välineitä sen ymmärtämiseen, selittämiseen ja muuttamiseen. Vaalimme laaja-alaisuutta. Yhdistämme teoriaa ja käytäntöä. Voit erikoistua maailman-politiikkaan, rauhan- ja konfliktin¬tutkimukseen tai Eurooppa-tutkimukseen (mukaan lukien Venäjä ja muu laajempi Eurooppa). Tarkastelemme myös turvallisuuden, kansainvälisen poliittisen talouden sekä ympäri
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038902>)
-
 ### 65/100 — STRONG — Arctic World Politics, Master of Social Sciences (2 years)
 
 Lapin yliopisto
@@ -5983,11 +6724,12 @@ Rovaniemi
 Yhteenveto: Why is the Arctic so central to world politics today? Is it simply a new arena of great-power rivalry and militarisation, where climate change opens up shipping routes and natural resources to be contested? Or is it also a place that can challenge such framings: home to histories, knowledges, aspirations and worldviews that help us imagine a more sustainable and just world? In Arctic World Politics, you learn to take both questions seriously. Gro
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee For non-EU/EEA/Swiss citizens annually 13000 €.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5995,7 +6737,6 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025888>)
 
@@ -6006,11 +6747,12 @@ Tampere
 Yhteenveto: The Master’s Programme in Security Management and Politics (SAFER) is a unique combination of approaches based on administrative science and international politics. The insightful and dynamic programme provides students with a solid understanding in security management and governance, strategic issues and geopolitics as well as cross-boundary, cross-sectoral and hybridised nature of domestic and international security domains. The studies consist
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6018,7 +6760,6 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041491>)
 
@@ -6029,11 +6770,12 @@ Tampere
 Yhteenveto: The Master’s Programme in Security Management and Politics (SAFER) is a unique combination of approaches based on administrative science and international politics. The insightful and dynamic programme provides students with a solid understanding in security management and governance, strategic issues and geopolitics as well as cross-boundary, cross-sectoral and hybridised nature of domestic and international security domains. The studies consist
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6041,32 +6783,8 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041492>)
-
-### 65/100 — STRONG — Public Policy Analysis, Social Science Research, Master of Social Sciences (2 yrs)
-
-Tampereen yliopisto
-Tampere
-Yhteenveto: Public Policy Analysis teaches students to use economic tools to address broad societal problems. Studies extend economic analysis beyond the traditional focus on market interactions to examine the intended and unintended consequences of policies and to explore how and when individual self-interest among politicians, interest groups etc. help or hinder public interest. Public policy analysis involves understanding institutional design, policy eva
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033074>)
 
 ### 65/100 — STRONG — Transformative Urban and Regional Governance, Master of Administrative Sciences (2 yrs), autumn 2027
 
@@ -6075,11 +6793,12 @@ Tampere
 Yhteenveto: There is an increasing global demand for academic experts and highly qualified professionals capable of understanding and steering transformative change in cities and regions. Climate and sustainability transitions, socio-spatial inequalities, economic restructuring, and demographic challenges are fundamentally reshaping urban and regional development across the world. This need has been recognised by public authorities, international organisatio
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6087,7 +6806,6 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042118>)
 
@@ -6098,11 +6816,12 @@ Tampere
 Yhteenveto: Transforming Societies offers an interdisciplinary approach to understanding contemporary societal challenges in a rapidly changing world. The programme focuses on the relationships between citizens, institutions, and environmental and public policies and equips students with the knowledge and skills needed to analyse and guide societal transformations toward socially just and environmentally sustainable futures. The programme builds on Tampere U
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6110,7 +6829,6 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042123>)
 
@@ -6118,14 +6836,15 @@ Miksi / huomioitavaa:
 
 Helsingin yliopisto
 Helsinki
-Yhteenveto: In the Master’s Programme in One Health at the University of Helsinki, you learn to tackle health challenges that connect humans, animals and the environment. You combine life sciences, ecology and social sciences with thematic courses, an internship, a capstone project and a research thesis. You graduate ready to work in public authorities, research institutes, international agencies, NGOs and the health and food sectors.
+Yhteenveto: The world’s most pressing health problems, from emerging infections and antimicrobial resistance to food and water safety, climate change and biodiversity loss, cross the boundaries of any single field. The Master’s Programme in One Health brings human health, animal health, environmental and ecosystem sciences, food systems and health governance together in one degree. You build a shared foundation across these domains and strengthen your skills
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 18000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6133,32 +6852,8 @@ Miksi / huomioitavaa:
 - +10 vastaa yhteiskunnallista kiinnostusta
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039919>)
-
-### 65/100 — STRONG — Avoin yo: Monialaiset ja yhteentoimivat sosiaali- ja terveyspalvelut, lv. 2026-2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Tämä opintojakso kuuluu pakollisena opintojaksona Monialainen sosiaali- ja terveysalan johtaminen -opintokokonaisuuteen (yhteiskuntatieteet). Sisältö: Sosiaali- ja terveyspalvelujärjestelmän johtaminen ja hallinnolliset rakenteet; tiedonhallinnan osa-alueet sosiaali- ja terveydenhuollossa; palvelujärjestelmän taloudellinen organisointi; tehokkuus ja muut taloustieteen peruskäsitteet. Tavoitteet: Opintojakson suoritettuaan opiskelija osaa: tunnist
-Koulutustyyppi: COURSE
-Laajuus: 3.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039466>)
 
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -6974,641 +7669,113 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015565>)
 
-### 60/100 — REVIEW — Erillishaku: Tradenomi (AMK), tietojenkäsittely, VAMK
-
-Vaasan ammattikorkeakoulu
-Vaasa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000882>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, kyberturvallisuus, erillisvalinnat
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034644>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittelyn tutkinto-ohjelma, päivätoteutus
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002955>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
-
-Savonia-ammattikorkeakoulu
-Kuopio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010451>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, Peliala, päiväopinnot, Kajaani
-
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002985>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, Peliala, päivätoteutus, Raahe
-
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007072>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002276>)
-
-### 60/100 — REVIEW — Tradenomi AMK, tietojenkäsittely, verkkototeutus, VAMK
-
-Vaasan ammattikorkeakoulu
-Vaasa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003258>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028491>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, Datacenter, päivätoteutus
-
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004516>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, muuntokoulutus
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002213>)
-
 ### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, kevään 2027 haku
 
 Jyväskylän ammattikorkeakoulu
 Jyväskylä
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Digitaalinen osaaminen on nyt avaintaito työelämässä! Jyväskylän ammattikorkeakoulun tietojenkäsittelyn tutkinto-ohjelmassa opit suunnittelemaan ja kehittämään digitaalisia palveluja, joissa yhdistyvät älykkäät teknologiat ja liiketoiminta. Tekoälyn muuttaessa ohjelmistokehityksen luonnetta korostuu työssä luova ongelmanratkaisu, käyttäjälähtöinen ajattelu ja kyky soveltaa uusia työkaluja – nämä ovat juuri niitä taitoja, joita koulutuksessa kehit
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041821>)
-
-### 60/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), tietojenkäsittely, päivätoteutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038240>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, kevään 2026 haku
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031799>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, lähiopinnot, Lappeenranta
 
 LAB-ammattikorkeakoulu
 Lappeenranta
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Tietojenkäsittelyn koulutuksesta valmistut asiantuntijaksi, joka osaa johtaa ja kehittää digitaalista kaupankäyntiä erikokoisissa organisaatioissa. Tietojenkäsittelyn tradenomin tutkinto-ohjelmassa osaamisesi rakentuu datan, tietojärjestelmien ja asiakasarvon tuottamisen ympärille. Tradenomina olet lisäksi liiketalouden asiantuntija. Tunnet menestyvän ja kannattavan yritystoiminnan edellytykset sekä osaat tehdä perusteltuja päätöksiä ja hoitaa it
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003481>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, päivätoteutus, Pori
-
-Satakunnan ammattikorkeakoulu
-Pori
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002125>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, verkkototeutus
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000787>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, Ohjelmistotuotanto, päivätoteutus
 
 Tampereen ammattikorkeakoulu
 Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Koodaa tulevaisuuden ratkaisuja Tee ideoista toimivia ohjelmistoja, sovelluksia ja digitaalisia palveluja. TAMKin tietojenkäsittelyn tutkinto-ohjelmassa opit käytännön projekteissa yhdistämään teknologian, tiimityön ja liiketoiminnan sekä rakennat osaamista monipuolisiin ICT-alan tehtäviin. Ohjelmistokehityksen osaajana olet mukana rakentamassa tulevaisuuden digitaalisia palveluja ja ratkaisuja. TAMKin tietojenkäsittelyn tutkinto-ohjelmassa kehit
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035734>)
 
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, Datan elinkaarihallinta ja IT-johtaminen, verkko-opinnot
-
-Lapin ammattikorkeakoulu
-Tornio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002958>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009237>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, monimuotototeutus
-
-Laurea-ammattikorkeakoulu
-Vantaa, Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000904>)
-
 ### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
 
 Laurea-ammattikorkeakoulu
 Vantaa, Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Haluatko olla etulinjassa kehittämässä digitaalisia palveluita? Opiskele digitaalisten palveluiden asiantuntijaksi ja rakenna tulevaisuutesi IT-alalla! Tietojenkäsittelyn koulutusohjelma digitaalisten palveluiden kehittämisessä mahdollistaa monipuoliset työtehtävät liiketalouden ja IT:n rajapinnassa. Opinnoissa sovelletaan alan teknologioita, käytäntöjä ja standardeja palveluliiketoiminnan toimintaympäristössä. Laurean opiskelijalähtöinen opiskel
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005840>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, erillishaut
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003765>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002127>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001381>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, verkkototeutus
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003168>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, verkko-opinnot
-
-Laurea-ammattikorkeakoulu
-Vantaa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030969>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, kyberturvallisuus, monimuotototeutus
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000381>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, ohjelmistotuotanto, päivätoteutus
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Tekoäly muuttaa ja automatisoi rutiinitehtäviä. Samaan aikaan ohjelmistoalalla kasvaa tarve ammattilaisille, jotka osaavat ajatella kriittisesti, ymmärtävät kokonaiskuvaa ja hallitsevat digitaalisia järjestelmiä. Ohjelmistotuotannon koulutuksessa opit luotettavien ohjelmistoratkaisujen suunnittelusta, käyttöönotosta, testauksesta ja kehittämisestä. Saat opiskelujen aikana käytännön kokemusta palkitusta theFirma oppimisympäristöstä. Koulutuksemme 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043578>)
 
@@ -7616,175 +7783,43 @@ Miksi / huomioitavaa:
 
 Tampereen ammattikorkeakoulu
 Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
+Yhteenveto: Koodaa oma reittisi pelialalle TAMKin pelituotannon opinnoissa opit ohjelmointia ja pelikehitystä käytännön projekteissa, työskentelet monialaisissa tiimeissä ja rakennat valmiuksia peli-, ohjelmisto- ja teknologia-alojen tehtäviin. Paina starttia ja aloita matkasi unelma-ammattiin. Opiskele pelikehityksen ja ohjelmistotuotannon osaajaksi. TAMKin tietojenkäsittelyn tutkinto-ohjelman pelituotannon opintosuunnassa kehität taitojasi ohjelmoinnissa, 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035727>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, verkkopainotteinen monimuotototeutus / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021626>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, digitaalisten palveluiden kehittäminen, erillisvalinnat
-
-Laurea-ammattikorkeakoulu
-Espoo, Vantaa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034785>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, AI-ratkaisut liiketoiminnassa, verkkototeutus
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039410>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, AI-ratkaisut liiketoiminnassa, verkko-opinnot, Tornio, syksyn 2026 yhteishaku
-
-Lapin ammattikorkeakoulu
-Tornio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000636>)
-
-### 60/100 — REVIEW — Erillishaut Lapin AMK, Tradenomi (AMK), tietojenkäsittely, Siirtohaku ja Avoimen AMKin ja/tai muilla opinnoilla tutkinto-opiskelijaksi
-
-Lapin ammattikorkeakoulu
-Tornio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005545>)
-
-### 60/100 — REVIEW — Tradenom (YH), informationsbehandling, online, flerform
-
-Yrkeshögskolan Novia
-Vaasa, Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tietojenkäsittelyn tradenomikoulutus tarjoaa opiskelijalle työelämässä tarvittavaa ammattiosaamista ohjelmistokehityksestä, digitaalisista palveluista, liiketoiminnasta, kyberturvasta, pilvipalveluista sekä tekoälystä ja data-analytiikasta. Tutkinto antaa hyvät viestintä ja projektitaidot. Ammattikorkeakoulut tarjoavat tietojenkäsittelyn tradenomintutkinnon osalta useita suuntautumisvaihtoehtoja. Niihin voi tutust
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010295>)
-
-### 60/100 — REVIEW — Tietotekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
-
-Aalto-yliopisto
-Espoo
-Yhteenveto: Digitalisaatio ja tekoäly muuttavat maailmaa, ja tietotekniikan opiskelijoille tarjotaan uusinta tietoa ja parhaita työelämävalmiuksia nopeasti muuttuvalta alalta. Tietoliikenne laitteiden ja ihmisten välillä, pelit ja taide, ohjelmistotuotanto, älykkäät ohjelmistot ja robotit, lääketieteen mittaus- ja kuvantamislaitteet, tietoturva, elektroninen kauppa sekä sosiaalinen kanssakäyminen kuuluvat arkeemme ja kehittyvät huimaa vauhtia eteenpäin. Tiet
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035727>)
+
+### 60/100 — REVIEW — Tietotekniikka, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Tietotekniikan hakukohde on vuodesta toiseen yksi Aalto-yliopiston Perustieteiden korkeakoulun suosituimmista kohteista. Alalle hakeutuu monenlaisia ihmisiä: tietokoneisiin keskittyviä ammattilaisia, luovia taiteilijasieluja ja laaja-alaisia, ihmisten tarpeista, tiimityöstä ja liiketoiminnasta kiinnostuneita tekijöitä. Tietotekniikan opiskelijana pääset luovimaan muuttuvan maailman haasteissa – tutkimaan esimerkiksi ihmisen ja koneen välistä vuor
+Koulutustyyppi: UNIVERSITY DEGREE
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008183>)
 
@@ -7792,21 +7827,21 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Digitalisaatio ja tekoäly muuttavat maailmaa, ja tietotekniikan opiskelijoille tarjotaan uusinta tietoa ja parhaita työelämävalmiuksia nopeasti muuttuvalta alalta. Tietoliikenne laitteiden ja ihmisten välillä, pelit ja taide, ohjelmistotuotanto, älykkäät ohjelmistot ja robotit, lääketieteen mittaus- ja kuvantamislaitteet, tietoturva, elektroninen kauppa sekä sosiaalinen kanssakäyminen kuuluvat arkeemme ja kehittyvät huimaa vauhtia eteenpäin. Tiet
+Yhteenveto: Tietotekniikan osaajana kehität kestäviä, käyttäjälähtöisiä ja kannattavia ohjelmistoja sekä digitaalisia palveluja. Alalle tarvitaan 40 000 korkeakoulutettua seuraavan 10 vuoden aikana. LUTissa opiskelet ohjelmistotuotantoa eli ohjelmistojen suunnittelua, kehittämistä, testaamista ja rakentamista. Opit ratkaisemaan suuria yhteiskunnallisia haasteita digitalisaation ja ohjelmistotuotannon osaamisella. Haasteet voivat liittyä esimerkiksi energiank
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009371>)
 
@@ -7814,21 +7849,21 @@ Miksi / huomioitavaa:
 
 Itä-Suomen yliopisto
 Kuopio
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: Luonnontieteiden kandidaatin tutkintoon tähtäävät tietojenkäsittelytieteen pääainekurssit tarjoavat hyvän perustietämyksen tietojenkäsittelytieteen eri osa-alueista. Niistä saadulla kattavalla pohjatiedolla opiskelija löytää omat mielenkiinnon kohteensa tietojenkäsittelytieteen alalla, joita voi lähteä syventämään maisteriopinnoissa ja sivuaineopinnoissa.
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028055>)
 
@@ -7836,131 +7871,65 @@ Miksi / huomioitavaa:
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: Luonnontieteiden kandidaatin tutkintoon tähtäävät tietojenkäsittelytieteen pääainekurssit tarjoavat hyvän perustietämyksen tietojenkäsittelytieteen eri osa-alueista. Niistä saadulla kattavalla pohjatiedolla opiskelija löytää omat mielenkiinnon kohteensa tietojenkäsittelytieteen alalla, joita voi lähteä syventämään maisteriopinnoissa ja sivuaineopinnoissa.
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028053>)
-
-### 60/100 — REVIEW — Tietojenkäsittelytieteen kandiohjelma, syksy 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041390>)
-
-### 60/100 — REVIEW — Tietojenkäsittelytiede, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008949>)
 
 ### 60/100 — REVIEW — Tietojenkäsittelytieteiden koulutus, Luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), syksy 2027
 
 Tampereen yliopisto
 Tampere
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: Rakennatko mieluummin tulevaisuutta kuin seuraat sitä? Tietojenkäsittelytieteissä opit suunnittelemaan ja kehittämään digitaalisia ratkaisuja, jotka helpottavat ihmisten arkea, tukevat yritysten toimintaa ja muokkaavat yhteiskuntaa. Opinnoissa yhdistyvät luova ongelmanratkaisu, käytännön tekeminen ja uusien teknologioiden hyödyntäminen. Tietojenkäsittelytieteen sovellusmahdollisuudet ovat rajattomat Digitalisaatio, tekoäly ja data muuttavat maail
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038828>)
-
-### 60/100 — REVIEW — Tietojenkäsittelytieteen kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri, (3 v + 2 v), kevät 2027
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039322>)
 
 ### 60/100 — REVIEW — Tietojenkäsittelytieteen kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri, (3 v + 2 v), syksy 2027
 
 Jyväskylän yliopisto
 Jyväskylä
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: LAAJA-ALAINEN IT-ASIANTUNTIJA Haluatko tulla IT-alan vahvaksi osaajaksi, joka kehittää ohjelmistoja ja järjestelmiä jatkuvasti muuttuvan maailman tarpeisiin? Opiskele tietojenkäsittelytiedettä ja valmistu filosofian maisteriksi Jyväskylän yliopistosta. Monipuolisella tietojenkäsittelytieteen osaamisella sinusta tulee tulevien ohjelmisto-, data-, tekoäly-, algoritmi- ja tietoturvakysymysten analysoija, ongelmanratkaisija ja digitaalisen maailman u
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040090>)
 
@@ -7968,21 +7937,21 @@ Miksi / huomioitavaa:
 
 Turun yliopisto
 Turku
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: Alemmassa korkeakoulututkinnossa annetaan opiskelijoille tietojenkäsittelytieteen monipuoliset teoreettiset perustiedot. Lisäksi opiskelija tutustuu tärkeimpiin uusiin tietojenkäsittelymenetelmiin ja -välineisiin, sekä tekoälyn perusteisiin. Tavoitteena on, että opiskelija on LuK-tutkinnon suoritettuaan omaksunut työelämässä tarvittavan käytännön ammattitaidon vaatimia tietoja ja taitoja. Sivuaineeksi voidaan valita monialaisen yliopiston valikoi
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009033>)
 
@@ -7990,21 +7959,21 @@ Miksi / huomioitavaa:
 
 Åbo Akademi
 Turku
-Yhteenveto: Tietojenkäsittelytiede tutkii ja kehittää menetelmiä, joilla voidaan automatisoida tiedon keräämistä, käsittelyä ja tulkintaa. Ohjelmointitaito on alan perusosaamista, jonka lisäksi alan yliopisto-opinnoissa tarjotaan kokonaisvaltaista osaamista suurten tai monimutkaisten järjestelmien suunnitteluun ja toteuttamiseen sekä uusien menetelmien ja toimintatapojen kehittämiseen. Tämä tarkoittaa, että opinnoissa pyritään syvälliseen ymmärrykseen alasta
+Yhteenveto: Inom datavetenskapen ligger fokus på att med hjälp av naturvetenskapliga, matematiska, teknologiska och ekonomiska principer lösa problem inom olika delar av samhället och näringslivet. Inom datavetenskap är angreppssättet analytiskt och betonar teoretisk problemlösning. Du lär dig att analysera datorbaserade systems arkitektur, kvalitet, tillförlitlighet och driftssäkerhet. Utbildningen baserar sig på en kombination av teori och praktik. Princip
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ulkomainen toisen asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043610>)
 
@@ -8012,65 +7981,43 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Elinkeinoelämä tarvitsee yhä enemmän osaajia, jotka ymmärtävät sekä liiketoimintaa että analytiikan tarjoamia mahdollisuuksia. Data-analytiikan osaaja toimii datan ja liiketoiminnan rajapinnassa. Hän osaa tunnistaa päätöksenteon kannalta olennaisen tiedon, jalostaa datasta hyödyllisiä näkemyksiä ja tukea yrityksen päätöksentekoa sekä strategista suunnittelua. Ohjelmasta valmistunut voi työskennellä esimerkiksi data-analyytikkona, data-asiantuntij
+Yhteenveto: Yritykset tarvitsevat yhä enemmän osaajia, jotka osaavat hyödyntää dataa päätöksenteossa ja strategiatyössä. Data-analyytikoiden tarve on kasvanut liike-elämässä merkittävästi viime vuosien aikana. Yhä useampi yritys pyrkii luomaan datalla arvoa ja on matkalla kohti dataohjautuvaa yrityskulttuuria. Data mahdollistaa kilpailuedun yritykselle vain, jos erilaiset datalähteet saadaan hyötykäyttöön ja jos analytiikan työkaluja ja tekniikoita osataan s
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008790>)
-
-### 60/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), Business Information Technology, Game Production, englanninkielinen päivätoteutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038220>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), Business Information Technology, Game Production, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
 
 Jyväskylän ammattikorkeakoulu
 Jyväskylä
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
+Yhteenveto: Opiskele tietojenkäsittelyn tradenomiksi pelikehitykseen erikoistuen! Saat kansainvälisen pätevyyden - opinnot ovat englanniksi. Jamkin Pelituotanto-koulutuksessa opiskelet pelinkehityksen keskeisiä osa-alueita. Jamkin Game Production on yksi harvoista ammattikorkeakoulujen kandidaatin tason ohjelmista, joka on tarkoitettu yksinomaan videopelien kehittämiseen ja tuotantoon. Opinnoissa painopiste seuraa tarkkaan pelialan yritysten tarpeita. Yritys
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037408>)
 
@@ -8078,21 +8025,21 @@ Miksi / huomioitavaa:
 
 Itä-Suomen yliopisto
 Kuopio
-Yhteenveto: Jokaisessa menestyvässä start-upissa pitää olla vähintään yksi henkilö, joka ymmärtää liiketoimintaa, ja vähintään yksi henkilö, joka ymmärtää yrityksen käyttämän teknologian. Voisiko tämä olla yksi ja sama henkilö? Yritykset käyttävät yhä enemmän data-analytiikkaa liiketoimintapäätösten tukena, mutta liiketoiminnan asiantuntijat eivät useinkaan hallitse moderneja data-analyysin työkaluja, eivätkä data-analyytikot juurikaan ymmärrä liiketoimintaa
+Yhteenveto: Kauppatieteiden kandidaatin tutkinnon pääaineeksi voit ensimmäisen opiskeluvuotesi aikana valita johtamisen, laskentatoimen ja rahoituksen, laskentatoimen ja yritysjuridiikan tai markkinoinnin ja vähittäiskaupan. Kandidaattivaiheen opinnot sisältävät valitun pääaineen opintojen lisäksi kaikille yhteisiä opintoja, kuten perusasiat johtamisesta, markkinoinnista, laskentatoimesta, rahoituksesta ja yritysjuridiikasta. Lisäksi kaikki opiskelevat kieli
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027967>)
 
@@ -8100,21 +8047,21 @@ Miksi / huomioitavaa:
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Jokaisessa menestyvässä start-upissa pitää olla vähintään yksi henkilö, joka ymmärtää liiketoimintaa, ja vähintään yksi henkilö, joka ymmärtää yrityksen käyttämän teknologian. Voisiko tämä olla yksi ja sama henkilö? Yritykset käyttävät yhä enemmän data-analytiikkaa liiketoimintapäätösten tukena, mutta liiketoiminnan asiantuntijat eivät useinkaan hallitse moderneja data-analyysin työkaluja, eivätkä data-analyytikot juurikaan ymmärrä liiketoimintaa
+Yhteenveto: Kauppatieteiden kandidaatin tutkinnon pääaineeksi voit ensimmäisen opiskeluvuotesi aikana valita johtamisen, laskentatoimen ja rahoituksen, laskentatoimen ja yritysjuridiikan tai markkinoinnin ja vähittäiskaupan. Kandidaattivaiheen opinnot sisältävät valitun pääaineen opintojen lisäksi kaikille yhteisiä opintoja, kuten perusasiat johtamisesta, markkinoinnista, laskentatoimesta, rahoituksesta ja yritysjuridiikasta. Lisäksi kaikki opiskelevat kieli
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027964>)
 
@@ -8122,199 +8069,67 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Laskennallisen tieteen osaajana tutkit ilmiöitä ja ratkaiset ongelmia simulaation, mallintamisen ja tiedonhallinnan avulla sekä hyödynnät tekoälyä esimerkiksi visuaalista dataa tulkitsevissa sovelluksissa. Opinnot sopivat sinulle, jos olet kiinnostunut matematiikasta, ongelmanratkaisusta ja tietojenkäsittelystä sekä haluat oppia hyödyntämään datan ja tekoälyn tarjoamia mahdollisuuksia. Kaksiportaisen tutkinnon ensimmäinen vaihe on tekniikan kandi
+Yhteenveto: Tarve hyödyntää dataa ja tekoälyä on kasvanut merkittävästi viime vuosina. Siksi laskennallisen tieteen ammattilaisille on kova kysyntä yrityksissä ja muissa organisaatioissa. Esimerkiksi tuotekehitykseen, liiketaloudellisen datan tulkintaan, lääketieteelliseen kuvantamiseen ja erilaisten tekoälypalvelujen rakentamiseen tarvitaan laskennallisen tieteen osaamista. LUTissa ratkot oikeita yrityselämän haasteita ja opit soveltamaan matematiikkaa, tie
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009390>)
-
-### 60/100 — REVIEW — Ohjelmistot ja data-arkkitehtuuri, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Haluatko oppia keräämään, hallitsemaan ja suojaamaan dataa, tekemään data-analyysiä ja varmistamaan, että eri käyttäjät voivat hyödyntää moninaisia datalähteitä tehokkaasti tutkimuksessa, tuote- ja palvelukehityksessä ja kestävässä liiketoiminnassa? Vaasan yliopiston data-arkkitehtuurin opinnot ovat silloin sinua varten. Data-arkkitehti on ohjelmistotekniikan osaaja, joka rakentaa organisaatiorajat ylittäviä tietojärjestelmiä ja tietomalleja. Äly
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006717>)
 
 ### 60/100 — REVIEW — Aineenopettaja, matematiikka, fysiikka, kemia tai tietojenkäsittelytiede, Joensuu, luonnontieteiden kandidaatti ja filosofian maisteri (3 v+ 2 v)
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Haluatko yhdistää kiinnostuksesi matematiikkaan, fysiikkaan tai kemiaan sekä merkityksellisen työn nuorten parissa? Matemaattisten aineiden opettajankoulutus tarjoaa tähän erinomaisen mahdollisuuden. Matematiikan, fysiikan tai kemian aineenopettajankoulutus antaa monipuoliset valmiudet opettajan työhön peruskouluissa, lukioissa, ammattikouluissa sekä korkeakouluissa. Osassa koulutusohjelmista saat myös luokanopettajan kelpoisuuden. Matemaattisten
+Yhteenveto: ­Koulutus antaa laaja-alaisen kelpoisuuden peruskoulun, lukion, ammattioppilaitosten ja aikuiskoulutuksen opettajan tehtäviin. Voit valita pääaineeksesi matematiikan, fysiikan, kemian tai tietojenkäsittelytieteen. Laajat sivuainemahdollisuudet mahdollistavat omien kiinnostuksen kohteiden sisällyttämisen tutkintoon. Koulutuksessa käytämme monipuolisia, ajantasaisia opetusmenetelmiä, ja opetustilamme ovat nykyaikaiset ja viihtyisät. Koulutus tarjoa
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033702>)
-
-### 60/100 — REVIEW — Älykäs liiketoiminta ja palvelut (Tradenomi AMK tai Restonomi AMK)
-
-Laurea-ammattikorkeakoulu
-Espoo
-Yhteenveto: Etkö vielä tiedä, mikä ala olisi juuri sinun juttusi? Ei hätää – sinun ei tarvitse tietää heti Älykkään liiketoiminnan ja palveluiden koulutuksessa pääset ensimmäisen vuoden aikana tutustumaan neljään kiinnostavaan alaan: liiketalouteen, tietojenkäsittelyyn, turvallisuuteen ja riskienhallintaan sekä elämyspalveluiden tuottamiseen ja johtamiseen. Opit esimerkiksi, miten yrityksiä ja palveluita kehitetään tekoäly huomioiden, miten dataa hyödynnetää
-Koulutustyyppi: UAS DEGREE
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043824>)
-
-### 60/100 — REVIEW — Double Degree, Bachelor of Business Administration, Business Information Systems
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029925>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, Business Information Systems, on-campus studies, Lahti
-
-LAB-ammattikorkeakoulu
-Lahti
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039298>)
 
 ### 60/100 — REVIEW — Bachelor of Business Administration, Business Information Technology, Data Center, KAMK
 
 Kajaanin ammattikorkeakoulu
 Kajaani
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
+Yhteenveto: Welcome to One of Europe's Most Unique Data Center Learning Environments Kajaani isn't just a place to study data centers — it's a place to work in a real data center environment. As a Data Center Solutions student at KAMK, you'll have full administrator access to a purpose-built data center dedicated exclusively for student learning. No shared rack space, no simulated environments — real hardware, real infrastructure, real responsibility. Nothin
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fees for non-EU/EEA students.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040558>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, Business Information Technology
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: What competence does the graduate have? BBA’s degree in Business Information Technology offers core competences in Information Technology, Business, and Project Management. During the studies, students achieve knowledge and abilities in ICT environments, service development, programming, databases, networks, communication technologies and information security. Additionally, the degree provides skills for project work, communication, business oper
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009206>)
-
-### 60/100 — REVIEW — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
 
 ### 60/100 — REVIEW — Information and Communication Technology, Bachelor and Master of Science in Technology (3 + 2 years)
 
@@ -8323,394 +8138,86 @@ Turku
 Yhteenveto: Our ICT programme provides you with expert and cutting-edge education on new technologies, drawing on the strengths of a truly multidisciplinary university.  The ICT programme prepares students to use both current and future technologies in a variety of ways as part of multidisciplinary work communities. Graduates with a Bachelor of Science in Technology (B.Sc.(Tech.)) degree have the technical skills and qualifications to become employed as prog
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Free for citizens of EU/EEA countries or Switzerland, for citizens of  non-EU/EEA countries €10,000/academic year for Bachelor's and  €12,000/academic year for Master's.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025047>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, AI-Driven Development, päivätoteutus
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001468>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Industrial Information Technology, on-campus studies, Lahti
-
-LAB-ammattikorkeakoulu
-Lahti
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020305>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, blended learning / Pietarsaari
-
-Centria-ammattikorkeakoulu
-Pietarsaari
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003782>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information and Communications Technology, Software Engineering, full-time
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038153>)
 
 ### 60/100 — REVIEW — Bachelor's Degree in Software Engineering
 
 Tampereen ammattikorkeakoulu
 Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
+Yhteenveto: Future career in a digitalised world Are you aiming for a career in the international field of software engineering? Our Bachelor’s Degree Programme in Software Engineering equips you with strong working-life skills and the confidence to build your own professional path in the global software industry. The demand for software professionals remains consistently high, and ICT specialists play a central role in a highly digitalised and AI-driven soc
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-02-28T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001543>)
-
-### 60/100 — REVIEW — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
 
 ### 60/100 — REVIEW — Datateknik, teknologie kandidat och diplomingenjör (3+2 år), hösten 2027
 
 Åbo Akademi
 Turku
-Yhteenveto: Digitalisaatio ja tekoäly muuttavat maailmaa, ja tietotekniikan opiskelijoille tarjotaan uusinta tietoa ja parhaita työelämävalmiuksia nopeasti muuttuvalta alalta. Tietoliikenne laitteiden ja ihmisten välillä, pelit ja taide, ohjelmistotuotanto, älykkäät ohjelmistot ja robotit, lääketieteen mittaus- ja kuvantamislaitteet, tietoturva, elektroninen kauppa sekä sosiaalinen kanssakäyminen kuuluvat arkeemme ja kehittyvät huimaa vauhtia eteenpäin. Tiet
+Yhteenveto: Inom utbildningsprogrammet i datateknik ligger fokus på att med hjälp av naturvetenskapliga, matematiska, teknologiska och ekonomiska principer lösa problem inom olika delar av samhället och näringslivet. Inom datateknik är angreppssättet tekniskt med fokus på praktisk problemlösning. Du lär dig om både programvara och hårdvara och hur de samspelar med användare och omgivning. Utbildningen baserar sig på en kombination av teori och praktik. Princ
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot, Ulkomainen toisen asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043609>)
-
-### 60/100 — REVIEW — Informaatioteknologia, tekniikan kandidaatti ja diplomi-insinööri (3 v + 2 v)
-
-Aalto-yliopisto
-Espoo
-Yhteenveto: Oletko miettinyt, miten puheohjaus tai radioteknologia toimii, mikä on tekniikka itseohjautuvien autojen takana tai miten internetin viihdeteknologian energiankulutus minimoitaisiin? Informaatioteknologiat mahdollistavat esimerkiksi edellä mainitut ihmisten arkipäivään vaikuttavat sovellukset, älykkäät kodit sekä monet uudet terveysteknologiset ratkaisut. Informaatioteknologian erikoisosaajana olet tulevaisuuden asiantuntija bittejä ja reaalimaai
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008149>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, AI and Digital Infrastructure Engineering, on-campus studies, Lappeenranta 
-
-LAB-ammattikorkeakoulu
-Lappeenranta
-Yhteenveto: The growing use of artificial intelligence, cloud computing, and digital services is increasing the demand for professionals who understand both digital technologies and the infrastructure that supports them. The AI and Digital Infrastructure Engineering programme prepares you to design, build and operate the infrastructure behind tomorrow's digital world. The studies give you a solid foundation in electrical engineering and information technolog
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043358>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Industrial Management, daytime studies
-
-Metropolia Ammattikorkeakoulu
-Espoo
-Yhteenveto: As a graduated engineer you have technological knowledge and understanding of the field of Industrial Managment and core engineering subjects. You will have learned to understand, model, analyze and develop the business functions and operations that are required to produce goods and services, including sales, procurement, logistics and supply chain management as well as the processes and information systems that support the functions. With this e
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037112>)
-
-### 60/100 — REVIEW — Ekonomi, ekonomie kandidat och ekonomie magister (3+2 år), hösten 2027
-
-Åbo Akademi
-Turku
-Yhteenveto: Kauppatieteet alana on monipuolinen kokonaisuus, jonka sisällä on useita eri suuntautumisvaihtoehtoja. Valmistuneet kauppatieteiden kandidaatit ja maisterit työskentelevät monissa erilaisissa tehtävissä ja ammateissa Suomessa sekä ulkomailla. Yliopistojen kauppatieteelliset tutkinnot ovat kauppatieteiden kandidaatin tutkinto (KTK 180 op), kauppatieteiden maisterin tutkinto (KTM 120 op) sekä kauppatieteiden tohtorin tutkinto (KTT). Kandidaatin tut
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043568>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, Software Development in the Age of AI (blended studies), Helsinki, KAMK
-
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026725>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, Sustainable Software Engineering 
-
-Centria-ammattikorkeakoulu
-Pietarsaari
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039097>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, daytime studies / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003781>)
 
 ### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, daytime studies
 
 Metropolia Ammattikorkeakoulu
 Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
+Yhteenveto: As a graduated engineer you have a vast technological knowledge and understanding of the field of Information Technology and core engineering subjects. You have also gained knowledge in mathematics and natural sciences needed in your profession. You are able to communicate both orally and in writing in engineering surroundings and you are also able to work independently and as a member of a team. You have skills to operate in working life and you
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001427>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, full-time
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038152>)
-
-### 60/100 — REVIEW — Bachelor of Engineering, Information Technology
-
-Yrkeshögskolan Arcada
-Helsinki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041181>)
 
 ### 60/100 — REVIEW — Bachelor of Engineering, Information Technology, full-time studies
 
@@ -8778,7 +8285,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036267>)
 
-### 60/100 — REVIEW — Rolling Admission, Software and Systems Engineering, Double Degree, Bachelor of Science in Technology (3 + 2 years)
+### 60/100 — REVIEW — Software and Systems Engineering, Double Degree, Bachelor of Science in Technology (3 + 2 years)
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lahti
@@ -10053,7 +9560,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042064>)
 
-### 60/100 — REVIEW — Rolling Admission, Industrial Engineering and Management, Bachelor of Science in Technology (3 + 2 years)
+### 60/100 — REVIEW — Industrial Engineering and Management, Bachelor of Science in Technology (3 + 2 years)
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lahti
@@ -14195,6 +13702,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038831>)
 
+### 60/100 — REVIEW — Ohjelmistokehittäjä (web-ohjelmointi ja kyberturvallisuus), tieto- ja viestintätekniikan perustutkinto
+
+Taitotalo
+Helsinki
+Yhteenveto: Elektroniikka-asentaja osaa tehdä elektroniikka-asennuksiin liittyviä asennus-, testaus- ja huoltotöitä. Hän osaa käsitellä oikein elektroniikka-asennuksissa tarvittavia komponentteja ja materiaaleja sekä käyttää tarvittavia työ- ja mittavälineitä. Hyvinvointiteknologia-asentaja osaa toimia sosiaali- ja terveysalan toimintaperiaatteiden ja arvojen mukaan. Hän osaa asentaa turvalaite- ja hyvinvointiteknologiajärjestelmiä sekä hyödyntää hyvinvointi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: UNKNOWN — tarkista koulutuksen sivulta
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UNKNOWN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044049>)
+
 ### 55/100 — REVIEW — Tietojenkäsittelytieteen maisteriohjelma, filosofian maisteri (2 v), kevät 2027
 
 Jyväskylän yliopisto
@@ -14521,6 +14050,219 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025979>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, muuntokoulutus
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Liiketalouden tradenomi, laajenna uranäkymiäsi ja opiskele tietojenkäsittelyä ketterästi muuntokoulutuksessa! Liiketalouden tradenomeille suunnatussa muuntokoulutuksessa päivität aiempaa tutkintoasi it-alan opinnoilla. Hyödynnät jo hankitun liiketoimintaosaamisesi osana tutkintoa, joten sinun on mahdollista opiskella tietojenkäsittelyn tradenomiksi 1,5 vuodessa. Meillä opiskelu on asiakaslähtöistä ja käytännönläheistä ja opit ohjaamiemme harjoitu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002213>)
+
+### 55/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), tietojenkäsittely, päivätoteutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Työmarkkinoilla on jatkuva pula ihmisistä, jotka osaavat toteuttaa erilaisia digitaalisia palveluita ja kehittää digitaalista liiketoimintaa. Jyväskylän ammattikorkeakoulun tietojenkäsittelyn tutkinto-ohjelmasta voit valmistua juuri tällaisiksi tulevaisuuden osaajiksi. Tietojenkäsittelystä valmistuneet tradenomit ovat työllistyneet hyvin, esimerkiksi web-sovelluskehittäjiksi ja pilvipalveluiden asiantuntijoiksi. Tämä tutkinto-ohjelma on sinulle, 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038240>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, monimuotototeutus
+
+Laurea-ammattikorkeakoulu
+Vantaa, Espoo
+Yhteenveto: Haluatko olla etulinjassa kehittämässä digitaalisia palveluita? Opiskele digitaalisten palveluiden asiantuntijaksi ja rakenna tulevaisuutesi IT-alalla! Tietojenkäsittelyn koulutusohjelma digitaalisten palveluiden kehittämisessä mahdollistaa monipuoliset työtehtävät liiketalouden ja IT:n rajapinnassa. Opinnoissa sovelletaan alan teknologioita, käytäntöjä ja standardeja palveluliiketoiminnan toimintaympäristössä. Laurean opiskelijalähtöinen opiskel
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000904>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, verkko-opinnot
+
+Laurea-ammattikorkeakoulu
+Vantaa
+Yhteenveto: Haluatko olla etulinjassa kehittämässä digitaalisia palveluita? Opiskele digitaalisten palveluiden asiantuntijaksi ja rakenna tulevaisuutesi IT-alalla! Tietojenkäsittelyn koulutusohjelma digitaalisten palveluiden kehittämisessä mahdollistaa monipuoliset työtehtävät liiketalouden ja IT:n rajapinnassa. Opinnoissa sovelletaan alan teknologioita, käytäntöjä ja standardeja palveluliiketoiminnan toimintaympäristössä. Laurean opiskelijalähtöinen opiskel
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030969>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, kyberturvallisuus, monimuotototeutus
+
+Laurea-ammattikorkeakoulu
+Espoo
+Yhteenveto: Kyberturvallisuuden koulutusohjelma antaa monipuolisen tradenomitutkinnon, jossa kyberturvallisuus yhdistyy liiketalousosaamiseen. Koulutus soveltuu alanvaihtajille, IT-alalla jo työskenteleville ammattilaisille, jotka haluavat syventää kyberturvallisuuteen liittyvää osaamistaan, kuten myös toiselta asteelta korkeakouluopintoihin hakeutuville opiskelijoille. Osaamisperustainen koulutus mahdollistaa aiemmin hankitun osaamisen tunnustamisen ja opin
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000381>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, AI-ratkaisut liiketoiminnassa, verkkototeutus
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Joustavasti 100 % verkossa toteutettava IT-koulutus keskittyy digipalvelujen ja tekoälyn hyödyntämiseen liiketoiminnan ja älykkäiden ratkaisujen kehittämisessä. Saat valmiudet vaikuttaa tulevaisuuden palveluihin. Opinnoissa opit yhdistämään teknisen ja liiketoiminnallisen ajattelun käytännönläheisissä projekteissa, kehität osaamistasi datan hyödyntämisessä, ohjelmistokehityksessä ja AI:n soveltamisessa. Näin voit toimia asiantuntijana ICT-alalla 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039410>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, AI-ratkaisut liiketoiminnassa, verkko-opinnot, Tornio, syksyn 2026 yhteishaku
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Joustavasti 100 % verkossa toteutettava IT-koulutus keskittyy digipalvelujen ja tekoälyn hyödyntämiseen liiketoiminnan ja älykkäiden ratkaisujen kehittämisessä. Saat valmiudet vaikuttaa tulevaisuuden palveluihin. Opinnoissa opit yhdistämään teknisen ja liiketoiminnallisen ajattelun käytännönläheisissä projekteissa, kehität osaamistasi datan hyödyntämisessä, ohjelmistokehityksessä ja AI:n soveltamisessa. Näin voit toimia asiantuntijana ICT-alalla 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000636>)
+
+### 55/100 — REVIEW — Double Degree, Bachelor of Business Administration, Business Information Systems
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Voit hakea tähän Double Degree koulutukseen vain, jos sinut on jo hyväksytty jossakin seuraavista Oulun ammattikorkeakoulun yhteistyöoppilaitoksissa suorittamaan kyseistä koulutusta: Technological University Dublin Hochschule Neu-Ulm. Voit ottaa vastaan samana lukukautena alkavasta koulutuksesta vain yhden korkeakoulututkintoon johtavan opiskelupaikan Suomessa.
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lisätietoa lukuvuosimaksuista ja apurahoista täältä .
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029925>)
+
+### 55/100 — REVIEW — Bachelor of Engineering, Information Technology, blended learning / Pietarsaari
+
+Centria-ammattikorkeakoulu
+Pietarsaari
+Yhteenveto: Check this degree programme on our website ! Centria University of Applied Sciences offers a bachelor’s degree programme in Information Technology. This is perfect for you who want to become a professional software engineer or IT expert. Our studies will prepare you for plenty of interesting work opportunities in the future. The field of information technology is continuously growing and developing, but it is also a creative field where small com
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003782>)
 
 ### 55/100 — REVIEW — Avoin yo: Kansainväliset muuttoliikkeet, liikkuvuus ja rajankäynti lv. 2026-2027
 
@@ -15086,3 +14828,162 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019117>)
+
+### 45/100 — REVIEW — Public Policy Analysis, Social Science Research, Master of Social Sciences (2 yrs)
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: No intake in 2027. Public Policy Analysis teaches students to use economic tools to address broad societal problems. Studies extend economic analysis beyond the traditional focus on market interactions to examine the intended and unintended consequences of policies and to explore how and when individual self-interest among politicians, interest groups etc. help or hinder public interest. Public policy analysis involves understanding institutional
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee. For more information, please see Tuition Fees and Scholarships.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033074>)
+
+### 40/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittelyn tutkinto-ohjelma, päivätoteutus
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Ohjelmoinnin osaajana pääset luomaan uutta Onko sinulla pelisilmää, innostaako ICT? Tietojenkäsittelyn tutkinto-ohjelmasta valmistut tradenomiksi monipuolisiin ohjelmointi- ja tietojenkäsittelytehtäviin. Ensimmäinen opiskeluvuosi on kaikille opiskelijoille yhteinen. Toisesta vuodesta lähtien voit suuntautua opinnoissasi joko ohjelmistotuotantoon, pelituotantoon tai ICT-yrittäjyyteen. Ohjelmistotuotannon suuntautumisessa voit toteuttaa erilaisia o
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-22T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002955>)
+
+### 40/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittely, Peliala, päivätoteutus, Raahe
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Unelmoitko urasta pelituottajana, peligraafikkona tai peliohjelmoijana? Pelialan opinnoissa voit opiskella unelmiesi ammattia varten innostuneiden, samanhenkisten ja hyvien tyyppien kanssa, huippuympäristöä unohtamatta. Pelialan koulutuksen johtoajatus on oikeissa peliprojekteissa työskenteleminen ja tekemisen kautta oppiminen. Opinnoista suuri osa toteutetaankin erilaisina projekteina, joiden kautta saavutat syvällisen ja käytännönläheisen ymmär
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007072>)
+
+### 40/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, kevään 2026 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Digitaalinen osaaminen on nyt avaintaito työelämässä! Jyväskylän ammattikorkeakoulun tietojenkäsittelyn tutkinto-ohjelmassa opit suunnittelemaan ja kehittämään digitaalisia palveluja, joissa yhdistyvät älykkäät teknologiat ja liiketoiminta. Tekoälyn muuttaessa ohjelmistokehityksen luonnetta korostuu työssä luova ongelmanratkaisu, käyttäjälähtöinen ajattelu ja kyky soveltaa uusia työkaluja – nämä ovat juuri niitä taitoja, joita koulutuksessa kehit
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031799>)
+
+### 40/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), Business Information Technology, Game Production, englanninkielinen päivätoteutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Opiskele tietojenkäsittelyn tradenomiksi pelikehitykseen erikoistuen! Saat kansainvälisen pätevyyden - opinnot ovat englanniksi. Jamkin Pelituotanto-koulutuksessa opiskelet pelinkehityksen keskeisiä osa-alueita. Jamk Game Production (GP) on yksi harvoista ammattikorkeakoulujen kandidaatin tason ohjelmista, joka on tarkoitettu yksinomaan videopelien kehittämiseen ja tuotantoon. Opinnoissa painopiste seuraa tarkkaan pelialan yritysten tarpeita. Yri
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038220>)
+
+### 40/100 — REVIEW — Bachelor of Engineering, Industrial Management, daytime studies
+
+Metropolia Ammattikorkeakoulu
+Espoo
+Yhteenveto: As a graduated engineer you have technological knowledge and understanding of the field of Industrial Managment and core engineering subjects. You will have learned to understand, model, analyze and develop the business functions and operations that are required to produce goods and services, including sales, procurement, logistics and supply chain management as well as the processes and information systems that support the functions. With this e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: Annual tuition fee is €11.000 Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037112>)
+
+### 40/100 — REVIEW — Bachelor of Engineering, Information Technology, daytime studies / Kokkola
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: The field of Information Technology is continuously growing and developing, but it is also a creative field where small companies and even individual entrepreneurs can develop successful products and services. In our region, there are plenty of exciting career opportunities for IT experts. Our education gives you the readiness to work in different software engineering or IT-related tasks and positions. Your future occupational title could be, for
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003781>)
