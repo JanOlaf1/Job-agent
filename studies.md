@@ -3891,6 +3891,458 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038077>)
 
+### 85/100 — STRONG — Liiketoiminnan perustutkinto, Mikkeli tai Pieksämäki
+
+Etelä-Savon ammattiopisto
+Pieksämäki, Mikkeli
+Yhteenveto: Merkonomi lähiopintoina Liiketoiminnan osaajia tarvitaan työelämässä kaikilla eri aloilla. Perustutkinnon suorittaminen mahdollistaa monipuolisesti yrityksen tai muun organisaation työtehtävissä toimimisen. Bisnes ja asiakaspalvelu kiinnostavat sinua sekä taustat yrityksen raha-asioiden takana. Ymmärrät myös asiakaspalvelun ja myynnin periaatteet ja tiedät kuinka rahan saa liikkumaan. Merkonomina sinulla on asiakaslähtöistä liiketoimintaosaamista
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Opiskelija maksaa itse opiskeluvälinekustannukset noin 100 €. Oppivelvolliselta näitä maksuja ei peritä. Opetus on maksuton Suomen sekä EU:n tai ETA-alueen jäsenmaan kansalaisille. Lukuvuosimaksut otetaan Suomessa käyttöön 1.8.2026 alkaen ammatillisessa koulutuksessa opiskelijoille, jotka tulevat EU
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2026-11-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039985>)
+
+### 85/100 — STRONG — Liiketoiminnan perustutkinto, merkonomi | oppisopimus
+
+Riveria
+Joensuu
+Yhteenveto: Onko sinulla työpaikka ja haluat vahvistaa liiketoimintaosaamistasi ja kehittää ammattitaitoasi nykyisessä työssäsi tai laajentaa osaamistasi uusiin tehtäviin? Merkonomin tutkinnon suorittaminen tekee osaamisesi ja ammattitaitosi näkyväksi. Oppisopimuskoulutus tarjoaa mahdollisuuden suorittaa tutkinto joustavasti työn työtä tehden omalla työpaikallasi elämäntilanteesi huomioiden. Oppisopimusta varten sinulla tulee olla soveltuva työpaikka sekä ni
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037450>)
+
+### 85/100 — STRONG — Liiketoiminnan perustutkinto - JATKUVA HAKU
+
+Valkeakosken ammattiopisto
+Valkeakoski
+Yhteenveto: Merkonomina ja liiketoiminnan monitaiturina voit työskennellä monipuolisissa myynnin ja markkinoinnin, taloushallinnon tai kirjastoalan tehtävissä. Sinulla on rohkeutta ja aktiivisuutta työskennellä asiakkaiden parissa, ja seuraat mitä maailmalla tapahtuu. Sinulle suunnitellaan oma opiskelupolku, johon valitset opintojesi painopisteen. Opinnoissasi kehität osaamistasi monipuolisesti mm. asiakaspalvelussa, viestinnässä, digitaalisten työkalujen kä
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Opetus on maksutonta. 1.8.2026 alkaen EU- ja ETA-maiden ulkopuolta tuleville opiskelijoille maksullista. Lisätietoja Lukuvuosimaksu EU/ETA-maiden ulkopuolelta tuleville - Valkeakosken ammattiopisto - VAAO
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037793>)
+
+### 85/100 — STRONG — Liiketoiminnan perustutkinto, jatkuva haku
+
+Sasky Huittisten ja Kokemäen oppilaitos
+Huittinen
+Yhteenveto: Haku, koulutus- ja hakuajankohdat sekä lisätiedot nettisivuilta lähiopetuksesta ja verkko-opetuksesta . Tutkinnon suorittajalla on asiakaslähtöistä liiketoimintaosaamista, viestintä- ja vuorovaikutusosaamista, kielitaitoa sekä talouden hallinnan osaamista. Hän toimii erilaisissa digitaalisissa ympäristöissä ja verkostoituu ammatillisesti. Hänellä on perusvalmiudet yrittäjyyteen ja valmiudet kehittyä lähiesimiestehtäviin. Tutkinnon suorittaneella 
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 10400.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu koskee vain EU- ja ETA-alueen ulkopuolelta tulevia opiskelijoita (ns. kolmansien maiden kansalaiset). Lukuvuosimaksu määräytyy kansalaisuuden lisäksi oleskeluluvan perusteella.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043430>)
+
+### 85/100 — STRONG — Tradenomi (AMK), markkinointi ja myynti, monimuotototeutus, Salo
+
+Turun ammattikorkeakoulu
+Salo
+Yhteenveto: Koulutuksen tavoite Koulutus on suunnattu useamman vuoden työkokemuksen omaaville, jotka haluavat kehittyä työssään tai etsivät uusia uramahdollisuuksia. Koulutuksen tavoitteena on valmentaa monipuolisia liiketoimintaosaajia ja työelämän kehittäjiä. Liiketalouden tradenomit sijoittuvat erilaisiin liiketalouden asiantuntija-, kehittämis-, johto- ja esimiestehtäviin sekä yrittäjiksi. Koulutuksessa korostuvat sekä liiketoiminnan perusteiden hallinta
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031208>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous Porvoo
+
+Haaga-Helia ammattikorkeakoulu
+Porvoo
+Yhteenveto: Porvoon kampuksen opiskelijana työskentelet inspiroivassa ja ainutlaatuisessa ympäristössä, jossa totut haastamaan itsesi, työskentelemään eri rooleissa ja kohtaamaan ihmisiä. Opiskelu perustuu tutkivaan ja kehittävään oppimiseen, jonka myötä opit kuuntelemaan ja ymmärtämään asiakkaan tarpeita, tunnistamaan mahdollisuuksia sekä etsimään ratkaisuja yhdessä asiakkaiden ja työelämän kanssa. Liiketalouden päivätoteutuksessa opetus järjestetään arkisi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011277>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous Helsinki
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helian laaja ja monipuolinen koulutustarjonta mahdollistaa opintojesi joustavan ja yksilöllisen suunnittelun sekä erilaiset opiskelutavat. Opiskelet liiketalouden osa-alueita käytännönläheisesti ja pääset osallistumaan aitoihin yritysprojekteihin. Haaga-Heliasta valmistuneet tradenomit työllistyvät hyvin ja ovat arvostettuja ammattilaisia asiantuntija-, kehittämis- ja esihenkilötehtävissä. Päivätoteutuksen suuntautumisvaihtoehdot ovat: · HR
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011276>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, monimuotototeutus, Kouvola
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Huomaathan, että kaikki erikoistumiset eivät välttämättä ala vuosittain, ellei niihin ilmoittaudu riittävästi opiskelijoita. Tradenomikoulutus avaa sinulle ovia monipuolisiin asiantuntija-, kehittämis- ja esihenkilötehtäviin yrityksissä ja julkisissa organis
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000495>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, monimuotototeutus, Mikkeli
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Kiinnostaako sinua työ liike-elämässä? Tähtäätkö liiketoiminnan asiantuntijaksi tai esimiestehtäviin? Onko suunnitelmissasi oma startup? Tradenomi (AMK) -koulutuksessa saat tietoja ja taitoja näihin tehtäviin. Opit, miten yritys toimii kannattavasti ja tuloksellisesti. Osaat myydä ja markkinoida. Osaat myös johtaa projekteja ja ihmisiä sekä tiedät, miten toimintaa kehitetään. Monimuotototeutuksessa vuorottelevat verkkotapaamiset ja Mikkelin kampu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001956>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Liiketalous, monimuotototeutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtoteht
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003453>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, verkkototeutus, Mikkeli
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Tr
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001982>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, erillisvalinnat
+
+Laurea-ammattikorkeakoulu
+Espoo, Vantaa, Hyvinkää, Lohja
+Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001679>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, verkkototeutus
+
+Savonia-ammattikorkeakoulu
+Kuopio
+Yhteenveto: Liiketalouden monipuolinen toimintakenttä haltuun – verkossa opiskellen Tradenomiopinnot ovat monipuoliset ja käytännönläheiset. Koulutuksesta saat laajan osaamisen liiketalouden alalle. Verkkototeutuksessa voit suuntautua esihenkilötyöhön, digitaaliseen liiketoimintaan tai talousosaamiseen. Opinnot toteutetaan kokonaan verkossa. Opiskelu onnistuu mainiosti asuinpaikasta riippumatta, ja opinnot voi suorittaa työn ohessa. Tutkinto-ohjelman toteutt
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-02-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003458>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, verkko-opinnot
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Metropolia Ammattikorkeakoulun liiketalouden verkko-opinnoissa opiskelet koko tradenomitutkinnon verkossa. Opiskeluaika on 3,5 vuotta, mutta koulutustaustasta, työkokemuksesta ja elämäntilanteesta riippuen opinnot voi suorittaa nopeammassakin aikataulussa. Verkko-opintojen edistymistä tukee itsenäinen vastuun ottaminen opintojen suunnittelusta ja etenemisestä sekä kiinnostus hakea ja tutkia tietoa sekä yhdistää ja soveltaa sitä erilaisissa harjoi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021461>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Liiketalous, verkkopainotteinen monimuotototeutus
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: SEAMKin liiketalouden tradenomikoulutuksen tavoitteena on, että opiskelijasta kehittyy monipuolinen liiketoiminnan osaaja, jolla on työelämän vaatimuksia vastaavat tiedot, taidot ja asenteet. Tutkinto antaa laaja-alaiset valmiudet liiketalouden tehtäviin sekä opiskelijan valitseman osaamisalueen mukaista erityisosaamista. Tutkinnon suoritettuaan opiskelijalla on myös hyvät viestintä- ja vuorovaikutustaidot sekä liiketalouden asiantuntija-, johto-
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-12-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003354>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: SEAMKin liiketalouden tradenomikoulutuksen tavoitteena on, että opiskelijasta kehittyy monipuolinen liiketoiminnan osaaja, jolla on työelämän vaatimuksia vastaavat tiedot, taidot ja asenteet. Tutkinto antaa laaja-alaiset valmiudet liiketalouden tehtäviin sekä opiskelijan valitseman osaamisalueen mukaista erityisosaamista. Tutkinnon suoritettuaan opiskelijalla on myös hyvät viestintä- ja vuorovaikutustaidot sekä liiketalouden asiantuntija-, johto-
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003015>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, monimuoto-opinnot
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Metropolia Ammattikorkeakoulun liiketalouden monimuoto-opinnoissa opiskelet 2-4 arki-iltana klo 17 alkaen joko Myllypuron kampuksella tai online. Lue lisää opiskelukäytänteistä! Opiskeluaika on 3,5 vuotta, mutta koulutustaustasta, työkokemuksesta ja elämäntilanteesta riippuen opinnot voi suorittaa nopeammassakin aikataulussa. Metropolian tradenomin vahvuuksia ovat laaja-alainen osaaminen yritystoiminnasta, näkemys liiketoiminnan kokonaisuudesta s
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000628>)
+
+### 85/100 — STRONG — Työyhteisön kehittämisen johtaminen, jatkuva haku
+
+Keuda
+Järvenpää
+Yhteenveto: Työyhteisöä kehittämällä menestykseen! Johtaja, kaipaatko lisää ymmärrystä ja työkaluja, jotta saisit työyhteisösi toimimaan entistä paremmin ja että toimintakulttuurinne tukisi organisaation strategian toteutumista? Tässä itsenäisessä verkko-opiskelussa syvennyt hyvän työyhteisön elementteihin ja sen pohjalta analysoit oman työyhteisösi nykytilaa ja sen kehittämistarpeita. Käsiteltäviä teemoja ovat mm. muuttuva ja monimuotoinen työelämä, toimint
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lukuvuosimaksuvelvollisuus määräytyy oleskeluluvan perusteella. Osana hakeutumisprosessia, tarkistamme oleskelulupasi perusteen Maahanmuuttovirastolta. Lisätietoa: Lukuvuos
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040479>)
+
+### 85/100 — STRONG — Projektin johtaminen, jatkuva haku
+
+Keuda
+Järvenpää
+Yhteenveto: Opiskele verkossa sinulle parhaaksi katsomallasi ajalla! Koulutuksessa suunnittelet, toteutat ja johdat johtamiseen liittyvän projektin sekä arvioit projektin toteutumista. Verkkokoulutuksessa pääset syventämään osaamistasi projektin johtamiseen monipuolisten materiaalien kautta. Lopuksi teet ammattitaitovaatimusten mukaisesti näytön, joka käydään läpi yhdessä työpaikkaohjaajasi kanssa arviointikeskustelussa. Koulutukseen hakeutuminen tapahtuu Ke
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lukuvuosimaksuvelvollisuus määräytyy oleskeluluvan perusteella. Osana hakeutumisprosessia, tarkistamme oleskelulupasi perusteen Maahanmuuttovirastolta. Lisätietoa: Lukuvuos
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040530>)
+
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
 Metropolia Ammattikorkeakoulu
@@ -5793,6 +6245,144 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035383>)
 
+### 75/100 — STRONG — Tradenomi (AMK), Liiketalouden tutkinto-ohjelma, Markkinointi- ja myyntiosaaminen, monimuotototeutus
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Markkinoinnin ja B2B-myynnin osaajaksi Työelämä tarvitsee innovatiivisia markkinoinnin ja myynnin osaajia, jotka hallitsevat alan uusimmat työkalut ja toimintatavat. Markkinointi- ja myyntiosaamisen tradenomina sinulla on laaja ja ajantasainen liiketalouden perusosaaminen sekä markkinoinnin ja myynnin erityisosaamista. Markkinointi- ja myyntiosaamiseen suuntautuneena tradenomina sinulla on ajantasainen perusosaaminen liiketaloudesta sekä erityiso
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003189>)
+
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Koulutuksemme antaa sinulle kattavat tiedot ja hyvät valmiudet urallesi monipuolisissa liiketalouden tehtävissä. Opiskelijat työskentelevät usein tiimeissä, joissa pääset kehittämään omia vuorovaikutus- ja yhteistyötaitojasi. Saat myös vahvat valmiudet tiedon hallintaan ja analysointiin. Oamkin liiketalouden opinnoissa voit valita tutkintoosi sinua kiinnostavia opintokokonaisuuksia: •    HR-asiantuntijana toimiminen •    esihenkilöosaaminen •    
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003851>)
+
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous, monimuotototeutus
+
+Laurea-ammattikorkeakoulu
+Espoo, Lohja
+Yhteenveto: Haluatko rakentaa uran liiketoiminnan asiantuntija- ja kehittämistehtävissä? Liiketalouden tradenomikoulutuksessa hankit osaamista, jota tarvitaan yrityksissä ja organisaatioissa eri toimialoilla. Opinnoissa yhdistyvät liiketoiminnan perusteet, asiakaslähtöinen ajattelu ja käytännön kehittämistyö. Koulutus antaa valmiudet toimia muuttuvassa työelämässä, jossa korostuvat yhteistyö, ongelmanratkaisu ja kyky kehittää toimintaa yhdessä muiden kanssa.
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001156>)
+
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous, verkko-opinnot
+
+Laurea-ammattikorkeakoulu
+Vantaa
+Yhteenveto: Haluatko rakentaa uran liiketoiminnan asiantuntija- ja kehittämistehtävissä? Liiketalouden tradenomikoulutuksessa hankit osaamista, jota tarvitaan yrityksissä ja organisaatioissa eri toimialoilla. Opinnoissa yhdistyvät liiketoiminnan perusteet, asiakaslähtöinen ajattelu ja käytännön kehittämistyö. Koulutus antaa valmiudet toimia muuttuvassa työelämässä, jossa korostuvat yhteistyö, ongelmanratkaisu ja kyky kehittää toimintaa yhdessä muiden kanssa.
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000573>)
+
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous, verkkopainotteinen monimuotototeutus / Kokkola
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Trandenomiopintojen monimuotototeutus painottuu digitaaliseen liiketoimintaan. Pääset syventymään taitoihin ja osaamiseen, joita tarvitaan yritysten ja organisaatioiden liiketoiminnan kehittämiseen muuttuvassa, yhä digitaalisemmassa toimintaympäristössä. Koulutus onkin tarkoitettu sinulle, joka haluat vahvistaa osaamistasi etenkin digitaalisen liiketoiminnan osa-alueella. Koulutuksesta valmistuneet tradenomit työskentelevät esimerkiksi liiketoimi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003936>)
+
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous (muuntokoulutus IT-insinööristä), verkkopainotteinen monimuotototeutus
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Muuntokoulutuksen kautta saat liiketalouden ydinosaamisen  johtamisesta, markkinoinnista, taloushallinnosta ja yritystoiminnasta ja perehdyt organisaatioiden ja yritysten liiketoiminnan kehittämiseen. Koulutus johtaa tradenomitutkintoon. Muuntokoulutus vahvistaa insinöörikoulutuksessa hankittua teknistä tietoperustaa luomalla kokonaisvaltaista näkemystä siitä, miten liiketoiminnasta saadaan tehokasta ja kannattavaa. Samalla voit päivittää osaamis
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035553>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -7305,6 +7895,189 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033701>)
+
+### 70/100 — STRONG — Liiketoiminnan perustutkinto (Jatkuva haku 2026)
+
+Järviseudun ammatti-instituutti
+Alavus, Alajärvi, Kauhava
+Yhteenveto: Haku auki Alajärvelle, Alavudelle ja Kauhavalle! Tutkinnon suorittajalla on asiakaslähtöistä liiketoimintaosaamista, viestintä- ja vuorovaikutusosaamista, kielitaitoa sekä talouden hallinnan osaamista. Hän toimii erilaisissa digitaalisissa ympäristöissä ja verkostoituu ammatillisesti. Hänellä on perusvalmiudet yrittäjyyteen ja valmiudet kehittyä lähiesimiestehtäviin. Tutkinnon suorittaneella on valmiudet uusien tuotteiden ja palveluiden sekä asia
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036757>)
+
+### 70/100 — STRONG — Liiketoiminnan perustutkinto PÄIVÄ-toteutus, jatkuva haku 
+
+Luksia
+Lohja, Vihti
+Yhteenveto: Haluatko päästä mukaan liiketoiminnan jännittävään maailmaan? Kiinnostaako sinua myynti, markkinointiviestintä tai taloushallinto? Liiketoiminnan perustutkinto on juuri sinua varten! Liiketoiminnan perustutkinto tarjoaa sinulle kattavan koulutuksen liiketoiminnan eri osa-alueilla. Päiväopinnoissa opiskelet viisi päivää viikossa, mikä takaa sinulle jatkuvan ja syvällisen oppimiskokemuksen. Pääset syventymään myyntiin, markkinointiviestintään tai t
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2026
+Hinta: Maksuton ; Koulutus on maksutonta niille opiskelijoille, jotka kuuluvat laajennetun oppivelvollisuuden piiriin. 1.8.2026 alkaen EU- ja ETA-alueen ulkopuolelta tulevilta opiskelijoilta peritään lukuvuosimaksu. Lukuvuosimaksun suuruus vahvistetaan myöhemmin. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskel
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037691>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Tradenomit sijoittuvat yrityksissä ja julkishallinnon organisaatioissa kotimaisiin ja kansainvälisiin asiantuntijatehtäviin, joissa vaa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002130>)
+
+### 70/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus, Kouvola
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Saat opinnoissa valmiudet työskennellä liiketoiminnan asiantuntijana, kehittäjänä, esihenkilönä tai yrittäjänä. Xamkissa voit erikoist
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001955>)
+
+### 70/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus
+
+Savonia-ammattikorkeakoulu
+Kuopio
+Yhteenveto: Liiketalouden monipuolinen toimintakenttä haltuun! Tradenomi on käytännönläheinen ja monipuolinen liiketalouden asiantuntija ja osaaja. Tradenomina työllistyt monipuolisiin asiatuntija- ja kehittämistehtäviin erilaisiin organisaatioihin, kuten palvelu- ja teollisuuden alan yrityksiin tai julkiselle sektorille. Koulutus antaa hyvät valmiudet myös yrittäjänä tai esihenkilönä toimimiseen. Tradenomeja tarvitaan nyt ja jatkossa!
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003411>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus, Pori
+
+Satakunnan ammattikorkeakoulu
+Pori
+Yhteenveto: Onko haaveenasi olla liike-elämän digiosaaja? Haluatko perustaa oman yrityksen tai verkkokaupan jo opiskeluaikana? Vai onko tavoitteenasi kehittyä taloushallinnon rautaiseksi ammattilaiseksi, jolla on monipuolista järjestelmäosaamista? Tule SAMK-kampukselle Poriin opiskelemaan liiketaloutta ja löydä oma tiesi tradenomiksi! Miksi opiskella SAMKissa: Käytännönläheinen opetus auttaa verkostoitumaan alueen yritysten kanssa Ajantasaiset opetussisällöt
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003152>)
+
+### 70/100 — STRONG — Insinööri (AMK), tuotantotalous, päiväopinnot
+
+Metropolia Ammattikorkeakoulu
+Espoo
+Yhteenveto: Tuotantotalouden insinöörin tekniikan tuntemus yhdistyy yritystaloudelliseen osaamiseen. Sinusta tulee yritystoiminnan kehittäjä. Ratkaiset ongelmia ja rakennat verkostoja. Tavoitteenasi on tuottavuuden ja tehokkuuden parantaminen tai uuden liiketoiminnan kehittäminen. Sinun osaamisellasi on kysyntää sekä yrityksissä että julkishallinnossa. Tekniikka ja yritystalous yhdistyvät hyvin opinnoissa, ja opit esimerkiksi: miten yritysten toimintaa kehit
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002252>)
+
+### 70/100 — STRONG — Valmentava johtaminen / 18.2.2027 PomoPRO
+
+Hyria koulutus Oy
+Hyvinkää
+Yhteenveto: Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)?
+Koulutustyyppi: amm-muu
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-02-03T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040839>)
 
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
@@ -9760,138 +10533,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043158>)
 
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, yhteishaku
-
-Keuda
-Sipoo
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033865>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, jatkuva haku
-
-Keuda
-Järvenpää, Kerava, Sipoo, Nurmijärvi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041327>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto (Jatkuva haku 2026)
-
-Järviseudun ammatti-instituutti
-Alavus, Alajärvi, Kauhava
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036757>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto S2-tuettu (jatkuva haku)
-
-Luksia
-Kirkkonummi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043194>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, yhteishaku 
-
-Keuda
-Nurmijärvi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033867>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, merkonomi yrittäjyyspainoteinen | Nurmes | jatkuva haku
-
-Riveria
-Nurmes
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037441>)
-
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto
 
 Saimaan ammattiopisto Sampo
@@ -9914,1015 +10555,267 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034479>)
 
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Mikkeli tai Pieksämäki
-
-Etelä-Savon ammattiopisto
-Pieksämäki, Mikkeli
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039985>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, verkko-opinnot
-
-Etelä-Savon ammattiopisto
-Pieksämäki, Mikkeli
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039989>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, merkonomi | Kitee | jatkuva haku
-
-Riveria
-Kitee
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037442>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, merkonomi | oppisopimus
-
-Riveria
-Joensuu
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037450>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, merkonomi, yhteishaku
-
-Perho Liiketalousopisto
-Helsinki
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042809>)
-
-### 60/100 — REVIEW — Merkonomi, liiketoiminnan perustutkinto, yhteishaku
-
-Perho Liiketalousopisto
-Helsinki
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034817>)
-
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto 
 
 Luksia
 Lohja, Vihti
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Haluatko päästä mukaan liiketoiminnan jännittävään maailmaan? Kiinnostaako sinua myynti, markkinointiviestintä tai taloushallinto? Liiketoiminnan perustutkinto on juuri sinua varten! Liiketoiminnan perustutkinto tarjoaa sinulle kattavan koulutuksen liiketoiminnan eri osa-alueilla. Päiväopinnoissa opiskelet viisi päivää viikossa, mikä takaa sinulle jatkuvan ja syvällisen oppimiskokemuksen. Pääset syventymään myyntiin, markkinointiviestintään sekä 
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Koulutus on maksutonta. Muille kuin oppivelvollisille voi aiheutua kustannuksia oppimateriaaleista. Lisäksi EU- ja ETA-alueen ulkopuolelta tulevilta opiskelijoilta tarkistetaan lukuvuosimaksuvelvoite Maahanmuuttovirastosta (Migri). Lisätietoja lukuvuosimaksuista: Lukuvuosimaksut kansainvälisille opi
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033706>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto PÄIVÄ-toteutus, jatkuva haku 
-
-Luksia
-Lohja, Vihti
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037691>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Yhteishaku 2027
-
-Ammattiopisto Tavastia
-Hämeenlinna
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034273>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Jatkuva haku 2026
 
 Ammattiopisto Tavastia
 Hämeenlinna
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Merkonomi, päiväopinnot Oletko kiinnostunut bisnesmaailmasta ja taloudesta? Merkonomin koulutus sopii sinulle, jos pidät työskentelystä ihmisten kanssa. Opiskelet mm. asiakaspalveluosaamista, liiketoimintaa, yrittäjyyttä, taloushallintoa, työelämätaitoja, bisnesalan matematiikkaa ja kieliopintoja. Voit valita opintoihisi esimerkiksi myyntiä, markkinointiviestintää, tapahtumatuotantoa ja mediaosaamista. Merkonomina voit työskennellä kaupan ja palv
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia voi tulla oppimateriaaleista, oppikirjoista ja tietokoneesta. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville opiskelijoille maksullisia. Lue lisää lukuvuosimaksusta Tavastian sivuilta .
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-05-09T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035636>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, iltamonimuoto Novida - Lieto, jatkuva haku syksy 2026
-
-Novida - Ammattiopisto ja lukio
-Lieto
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043191>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - JATKUVA HAKU
-
-Valkeakosken ammattiopisto
-Valkeakoski
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037793>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - YHTEISHAKU
-
-Valkeakosken ammattiopisto
-Valkeakoski
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033616>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Yhteishaku
 
 Salon seudun ammattiopisto
 Salo
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Liiketoiminnan perustutkinto tarjoaa monipuolisia mahdollisuuksia tulevaisuuden merkonomeille Kiinnostaako kaupan ala, kirjanpito ja taloushallinto, myyntityö, markkinointi tai asiakaspalvelu? Liiketoiminnan perustutkinnon suorittaneella merkonomilla on monipuoliset liiketoiminnan perustaidot. Koulutuksen myötä kehität yhteistyö- ja kommunikaatiotaitoja, kielitaitoa, tietoteknistä osaamista, myyntitaitoja sekä talouden ja kannattavuuden ymmärryst
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Opetus on maksutonta. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-alueen sekä Sveitsin ulkopuolelta tuleville opiskelijoille maksullisia. Tarkista lukuvuosimaksu muille kuin EU- ja ETA-alueen kansalaisille: https://sskky.fi/hakijalle/lukuvuosimaksut/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033892>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Virrat - YHTEISHAKU 2027
-
-Tampereen seudun ammattiopisto Tredu
-Virrat
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042008>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Santalahdentie Tampere - YHTEISHAKU 2027
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042007>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto
 
 Sasky Tampereen palvelualan ammattiopisto
 Tampere
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Merkonomi on liiketoiminnan moniosaaja ja taloushallinnon ammattilainen ja merkonomeja löytyykin kaikilta työelämän aloilta. Merkonomilla on asiakaslähtöistä liiketalouden osaamista, kielitaitoa sekä hyvät yhteistyö- ja viestintätaidot. Liiketoiminnan perustutkinto antaa myös osaamista toimia digitaalisissa ympäristöissä ja valmiudet kehittyä lähiesihenkilötehtäviin. ALALLA TARVITTAVIA OMINAISUUKSIA: • asiakaspalvelu- ja yhteistyötaidot • myyntih
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10400.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu koskee EU- ja ETA-​alueen ulkopuolelta tulevia opiskelijoita (ns. kolmansien maiden kansalaiset). Lukuvuosimaksu määräytyy kansalaisuuden lisäksi oleskeluluvan perusteella.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041670>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Orivesi JATKUVA HAKU 
-
-Tampereen seudun ammattiopisto Tredu
-Orivesi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037833>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto verkossa ja monimuoto-opintoina, JATKUVA HAKU
-
-Luksia
-Lohja, Vihti
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036647>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Kangasala - YHTEISHAKU 2027
 
 Tampereen seudun ammattiopisto Tredu
 Kangasala
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Liiketoiminnan perustutkinto (180 osp) antaa laaja-alaisen ja vankan liiketaloudellisen perusosaamisen. Tutkinnon suorittaneella on asiakaslähtöistä liiketoiminta- ja talouden hallinnan osaamista, viestintä- ja vuorovaikutusosaamista sekä kielitaitoa. Liiketoiminnan perustutkinnon tutkintonimike on merkonomi. Merkonomilla on monipuolinen ammattitaito toimia liiketaloudellista osaamista vaativissa työtehtävissä niin yksityisen kuin julkisen sektor
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041999>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Pallotie Ylöjärvi - YHTEISHAKU 2027
-
-Tampereen seudun ammattiopisto Tredu
-Ylöjärvi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042003>)
-
-### 60/100 — REVIEW — Merkonomi, liiketoiminnan perustutkinto, jatkuva haku
-
-Perho Liiketalousopisto
-Helsinki
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039302>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Sammonkatu Tampere - YHTEISHAKU 2027
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042005>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto
-
-Lapin koulutuskeskus REDU
-Rovaniemi, Kittilä, Kemijärvi, Sodankylä
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033917>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Lempäälä - YHTEISHAKU 2027
 
 Tampereen seudun ammattiopisto Tredu
 Lempäälä
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Liiketoiminnan perustutkinto antaa valmiudet toimia liiketaloudellista osaamista vaativissa tehtävissä. Tutkintonimikkeenä on merkonomi. Liiketoiminta-alan työ on monipuolista asiakaspalvelu- ja myyntityötä. Liiketoiminnan ammateissa vaadittavia ominaisuuksia ovat viestintä- ja vuorovaikutusosaaminen, asiakaslähtöinen liiketoimintaosaaminen, kielitaito, kykyä toimia erilaisissa digitaalisissa ympäristöissä ja verkostoitua ammatillisesti. Tredun L
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042000>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto
 
-Ammattiopisto Lappia
-Tornio
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042949>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, jatkuva haku
-
-Sasky Huittisten ja Kokemäen oppilaitos
-Huittinen
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043430>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Nokia - YHTEISHAKU 2027
-
-Tampereen seudun ammattiopisto Tredu
-Nokia
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042001>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto
-
 Careeria
 Porvoo, Vantaa
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Avaa ovi liiketoiminnan maailmaan ja monipuolisiin työmahdollisuuksiin — opiskele merkonomiksi! Houkutteleeko tulevaisuus liiketoiminnan kiehtovien ja haastavienkin tehtävien parissa? Jos vastasit kyllä, on liiketoiminnan perustutkinto loistava valinta. Merkonomikoulutus tarjoaa sinulle monipuolisen näkymän liike-elämään ja avaa ovet lukuisiin mahdollisuuksiin. Miksi juuri merkonomiksi? Tässä viisi syytä, miksi tämä voi olla oikea valinta sinulle
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Jos aloitat opinnot 1.8.2026 jälkeen ja olet EU- ja ETA-alueen ulkopuolisen maan kansalainen , saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Suomessa jo asuvien henkilöiden kohdalla ratkaisevaa on oleskeluluvan peruste. Ensimmäisen lukuvuoden maksu on maksettava kokonaisuudes
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034019>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Sammonkatu Tampere JATKUVA HAKU 
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037780>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Yhteishaku 2027
-
-Vamia
-Vaasa
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034308>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - jatkuva haku 
-
-Suomen Yrittäjäopisto
-Kauhava
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043613>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, yhteishaku 2027
-
-Mercuria kauppaoppilaitos
-Vantaa
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041854>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto
-
-Mercuria kauppaoppilaitos
-Vantaa
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033879>)
 
 ### 60/100 — REVIEW — Ekami, Liiketoiminnan perustutkinto - Yhteishaku 2027
 
 Etelä-Kymenlaakson ammattiopisto
 Kotka
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Liiketoiminnan perustutkinto - Merkonomi Liiketoiminnan ala sopii sinulle, jos olet kiinnostunut asiakaspalvelusta, myynnistä, markkinoinnista, tapahtumien järjestämisestä tai yritysten toiminnasta. Merkonomin opinnoissa opit työelämässä tarvittavia taitoja, kuten asiakaspalvelua, viestintää, myyntiä, markkinointia, taloushallinnon perusteita sekä projektien suunnittelua ja toteuttamista. Opintojen aikana pääset kehittämään osaamistasi käytännön 
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; EU- ja ETA-maiden ulkopuolisilta opiskelijoilta voidaan periä lukuvuosimaksu. Maksuvelvollisuus tarkistetaan hakemuksen käsittelyn yhteydessä ja hakijalle ilmoitetaan mahdollisesta lukuvuosimaksusta.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041851>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, yhteishaku 
-
-Keuda
-Kerava
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033866>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Ylöjärvi JATKUVA HAKU
-
-Tampereen seudun ammattiopisto Tredu
-Ylöjärvi
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037774>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto, Kankaanpää ja Ulvila, yhteishaku
 
 Sataedu
 Kankaanpää, Ulvila
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Liiketoiminnan perustutkinnosta valmistuvat merkonomit työskentelevät elinkeinoelämän eri aloilla. Alan opintoja voi suunnata oman kiinnostuksen mukaan esimerkiksi asiakaspalvelu-, myynti- ja markkinointitehtäviin, taloushallinto- ja toimistotehtäviin tai yrittäjyyteen. Merkonomiopinnot tarjoavat mahdollisuuden joustavaan ja yksilölliseen opiskeluun. Koulutus harjaannuttaa myyntityöhön sekä taloushallinnon tehtäviin selainpohjaista kirjanpito-ohj
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; ETA/EU maiden ulkopuolelta tulevilta opiskelijoiksi hyväksytyiltä peritään lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042960>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto, jatkuva haku
-
-Sataedu
-Kankaanpää, Ulvila
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039763>)
 
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Yhteishaku 2027
 
 Hyria koulutus Oy
 Hyvinkää
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
+Yhteenveto: Kiinnostaako ura myynnin tai asiakaspalvelun parissa? Merkonomina voit työskennellä liiketoiminnan ammattilaisena yrityksissä ja erilaisissa julkishallinnon organisaatiossa. Valmistuttuasi sinulla on myös perusvalmiudet yrittäjyyteen. Takuuväylä ammattikorkeakouluuun Hyrian ja Hämeen ammattikorkeakoulun (HAMK) uusi Takuuväylä tarjoaa ensi kevään yhteishaussa merkonomiksi Hyriaan hakeutuville nuorille suoran reitin liiketalouden tradenomikoulutuks
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; EU- ja ETA-alueen ulkopuolelta tulevan hakijan lukuvuosimaksut Hyriassa
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042636>)
-
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Yhteishaku 2026
-
-Hyria koulutus Oy
-Hyvinkää
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034823>)
-
-### 60/100 — REVIEW — Matkailualan perustutkinto, matkailun asiakaspalvelija (jatkuva haku)
-
-Lapin koulutuskeskus REDU
-Rovaniemi, Kittilä, Sodankylä
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037478>)
-
-### 60/100 — REVIEW — Vocational qualification in tourism industry
-
-Hyria koulutus Oy
-Hyvinkää
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040682>)
 
 ### 60/100 — REVIEW — Ekami, Matkailualan perustutkinto - Yhteishaku 2027
 
 Etelä-Kymenlaakson ammattiopisto
 Kotka
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
+Yhteenveto: Matkailualan perustutkinto - Matkailun asiakaspalvelija Matkailuala sopii sinulle, jos nautit ihmisten kohtaamisesta, uusista kokemuksista ja vaihtelevista työpäivistä. Matkailun asiakaspalvelijana autat asiakkaita viihtymään, löytämään elämyksiä ja saamaan sujuvan palvelukokemuksen erilaisissa matkailukohteissa. Opintojen aikana opit asiakaspalvelua, matkailupalveluiden myyntiä ja neuvontaa, tapahtumien toteuttamista sekä käyttämään matkailualan
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; EU- ja ETA-maiden ulkopuolisilta opiskelijoilta voidaan periä lukuvuosimaksu. Maksuvelvollisuus tarkistetaan hakemuksen käsittelyn yhteydessä ja hakijalle ilmoitetaan mahdollisesta lukuvuosimaksusta.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041852>)
-
-### 60/100 — REVIEW — Matkailualan perustutkinto, matkailun asiakaspalvelija | Joensuu | jatkuva haku
-
-Riveria
-Joensuu
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037466>)
 
 ### 60/100 — REVIEW — Matkailualan perustutkinto, Lempäälä - YHTEISHAKU 2027
 
 Tampereen seudun ammattiopisto Tredu
 Lempäälä
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
+Yhteenveto: Matkailualan työpaikka voi olla missä tahansa maailmalla. Matkailualan perustutkinto antaa valmiudet työskennellä esimerkiksi hotelleissa, lentokentillä, matkatoimistoissa, liikenneyhtiöillä. Tredussa matkailualaa opiskelevat voivat luoda oppimispolkunsa oman kiinnostuksen mukaan. Kaikki tähtää työelämään: unelmien työpaikkaan tai oman yrityksen perustamiseen. Matkailualan perustutkinto antaa valmiudet työskennellä valtakunnallisissa, alueellisis
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042018>)
 
@@ -10930,373 +10823,87 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Kauppatieteet alana on monipuolinen kokonaisuus, jonka sisällä on useita eri suuntautumisvaihtoehtoja. Valmistuneet kauppatieteiden kandidaatit ja maisterit työskentelevät monissa erilaisissa tehtävissä ja ammateissa Suomessa sekä ulkomailla. Yliopistojen kauppatieteelliset tutkinnot ovat kauppatieteiden kandidaatin tutkinto (KTK 180 op), kauppatieteiden maisterin tutkinto (KTM 120 op) sekä kauppatieteiden tohtorin tutkinto (KTT). Kandidaatin tut
+Yhteenveto: Kauppatieteissä opit ymmärtämään liiketoimintaa, markkinoita ja organisaatioita sekä kehittämään niiden toimintaa. Kauppatieteet sopivat sinulle, jos haluat lähestyä ongelmia analyyttisesti useista eri näkökulmista. Koulutus avaa ovia monenlaisiin asiantuntija- ja johtamistehtäviin, sillä ekonomit työskentelevät yli 5 000 erilaisella ammattinimikkeellä. LUT-kauppakorkeakoulusta valmistuvat liiketalouden osaajat auttavat yrityksiä ja organisaatioi
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009436>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), markkinointi ja myynti, monimuotototeutus, Salo
-
-Turun ammattikorkeakoulu
-Salo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031208>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalouden tutkinto-ohjelma, Markkinointi- ja myyntiosaaminen, monimuotototeutus
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003189>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus / Kokkola
 
 Centria-ammattikorkeakoulu
 Kokkola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
+Yhteenveto: Haaveiletko bisnesurasta? Tahtoisitko oppia markkinoimaan ja myymään? Pidätkö numeroista ja kiinnostavatko talousluvut? Haluaisitko oppia johtamaan ihmisiä ja asioita? Onko tavoitteenasi oma yritys tai liiketoiminnan pyörittäminen verkossa? Kiinnostaako yrityksen riskien hallinta? Tahtoisitko oppia ohjaamaan tulevaisuuden yrityksen toimintoja tai hankkia koulutuksen, jolla voi hakeutua erilaisiin työtehtäviin? Jos vastasit myöntävästi edes yhteen
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002212>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous Porvoo
-
-Haaga-Helia ammattikorkeakoulu
-Porvoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011277>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous Helsinki
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011276>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus
 
 Turun ammattikorkeakoulu
 Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
+Yhteenveto: Minustako tradenomi? Tavoitteletko näköalapaikkaa liiketalouden asiantuntijatehtävissä? Haluatko kehittyä kansainväliseksi tiimiosaajaksi ja toimia monialaisessa ja -kulttuurisessa toimintaympäristössä? Tradenomin tutkinto tarjoaa sinulle mielenkiintoiset työskentelymahdollisuudet niin kotimaassa kuin ulkomaillakin. Koulutus on kansainvälistä ja käytännönläheistä ja sillä on kiinteät yhteydet elinkeinoelämään. Opintojen aikana tehtävät työelämälä
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003203>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus, Kouvola
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000495>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus, Salo
-
-Turun ammattikorkeakoulu
-Salo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000498>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, päivätoteutus
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002130>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus, Mikkeli
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001956>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, monimuotototeutus
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003453>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkkototeutus, Kouvola
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038035>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus, Kouvola
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001955>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkkototeutus, Mikkeli
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001982>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus
-
-Savonia-ammattikorkeakoulu
-Kuopio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003411>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, tiimiyrittäjyys
 
 Karelia-ammattikorkeakoulu
 Joensuu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
+Yhteenveto: Opiskelu tradenomiksi Tiimiyrittäjyys -kokonaisuudessa tapahtuu pääosin Karelian Y-akatemiassa ja perustuu yhteiseen tekemiseen, tiedon hankkimiseen ja tiedon jakamiseen. Oppimisen ytimessä on käytännön tekeminen, dialogi ja kokemusten arviointi yhdessä. Työelämässä arvostetaan yhteistyökykyä, monipuolista osaamista ja ongelmanratkaisukykyä, juuri näitä taitoja tiimioppiminen kehittää tehokkaasti. Ensimmäiset puolitoista vuotta opiskelet liiketal
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020766>)
 
@@ -11324,639 +10931,69 @@ Miksi / huomioitavaa:
 
 ### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus
 
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003851>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, päivätoteutus
-
 Laurea-ammattikorkeakoulu
 Vantaa, Espoo, Hyvinkää
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
+Yhteenveto: Haluatko rakentaa uran liiketoiminnan asiantuntija- ja kehittämistehtävissä? Liiketalouden tradenomikoulutuksessa hankit osaamista, jota tarvitaan yrityksissä ja organisaatioissa eri toimialoilla. Opinnoissa yhdistyvät liiketoiminnan perusteet, asiakaslähtöinen ajattelu ja käytännön kehittämistyö. Koulutus antaa valmiudet toimia muuttuvassa työelämässä, jossa korostuvat yhteistyö, ongelmanratkaisu ja kyky kehittää toimintaa yhdessä muiden kanssa.
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001155>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus
-
-Laurea-ammattikorkeakoulu
-Espoo, Lohja
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001156>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, erillisvalinnat
-
-Laurea-ammattikorkeakoulu
-Espoo, Vantaa, Hyvinkää, Lohja
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001679>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkko-opinnot
-
-Laurea-ammattikorkeakoulu
-Vantaa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000573>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkkototeutus
-
-Savonia-ammattikorkeakoulu
-Kuopio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003458>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkko-opinnot
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021461>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, verkkopainotteinen monimuotototeutus / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003936>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous (muuntokoulutus IT-insinööristä), verkkopainotteinen monimuotototeutus
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035553>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, päivätoteutus, Pori
-
-Satakunnan ammattikorkeakoulu
-Pori
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003152>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, verkkopainotteinen monimuotototeutus
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003354>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, päivätoteutus
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003015>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuoto-opinnot
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000628>)
-
-### 60/100 — REVIEW — Insinööri (AMK), myynti-insinööri, päivätoteutus
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tuotantotalouden insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista sekä saa opinnoista valmiuksia teollisen palveluliiketoiminnan ja uusien tuotteiden kehittämiseen. Opinnoissa opitaan mallintamaan, analysoimaan ja suunnittelemaan kaikkia niitä toimintoja ja prosesseja, joita tavaroiden ja palveluiden tuottaminen vaatii: toiminnanohjaus, valmistus, automaatiojärjestelm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002332>)
-
-### 60/100 — REVIEW — Insinööri (AMK), Tuotantotalous, verkkototeutus, Rauma
-
-Satakunnan ammattikorkeakoulu
-Rauma
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tuotantotalouden insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista sekä saa opinnoista valmiuksia teollisen palveluliiketoiminnan ja uusien tuotteiden kehittämiseen. Opinnoissa opitaan mallintamaan, analysoimaan ja suunnittelemaan kaikkia niitä toimintoja ja prosesseja, joita tavaroiden ja palveluiden tuottaminen vaatii: toiminnanohjaus, valmistus, automaatiojärjestelm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011541>)
-
-### 60/100 — REVIEW — Insinööri (AMK), Tuotantotekniikka ja tuotantotalous, elintarviketuotanto, monimuotototeutus, Rauma
-
-Satakunnan ammattikorkeakoulu
-Rauma
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tuotantotalouden insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista sekä saa opinnoista valmiuksia teollisen palveluliiketoiminnan ja uusien tuotteiden kehittämiseen. Opinnoissa opitaan mallintamaan, analysoimaan ja suunnittelemaan kaikkia niitä toimintoja ja prosesseja, joita tavaroiden ja palveluiden tuottaminen vaatii: toiminnanohjaus, valmistus, automaatiojärjestelm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000014429>)
-
-### 60/100 — REVIEW — Insinööri (AMK), tuotantotalous, verkkopainotteinen monimuotototeutus / Ylivieska
-
-Centria-ammattikorkeakoulu
-Ylivieska
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tuotantotalouden insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista sekä saa opinnoista valmiuksia teollisen palveluliiketoiminnan ja uusien tuotteiden kehittämiseen. Opinnoissa opitaan mallintamaan, analysoimaan ja suunnittelemaan kaikkia niitä toimintoja ja prosesseja, joita tavaroiden ja palveluiden tuottaminen vaatii: toiminnanohjaus, valmistus, automaatiojärjestelm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003031>)
-
-### 60/100 — REVIEW — Insinööri (AMK), tuotantotalous, päiväopinnot
-
-Metropolia Ammattikorkeakoulu
-Espoo
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tuotantotalouden insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista sekä saa opinnoista valmiuksia teollisen palveluliiketoiminnan ja uusien tuotteiden kehittämiseen. Opinnoissa opitaan mallintamaan, analysoimaan ja suunnittelemaan kaikkia niitä toimintoja ja prosesseja, joita tavaroiden ja palveluiden tuottaminen vaatii: toiminnanohjaus, valmistus, automaatiojärjestelm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002252>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto, jatkuva haku
-
-Keuda
-Tuusula
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040210>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto, yhteishaku
-
-Keuda
-Tuusula
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034346>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto, kosmetologi | Joensuu | jatkuva haku
-
-Riveria
-Joensuu
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037436>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto
-
-Ammattiopisto Lappia
-Kemi
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041853>)
 
 ### 60/100 — REVIEW — International Business, Bachelor of Science and Master of Science (Economics and Business Administration) (3+2 yrs)
 
 Aalto-yliopisto
 Helsinki
-Yhteenveto: International Business -kandidaattiohjelma on suunnattu tuleville johtajille, jotka haluavat saada korkeatasoisen koulutuksen kansainvälisestä liiketoiminnasta sekä käytännön työelämätaitoja. Työskentelet kursseilla käytännönläheisesti ja luovasti yhteistyössä kansainvälisten professoreiden ja yritysjohtajien kanssa. Opiskelet Espoon Otaniemessä sijaitsevalla Aalto-yliopiston kampuksella yhdessä Euroopan johtavista kauppakorkeakouluista. Sitä ymp
+Yhteenveto: Aalto-yliopiston International Business -kandidaattiohjelma on maailmanlaajuisesti tunnustettu koulutusohjelma, joka tarjoaa kattavan koulutuksen alalla, joka on jatkuvassa muutoksessa ja jossa kilpailu on kovaa. Ohjelma on tarkoitettu opiskelijoille, jotka haluavat yhdistää vahvan liiketoimintaosaamisensa ja kansainvälisen viestintätaitonsa nyky-yhteiskunnan suurien haasteiden ratkaisemiseksi. Opintojesi aikana saat hyvät perustaidot liiketoimin
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Aalto-yliopiston kauppakorkeakoulun kandidaatin tutkintoon johtavien englanniksi opettavien koulutusohjelmien lukuvuosimaksu on 12 000 euroa. Lukuvuosimaksu peritään muilta kuin Euroopan unionin jäsenmaiden (EU), Euroopan talousalueen (ETA) tai Sveitsin kansalaisilta.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-22T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031744>)
-
-### 60/100 — REVIEW — Valmentava johtaminen / 22.9.2026 PomoPRO
-
-Hyria koulutus Oy
-Hyvinkää
-Yhteenveto: Koulutus on suunnattu esihenkilöille ja asiantuntijoille. Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)
-Koulutustyyppi: amm-muu
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040757>)
-
-### 60/100 — REVIEW — Valmentava johtaminen / 18.2.2027 PomoPRO
-
-Hyria koulutus Oy
-Hyvinkää
-Yhteenveto: Koulutus on suunnattu esihenkilöille ja asiantuntijoille. Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)
-Koulutustyyppi: amm-muu
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040839>)
 
 ### 60/100 — REVIEW — Valmentava johtaminen / 23.9.2027 PomoPRO
 
 Hyria koulutus Oy
 Hyvinkää
-Yhteenveto: Koulutus on suunnattu esihenkilöille ja asiantuntijoille. Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)
+Yhteenveto: Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)?
 Koulutustyyppi: amm-muu
 Laajuus: UNKNOWN
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: UPCOMING
+Hakuaika päättyy: 2027-09-08T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040842>)
-
-### 60/100 — REVIEW — Työyhteisön kehittämisen johtaminen, jatkuva haku
-
-Keuda
-Järvenpää
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040479>)
-
-### 60/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto - viestinnän strateginen johtaminen
-
-Rastor
-Espoo
-Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinnon, johtamisen tai yritysjohtamisen osaamisalan suorittanut voi työskennellä yrityksen tai vastuualueen johtamistehtävissä. Johtamisen ja yritysjohtamisen erikoisammattitutkinnon, sisäisen tarkastuksen osaamisalan suorittanut voi toteuttaa sisäisen tarkastuksen toimeksiannon ja johtaa tai toimia sisäisen tarkastuksen tehtävissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040038>)
-
-### 60/100 — REVIEW — Projektin johtaminen, jatkuva haku
-
-Keuda
-Järvenpää
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040530>)
 
 ### 60/100 — REVIEW — Talouden johtaminen, jatkuva haku
 
@@ -13759,6 +12796,99 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040021>)
 
+### 55/100 — REVIEW — Liiketoiminnan perustutkinto, jatkuva haku
+
+Keuda
+Järvenpää, Kerava, Sipoo, Nurmijärvi
+Yhteenveto: Menesty liike-elämässä – kouluttaudu monitaituriksi! Liiketoiminnan perustutkinnon suoritettuasi sinulla on asiakaslähtöistä liiketoimintaosaamista, viestintä- ja vuorovaikutusosaamista, kielitaitoa sekä talouden hallinnan osaamista. Toimit sujuvasti erilaisissa digitaalisissa ympäristöissä ja verkostoidut ammatillisesti. Opintojen myötä saat hyvät perusvalmiudet toimia yrittäjänä ja valmiudet kehittyä lähiesihenkilötehtäviin. Tutkinnon suoritett
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 9100.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksut EU/ETA-maiden ulkopuolelta tuleville opiskelijoille — Keuda
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041327>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus, Salo
+
+Turun ammattikorkeakoulu
+Salo
+Yhteenveto: Koulutuksen tavoite Koulutus on suunnattu useamman vuoden työkokemuksen omaaville, jotka haluavat kehittyä työssään tai etsivät uusia uramahdollisuuksia. Koulutuksen tavoitteena on valmentaa monipuolisia liiketoimintaosaajia ja työelämän kehittäjiä. Liiketalouden tradenomit sijoittuvat erilaisiin liiketalouden asiantuntija-, kehittämis-, johto- ja esimiestehtäviin sekä yrittäjiksi. Tutkinnon ydinosaamisen muodostavat yritysten ja organisaatioiden
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000498>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), liiketalous, verkkototeutus, Kouvola
+
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään.. T
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-10T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038035>)
+
+### 55/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto - viestinnän strateginen johtaminen
+
+Rastor
+Espoo
+Yhteenveto: Lue koulutuksesta ja hakeudu Rastorin verkkosivulta: Viestinnän strateginen johtaminen Viestintä osana arjen johtamista Koulutuksessa saat työkaluja päivittäiseen johtamistyöhösi sekä uusia keinoja organisaation strategiatyöhön ja strategisen viestinnän suunnitteluun. Ymmärrät talouden johtamisen merkityksen ja opit laatimaan strategian mukaisen viestintäsuunnitelman eri sidosryhmille. Koulutus on suunniteltu yhteistyössä Viestinnän asiantuntijoi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040038>)
+
 ### 55/100 — REVIEW — Avoin yo: Kansainväliset muuttoliikkeet, liikkuvuus ja rajankäynti lv. 2026-2027
 
 Itä-Suomen yliopisto
@@ -14725,3 +13855,71 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037445>)
+
+### 40/100 — REVIEW — Liiketoiminnan perustutkinto, merkonomi | Kitee | jatkuva haku
+
+Riveria
+Kitee
+Yhteenveto: Haluatko liiketoiminnan osaajaksi? Merkonomikoulutus antaa sinulle paljon erilaisia työllistymisen mahdollisuuksia, valmiudet toimia yrittäjänä sekä avaa väylän myös jatko-opintoihin. Liiketoiminnan tehtävissä tarvitset hyviä sosiaalisia taitoja ja halua auttaa asiakkaita. Tärkeää on myös huolellisuus ja tarkkuus. Opintojen aluksi sinulle tehdään henkilökohtainen osaamisen kehittämisen suunnitelma, johon kirjataan tavoitteidesi sekä työllistymise
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2026
+Hinta: Maksuton ; EU/ETA-alueen ulkopuolisten kansalaisten lukuvuosimaksu EU/ETA-alueen ulkopuolelta opiskelutarkoituksessa Suomeen tulevan tai tulleen opiskelijan koulutus on maksullista ammatillisen koulutuksen lainsäädäntömuutosten myötä 1.8.2026 alkaen. Maksua ei kuitenkaan peritä tietyin edellytyksin, esimerkiks
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: CLOSED
+Hakuaika päättyy: 2026-06-03T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037442>)
+
+### 40/100 — REVIEW — Insinööri (AMK), myynti-insinööri, päivätoteutus
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Myynti-insinööri ymmärtää yritystoiminnan kokonaisuuden tekniikan, talouden ja johtamisen näkökulmista. Opinnoista saadaan osaamista yritysten väliseen myyntiin, asiakasanalytiikkaan, liiketoiminnan kehittämiseen, johtamisen eri näkökulmiin ja valmiuksia yrittäjyyteen. Myynti-insinöörin koulutus Turun ammattikorkeakoulussa on laaja-alainen teknistaloudellinen koulutus. Opinnoissa korostuvat myyntitaidot, kuten myyntiprosessin hallinta, asiakkuude
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002332>)
+
+### 40/100 — REVIEW — Valmentava johtaminen / 22.9.2026 PomoPRO
+
+Hyria koulutus Oy
+Hyvinkää
+Yhteenveto: Koulutus toteutetaan keskustelevana ja ryhmää osallistavana lähiopetuksena. Koulutukseen liittyy oppimistehtävä, jonka ohjeistus annetaan lähipäivän yhteydessä. Koulutuksessa käydään läpi: Mitä valmentavalla johtamisella tarkoitetaan? Miten sitä toteutetaan? Mitkä ovat valmentavan johtamisen onnistumisen edellytykset? Mitkä ovat valmentavan johtamisen vaikutukset ja hyödyt (ja sudenkuopat)?
+Koulutustyyppi: amm-muu
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-08T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040757>)
