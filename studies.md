@@ -897,6 +897,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039957>)
 
+### 95/100 — STRONG — Tietojenkäsittelyn starttiopinnot (tradenomi, AMK)
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Kiinnostavatko ohjelmointi, web-kehitys tai pilvipalvelut? Pohditko uraa ICT-alalla? Itsenäisesti verkossa suoritettava Tietojenkäsittelyn starttiopinnot (tradenomi, AMK) tarjoaa helpon tavan tutustua ICT-alaan ja tietojenkäsittelyn tradenomiopintoihin. Opintojen aikana perehdyt ohjelmoinnin, web-kehityksen ja pilvipalveluiden perusteisiin. Samalla saat käsityksen siitä, millaista opiskelu korkeakoulussa käytännössä on. Opinnot soveltuvat erinoma
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 15.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 225.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-13T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040042>)
+
 ### 90/100 — STRONG — Software Engineering and Information Systems, Master of Science (2 years)
 
 Oulun yliopisto
@@ -4343,6 +4368,266 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040530>)
 
+### 85/100 — STRONG — Talouden johtaminen, jatkuva haku
+
+Keuda
+Järvenpää
+Yhteenveto: Johtaja, kaipaatko parempaa ymmärrystä talouden johtamisesta? Usein johtajalle ja esihenkilölle talouden hallinta ja talousosaaminen on vierasta ja joskus jopa pelottavaa. Hanki nyt talouden johtamisen osaamista käytännönläheisesti verkko-opintoina. Johtajan ja esihenkilön tulee ymmärtää talouden perusasiat ja osata kehittää yrityksen liiketoimintaa. Johtaja, lähde verkkokoulutukseen kehittämään osaamistasi talouden johtamisessa. Koulutuksessa si
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lukuvuosimaksuvelvollisuus määräytyy oleskeluluvan perusteella. Osana hakeutumisprosessia, tarkistamme oleskelulupasi perusteen Maahanmuuttovirastolta. Lisätietoa: Lukuvuos
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040478>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, International Business, blended learning / Pietarsaari
+
+Centria-ammattikorkeakoulu
+Pietarsaari
+Yhteenveto: Check this degree programme on our website ! The Bachelor’s degree programme in International Business at Centria UAS provides our students with a strong base of business skills and tools to manage businesses in intercultural environments. The curriculum is designed to provide the skills and expertise versatilely for the business field. If you are interested in working for an international company or in international positions and business enviro
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-05-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003779>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, Business Administration, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Do you want to study for a BBA degree in Finland? Apply for Business Administration at Turku University of Applied Sciences! Would you like to be a marketing manager in a fast-growing IT company in Finland, a business strategy consultant in the EU, an international sales manager in Singapore or start up your own business? These are examples of some of the positions our Business Administration programme may open for you. In this programme you will
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009693>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, Aviation Business
+
+Haaga-Helia ammattikorkeakoulu
+Porvoo
+Yhteenveto: Aviation is a unique, continuously developing industry, and offers versatile career opportunities. The degree programme in Aviation Business provides you skills and competences to work in various positions in aviation and also in other fields of business. During your studies, your will gain expertise in the aviation business environment and an understanding of the key aviation business processes. You will also acquire skills in sales and services
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010027>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, International Business
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helia’s International Business degree offers a holistic business understanding and competencies needed in the changing global and digital business environment. Studies include close co-operation with businesses. In the International Business Degree, you can choose your Major from five specialisation fields: Accounting and Finance People Management Marketing and Sales Supply Chain Management You will study in Haaga-Helia’s truly internationa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-11T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009871>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, International Business: Business and Talent Development or Sport Business Management, Rovaniemi, Lapland (studies start on autumn 2027)
+
+Lapin ammattikorkeakoulu
+Rovaniemi
+Yhteenveto: This programme is the unique opportunity to tailor your studies through one of two future-oriented specializations: • Business and Talent Development People are the driving force behind every successful organisation. This specialisation prepares you to attract, develop, and lead talent in a world where employee experience, organisational culture, and sustainable leadership have become key competitive advantages. • International Sport Business Man
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; The tuition fee concerns students from outside EU/ETA area. For information concerning tuition fees, please visit: Lapland UAS: Tuition fee at Lapland UAS Study info: Am I required to pay tuition fee?
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-05-12T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030934>)
+
+### 85/100 — STRONG — Luonnonkosmetiikan ja hyvinvointipalveluiden yrittäjyys, 35 osp, osia Luonto- ja ympäristöalan perustutkinnosta - Jatkuva haku
+
+Ammattiopisto Samiedu
+Savonlinna
+Yhteenveto: Koulutuksen aiheita ovat luonnonkosmetiikan valmistuksessa vaikuttavat raaka-aineet, kasviuutteet, fytokemialliset aineet, reseptiikan perusteet ja eettiset raaka-ainevalinnat. Perehdymme myös hinnoitteluun, toiminnan kustannusrakenteeseen ja kannattavuuteen sekä hyvinvointipalvelun ja -tuotteen valmistuksen lainsäädäntöön ja tuotetestaukseen.
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on maksuton. Koulutukseen osallistuvalle voi tulla kustannuksia koulutukseen liittyvistä varusteista   työvälineistä ja materiaaleista sekä matka- ja yöpymiskustannuksia. EU- ja ETA-alueen ulkopuolelta tulevilta opiskelijoilta voidaan periä lukuvuosimaksuja 1.8.2026 voimaan tulevan lainsääd
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041400>)
+
+### 85/100 — STRONG — Hius- ja kauneudenhoitoalan perustutkinto, jatkuva haku
+
+Rasekon ammattiopisto
+Raisio
+Yhteenveto: Hius- ja kauneudenhoitoalan työtä voit tehdä kampaajana, parturina tai kosmetiikkaneuvojana toisen palveluksessa tai itsenäisenä yrittäjänä. Työ on vaihtelevaa ja itsenäistä suunnittelutyötä vuorovaikutuksessa asiakkaan kanssa. Olennaiset taidot: sosiaaliset taidot, kädentaidot, sisäinen yrittäjyys, luovuus ja estetiikan tulkintaosaaminen. Opinnot edellyttävät itsenäistä opiskeluvalmiutta ja ne toteutetaan aikuisryhmämuotoisena. Raekossa voit opi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Oppivelvollisuus ja maksuttomuus -lainsäädännön piiriin kuuluville oppivelvollisille kustannetaan työvaatteet, materiaalit ja tarvikkeet, jotka tutkinnon suorittamiseksi ovat opintojen aikana tarpeen. Muut kuin oppivelvolliset perustutkinnon opiskelijat saavat alasta riippuen myös osan oppikirjoista
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038306>)
+
+### 85/100 — STRONG — Insinööri (AMK), Tietotekniikka, monimuotototeutus
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: SEAMKin tietotekniikan koulutuksessa yhdistyvät tekniikan ja yrittäjyyden opinnot täysin uudella tavalla. Koulutus pohjautuu SEAMKin kansallisesti merkittäviin vahvuusaloihin: teollisen internetin osaamiseen sekä yrittäjyyden ja kasvun edistämiseen. Tietotekniikkaa tarvitaan kaikkialla ja ilman sitä yhteiskunta ja elinkeinoelämä eivät toimisi. Yhä useammat palvelut tuotetaan digitaalisesti tietojärjestelmien avulla. Tietotekniikkaa tarvitaan myös
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-12-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003956>)
+
+### 85/100 — STRONG — Tieto- ja viestintätekniikan perustutkinto
+
+Koulutuskeskus JEDU
+Nivala, Ylivieska
+Yhteenveto: Ole ylpeästi nörtti! Ohjelmistokehittäjän opinnoissa perehdyt erilaisiin ohjelmointikieliin ja -tekniikoihin. Web-ohjelmointi, tietokantojen käsittely, verkkokaupat, mobiiliohjelmointi, robotiikka, lausekieliset ohjelmointikielet ja low-code sovellusten kehittäminen sekä erilaisissa ohjelmistoprojekteissa työskentely tulevat sinulle tutuiksi. Lisäksi opiskelet IT-alan perustaitoja: työvälineohjelmistojen käyttöä, käyttöjärjestelmien asennuksia ja
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Syksy 2027
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Lukuvuosimaksu koskee pääsääntöisesti opiskelijoita, jotka: ovat EU-/ETA-alueen ulkopuolisen maan kansalaisia (kolmannen maan kansalaisia) tulevat Suomeen tai oleskelevat Suomessa opiskelijan oleskeluluvalla aloittavat toisen asteen opinnot 1.8.2026 tai sen jälkeen. Katso lisätietoja: Ulkomaalaiset 
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042931>)
+
+### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Cyber-Physical Systems, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Autonomous robots, smart factories, and modern information systems only function when they are properly designed, secured, and monitored. Cybersecurity has emerged as one of the defining challenges of our time and the field has a growing need for the next generation of problem-solvers. In the Cyber-Physical Systems (CPS) degree programme , you will explore intelligent systems and learn to protect the critical infrastructure of our society. AI sec
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038146>)
+
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
 Metropolia Ammattikorkeakoulu
@@ -6383,6 +6668,98 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035553>)
 
+### 75/100 — STRONG — Yrittäjyys ja yrityksen johtaminen, tuotantotalouden diplomi-insinööri (2 v), Lahti
+
+Lappeenrannan-Lahden teknillinen yliopisto LUT
+Lahti
+Yhteenveto: Yrittäjyys ja yrityksen johtaminen -maisteriohjelma on rakennettu kahden kantavan teeman ympärille: yrittäjyys ilmiönä ja yrittäjyys toimintana. Opintojesi aikana perehdyt yrittäjyyden teoreettiseen taustaan, yrittäjyysilmiön eri osa-alueisiin ja yrittäjyyden edistämiseen. Myös yrityksen perustamista sekä yritystoiminnan kehittämistä, uudistamista ja yrityksen kasvua käsitellään ohjelmassa monipuolisesti. Ohjelma antaa sinulle akateemisten yrittä
+Koulutustyyppi: UNIVERSITY DEGREE
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009367>)
+
+### 75/100 — STRONG — Hallintotieteet ja johtaminen, hallintotieteiden tai yhteiskuntatieteiden kandidaatti ja hallintotieteiden tai yhteiskuntatieteiden maisteri (3 v + 2 v)
+
+Lapin yliopisto
+Rovaniemi
+Yhteenveto: Hallintotieteiden ja johtamisen tutkinto-ohjelma antaa sinulle vahvan hallintotieteeseen ja liiketaloustieteeseen perustuvan tietopohjan organisaatioiden ja työyhteisöjen kehittämiseen kestävällä ja oikeudenmukaisella tavalla. Tutkinto-ohjelman opinnot ovat sisällöllisesti monipuolisia ja ainutlaatuisia. Ne tarjoavat sinulle laaja-alaista näkemystä organisaatioiden toimintaan ja kohdentuvat tulevaisuuden työelämän tarpeisiin. Kehität johtamisvalm
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002344>)
+
+### 75/100 — STRONG — Yhteiskunta- ja valtiotieteet
+
+Alkio-opisto
+Jyväskylä
+Yhteenveto: Opetus toteutetaan lukuvuoden 2026–2027 aikana Alkio-opistossa Jyväskylän Korpilahdella. Yhteiskunta- ja valtiontieteiden linjalla opiskelet pääosin yliopisto-opintoja. Opiskelu- ja suoritustavat ovat näillä linjoilla monimuotoisia: luentoja, keskusteluja, kirjatenttejä, oppimistehtäviä, projekteja ja ryhmätyöskentelyä. Yliopisto-opintojen tueksi ja osaamista laajentamaan järjestetään lisäksi opiston omia kursseja ajankohtaisista teemoista. Lukuv
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 38.0 viikkoa
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 4100.0 (lähteen summa; tarkista ehdot) ; Opiskelu Alkio-opistossa on päätoimista. Opinnot oikeuttavat toisen asteen opintotukeen. opetus, asuminen ja ruokailut 6210 € (opiston asuntolassa asuvilla tämä) opetus 4100,00 € (sisältää lounaan) Opintomaksu laskutetaan kahdeksassa erässä. Alkio-opisto on mukana 30 opintopisteen opintosetelikokeil
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029602>)
+
+### 75/100 — STRONG — Tietojenkäsittelytieteen maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Miten algoritmit muuttavat yhteiskuntaamme? Tietojenkäsittelytieteen maisteriohjelmassa kehität osaamistasi alan keskeisillä osa-alueilla: algoritmit ja niiden analyysi, ohjelmistotuotanto, tekoäly, tietoturva ja tietoverkot. Opinnoissa tartutaan todellisiin tutkimuskysymyksiin — genomidatan hyödyntämisestä lääketieteessä kaupunkiliikenteen optimointiin — ja valmistut ratkomaan nopeasti muuttuvan digitaalisen maailman haasteita. Voit rakentaa juu
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039900>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -8078,6 +8455,259 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040839>)
+
+### 70/100 — STRONG — Toimivan tiimin johtaminen / 15.4.2027 PomoPRO
+
+Hyria koulutus Oy
+Riihimäki
+Yhteenveto: Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Koulutuksen sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistuminen Tiiminä kasvu
+Koulutustyyppi: amm-muu
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-04T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040894>)
+
+### 70/100 — STRONG — Henkilöstön ja osaamisen johtaminen, oppisopimus
+
+Koulutuskeskus Salpaus
+Lahti
+Yhteenveto: Koulutuksen suoritettuasi osaat johtaa vastuualueesi henkilöstöä ja osaamista organisaation strategian mukaisesti. Arvioit henkilöstötarvetta ja henkilöstörakennetta hyödyntäen henkilöstöön liittyviä tunnuslukuja ja mittareita. Lue lisää koulutuksesta Salpauksen sivuilta.
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036664>)
+
+### 70/100 — STRONG — Bachelor's Degree Programme, International Business, full-time (BBA), VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Are you interested in studying next to the largest energy technology cluster of Northern Europe? Together with the international students, the degree programme in International Business is the perfect way for you to gain higher education, excellent English skills and cultural experience. International marketing, foreign trade and international management will be your superpowers. As you will study in English, you will be perfectly equipped for yo
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001566>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, International Business and Growth Management, päivätoteutus
+
+Savonia-ammattikorkeakoulu
+Kuopio
+Yhteenveto: Opiskele englanniksi ja suuntaa kohti kansainvälistä liiketaloutta! Bachelor of Business Administration, International Business and Growth Management -tutkinto-ohjelma valmistaa osaajia menestymään kasvuhakuisissa ja kansainvälisesti suuntautuneissa liiketoimintaympäristöissä. Koulutuksesta valmistuneet tradenomit tuovat lisäarvoa organisaatioille muun muassa kansainvälisen myynnin, markkinoinnin, vienti- ja tuontitoimintojen, asiakkuuksien johta
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; Katso tarkemmat tiedot lukuvuosimaksusta näiltä Savonian nettisivuilta sen mukaan, missä haussa haet: Yhteishaku, suora haku tai erillishaku Siirtohaku
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-07-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041844>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, International Business
+
+Yrkeshögskolan Arcada
+Helsinki
+Yhteenveto: Would you like to study sustainable business and management in a truly international setting? Are you looking to gain skills in the latest digital tools that prepare you for a career in modern business life? Then the bachelor’s degree programme International Business at Arcada is for you! In this programme you will learn how to develop sustainable solutions for growth in today’s global economy. With AI and industry-relevant digital tools and busi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9800.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee of 9,800 €/year for non-EU/EEA citizens. There is an early-bird discount of €1,500 for an admitted student who bindingly accepts the study place and pays within 14 days. In addition there is a deduction of the tuition fee for the ACT, OMPT, or SAT test for those admitted throu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041180>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, International Business and Logistics, daytime studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: The International Business and Logistics program offers practically oriented business administration studies with a special focus on operations of international trade, supply chain management and marketing. It responds to the needs of future business leaders developing their strategic knowledge and practical skills required in the management of people, material and information flows. We offer you a dynamic international study environment with cla
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001424>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, European Business Administration, daytime studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: The EBA degree programme aims to give the student the practical tools and general knowledge required in global business life. You will graduate as a mature business professional with good hands-on know-how and essential practical skills. You will be an effective team player, have good language, communication, intercultural and IT skills and be a true asset for international companies in Finland and abroad. European Business Administration (EBA) i
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.000. Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001540>)
+
+### 70/100 — STRONG — International Business Management, Bachelor and Master of Science (Economics and Business Administration) (3 years + 2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: International Business Management is a degree programme offered by the AACSB-accredited Oulu Business School. In this programme, students learn to manage international business in a Nordic style, creativity, and sustainability as their main drivers. The bachelor’s programme in International Business Management is part of a five-year international degree programme consisting of a three-year bachelor’s degree and a two-year master’s degree. When ac
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008820>)
+
+### 70/100 — STRONG — Further Vocational Qualification in Entrepreneurship
+
+Omnia
+Espoo
+Yhteenveto: Are you planning to start a business? Are you considering entrepreneurship alongside other work? Refine your business idea and build a strong foundation for your business by completing the Further Vocational Qualification in Entrepreneurship. Description of the training If you are planning to start your own business, the Further Vocational Qualification in Entrepreneurship gives you the confidence and practical skills to turn your idea into reali
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; For EU/EEA citizens apprenticeship training is free of charge. The price of independent education: 450 €. Tuition fee for non-EU/EEA citizens: 6 400 €. Read more on Tuition fees Terms of cancellation If the student has accepted the study place and resigns within one month of the start of the studies
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043097>)
+
+### 70/100 — STRONG — Hiusalan ammattitaidon päivitys kohti yrittäjyyttä
+
+Vantaan ammattiopisto Varia
+Vantaa
+Yhteenveto: Omaatko jo osaamista hiustenleikkaamisesta, värjäämisestä tai permanenteista parturi-kampaajana mutta tarvitset kertausta omaan osaamiseen? Haluatko päivitystä hiusalan tämänhetkisistä trendeistä sekä varmistusta omaan työskentelyysi asiakkaiden parissa? Haaveiletko työskentelystä parturi-kampaamossa sopimus- tai vuokratuoliyrittäjänä? Tämä koulutus on juuri sinulle! Koulutuksessa saat käytännönläheistä valmennusta hiusalan käytännön taitoihin se
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat 1.8.2026 tai sen jälkeen opintonsa aloittavat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Lisä
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037858>)
+
+### 70/100 — STRONG — Insinööri (AMK), Tietotekniikka, päivätoteutus
+
+Seinäjoen ammattikorkeakoulu
+Seinäjoki
+Yhteenveto: Tietotekniikka on kaikkialla. Yhä useammat palvelut tuotetaan digitaalisesti tietojärjestelmien avulla. Tietotekniikkaa tarvitaan myös teollisuudessa, esimerkiksi robottien ja koneiden ohjauksessa. Nykyään yhä useampi laite on kytketty internetiin ja laitteilta saatua tietoa analysoidaan pilvipalveluissa tekoälyn avulla. Tietotekniikan insinöörinä osaat rakentaa digitaalisia ratkaisuja yritysten ja yhteiskunnan tarpeisiin. SEAMKin tietotekniikan 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-12-18T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003955>)
 
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
@@ -10533,28 +11163,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043158>)
 
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto
-
-Saimaan ammattiopisto Sampo
-Imatra, Lappeenranta
-Yhteenveto: Liiketoiminnan perustutkinnon suorittanut työskentelee valintojensa mukaisesti joko asiakaspalvelu-, myynti-, markkinointi-, projekti- tai taloushallintotehtävissä tai tapahtumajärjestelyissä. Hän voi sijoittua myös liiketoiminnan varastotoimintojen työtehtäviin, finanssialalle tai toimia kirjaston opastamis- ja tietopalveluissa. Hänellä on valmiudet toimia myös itsenäisenä yrittäjänä. Alan työpaikkoja ovat yritykset, järjestöt ja julkisen sektor
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034479>)
-
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto 
 
 Luksia
@@ -10995,90 +11603,25 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040842>)
 
-### 60/100 — REVIEW — Talouden johtaminen, jatkuva haku
-
-Keuda
-Järvenpää
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040478>)
-
-### 60/100 — REVIEW — Toimivan tiimin johtaminen / 15.4.2027 PomoPRO
-
-Hyria koulutus Oy
-Riihimäki
-Yhteenveto: Koulutus soveltuu esihenkilöille ja tiiminvetäjille. Olisi suotavaa, että osallistuja on käynyt ensin valmentavan johtamisen päivän ennen osallistumista tähän koulutuspäivään. Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Koulutuksen sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistumin
-Koulutustyyppi: amm-muu
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040894>)
-
-### 60/100 — REVIEW — Toimivan tiimin johtaminen / 27.10.2026 PomoPRO
-
-Hyria koulutus Oy
-Riihimäki
-Yhteenveto: Koulutus soveltuu esihenkilöille ja tiiminvetäjille. Olisi suotavaa, että osallistuja on käynyt ensin valmentavan johtamisen päivän ennen osallistumista tähän koulutuspäivään. Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Koulutuksen sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistumin
-Koulutustyyppi: amm-muu
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040765>)
-
 ### 60/100 — REVIEW — Toimivan tiimin johtaminen / 11.11.2027 PomoPRO
 
 Hyria koulutus Oy
 Riihimäki
-Yhteenveto: Koulutus soveltuu esihenkilöille ja tiiminvetäjille. Olisi suotavaa, että osallistuja on käynyt ensin valmentavan johtamisen päivän ennen osallistumista tähän koulutuspäivään. Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Koulutuksen sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistumin
+Yhteenveto: Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Koulutuksen sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistuminen Tiiminä kasvu
 Koulutustyyppi: amm-muu
 Laajuus: UNKNOWN
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: UPCOMING
+Hakuaika päättyy: 2027-10-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040893>)
 
@@ -11086,396 +11629,45 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Tuotannon johtamisen maisteriohjelmassa pystyt yhdistämään talouden, tekniikan ja johtamisen opintoja. Näin saavutat osaamisen yritysten laaja-alaisena kehittäjänä, joka ei pelkää tarttua haastaviinkaan ongelmiin. Koulutuksen avulla tiedät miten yritykset toimivat ja miten ne saadaan toimimaan entistä paremmin ja tehokkaammin. Saavutat myös valmiudet toimia kansainvälisessä, jatkuvasti muuttuvassa ja verkostoituneessa ympäristössä. Tuotannon joht
+Yhteenveto: Niin elinkeinoelämä kuin julkinen sektorikin tarvitsee yhä enemmän osaajia, jotka ymmärtävät laaja-alaisesti sekä toimitusketjujen ja palveluverkostojen toiminnan että toimintaan liittyvät talous-, kustannus ja kannattavuusnäkökulmat. Tuotannon johtamisen DI-ohjelman sisältö muodostuu toimitusketjun johtamisen ja kustannusjohtamisen alan opinnoista. Ohjelmassa pystyt suuntautumaan jonkin näiden osa-alueen ammattilaiseksi ja saamaan lisäksi kattav
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009365>)
-
-### 60/100 — REVIEW — Henkilöstön ja osaamisen johtaminen, oppisopimus
-
-Koulutuskeskus Salpaus
-Lahti
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036664>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), liiketalous, Sisällöntuotanto, teknologia ja luova talous, päiväopinnot, Tornio
 
 Lapin ammattikorkeakoulu
 Tornio
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liiketalouden tradenomikoulutus tarjoaa vahvan osaamisperustan asiantuntijatehtäviin yrityselämässä ja organisaatioissa. Tradenomilla on laaja-alainen ammatillinen perusosaaminen liiketaloudesta, hyvät viestintätaidot ja kyky työskennellä sekä itsenäisesti että yhdessä muiden kanssa. Tradenomi osaa toimia digitaalisessa ympäristössä, analysoida yritystoimintaa sekä ideoida ja kehittää uusia toimintatapoja. Liike t
+Yhteenveto: Haluatko oppia tuottamaan vaikuttavia sisältöjä, rakentamaan brändejä, hyödyntämään uusinta teknologiaa ja kehittämään liiketoimintaa luovalla otteella? Jos tämä kuulostaa omalta jutultasi, Sisällöntuotannon, teknologian ja luovan talouden tradenomikoulutus on sinua varten. Sisällöntuotannon, teknologian ja luovan talouden tradenomikoulutus yhdistää markkinoinnin, digitaalisen viestinnän, visuaalisen suunnittelun, audiovisuaalisen tuotannon ja li
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017061>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business, blended learning / Pietarsaari
-
-Centria-ammattikorkeakoulu
-Pietarsaari
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003779>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, Business Administration, full-time
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009693>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, Aviation Business
-
-Haaga-Helia ammattikorkeakoulu
-Porvoo
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010027>)
-
-### 60/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), International Business, englanninkielinen päivätoteutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038236>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration (BBA), Business Management, daytime studies / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003902>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration (BBA), Business Management, blended learning / Kokkola
-
-Centria-ammattikorkeakoulu
-Kokkola
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035517>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009871>)
-
-### 60/100 — REVIEW — Bachelor's Degree Programme, International Business, full-time (BBA), VAMK
-
-Vaasan ammattikorkeakoulu
-Vaasa
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001566>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business and Growth Management, päivätoteutus
-
-Savonia-ammattikorkeakoulu
-Kuopio
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041844>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business
-
-Yrkeshögskolan Arcada
-Helsinki
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041180>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business through online path
-
-Yrkeshögskolan Arcada
-Helsinki
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038570>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business and Logistics, daytime studies
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001424>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, European Business Administration, daytime studies
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: What competence does the graduate have? Studies in Business Administration (BBA) provide a comprehensive knowledge and skill-base for those wanting to build a career in global business. The degree studies cover all main aspects of international business operations including marketing and sales, accounting and finance, human resource management, international trade, digital business, project management, logistics, supply chain management, data ana
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001540>)
-
-### 60/100 — REVIEW — International Business Management, Bachelor and Master of Science (Economics and Business Administration) (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: International Business Management is a degree programme offered by the AACSB-accredited Oulu Business School. In this programme, students learn to manage international business in a Nordic style, creativity, and sustainability as their main drivers. The bachelor’s programme in International Business Management is part of a five-year international degree programme consisting of a three-year bachelor’s degree and a two-year master’s degree. When ac
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008820>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, International Business: Business and Talent Development or Sport Business Management, Rovaniemi, Lapland (studies start on autumn 2027)
-
-Lapin ammattikorkeakoulu
-Rovaniemi
-Yhteenveto: You will get a Bachelor’s degree in Business Administration (BBA) with 210 study credits Are you interested in business, leadership, or sports? Do you want to work in an international environment and build a career that matches your passion? At Lapland University of Applied Sciences, the Bachelor of Business and Talent Development & International Sport Business Management offers you the opportunity to explore your interests before choosing your p
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030934>)
 
 ### 60/100 — REVIEW — Business, Bachelor and Master of Science (in Economics and Business Administration) (3 + 2 yrs)
 
@@ -11484,86 +11676,20 @@ Helsinki
 Yhteenveto: The Hanken Bachelor (BSc) in Business programme provides a solid and comprehensive foundation for your personal and professional future. Our generalist programme offers several options for major subjects (i.e., accounting, economics, finance, management and entrepreneurship, and marketing) and provides the tools, know-how, and community to develop into a research-based, practice-oriented, analytical thinker, doer, and leader. Upon graduation, you
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Annual tuition fee is 12000€ for the Bachelor's degree and 15 000€ for the Master's degree studies.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Ulkomainen toisen asteen tutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Suomalainen ylioppilastutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000019556>)
-
-### 60/100 — REVIEW — Vocational Qualification in Tourism Industry, Tredu Tampere 2027
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Matkailualan perustutkinnon suorittanut matkailun asiakaspalvelija työskentelee hotelleissa tai muissa majoitusliikkeissä, valtakunnallisissa, alueellisissa tai paikallisissa matkailun myynti- ja neuvontaorganisaatioissa, matka- tai matkailutoimistoissa, myyntipalveluissa, matkailukeskuksissa, myynti- ja neuvontapisteissä, keskusvaraamoissa, liikenneyhtiöissä tai ohjelmapalveluyrityksissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043391>)
-
-### 60/100 — REVIEW — Bachelor of Beauty and Cosmetics, Beauty Care, daytime studies
-
-Yrkeshögskolan Novia
-Vaasa
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Estenomi on kauneudenhoitoalan asiantuntija. Alan ydinosaamista on koulutusta tarjoavasta ammattikorkeakoulusta riippuen joko kosmetiikka-alan liiketoiminta ja kosmetiikan raaka-ainetietous tai kokonaiskuva kauneudenhoidon ja muodin suuntauksista ja soveltuvuudesta asiakkaille. Estenomi osaa soveltaa tietoaan kehittämis-, tuottamis- ja johtamistyössä sekä työskentelee eettisesti kestävällä pohjalla. Estenomin erit
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010074>)
-
-### 60/100 — REVIEW — Further Vocational Qualification in Entrepreneurship
-
-Omnia
-Espoo
-Yhteenveto: Tutkinnon suorittaneet voivat työskennellä itsenäisenä yrittäjänä, yrittäjämäisessä toiminnassa tai yritysneuvonnan tehtävissä.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043097>)
 
 ### 60/100 — REVIEW — Tradenomi (AMK), Tiimiakatemia, Yrittäjyys ja vastuullisen liiketoiminnan johtaminen, päivätoteutus, kevään 2027 haku
 
@@ -11572,481 +11698,152 @@ Jyväskylä
 Yhteenveto: Haluatko olla vastuullinen tiimiyrittäjä ja kestävän johtamisen asiantuntija? Meillä Tiimiakatemialla sinusta kasvaa rohkea tiimiyrittäjä ja taitava johtaja. Valmistut tradenomiksi kehittämällä tiimiyritystäsi ja omaa osaamistasi yhdessä muiden tiimiyrittäjien kanssa. Käytännön johtamispaikoissa kehität omaa johtamisosaamistasi vaikuttavalla ja kestävällä tavalla. Perustat tiimiyrityksen yhdessä tiimisi kanssa Tiimiakatemiassa toimit osana tiimiä
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043284>)
-
-### 60/100 — REVIEW — Tradenomi (AMK), Tiimiakatemia, Yrittäjyys ja vastuullisen liiketoiminnan johtaminen, päivätoteutus, kevään 2026 haku
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Haluatko olla vastuullinen tiimiyrittäjä ja kestävän johtamisen asiantuntija? Meillä Tiimiakatemialla sinusta kasvaa rohkea tiimiyrittäjä ja taitava johtaja. Valmistut tradenomiksi kehittämällä tiimiyritystäsi ja omaa osaamistasi yhdessä muiden tiimiyrittäjien kanssa. Käytännön johtamispaikoissa kehität omaa johtamisosaamistasi vaikuttavalla ja kestävällä tavalla. Perustat tiimiyrityksen yhdessä tiimisi kanssa Tiimiakatemiassa toimit osana tiimiä
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032283>)
-
-### 60/100 — REVIEW — Yrittäjyys ja yrityksen johtaminen, tuotantotalouden diplomi-insinööri (2 v), Lahti
-
-Lappeenrannan-Lahden teknillinen yliopisto LUT
-Lahti
-Yhteenveto: Yrittäjyys ja yrityksen johtaminen -maisteriohjelmassa perehdyt yrittäjyyden teoreettiseen taustaan, yrittäjyysilmiön eri osa-alueisiin ja yrittäjyyden edistämiseen. Myös yrityksen perustamista sekä yritystoiminnan kehittämistä, uudistamista ja yrityksen kasvua käsitellään ohjelmassa monipuolisesti. Saat erinomaiset valmiudet tunnistaa ja hyödyntää erilaisia liiketoimintamahdollisuuksia ja opit ymmärtämään ja analysoimaan yritysten menestystä. Op
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009367>)
-
-### 60/100 — REVIEW — Luonnonkosmetiikan ja hyvinvointipalveluiden yrittäjyys, 35 osp, osia Luonto- ja ympäristöalan perustutkinnosta - Jatkuva haku
-
-Ammattiopisto Samiedu
-Savonlinna
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041400>)
-
-### 60/100 — REVIEW — Opistovuosi aikuisille – Matkailu- ja yrittäjyyspolku / Tourism and Entrepreneurship Path
-
-Ranuan kristillinen kansanopisto
-Ranua
-Yhteenveto: Koulutus sopii sinulle, joka haluat vahvistaa englanninkielentaitoasi, löytää vahvuuksiasi ja kirkastaa tulevaisuudensuuntaasi. Polku sopii lukion, ammattiopintojen tai armeijan jälkeiseksi siirtymävaiheeksi opiskelu- tai työelämään. Lue lisää
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 53.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007350>)
-
-### 60/100 — REVIEW — Tekstiili- ja muotialan perustutkinto, designtekstiilien valmistaja, 1.8.2026 jatkuva haku
-
-Rasekon ammattiopisto
-Raisio
-Yhteenveto: Tekstiili- ja muotialan perustutkinnon suorittanut työskentelee suuntautumisensa mukaan joko valmistus-, myynti-, markkinointi- tai huoltotehtävissä. Alan työpaikkoja ovat tekstiilimateriaaleja, tekstiilejä, tekstiilituotteita, vaatteita, asusteita tai jalkineita valmistavat yritykset. Lisäksi työpaikkoja on myymälöissä, puvustamoissa, pesuloissa, vuokraamoissa tai muissa palveluyrityksissä. Ompelija (PT) ompelee ja valmistaa tuotteita sarjatuota
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038508>)
-
-### 60/100 — REVIEW — Tekstiili- ja muotialan perustutkinto, mittatilausompelija, 1.8.2026 jatkuva haku
-
-Rasekon ammattiopisto
-Raisio
-Yhteenveto: Tekstiili- ja muotialan perustutkinnon suorittanut työskentelee suuntautumisensa mukaan joko valmistus-, myynti-, markkinointi- tai huoltotehtävissä. Alan työpaikkoja ovat tekstiilimateriaaleja, tekstiilejä, tekstiilituotteita, vaatteita, asusteita tai jalkineita valmistavat yritykset. Lisäksi työpaikkoja on myymälöissä, puvustamoissa, pesuloissa, vuokraamoissa tai muissa palveluyrityksissä. Ompelija (PT) ompelee ja valmistaa tuotteita sarjatuota
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038507>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto, jatkuva haku
-
-Rasekon ammattiopisto
-Raisio
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038306>)
-
-### 60/100 — REVIEW — Hiusalan ammattitaidon päivitys kohti yrittäjyyttä
-
-Vantaan ammattiopisto Varia
-Vantaa
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037858>)
 
 ### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto | yhteishaku | Joensuu
 
 Riveria
 Joensuu
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
+Yhteenveto: Oletko kiinnostunut työskentelemään hiusten- ja kauneudenhoidon parissa? Riverian hius- ja kauneudenhoitoalan perustutkinnossa voit opiskella oman mielenkiintosi mukaan parturi-kampaajaksi, kosmetologiksi tai kosmetiikkaneuvojaksi. Opiskelu on käytännönläheistä ja asiakaspalvelulähtöistä. Käytössäsi ovat nykyaikaiset laitteet ja ammattilaistason tuotesarjat. Parturi-kampaajana olet asiakaspalvelun ammattilainen. Vastaat asiakkaiden hiustoiveisiin
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; EU/ETA-alueen ulkopuolisten kansalaisten lukuvuosimaksu EU/ETA-alueen ulkopuolelta opiskelutarkoituksessa Suomeen tulevan tai tulleen opiskelijan koulutus on maksullista ammatillisen koulutuksen lainsäädäntömuutosten myötä 1.8.2026 alkaen. Maksua ei kuitenkaan peritä tietyin edellytyksin, esimerkiks
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034135>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto, parturi-kampaaja | Joensuu | jatkuva haku
-
-Riveria
-Joensuu
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037438>)
 
 ### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto
 
 Lapin koulutuskeskus REDU
 Rovaniemi
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
+Yhteenveto: Yhteishaussa 2027 hius- ja kauneudenhoitoalan perustutkinnon opiskelupaikoista noin puolet on hiusalalle ja puolet kauneusalalle. Perustutkinnon ohessa voi suorittaa lukio-opintoja ja ylioppilastutkinnon. Parturi tai Kampaaja Työsi on vuorovaikutteista asiakkaalle sopivan palvelukokonaisuuden toteuttamista. Ohjaat asiakastasi yksilöllisen tyylin löytämisessä ja värien käytössä. Suunnittelet, toteutat ja markkinoit hiusten leikkauksia, värjäyksiä,
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Lukuvuosimaksu peritään muilta kuin EU:n jäsenvaltioiden, Islannin, Liechtensteinin, Norjan ja Sveitsin kansalaisilta. Lisätietoa täällä .
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042285>)
-
-### 60/100 — REVIEW — Hius- ja kauneudenhoitoalan perustutkinto - Jatkuva haku
-
-Stadin ammattiopisto
-Helsinki
-Yhteenveto: Kosmetiikkaneuvojat työskentelevät esimerkiksi tavaratalojen, laivojen ja lentokenttien kosmetiikkaosastoilla, apteekeissa tai maahantuojien myynti- ja koulutustehtävissä. Kosmetiikkaneuvojat toimivat yleensä työntekijöinä, mutta voivat toimia myös yrittäjinä. Kosmetologit työskentelevät esimerkiksi kauneushoitoloissa, kylpylöissä, palvelutaloissa, kongressikeskuksissa ja hotelleissa, laivoilla tai tavaratalojen kosmetiikkaosastoilla joko yrittäj
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041678>)
-
-### 60/100 — REVIEW — Insinööri (AMK), Tietotekniikka, monimuotototeutus
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003956>)
-
-### 60/100 — REVIEW — Insinööri (AMK), Tietotekniikka, päivätoteutus
-
-Seinäjoen ammattikorkeakoulu
-Seinäjoki
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Tieto- ja viestintätekniikan tutkinto-ohjelmien koulutus tarjoaa opiskelijalle osaamista ohjelmointiin ja ohjelmistotuotantoon, tietokantojen suunnitteluun, toteuttamiseen ja hyödyntämiseen, tietoverkkoihin ja tietoliikenteeseen, web-teknologiaan ja web-tuotantoon sekä laitteisiin ja järjestelmiin. Tietotekniikan opinnoissa opitaan suunnittelemaan, kehittämään ja käyttämään ihmisten, yritysten ja laitteiden välise
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003955>)
-
-### 60/100 — REVIEW — Liikunnanohjaaja (AMK), monimuotototeutus, Savonlinna
-
-Kaakkois-Suomen ammattikorkeakoulu
-Savonlinna
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liikunnanohjaajakoulutuksessa kaikissa koulutusta tarjoavissa ammattikorkeakouluissa opiskeltavia keskeisiä osaamisalueita ovat liikunnan edistäminen, valmennusosaaminen, työelämän kehittämisosaaminen, liikuntapalvelut ja yrittäjyys sekä vastuullinen johtaminen. Opintojen painotus eri liikunta-alan ammattikorkeakouluissa vaihtelee. Osaamista voi hankkia esimerkiksi kunto- ja terveysliikunnasta sekä hyvinvointivalm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000023898>)
-
-### 60/100 — REVIEW — Liikunnanohjaaja (AMK), päivätoteutus, Savonlinna
-
-Kaakkois-Suomen ammattikorkeakoulu
-Savonlinna
-Yhteenveto: Mitä tutkinnon suorittanut osaa? Liikunnanohjaajakoulutuksessa kaikissa koulutusta tarjoavissa ammattikorkeakouluissa opiskeltavia keskeisiä osaamisalueita ovat liikunnan edistäminen, valmennusosaaminen, työelämän kehittämisosaaminen, liikuntapalvelut ja yrittäjyys sekä vastuullinen johtaminen. Opintojen painotus eri liikunta-alan ammattikorkeakouluissa vaihtelee. Osaamista voi hankkia esimerkiksi kunto- ja terveysliikunnasta sekä hyvinvointivalm
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000463>)
-
-### 60/100 — REVIEW — Magisterprogrammet i sociologi, politices magister (2 år), hösten 2027
-
-Åbo Akademi
-Turku
-Yhteenveto: I magisterprogrammet i sociologi avlägger du en politices magisterexamen i huvudämnet sociologi. Du lär dig använda sociologiska teorier och metoder. Med hjälp av dem känner du igen samhällets utvecklingstrender och klarar av att sätta dem i samband med globala förändringar, med kulturell förändring och med det som sker i individers, gruppers och organisationers liv. Inom ditt huvudämne fördjupar du dig med hjälp av teori och metoder i aktuella f
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042392>)
-
-### 60/100 — REVIEW — Hallintotieteet ja johtaminen, hallintotieteiden tai yhteiskuntatieteiden kandidaatti ja hallintotieteiden tai yhteiskuntatieteiden maisteri (3 v + 2 v)
-
-Lapin yliopisto
-Rovaniemi
-Yhteenveto: Hallintotieteiden ja johtamisen tutkinto-ohjelma antaa sinulle vahvan hallintotieteeseen ja liiketaloustieteeseen perustuvan tietopohjan organisaatioiden ja työyhteisöjen kehittämiseen kestävällä ja oikeudenmukaisella tavalla. Tutkinto-ohjelman opinnot ovat sisällöllisesti monipuolisia ja ainutlaatuisia. Ne tarjoavat sinulle laaja-alaista näkemystä organisaatioiden toimintaan ja kohdentuvat tulevaisuuden työelämän tarpeisiin. Kehität johtamisvalm
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002344>)
-
-### 60/100 — REVIEW — Taloustiede, Kuopio, yhteiskuntatieteiden kandidaatti (3 v)
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Taloustieteen kandidaattiohjelma sopii opiskelijoille, jotka ovat kiinnostuneita yhteiskunnallisista kysymyksistä ja talouden toiminnasta sekä työurasta asiantuntijatehtävissä julkisella tai yksityisellä sektorilla. Kandidaattiohjelma perustuu tieteidenväliseen yhteistyöhön ja tutkimussuuntauksiin, jotka vastaavat nyky-yhteiskunnan monimutkaisiin haasteisiin. Arvostetut taloustieteen tutkijat ovat jo pitkään olleet huolissaan talousjärjestelmän t
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 180.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027999>)
 
 ### 60/100 — REVIEW — Hallintotieteet, hallintotieteiden kandidaatti ja maisteri (3 v + 2 v)
 
 Vaasan yliopisto
 Vaasa
-Yhteenveto: Oletko kiinnostunut kansalaisten hyvinvoinnista ja julkisen vallankäytön haasteista? Kiinnostaako asiantuntijatyö esimerkiksi ministeriössä, kunnassa, hyvinvointialueella tai Euroopan unionissa? Hallintotieteiden ydinosaamisalueita ovat julkisen hallinnon, palveluiden ja aluekehittämisen järjestelmät, niiden johtaminen ja oikeudellinen sääntely sekä yhteiskunnan eri toimintojen kehittäminen. Opiskelemalla hallintotieteitä saat monipuoliset lähtök
+Yhteenveto: Hallintotieteiden ydinosaamisalueita ovat julkisen hallinnon, palveluiden ja aluekehittämisen järjestelmät, niiden johtaminen ja oikeudellinen sääntely sekä yhteiskunnan eri toimintojen kehittäminen. Opiskelemalla hallintotieteitä saat monipuoliset lähtökohdat toimia erilaisissa johtamis- ja esihenkilötehtävissä sekä vaativissa asiantuntija- ja kehittämistehtävissä. Lähtökohtana ovat valmiudet tieteellisen tiedon omaksumiseen, tuottamiseen ja hyö
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS, SOCIAL
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011258>)
 
-### 60/100 — REVIEW — Hallintotieteiden koulutus, Hallintotieteiden kandidaatti ja maisteri (3 v + 2 v), syksy 2027
+### 60/100 — REVIEW — Bachelor's Programme in Liberal Arts and Sciences, Autumn 2027
 
-Tampereen yliopisto
-Tampere
-Yhteenveto: Oletko kiinnostunut kansalaisten hyvinvoinnista ja julkisen vallankäytön haasteista? Kiinnostaako asiantuntijatyö esimerkiksi ministeriössä, kunnassa, hyvinvointialueella tai Euroopan unionissa? Hallintotieteiden ydinosaamisalueita ovat julkisen hallinnon, palveluiden ja aluekehittämisen järjestelmät, niiden johtaminen ja oikeudellinen sääntely sekä yhteiskunnan eri toimintojen kehittäminen. Opiskelemalla hallintotieteitä saat monipuoliset lähtök
-Koulutustyyppi: BACHELOR + MASTER
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Research has conclusively shown that complex global challenges, from climate change to AI and inequality, demand thinkers who can move across disciplines. The Helsinki Liberal Arts and Sciences programme answers this need by leveraging three strengths of the University of Helsinki: research-based teaching, high academic quality, and breadth. By integrating the natural sciences, social sciences, and humanities, the programme helps you develop esse
+Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Avoimen yliopiston opinnot, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ammattitutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen toisen asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +40 kiinnostava aihe: IT, SOCIAL
 - +20 rakentaa IT/liiketalous-taustalle
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038831>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039770>)
+
+### 60/100 — REVIEW — Verkostoissa oppimisen ja osaamisen tutkinto-ohjelma
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Verkostoissa oppimisen ja osaamisen tutkinto-ohjelmasta valmistut monialaiseksi asiantuntijaksi, jolla on ajantasainen erityisosaaminen omalta, ensimmäisen opiskeluvuoden jälkeen valitulta koulutusalalta sekä valmiutta ja kykyä tiimioppimiseen, jatkuvaan oppimiseen sekä muutoskyvykkyyteen erilaisissa tilanteissa. Ensimmäisen vuoden aikana saat kattavan kuvan viidestä koulutusalasta (liiketalous, tietojenkäsittely, sosionomi, medianomi, restonomi)
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007148>)
+
+### 60/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto - Yhteishaku 2027
+
+Ammattiopisto Tavastia
+Hämeenlinna
+Yhteenveto: IT-tukihenkilö Koulutuksessa perehdytään tieto- ja viestintätekniikan perustehtäviin, kuten sovellusohjelmiin, tietoturvaan, järjestelmien käyttöönottoon ja asiakaspalveluun. Tukihenkilö antaa tietoteknistä apua tietokoneiden tai IT-palveluiden käyttäjille erilaisissa teknisissä ongelmissa asiakkaan tiloissa tai etäyhteyden välityksellä. IT-tukihenkilönä työllistyt tieto- ja viestintätekniikkaan liittyvien työasemien, palvelimien sekä verkko- ja 
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia voi tulla oppimateriaaleista, kuten oppikirjoista ja työvälineistä. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville opiskelijoille maksullisia. Lue lisää lukuvuosimaksusta Tavastian sivuilta .
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034169>)
 
 ### 55/100 — REVIEW — Tietojenkäsittelytieteen maisteriohjelma, filosofian maisteri (2 v), kevät 2027
 
@@ -12889,51 +12686,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040038>)
 
-### 55/100 — REVIEW — Avoin yo: Kansainväliset muuttoliikkeet, liikkuvuus ja rajankäynti lv. 2026-2027
+### 55/100 — REVIEW — Bachelor of Business Administration (BBA), Business Management, blended learning / Kokkola
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Tämä opintojakso kuuluu Yhteiskuntapolitiikan perusopintokokonaisuuteen (yhteiskuntatieteet) Sisältö Opintojaksolla tarkastellaan kansainvälisiä muuttoliikkeitä globaaleissa ja paikallisissa konteksteissa. Pohditaan valtiollisten rajojen rakentumista, muuttumista ja merkityksiä sekä rajojen ylityksiä ja rajaseutujen muotoutumista. Lisäksi tehdään huomioita etnisistä ja kulttuurisista rajoista, myös suhteessa opiskelijoiden omiin kokemuksiin. Osaa
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Check this degree programme on our website ! At Centria University of Applied Sciences, our BBA programme offers a hands-on, practical approach to business education. We start from the basics, so you don’t need any previous experience in business studies or work, just a willingness to learn and grow int he business field. Throughout your studies, you will explore a wide range of business topics, including economics, management accounting, environ
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
+Toteutus: HYBRID
 Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Haku: CLOSED
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038171>)
-
-### 55/100 — REVIEW — Open university: Introduction to Social and Public Policy, autumn 2026
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: ONLINE STUDIES! This course is a part of the Basic Studies in Social Sciences. Learning outcomes The students familiarize themselves with key concepts and debates in social and public policy. Upon the completion of the course, they will understand what public policy is, what kinds of functions are associated with the idea of the welfare state, and how public policy is operationalized within contemporary governance. Content Introduction to the fie
-Koulutustyyppi: COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038270>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035517>)
 
 ### 55/100 — REVIEW — Master’s Programme in Engineering of Data-intensive Intelligent Software Systems (EDISS, Erasmus Mundus), Master of Science (Technology) (2 years), 2027
 
@@ -13030,179 +12804,25 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030557>)
 
-### 50/100 — REVIEW — Valtiotieteet ja politiikka
-
-Helsingin Evankelinen opisto
-Helsinki
-Yhteenveto: Haetko opiskelemaan valtiotieteitä yliopistoon? HEOn Valtiotieteiden opintolinjalla perehdyt siihen, miten ihmisryhmät toimivat, kuinka yhteiskunta toimii ja miten kansalainen voi vaikuttaa. Opintovuoden aikana pääset suorittamaan yliopiston perusopintokokonaisuuksia rennon asiantuntevalla opetuksella. Saat selkeän kuvan tieteenalasta ja valmistaudut halutessasi tehokkaasti kevään valintakokeisiin, tai avoimen yliopiston väylähakuun. Tutustumme m
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 38.0 viikkoa
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006967>)
-
-### 50/100 — REVIEW — Valtiotieteet 2026-2027
-
-Laajasalon opisto
-Helsinki
-Yhteenveto: Opintoja on mahdollista suorittaa 61 opintopistettä, mikä vastaa  yliopistossa ensimmäisenä opintovuotena suoritettavia opintoja.  Yliopisto-opinnoilla voit hakea avoimen väylän kautta useaan eri  yliopistoon. Yliopisto-opinnot tehdään Helsingin  yliopiston Valtiotieteellisen tiedekunnan ja Turun yliopiston  Yhteiskuntatieteellisen tiedekunnan vaatimusten mukaisesti sen mukaan,  mitä aineita haluat opiskella. Opiskelemme Valtiotieteiden linjan om
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 61.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036959>)
-
-### 50/100 — REVIEW — Valtiotieteet 2025-2026
-
-Laajasalon opisto
-Helsinki
-Yhteenveto: Opintoja on mahdollista suorittaa 61 opintopistettä, mikä vastaa  yliopistossa ensimmäisenä opintovuotena suoritettavia opintoja.  Yliopisto-opinnoilla voit hakea avoimen väylän kautta useaan eri  yliopistoon. Yliopisto-opinnot tehdään Helsingin  yliopiston Valtiotieteellisen tiedekunnan ja Turun yliopiston  Yhteiskuntatieteellisen tiedekunnan vaatimusten mukaisesti sen mukaan,  mitä aineita haluat opiskella. Opiskelemme Valtiotieteiden linjan om
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 61.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030421>)
-
-### 50/100 — REVIEW — Yhteiskunta- ja valtiotieteet
-
-Alkio-opisto
-Jyväskylä
-Yhteenveto: Lukuvuoden mittaisessa Yhteiskunta- ja valtiotieteiden linjan koulutuksessa saat valmiuksia valintakokeisiin, kehität opiskelu-, viestintä- ja tiedonhankintataitojasi ja voit suorittaa avoimen yliopiston opintoja. Suorittamasi avoimen yliopiston opinnot voit myöhemmin sisällyttää osaksi korkeakouluopintojasi. Opetus on tehokasta ja kannustavaa lähiopetusta pienryhmässä. Vuoden opiskelulla pääset hyvään vauhtiin opinnoissasi. Tarjoamme myös mahdol
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 38.0 viikkoa
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029602>)
-
-### 50/100 — REVIEW — Yhteiskunnallisen muutoksen kandiohjelma, syksy 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Miten globaalia eriarvoisuutta vähennetään, ja miten nykymaailma on historiallisesti rakentunut? Yhteiskunnallisen muutoksen kandiohjelmassa Helsingin yliopistossa perehdyt globaaliin kehitystutkimukseen, poliittiseen historiaan, sosiaali- ja kulttuuriantropologiaan sekä talous- ja sosiaalihistoriaan. Opit analysoimaan yhteiskunnallisia muutoksia ja jatkuvuuksia eri puolilla maailmaa ja näet, miten talous, politiikka ja kulttuuri kietoutuvat ihmi
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041392>)
-
-### 50/100 — REVIEW — Politiikan ja viestinnän tutkimus
-
-Työväen Akatemia
-Kauniainen
-Yhteenveto: Politiikka ja viestintä - väylä yliopistoon Kiinnostaako yhteiskunnallinen vaikuttaminen, politiikka, kansainväliset suhteet, viestintä, media ja kulttuuri tai kenties poliittinen historia? Aloita politiikan ja viestinnän opinnot Akatemiassa ja valmentaudu pääsykokeisiin. Avoin väylä : Opiskele avoimessa väylässä vaadittavat perusopinnot sekä kieliopinnot . Vuoden aikana voit suorittaa  kahdet avoimen yliopiston perusopinnot. Opiskelu Työväen Aka
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 53.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007380>)
-
-### 50/100 — REVIEW — Bachelor's Programme in Liberal Arts and Sciences, Autumn 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: The Bachelor's Programme in Liberal Arts and Sciences at the University of Helsinki combines select disciplines across one of the world’s top 1% universities. You'll get a crash course on how the natural sciences, social sciences, computing and humanities produce knowledge, and sample from them to find a combination that suits you. The English-language degree opens pathways to many master's programmes and to careers that reward bridging fields.
-Koulutustyyppi: UNIVERSITY DEGREE
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039770>)
-
 ### 50/100 — REVIEW — Yhteiskuntatieteet (sosiaalipedagogiikka, sosiologia, yhteiskuntapolitiikka), Joensuu, yhteiskuntatieteiden kandidaatti ja maisteri (3 v + 2 v)
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Kiinnostavatko sinua työhön, talouteen, koulutukseen, kansalaisuuteen, hoivaan, arkeen, muuttoliikkeisiin, yhteiskunnalliseen valtaan, sukupuoleen, kulttuurienvälisyyteen tai kestävään tulevaisuuteen liittyvät kysymykset? Jos vastasit kyllä edellä olevaan kysymykseen, voi yhteiskuntatieteet olla juuri sinulle sopiva ala. Yhteiskuntatieteiden opiskelijana vahvistat yhteisöllistä ja yhteiskunnallista osaamistasi sekä perehdyt monialaisesti yhteisku
+Yhteenveto: Opintojen aikana tehdään yhteiskuntatieteiden kandidaatin (3 vuotta) sekä yhteiskuntatieteiden maisterin (2 vuotta) tutkinnot. Yhteiskuntatieteiden kandidaatin tutkinto rakentuu sosiologian ja yhteiskuntapolitiikan ja sosiaalipedagogiikan tieteenalaopinnoista. Opetus sisältää yhteiskuntatieteiden perusvalmiudet: tärkeimmät teoriat, tiedonhankinnan menetelmät ja yhteiskuntatieteellisen ajattelutavan. Näitä sovelletaan yhteiskunnallisesti keskeisii
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028003>)
 
@@ -13210,87 +12830,43 @@ Miksi / huomioitavaa:
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
 Lappeenranta
-Yhteenveto: Yhteiskuntatieteiden osaajana ymmärrät ihmisten, yhteisöjen ja yhteiskunnan toimintaa eri näkökulmista. Autat organisaatioita tekemään kestävämpiä ja yhteiskunnallisesti vastuullisempia ratkaisuja. Yhteiskuntatiede on yhteiskuntaa ja sosiaalisia suhteita tutkiva tieteenala. Yhteiskuntatieteissä tarkastellaan yhteiskuntien muotoutumista ja rakenteita globaalilla, kansallisella ja paikallisella tasolla. Tarkastelun kohteena ovat sekä yhteiskuntien 
+Yhteenveto: Yhteiskuntatieteissä kiinnostus kohdistuu ennen kaikkea ihmiseen: miten ihmiset, ryhmät ja yhteisöt toimivat? Miten ne ovat vuorovaikutuksessa toistensa kanssa ja miten erilaiset yhteiskunnalliset ilmiöt ja mekanismit vaikuttavat niiden toimintaan? LUTin yhteiskuntatieteiden koulutuksessa tarkastellaan yhteiskunnan ja ihmisten toimintaa suhteessa yhteiskunnalliseen murrokseen ja maailmanlaajuisiin kestävyysongelmiin, joihin kehitämme ratkaisuja y
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010302>)
-
-### 50/100 — REVIEW — Yhteiskuntatieteiden ja filosofian kandidaatti- ja maisteriohjelma, yhteiskuntatieteiden kandidaatti ja maisteri (3 v + 2 v), kevät 2027
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Yhteiskuntatieteiden ja filosofian opinnoissa opit ymmärtämään, selittämään ja tulkitsemaan yhteiskuntaa, nyky-yhteiskunnan ilmiöitä ja inhimillistä toimintaa. Opit etsimään luovia ratkaisuja yhteiskunnallisiin laaja-alaisiin ja monitahoisiin kysymyksiin sekä saat välineitä analysoida niitä. Osallistut uutta tietoa luovaan toimintaan ja sovellat tietoa itsenäisesti ja yhteistyössä muiden kanssa. Laaja-alaisten opintojen kautta tarkastellaan erila
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043320>)
-
-### 50/100 — REVIEW — Yhteiskuntatieteiden ja filosofian kandidaatti- ja maisteriohjelma, yhteiskuntatieteiden kandidaatti ja maisteri (3 v + 2 v), syksy 2027
-
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Yhteiskuntatieteiden ja filosofian opinnoissa opit ymmärtämään, selittämään ja tulkitsemaan yhteiskuntaa, nyky-yhteiskunnan ilmiöitä ja inhimillistä toimintaa. Opit etsimään luovia ratkaisuja yhteiskunnallisiin laaja-alaisiin ja monitahoisiin kysymyksiin sekä saat välineitä analysoida niitä. Osallistut uutta tietoa luovaan toimintaan ja sovellat tietoa itsenäisesti ja yhteistyössä muiden kanssa. Laaja-alaisten opintojen kautta tarkastellaan erila
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039998>)
 
 ### 50/100 — REVIEW — Kestävyysmurroksen politiikka, Joensuu, yhteiskuntatieteiden kandidaatti (3 v)
 
 Itä-Suomen yliopisto
 Joensuu
-Yhteenveto: Kestävyysmurroksen politiikka kandidaattiohjelma tarjoaa laaja-alaista yhteiskuntatieteellistä osaamista ympäristöpolitiikan, kestävyysmurroksen ja kestävän kehityksen tehtäviin. Tarkastelussa on mm. kestävyysmurroksen piirteet, mahdollisuudet ja sen aiheuttamat yhteiskunnalliset vaikutukset, ilmastopolitiikan kehitys, ympäristöohjauksen keinot, luonnonvarojen käytön kestävyys, luontopolitiikka ja luonnon ennallistaminen, yritysten yhteiskuntavas
+Yhteenveto: Kokonaisuudessaan Kestävyysmurroksen politiikka kandidaattitutkinto tarjoaa laaja-alaista yhteiskuntatieteellistä osaamista ympäristöalan, kestävän kehityksen ja kestävyysmurroksen tehtäviin. Nämä tehtävät edellyttävät monitieteistä tietoa ja ymmärtämystä yhteiskunnasta, politiikasta ja taloudesta. Nykyisin tarvitaan myös suunnittelu- ja päätöksentekoprosessien ja ympäristöohjauksen hallintaa monilla eri tasoilla paikallisyhteisöistä Euroopan Uni
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 180.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042964>)
 
@@ -13301,18 +12877,18 @@ Tampere
 Yhteenveto: Are you interested in helping to create the sustainable cities of the future? The world is facing key challenges such as a changing climate, biodiversity loss, social justice issues, and poverty, and cities are key arenas for addressing these challenges. Tampere University’s Sustainable Urban Development Bachelor’s degree programme teaches the new generation of experts to apply multidisciplinary expertise to help address these challenges and deve
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee.The tuition fee for the following Master’s Programme is 12 000 euros per academic year for non-EU/EEA students. For more information, please see Tuition Fe
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042182>)
 
@@ -13323,42 +12899,20 @@ Tampere
 Yhteenveto: Contemporary societies are increasingly confronted with wicked problems. Innovative service solutions are needed to address the financial pressures associated with ageing populations. Cross-disciplinary thinking is essential for tackling the social challenges related to climate change. In the Bachelor's Programme in Socially Sustainable Societies, the ideas and building blocks of well-being and health, past and present, are examined to support th
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee.The tuition fee for the following Master’s Programme is 12 000 euros per academic year for non-EU/EEA students. For more information, please see Tuition Fe
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042186>)
-
-### 50/100 — REVIEW — Poliittinen historia ja valtio-oppi 50-75 op
-
-Työväen Akatemia
-Kauniainen
-Yhteenveto: Miksi opiskella poliittista historiaa ja valtio-oppia Työväen Akatemiassa? Kiinnostaako yhteiskunnallinen vaikuttaminen, politiikka, viestintä, media ja kulttuuri tai kenties poliittinen historia? Aloita poliittisen historian ja valtio-opin opinnot Akatemiassa ja valmentaudu pääsykokeisiin. Opiskele avoimessa väylässä vaadittavat perusopinnot sekä kieliopinnot . Vuoden aikana voit suorittaa  kahdet avoimen yliopiston perusopinnot. Opiskelu Työväe
-Koulutustyyppi: vapaa-sivistystyo-muu
-Laajuus: 53.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029238>)
 
 ### 50/100 — REVIEW — Administrative Sciences, Sustainable Urban Development, Bachelor and Master of Administrative Sciences (3 + 2 yrs), autumn 2027
 
@@ -13367,18 +12921,18 @@ Tampere
 Yhteenveto: Are you interested in helping to create the sustainable cities of the future? The world is facing key challenges such as a changing climate, biodiversity loss, social justice issues, and poverty, and cities are key arenas for addressing these challenges. Tampere University’s Sustainable Urban Development Bachelor’s degree programme teaches the new generation of experts to apply multidisciplinary expertise to help address these challenges and deve
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: UNKNOWN — tarkista koulutuksen sivulta
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UNKNOWN
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Students from outside the EU, EEA and Switzerland who study in bachelor’s or master’s programmes taught in English are liable to pay tuition fee.The tuition fee for the following Master’s Programme is 12 000 euros per academic year for non-EU/EEA students. For more information, please see Tuition Fe
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: SOCIAL
 - +10 vastaa yhteiskunnallista kiinnostusta
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042180>)
 
@@ -13476,6 +13030,78 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033074>)
+
+### 45/100 — REVIEW — Politiikan ja viestinnän tutkimus
+
+Työväen Akatemia
+Kauniainen
+Yhteenveto: Politiikka ja viestintä Kiinnostaako yhteiskunnallinen vaikuttaminen, politiikka, kansainväliset suhteet, viestintä, media ja kulttuuri tai kenties poliittinen historia? Aloita politiikan ja viestinnän opinnot Akatemiassa ja valmentaudu pääsykokeisiin. Opiskele avoimessa väylässä vaadittavat perusopinnot sekä kieliopinnot . Vuoden aikana voit suorittaa  kahdet avoimen yliopiston perusopinnot. Opiskelu Työväen Akatemiassa on päätoimista ja oikeutt
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 53.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 2790.0 (lähteen summa; tarkista ehdot) ; x
+Toteutus: ON_SITE / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2024-08-04T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007380>)
+
+### 45/100 — REVIEW — Poliittinen historia ja valtio-oppi 50-75 op
+
+Työväen Akatemia
+Kauniainen
+Yhteenveto: Poliittinen historia ja valtio-oppi Kiinnostaako yhteiskunnallinen vaikuttaminen, politiikka, kansainväliset suhteet tai kenties poliittinen historia? Miksi opiskella poliitista historiaa tai valtio-oppia Työväen Akatemiassa? Aloita poliittisen historian ja valtio-opin opinnot Akatemiassa ja valmentaudu pääsykokeisiin. Opiskele avoimessa väylässä vaadittavat perusopinnot sekä kieliopinnot . Vuoden aikana voit suorittaa  kahdet avoimen yliopiston 
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 53.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 2790.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-06T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029238>)
+
+### 45/100 — REVIEW — Avoin yo, Digitaalisen maailman mahdollisuudet - kokijasta tekijäksi
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Kattava ja innostava johdatus IT-alan monipuolisiin mahdollisuuksiineri näkökulmista. Aiheita käsitellään eri tavoin painottaen visuaalisuutta. Materiaalit vaihtelevat videohaastatteluista tutkimusotteisiinsekä infograafeihin, joiden avulla erilaiset oppijat voivat sisäistää oppimaansa eri keinoin Kurssi on suunniteltu kaikill
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla. Hinta on pääsääntöisesti 20 euroa/opintopiste.
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032648>)
 
 ### 40/100 — REVIEW — Tradenomi (AMK), Tietojenkäsittelyn tutkinto-ohjelma, päivätoteutus
 
@@ -13923,3 +13549,278 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040757>)
+
+### 40/100 — REVIEW — Toimivan tiimin johtaminen / 27.10.2026 PomoPRO
+
+Hyria koulutus Oy
+Riihimäki
+Yhteenveto: Koulutus toteutetaan lähiopetuksena Hyrian kampuksella. Sisältö: Onnistuneen tiimin rakentaminen Yksikön tiimiin samaistumisen tukeminen Osaamisen ja erilaisuuden hyödyntäminen Ryhmädynamiikka Tiimin roolit Yhteisöohjautuvuus ja vuorovaikutus Tiimiin samaistuminen Tiiminä kasvu
+Koulutustyyppi: amm-muu
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 150.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-14T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040765>)
+
+### 40/100 — REVIEW — Erillishaku syksy 2026: Tradenomi (AMK), International Business, englanninkielinen päivätoteutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: International Business (IB) -tutkinto-ohjelma – Vastuullisille tulevaisuuden kansainvälisen liiketoiminnan johtajille Vastuullisena tulevaisuuden kansainvälisen liiketoiminnan johtajana tulet kehittämään luovia ja kestäviä ratkaisuja maailmanlaajuisiin liiketoiminnan haasteisiin ja luomaan uusia liiketoimintamahdollisuuksia kansainvälisillä markkinoilla. Tulet johtamaan liiketoimintaa tehokkaasti, eettisesti ja vastuullisesti. International Busin
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038236>)
+
+### 40/100 — REVIEW — Bachelor of Business Administration (BBA), Business Management, daytime studies / Kokkola
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Check this degree programme on our website ! Do you want to become an expert in business management? We offer a bachelor’s degree programme that focuses on entrepreneurship and international business. During your studies, you will take professional business courses such as CRM, business law, international marketing, ERP, international economics, organizational development, and global business studies, just to mention a few. You will also learn to
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003902>)
+
+### 40/100 — REVIEW — Bachelor of Business Administration, International Business through online path
+
+Yrkeshögskolan Arcada
+Helsinki
+Yhteenveto: Would you like to study sustainable business and management in a truly international setting? Are you looking to gain skills in the latest digital tools that prepare you for a career in modern business life? Then the bachelor’s degree programme International Business at Arcada is for you! In this programme you will learn how to develop sustainable solutions for growth in today’s global economy. With AI and industry-relevant digital tools and busi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 4900.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee of €9,800/year for non-EU/EEA citizens. The spring semester of 2027 is €4,900. More information on tuition fees is available on Arcada's web page.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-28T11:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038570>)
+
+### 40/100 — REVIEW — Bachelor of Beauty and Cosmetics, Beauty Care, daytime studies
+
+Yrkeshögskolan Novia
+Vaasa
+Yhteenveto: A Bachelor of Beauty and Cosmetics affects human inner well-being by working with external conditions, i.e. appearance. A Bachelor of Beauty and Cosmetics creates aesthetic and visual looks for customers or models according to the task at hand and creates content for social media, for example. The goal is to influence customers' inner well-being through beauty, style, fashion, care and health within the industry. A Bachelor of Beauty and Cosmetic
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; The studies are free for EU/EEA citizens. Tuition fee for non-EU/EEA students is set to 10 000 euro for the academic year 2026-2027 (Bachelor). Read more about tuition fee here.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010074>)
+
+### 40/100 — REVIEW — Tradenomi (AMK), Tiimiakatemia, Yrittäjyys ja vastuullisen liiketoiminnan johtaminen, päivätoteutus, kevään 2026 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Haluatko olla vastuullinen tiimiyrittäjä ja kestävän johtamisen asiantuntija? Meillä Tiimiakatemialla sinusta kasvaa rohkea tiimiyrittäjä ja taitava johtaja. Valmistut tradenomiksi kehittämällä tiimiyritystäsi ja omaa osaamistasi yhdessä muiden tiimiyrittäjien kanssa. Käytännön johtamispaikoissa kehität omaa johtamisosaamistasi vaikuttavalla ja kestävällä tavalla. Perustat tiimiyrityksen yhdessä tiimisi kanssa Tiimiakatemiassa toimit osana tiimiä
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032283>)
+
+### 40/100 — REVIEW — Opistovuosi aikuisille – Matkailu- ja yrittäjyyspolku / Tourism and Entrepreneurship Path
+
+Ranuan kristillinen kansanopisto
+Ranua
+Yhteenveto: Matkailu- ja yrittäjyyspolku / Tourism and Entrepreneuship Path Koe pohjoinen – rakenna tulevaisuus Matkailu- ja yrittäjyyspolulla opitaan suunnittelemaan ja toteuttamaan tapahtumia ja projekteja yhdessä muiden opiskelijoiden ja paikallisten toimijoiden kanssa. Opinnot ovat käytännönläheisiä ja projektiluontoisia, ja ne toteutetaan pääosin englannin kielellä monikulttuurisessa ryhmässä. Polulla vahvistuvat yrittäjämäinen asenne, yhteistyötaidot j
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 53.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 4100.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-07-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007350>)
+
+### 40/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto - Jatkuva haku 2026
+
+Ammattiopisto Tavastia
+Hämeenlinna
+Yhteenveto: IT-tukihenkilö Koulutuksessa perehdytään tieto- ja viestintätekniikan perustehtäviin, kuten sovellusohjelmiin, tietoturvaan, järjestelmien käyttöönottoon ja asiakaspalveluun. Tukihenkilö antaa tietoteknistä apua tietokoneiden tai IT-palveluiden käyttäjille erilaisissa teknisissä ongelmissa asiakkaan tiloissa tai etäyhteyden välityksellä. IT-tukihenkilönä työllistyt tieto- ja viestintätekniikkaan liittyvien työasemien, palvelimien sekä verkko- ja 
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia voi tulla oppimateriaaleista, kuten oppikirjoista ja työvälineistä. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville opiskelijoille maksullisia. Lue lisää lukuvuosimaksusta Tavastian sivuilta .
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035649>)
+
+### 35/100 — LOW — Open university: Introduction to Social and Public Policy, autumn 2026
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Modes of study The course is a self-study online course in the Moodle learning environment. Online course include lecture recordings and/or written materials. Based on the literature, various written assignments are given. Schedule The course is open from 6 August 2026 to 11 December 2026. Open University registration is available from 6 August 2026 to 1 November 2026 via the UEF website, Opintopolku.fi, and Opin.fi. Study materials The course ma
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; The study fee for individual courses is 20 e/ECTS credit and 15 e/ECTS credit for study modules. This price holds for the academic year 2026–2027. For more information on study fees and payment and cancellation terms, please see: Registration, study fees and right to study | University of Eastern Fi
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-01T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038270>)
+
+### 30/100 — LOW — Valtiotieteet ja politiikka
+
+Helsingin Evankelinen opisto
+Helsinki
+Yhteenveto: Valtiotieteiden linjan lukuvuoteen sisältyy kaksi perusopintokokonaisuutta, jotka voit valita seuraavista vaihtoehdoista: Sosiaalipsykologia Itä-​Suomen yliopiston opintovaatimusten mukaisesti, Politiikka ja organisaatiot Helsingin yliopiston opintovaatimusten mukaisesti, sekä Psykologia (25 op) Turun yliopiston opintovaatimusten mukaisesti. Opiskelijat laativat opettajan opastuksella henkilökohtaisen opiskelusuunnitelman. Opiskelutavat ovat moni
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 38.0 viikkoa
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 3550.0 (lähteen summa; tarkista ehdot) ; Opiskelu HEOssa on päätoimista. Opiskelijoilla on oikeus hakea Kelan opintotukea. Lukuvuoden hinta on 3550 € (sis. 119 €:n kirjautumismaksun). Voidaan maksaa myös erissä: Kirjautumismaksu 119 euroa, joka peritään aina opintojen alkaessa. Maksuerät 1-7 (syyskuusta maaliskuuhun), á 448 €. Maksuerä 8 (
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-07-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006967>)
+
+### 30/100 — LOW — Valtiotieteet 2026-2027
+
+Laajasalon opisto
+Helsinki
+Yhteenveto: Valtiotieteiden linjalla suoritat monipuolisesti avoimia yliopisto-opintoja. Voit vapaasti valita kahden yliopistoaineen perusopinnot seuraavista: politiikka ja organisaatiot sosiaalitieteet viestintä yhteiskunnallinen muutos Lisäksi voit suorittaa avoimen väylään vaadittavat kieliopinnot Valtiotieteiden opintoja on mahdollista suorittaa 61 opintopistettä , mikä vastaa yliopistossa ensimmäisenä opintovuotena suoritettavia opintoja. Yliopisto-opin
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 61.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 3790.0 (lähteen summa; tarkista ehdot) ; Maksu on mahdollista jakaa useampaan maksuerään.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-09T23:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036959>)
+
+### 30/100 — LOW — Valtiotieteet 2025-2026
+
+Laajasalon opisto
+Helsinki
+Yhteenveto: Valtiotieteiden linjalla suoritat monipuolisesti avoimia yliopisto-opintoja. Voit vapaasti valita kahden yliopistoaineen perusopinnot seuraavista: politiikka ja organisaatiot sosiaalitieteet viestintä yhteiskunnallinen muutos Lisäksi voit suorittaa avoimen väylään vaadittavat kieliopinnot Valtiotieteiden opintoja on mahdollista suorittaa 61 opintopistettä , mikä vastaa yliopistossa ensimmäisenä opintovuotena suoritettavia opintoja. Yliopisto-opin
+Koulutustyyppi: vapaa-sivistystyo-muu
+Laajuus: 61.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 3790.0 (lähteen summa; tarkista ehdot) ; Maksu on mahdollista jakaa useampaan maksuerään.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2025-08-12T23:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030421>)
