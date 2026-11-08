@@ -2719,6 +2719,78 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035930>)
 
+### 90/100 — STRONG — DISCO - Dataa, digiä ja tekoälyä töihin
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: DISCO-hanke tarjoaa maksuttomia etäkoulutuksia työelämän tarpeisiin. Räätälöimme työyhteisölle sopivan opintokokonaisuuden varmistamaan organisaation tulevaisuuskyvykkyyden. Onko työyhteisössänne tarvetta kehittää digi- ja tekoälytaitoja? DISCO-hanke auttaa maksutta teille sopivan opintokokonaisuuden räätälöinnissä ja tarjoaa maksuttomat etäopinnot henkilöstöllenne. Millaisissa tilanteissa voimme auttaa? Onko asiantuntijoillanne tarvetta osata oh
+Koulutustyyppi: COURSE
+Laajuus: 20.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035894>)
+
+### 90/100 — STRONG — Insinööri (ylempi AMK), älykäs robotiikka ja konenäkö
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Älykäs robotiikka ja konenäkö on työelämälähtöinen ylemmän ammattikorkeakoulututkinnon koulutus, joka syventää osaamistasi robotiikan, tekoälyn, konenäön ja automaation nopeasti kehittyvillä osaamisalueilla. Koulutus tarjoaa valmiuksia hyödyntää uusia teknologioita organisaatioiden kehittämisessä, liiketoiminnan uudistamisessa sekä uusien tuotteiden ja palveluiden suunnittelussa. Tutkinto soveltuu erityisesti teknologia-alan asiantuntijoille, jot
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043496>)
+
+### 90/100 — STRONG — Strategisen myynnin maisteriohjelma, kauppatieteiden maisteri (2 v), Lahti
+
+Lappeenrannan-Lahden teknillinen yliopisto LUT
+Lahti
+Yhteenveto: Jokainen yritys tarvitsee osaavia myynnin ammattilaisia, koska myynti tuo yrityksille rahaa. Siksi myyntityötä ja myynnin johtamista kannattaa kehittää strategisesti. Kovassa kilpailussa menestyvät sellaiset myyntiorganisaatiot, jotka osaavat tuottaa asiakkaalle arvoa. Kiihtyneen digitalisaation ja globaalin kilpailun vuoksi on entistä tärkeämpää, että myyntiä tehdään toimivan myyntiprosessin, tarpeellisten teknologioiden ja osaavan myyntihenkilö
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025527>)
+
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
@@ -4769,6 +4841,147 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043626>)
+
+### 85/100 — STRONG — Tekoälyn hyödyntäminen työprosessissa 15 osp
+
+Etelä-Savon ammattiopisto
+Mikkeli
+Yhteenveto: Tekoäly työn tukena – tehokkuutta ja oivalluksia Tekoälyn hyödyntäminen työprosessissa (15 osaamispistettä) on yksi tutkinnon osa tieto- ja viestintätekniikan ammattitutkinnosta. Haluatko oppia hyödyntämään tekoälyä oman työsi tukena? Tämä joustava verkkokoulutus antaa sinulle selkeän ymmärryksen siitä, miten generatiiviset tekoälytyökalut toimivat ja miten niitä voi käyttää tehokkaasti ja vastuullisesti erilaisissa työtehtävissä. Koulutuksessa t
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Opetus on maksuton Suomen sekä EU:n tai ETA-alueen jäsenmaan kansalaisille. Lukuvuosimaksut otetaan Suomessa käyttöön 1.8.2026 alkaen ammatillisessa koulutuksessa opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta (ns. kolmansien maiden kansalaiset). Kolmannen maan kansalaisella tarkoiteta
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-01-24T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041512>)
+
+### 85/100 — STRONG — Tekoälyn hyödyntäminen työprosessissa - tutkinnon osa, jatkuva haku
+
+Sataedu
+Kokemäki
+Yhteenveto: Lisätietoja tekoälyn hyödyntäminen työprosessissa -tutkinnon osasta sekä haku koulutukseen osoitteessa: Sataedu/Tekoälyn hyödyntäminen työprosessissa Tekoälyosaamista työpäivääsi – verkkokoulutus Tekoäly on jo osa työelämää – haluatko päivittää osaamisesi ja hyödyntää tekoälyä niin, että se näkyy työssäsi ajansäästönä, selkeytenä ja sujuvampana työnä? Koulutuksessa opit käyttämään tekoälyä käytännön työtehtävissäsi. Tunnistat, missä tekoäly tuo h
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Koulutusmaksu 100 €, oppisopimuskoulutus on maksuton Koulutusmaksun lisäksi ETA/EU maiden ulkopuolelta tulevilta opiskelijoiksi hyväksytyiltä peritään lukuvuosimaksu. Lisätietoja lukuvuosimaksusta löydät osoitteesta: https://sataedu.fi/hakijalle/lukuvuosimaksut/
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-01-17T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042676>)
+
+### 85/100 — STRONG — Myynnin ja asiakaspalvelun suunnittelu ja toteuttaminen -verkkototeutus
+
+Ammattiopisto Gradia
+Jyväskylä
+Yhteenveto: Myynnin ja asiakaspalvelun suunnittelun ja toteuttamisen opinnot sopivat henkilölle, joka haluaa syventää myynti- ja asiakaspalveluosaamistaan asiantuntijatasolle. Koulutus antaa valmiudet suunnitella ja toteuttaa myyntiä ja asiakaspalvelua asiakaslähtöisesti. Opiskelija oppii kartoittamaan asiakkaiden tarpeita, esittelemään ja perustelemaan tuotteita ja palveluita, tekemään myynti- ja asiakaspalvelusuunnitelmia sekä toimimaan yhteistyössä asiakk
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Syksy 2026
+Hinta: maksullinen: 190.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 8100.0 (lähteen summa; tarkista ehdot) ; Oppisopimuskoulutus on opiskelijalle maksutonta. Lukuvuosimaksut EU- ja ETA-alueen ulkopuolisille opiskelijoille 1.8.2026 alkaen: • 1. elokuuta 2026 alkaen Suomessa otetaan käyttöön lukuvuosimaksut toisen asteen opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta. • Lukuvuosimaksu koskee op
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036562>)
+
+### 85/100 — STRONG — Liiketoiminnan ammattitutkinto, myynnin ja markkinointiviestinnän osaamisala - Jatkuva haku
+
+Kouvolan Ammattiopisto Eduko
+Kouvola
+Yhteenveto: Liiketoiminnan ammattitutkinnon myynnin ja markkinointiviestinnän osaamisalan suorittaneella on osaamista myynnistä, markkinoinnista tai näistä molemmista. Hän osaa suunnitella ja toteuttaa myyntiä sekä markkinointia, seurata toimenpiteiden tuloksellisuutta ja kehittää asiakaskokemusta. Kenelle Liiketoiminnan ammattitutkinto on tarkoitettu henkilöille, jotka tekevät myynti- ja asiakaspalvelutyötä tai ovat siirtymässä myynti ja asiakaspalvelutyöhö
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035196>)
+
+### 85/100 — STRONG — Liiketoiminnan ammattitutkinto, jatkuva haku
+
+Sasky Huittisten ja Kokemäen oppilaitos
+Huittinen
+Yhteenveto: Haku, koulutus- ja hakuajankohdat sekä lisätiedot nettisivuilta: HuKo Huittinen Huittisten ja Kokemäen oppilaitoksen Huittisten toimipisteessä voit suorittaa seuraavia liiketoiminnan ammattitutkinnon opintoja: Myynnin ja markkinointiviestinnän osaamisala Digitaalinen markkinointi ja tekoäly Markkinointiassistentti Liiketoiminnan palveluiden osaamisala Terveydenhuollon sihteeri ja tekoäly Taloushallinnon osaamisala Taloushallinnon osaaja Taloushal
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: maksullinen: 250.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6000.0 (lähteen summa; tarkista ehdot) ; Opiskelumaksu 250€. Lukuvuosimaksu koskee vain EU- ja ETA-​alueen ulkopuolelta tulevia opiskelijoita (ns. kolmansien maiden kansalaiset). Lukuvuosimaksu määräytyy kansalaisuuden lisäksi oleskeluluvan perusteella.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006374>)
+
+### 85/100 — STRONG — Liiketoiminnan erikoisammattitutkinto
+
+Hyria koulutus Oy
+Hyvinkää
+Yhteenveto: Koulutus toteutetaan monimuoto-opiskeluna. Koulutus sisältää lähiopetusta, työpaikalla järjestettävää koulutusta ja verkko-opiskelua sekä itsenäisesti että Teams-järjestelmän kautta. Opiskelijalla tulee olla käytössään tietokone, toimiva sähköpostiosoite ja internetyhteys. Koulutuksen alussa käydään jokaisen hakijan kanssa henkilökohtainen keskustelu, jossa kartoitetaan opiskelijan sen hetkinen osaaminen ja ammattitaito. Lähtötilannekartoituksen 
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: maksullinen: 800.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040947>)
 
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
@@ -6971,6 +7184,121 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039882>)
 
+### 75/100 — STRONG — Information Networks, Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Aikamme suuria haasteita tiedon manipuloinnista algoritmiseen johtamiseen ja geopoliittisiin jännitteisiin yhdistää yksi piirre: ne ovat monimutkaisia yhteiskunnallisia ilmiöitä, joiden ratkaiseminen vaatii monitieteistä lähestymistapaa, jossa tunnistetaan asioiden laajemmat yhteydet. Master's Programme in Information Networks -maisteriohjelmassa yhdistyvät tietotekniikka, yhteiskuntatieteet ja organisaatiotutkimus. Se tarjoaa opiskelijoille katt
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008121>)
+
+### 75/100 — STRONG — Datatieteen maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Datatiede muuttaa jokaista alaa genomiikasta ja ilmastomalleista rahoitukseen ja kaupunkisuunnitteluun. Ohjelmassamme kehität syvällisen ymmärryksen nykyaikaisten data-analyysimenetelmien taustalla olevista periaatteista: koneoppimisesta, tilastollisesta päättelystä, algoritmeista ja laskentainfrastruktuurista. Opit paitsi soveltamaan näitä menetelmiä myös ymmärtämään, miten ja miksi ne toimivat. Näin pystyt suunnittelemaan ratkaisuja täysin uusi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Alempi korkeakoulututkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039878>)
+
+### 75/100 — STRONG — Tilastotiede, maisteri (2 v)
+
+Turun yliopisto
+Turku
+Yhteenveto: Tilastotieteen FM- tutkinnossa syvennetään aiemmissa opinnoissa hankittua tilastotieteen osaamista. Vaikka tilastotieteen teoreettinen perusta liittyy vahvasti matematiikkaan ja erityisesti todennäköisyyslaskentaan, ovat tilastollisen päättelyn teorian eri lähestymistavat kehittyneet vuorovaikutuksessa soveltavien tieteiden kanssa. Lisäksi nyt erinäiset suositut laskennalliset ja koneoppimiseen liittyvät menetelmät rakentuvat pitkälti tilastotiet
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002324>)
+
+### 75/100 — STRONG — Matematiikka, maisteri (2 v)
+
+Turun yliopisto
+Turku
+Yhteenveto: Matematiikan FM- tutkinnossa aiemmissa opinnoissa hankittua osaamista matematiikassa syvennetään seuraavilla linjoilla. Matematiikan linjalla opinnot koostuvat matematiikan keskeisten osa-alueiden kursseista ja erityisesti laitoksen painopistealojen (diskreetti matematiikka, analyyttinen lukuteoria) kursseista. Opinnot antavat valmiudet matematiikan jatko-opintoihin sekä toimimiseen matemaattisesti vaativissa asiantuntijatehtävissä, esimerkiksi I
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002256>)
+
+### 75/100 — STRONG — Uusiutuvien luonnonvarojen kestävän käytön teknologiat -maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Uusiutuvat luonnonvarat ovat avainasemassa monien globaalien haasteiden ratkaisemisessa: ruokaturvasta ja ilmastonmuutoksesta kiertotalouteen ja ruoka- ja metsäjärjestelmien kokonaisvaltaisen kestävyyden edistämiseen. Tässä maisteriohjelmassa opit hyödyntämään teknologioita uusiutuvien luonnonvarojen alalla ja hallitsemaan alan tuotantoprosesseja sekä järjestelmiä kestävyyden periaatteet huomioon ottaen. Valitset erikoistumisalan järjestelmien ma
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039901>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -9013,6 +9341,99 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038104>)
 
+### 70/100 — STRONG — Tieto- ja viestintätekniikan perustutkinto - OPPISOPIMUS 2026
+
+Ammattiopisto Tavastia
+Hämeenlinna
+Yhteenveto: Tieto- ja viestintätekniikan perustutkinnossa voit suuntautua joko IT-tukihenkilöksi tai tietoverkkoasentajaksi. IT-tukihenkilö Koulutuksessa perehdytään tieto- ja viestintätekniikan perustehtäviin, kuten sovellusohjelmiin, tietoturvaan, järjestelmien käyttöönottoon ja asiakaspalveluun. Tukihenkilö antaa tietoteknistä apua tietokoneiden tai IT-palveluiden käyttäjille erilaisissa teknisissä ongelmissa asiakkaan tiloissa tai etäyhteyden välityksell
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia tulee oppimateriaaleista, kuten oppikirjoista ja työvälineistä.
+Toteutus: UNKNOWN
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036127>)
+
+### 70/100 — STRONG — Restonomi (AMK), Tourism Management, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Tourism Management -koulutusohjelma tarjoaa mahdollisuuden kehittyä vastuullisen matkailuliiketoiminnan ammattilaiseksi. Lisäksi tutkinto-ohjelmassamme syntyy vahvaa liiketoimintaosaamista alati muuttuviin kansallisiin ja kansainvälisiin alan työtehtäviin. Tutkinto-ohjelman kieli on englanti. Esimerkkejä opinnoistamme: Introduction to Responsible Tourism Responsible Tourism Management Experience Design Digitalisation in Tourism Tourism Service Ma
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-19T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037462>)
+
+### 70/100 — STRONG — Liiketoiminnan ammattitutkinto, Myynnin ja markkinointiviestinnän osaamisala, Puutarhakauppa
+
+Työtehoseura ry
+Nurmijärvi
+Yhteenveto: Puutarhakaupan alalle suunnattu liiketoiminnan ammattitutkinto antaa osallistujalle kattavat tiedot, taidot ja valmiudet toimia puutarhakaupan vaativissa tehtävissä. Puutarha -tuoteryhmän hoitaminen, asiakaskokemuksen kehittäminen, palvelumuotoilu sekä asiakaslähtöinen ja moderni myynti toimivat koulutusohjelman keskeisenä sisältönä. Vapaavalintaisena koulutukseen voi sisällyttää mm. kasvikierrospäiviä ja kasvituntemuksen teoriaopintoja. Koulutus
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027640>)
+
+### 70/100 — STRONG — Tarjoiluakatemia
+
+Luksia
+Lohja
+Yhteenveto: Tarjoiluakatemiakoulutus antaa perustiedot- ja taidot asiakaspalveluun ja tarjoiluun sekä juomatietouteen ravintolassa. Koulutuksen tavoitteet ovat: • Asiakaspalvelutaidot kahviloissa ja ravintoloissa / ravitsemisliikkeissä • Tarjoilutekniikan hallinta • Erilaisten ruokien ja juomien yhdistäminen • Juomien myynti ja tarjoilu • Anniskelupassin suorittaminen Koulutuksen läpäiseminen edellyttää Ravintolan asiakaspalvelu ja myynti tutkinnonosan 25 os
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041886>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -9728,6 +10149,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039919>)
+
+### 65/100 — STRONG — Avoin yo: Tilastotieteen perusopinnot, lv. 2026-2027
+
+Itä-Suomen yliopisto
+Joensuu, Kuopio
+Yhteenveto: Opintokokonaisuus sisältää seuraavat opintojaksot. Kampusopetus mukaanlukien tentit järjestetään samanlaisena Kuopiossa ja Joensuussa; valitse ilmoittautuessasi kumpaan osallistut. Etäopetuksessa kampuksella ei ole väliä. Perusopintojen suositeltu suorittamisjärjestys on johdantokurssi ensin, sitten peruskurssi ja sen ohella muut. Tämä tarkoittaa ilmoittautumista johdantokurssille jo elokuussa, koska se alkaa heti syyskuun alusta. Huomaa että kok
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 375.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 €/opintopiste; kokonaisuuspaketin 15 €/opintopiste. Hinnat ovat voimassa lukuvuoden 2026-2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukais
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040186>)
 
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -12347,6 +12792,118 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042713>)
 
+### 60/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto (Yhteishaku 2027)
+
+Sedu
+Seinäjoki
+Yhteenveto: IT-tukihenkilö huolehtii siitä, että tietokoneet, puhelimet, ohjelmat ja verkot toimivat ja auttaa käyttäjiä, kun tekniikka temppuilee. Opintojen aikana pääset tekemään erilaisia tieto- ja viestintätekniikan työ- ja projektitehtäviä osana opiskeluasi. Valmistuttuasi voit työskennellä eri organisaatioissa ja yrityksissä järjestelmien asennus-, neuvonta-, koulutus-, myynti- ja ylläpitotehtävissä. Ohjelmistokehittäjä toimii ohjelmistoprojekteissa, s
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Jos tulet opiskelemaan EU- tai ETA-alueen ulkopuolelta, saatat joutua maksamaan lukuvuosimaksun. Maksu koskee opiskelijoita, joiden opinnot alkavat 1.8.2026 tai sen jälkeen. Jos asut jo Suomessa, lukuvuosimaksuun vaikuttaa oleskeluluvan peruste. Lisätietoja: http://sedu.fi/lukuvuosimaksut f you are 
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042743>)
+
+### 60/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto, Pori (yhteishaku)
+
+WinNova
+Pori
+Yhteenveto: WinNova Porin toimipisteessä voit opiskella ohjelmistokehittäjäksi ja tietoverkkoasentajaksi. Yhteishaun kautta valituiksi tulevat opiskelijat aloittavat opintonsa 3.8.2027. Koulutus toteutetaan osoitteessa Tiedepuisto 3, Pori. Tieto- ja viestintätekniikan perustutkinnon suorittaneella on tieto- ja viestintätekniikan tehtävissä edellytetty ammattitaito ja tutkinnon suorittanut osaa toimia yhteistyökykyisesti tieto- ja viestintäteknisessä ympärist
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Kolmansista maista tulevat opiskelijat: Ammatilliset oppilaitokset perivät lukukausimaksun opiskelijoilta, jotka suorittavat tutkintokoulutuksen. Lukukausimaksu ei koske EU- ja ETA-alueen eikä Sveitsin kansalaisia. Lisätiedot: Lukuvuosimaksu
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034528>)
+
+### 60/100 — REVIEW — Avoin yo, Tekoälyn alkeet
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Opintojakso on tarjoaa opiskelijoille yleiskatsauksen tekoälyyn, sopien erinomaisesti kaikille aloille ja taustoille, ja se asettaa perustan tekoälyn ymmärtämiseksi ja sen soveltamiseksi tulevaisuudessa. Opintojakson suorittaminen ei vaadi ohjelmointitaitoa tai matematiikkaa. Opintojaksolla käsitellään tekoälyn keskeisiä käsit
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 2.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 40.0 (lähteen summa; tarkista ehdot) ; Hinta on pääsääntöisesti 20 euroa/opintopiste.Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015743>)
+
+### 60/100 — REVIEW — Bachelor of Engineering, Smart Automation, daytime studies
+
+Metropolia Ammattikorkeakoulu
+Vantaa
+Yhteenveto: A degree program in Smart Automation with specializations in cloud engineering and artificial intelligence, smart factories and robotics is designed to equip students with the skills and knowledge needed to develop, operate and manage smart systems in various fields of industry. The program offers an interdisciplinary approach, combining aspects of engineering, computer science and automation technology. The program covers topics like industrial 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: tuition fee 11.500 € Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017771>)
+
+### 60/100 — REVIEW — Nopea tie tarjoilijaksi
+
+Vantaan ammattiopisto Varia
+Vantaa
+Yhteenveto: Kiinnostaako työ asiakaspalvelun parissa ravintolassa? Ravintolan asiakaspalvelu ja myynti -koulutus antaa käytännön valmiudet tarjoilijan työtehtäviin sekä vahvistaa suomen kielen taitoasi. Ravintola-alalla työskentelet asiakaspalvelun, myynnin ja tarjoilun tehtävissä. Koulutuksessa opit asiakaspalvelua, ruoka- ja juomatuotteiden esillepanoa, tarjoilua, kassatyöskentelyä sekä ravintolan päivittäisiä työtehtäviä. Saat valmiuksia toimia erilaisiss
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Tarkemmat tiedot opiskeluun liittyvistä kustannuks
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
+
 ### 55/100 — REVIEW — Tietojenkäsittelytieteen maisteriohjelma, filosofian maisteri (2 v), kevät 2027
 
 Jyväskylän yliopisto
@@ -13234,6 +13791,194 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041718>)
+
+### 55/100 — REVIEW — Tekoälyn hyödyntäminen työprosessissa, 15 osp
+
+Rasekon ammattiopisto
+Raisio
+Yhteenveto: Miten tekoäly voisi helpottaa juuri sinun työtäsi? Tässä opintokokonaisuudessa opit hyödyntämään tekoälyä käytännössä ja suoraan omien työtehtäviesi tukena. Haluatko saada enemmän irti työpäivästäsi ja sujuvoittaa arjen tekemistä uusilla tavoilla? Tutustu tekoälyn mahdollisuuksiin ja löydä keinoja kehittää omaa työtäsi käytännönläheisesti. Samalla kehität kykyäsi arvioida tekoälyn tuotoksia kriittisesti ja opit huomioimaan tietoturvan, tietosuoja
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 220.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta oppisopimuksella. Oppisopimusta varten sinulla täytyy olla alan työpaikka. Omaehtoisen ammattitutkintokoulutuksen tutkinnon osan opiskelijamaksu 220 €. Kustannuksia saattaa lisäksi syntyä mm. opintomatkoista, materiaaleista, välineistä tai työ- ja suojavaatteista, jotka jäävät
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-08-30T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041040>)
+
+### 55/100 — REVIEW — DataStart - helppo alku datan hyödyntämiseen mikro- ja pienyrityksissä (5 osp)
+
+Työtehoseura ry
+Nurmijärvi
+Yhteenveto: Koulutuksessa ohjataan pohtimaan, miten dataa voi hyödyntää jokapäiväisessä työssä. Koulutuksessa perehdytään datan analysoinnin ja raportoinnin toimintaperiaatteisiin ja työkalujen käyttöön. Tavoitteena on madaltaa datan ja tekoälyn käyttöönoton kynnystä tarjoamalla mikro- ja pienyrittäjille sekä yksinyrittäjille työelämälähtöinen ja työn ohessa suoritettava koulutusmalli. Koulutuksessa opitaan tekemään dataan perustuvia havaintoja ja kehittämis
+Koulutustyyppi: amm-muu
+Laajuus: 5.0 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-08T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043334>)
+
+### 55/100 — REVIEW — Kasvata myyntiä digitaalisesti
+
+Forssan ammatti-instituutti
+Forssa
+Yhteenveto: Haluatko kehittää myyntiäsi ja hyödyntää digitaalisia työkaluja tehokkaammin? Tämä koulutus on suunnattu yrittäjille sekä kaupan alan myynti-, asiakaspalvelu- ja asiakkuustehtävissä toimiville henkilöille, jotka haluavat päivittää osaamistaan tämän päivän kaupalliseen toimintaympäristöön. Koulutuksessa opit käytännönläheisesti hyödyntämään digitaalisia kanavia, etämyyntiä, asiakasviestintää ja sosiaalista mediaa osana tuloksellista myyntityötä. S
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-04T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039628>)
+
+### 55/100 — REVIEW — Myynnin ammattilaiseksi | Joensuu | jatkuva haku
+
+Riveria
+Joensuu
+Yhteenveto: Haluatko nostaa asiakaskokemuksen ja myyntitulokset uudelle tasolle? Tässä tutkinnon osa -koulutuksessa kehität käytännön taitoja, joilla parannat myyntituloksia ja asiakaskokemusta. Opit suunnittelemaan asiakaspalvelu- ja myyntityötä tavoitteellisesti, hyödyntämään asiakasdataa ja toimimaan tehokkaasti eri palvelukanavissa. Saat valmiudet kartoittaa asiakkaiden tarpeet, tehdä tuloksellista myyntiä sekä hoitaa jälkitoimet laadukkaasti. Lisäksi op
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: CLOSED
+Hakuaika päättyy: 2025-08-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011786>)
+
+### 55/100 — REVIEW — Liiketoiminnan ammattitutkinto, myynnin ja markkinointiviestinnän ammattilainen - jatkuva haku
+
+Hyria koulutus Oy
+Hyvinkää
+Yhteenveto: Oletko parhaimmillasi työssä, jossa tyytyväinen asiakas on ykköstavoite? Koulutus tarjoaa tilaisuuden hankkia uutta osaamista tai päivittää taitosi vastaamaan tämän päivän myynti- ja markkinointiosaamista. Tutkinnon myötä pääset suunnittelemaan ja toteuttamaan myyntiä ja markkinointia, asettamaan tavoitteita, kehittämään asiakaskokemusta myös erilaisten digitaalisten kanavien kautta ja seuraamaan työsi tuloksellisuutta. Hyödynnä tilaisuutesi ja h
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; Jos opiskelijan tavoitteena on koko tutkinnon sijaan tutkinnon osan tai osien suorittaminen, maksu määräytyy ko. tutkinnon osan/osien laajuuden (osaamispisteiden) mukaan.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029676>)
+
+### 55/100 — REVIEW — Liiketoiminnan ammattitutkinto
+
+Keski-Pohjanmaan ammattiopisto
+Kokkola
+Yhteenveto: Tutkinnon suorittajalla on asiakaslähtöistä liiketoimintaosaamista, viestintä- ja vuorovaikutusosaamista, kielitaitoa sekä talouden hallinnan osaamista. Hän käyttää tieto- ja viestintätekniikkaa tarkoituksenmukaisesti ja toimii erilaisissa digitaalisissa ympäristöissä. Hän verkostoituu ammatillisesti ja kehittää suunnitelmallisesti liiketoiminnan osaamistaan. Hänellä on valmiudet yrittäjyyteen ja lähiesimiestehtäviin. Tutkinnon suorittaneen osaam
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 300.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 8400.0 (lähteen summa; tarkista ehdot) ; Oppisopimuksen edellytysten täyttyessä tutkinto on maksuton. Muutoin koko tutkinto tai yksi tutkinnon osa maksaa 300 €. Toisen asteen koulutuksen lukuvuosimaksut Jos aloitat opinnot 1.8.2026 jälkeen ja olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun amma
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000716>)
+
+### 55/100 — REVIEW — Reskontrien ammattilainen | Joensuu | jatkuva haku
+
+Riveria
+Joensuu
+Yhteenveto: Hallittu kassavirta on jokaisen yrityksen elinehto – ja sen ytimessä on reskontran tehokas hoitaminen. Tässä tutkinnon osassa opit hallitsemaan myynti- ja ostoreskontraa sekä tuottamaan ajantasaista ja luotettavaa tietoa talouden seurantaan ja päätöksentekoon. Osaat laskuttaa sujuvasti, seurata maksuliikennettä, käsitellä ostolaskuja ja laatia olennaisia raportteja. Hyödynnät digitaalisia järjestelmiä, täsmäytät tietoja kirjanpitoon ja huolehdit 
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031875>)
+
+### 55/100 — REVIEW — Liiketoiminnan ammattitutkinto, Tampere 
+
+Tampereen seudun ammattiopisto Tredu
+Tampere
+Yhteenveto: Sammonkatu, Tampere Tarjolla olevia koulutuksia: Asiakaskokemuksen kehittäminen ja palvelumuotoilu Kirjanpitäjä Palkanlaskija Sihteeri- ja assistenttityön osaaja – kehitä ja syvennä osaamistasi Digitaalinen markkinointi somevastaava Terveydenhuollon sihteeri Aulapalveluiden moniosaaja Koulutukset voi suorittaa myös oppisopimuksena. Oppisopimuskoulutus edellyttää työsuhdetta alan työtehtävissä. Ota yhteyttä: Mervi Lammi, p. 050 413 1900, mervi.lam
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 200.0 (lähteen summa; tarkista ehdot) ; Koulutusten hinnat vaihtelevat. Löydät hinnan Tredun verkkosivuilta kunkin koulutuksen omalta sivulta. Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksust
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030097>)
 
 ### 55/100 — REVIEW — Master’s Programme in Engineering of Data-intensive Intelligent Software Systems (EDISS, Erasmus Mundus), Master of Science (Technology) (2 years), 2027
 
@@ -14347,6 +15092,53 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033961>)
+
+### 40/100 — REVIEW — Erillishaku syksy 2026: Restonomi (AMK), Tourism Management, englanninkielinen päivätoteutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Tourism Management -koulutusohjelma tarjoaa mahdollisuuden kehittyä vastuullisen matkailuliiketoiminnan ammattilaiseksi. Lisäksi tutkinto-ohjelmassamme syntyy vahvaa liiketoimintaosaamista alati muuttuviin kansallisiin ja kansainvälisiin alan työtehtäviin. Tutkinto-ohjelman kieli on englanti. Esimerkkejä opinnoistamme: Introduction to Responsible Tourism Responsible Tourism Management Experience Design Digitalisation in Tourism Tourism Service Ma
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038209>)
+
+### 40/100 — REVIEW — Myynnin ja asiakaspalvelun suunnittelu ja toteuttaminen - tutkinnon osa
+
+Omnia
+Espoo
+Yhteenveto: Kiinnostaako asiakaskokemuksen merkitys ja sen hyödyntäminen työssäsi? Haluatko parantaa myynti- ja asiakaspalvelutuloksia? Myynnin ja asiakaspalvelun suunnittelu ja toteuttaminen -koulutus tarjoaa käytännönläheisiä taitoja ammatilliseen kehittymiseen ja asiakaslähtöiseen työskentelyyn. Opit suunnittelemaan myyntityötä ja asiakaspalvelua tavoitteellisesti sekä toteuttamaan myyntitoimia tuloksekkaasti. Koulutus kehittää asiakaspalvelutaitojasi ja 
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Oppisopimuksella koulutus on maksuton.
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2025-12-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029184>)
 
 ### 35/100 — LOW — Open university: Introduction to Social and Public Policy, autumn 2026
 
