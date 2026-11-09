@@ -1,35 +1,227 @@
 # JOB AGENT
 
-Haku: 2026-11-08T21:32+02:00
+Haku: 2026-11-09T16:38+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
+Sinulle on 9 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 0
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 97
-Vahvat: 0 | Harkitse: 0
+Uusia sopivia työpaikkoja: 9
+Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 98
+Vahvat: 8 | Harkitse: 1
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
-## KOULUTUKSET — 18 UUTTA / MUUTTUNUTTA
+### 95/100 — STRONG — Sales Trainee (Viljelijän Berner)
 
-### 90/100 — STRONG — Strategisen myynnin maisteriohjelma, kauppatieteiden maisteri (2 v), Lahti
+Berner Oy
+Porvoo, FI, Hämeenlinna, Turku, Kokemäki, Pori, Seinäjoki
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kolmea 10 kuukauden kokoaikaista Sales Traineeta Viljelijän Bernerin myyntiorganisaatioon osaksi Basecamp 2027 -ohjelmaa ja tehtävät alkavat 1.2.2027. Tehtäviin kuuluu alueellinen myynti- ja asiakastyö, viljakaupan perehtyminen, koetoiminnan suunnittelu ja koordinointi sekä viestintä ja tapahtumat. Hakijalta edellytetään soveltuvia korkeakouluopintoja tai vastavalmistuneisuutta, vahvaa maatalousosa
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
 
-Lappeenrannan-Lahden teknillinen yliopisto LUT
-Lahti
-Yhteenveto: Jokainen yritys tarvitsee osaavia myynnin ammattilaisia, koska myynti tuo yrityksille rahaa. Siksi myyntityötä ja myynnin johtamista kannattaa kehittää strategisesti. Kovassa kilpailussa menestyvät sellaiset myyntiorganisaatiot, jotka osaavat tuottaa asiakkaalle arvoa. Kiihtyneen digitalisaation ja globaalin kilpailun vuoksi on entistä tärkeämpää, että myyntiä tehdään toimivan myyntiprosessin, tarpeellisten teknologioiden ja osaavan myyntihenkilö
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-trainee-viljelijan-berner-2795351>)
+
+### 90/100 — STRONG — Tekninen myyjä, MariElectronics Oy
+
+MariElectronics Oy
+Tuusula, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tekninen myyjä MariElectronics Oy:lle vastaten uusien asiakkaiden hankinnasta, nykyisten asiakassuhteiden kehittämisestä ja teknisten turvallisuus- ja sensoriratkaisujen myynnistä. Tehtävä vaatii alempaa korkeakoulututkintoa, vähintään 6 kuukauden kokemusta, sujuvan suomen ja englannin kielen taidon sekä B-ajokortin. Työsuhde on kokoaikainen ja vakituinen, palkkakausi on kuukausittain, ja työssä edellytetään ak
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-myyja-marielectronics-oy-2795480>)
+
+### 90/100 — STRONG — Sales Development Representative (SDR) I Freelancer
+
+Myyntiakatemia LH Oy
+Espoo, FI, Jyväskylä, Tampere, Oulu, Turku, Vaasa, Fuengirola, ES, Helsinki, Rauma, Pori, Joensuu, Rovaniemi, Iisalmi, Kajaani, Mikkeli, Lahti
+Julkaistu: 2026-11-09
+Yhteenveto: Etsimme jälleen uusia kollegoita tiimiimme! Meillä et ole vain yksi soittaja muiden joukossa, vaan keskeinen osa asiantuntevaa myyntikoneistoa, joka avaa ovia konesalipalveluiden, IT-raudan ja kapasiteettiratkaisujen maailman johtaville brändeille. Miksi valita meidät? (Vakaus ja laatu keskiössä) Työntekijöidemme vaihtuvuus on poikkeuksellisen matala, mikä kertoo reilusta meiningistä ja siitä, että tavoitteet ovat realistisia. Pitkäaikaiset asiak
+Hakuaika päättyy: 2026-11-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-sdr-i-freelancer-2795658>)
+
+### 75/100 — STRONG — B2B-myyjä – Tule mukaan kasvutarinaamme!
+
+Media Vista
+Helsinki, FI, Espoo, Vantaa, Turku
+Julkaistu: 2026-11-09
+Yhteenveto: Etsimme seuraavaa HUIPPUMYYJÄÄ mukaan kasvutarinaan! 🚀 Haluatko myydä tuotetta, jonka kysyntä on jo todistettu, vaikuttaa suoraan omiin ansioihisi ja päästä mukaan rakentamaan nopeasti kasvavaa mediayhtiötä? Media Vistan toinen tilikausi lähestyy loppuaan, ja olemme kolminkertaistamassa ensimmäisen tilikauden liikevaihtoa. Tavoitteemme on kolminkertaistaa liikevaihto jälleen seuraavalla tilikaudella. Sen toteuttamiseen etsimme nyt seuraavaa kovaa
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-tule-mukaan-kasvutarinaamme-2795681>)
+
+### 75/100 — STRONG — Kaksikielinen (suomi–ruotsi) turvapalvelumyyjä PK-seudulle
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kaksikielinen-suomi-ruotsi-turvapalvelumyyja-pk-seudulle-2795574>)
+
+### 70/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on SAP-ympäristöjen, palvelinalustojen ja integraatioiden ylläpito sekä järjestelmien toimintavarmuuden varmistaminen. Työhön kuuluu asiakkaiden IT-ympäristöjen tukeminen, pilvipalvelut (AWS, Azure), tietokannat, kontit, skriptit sekä identiteetin- ja sertifikaattien hallinta. Hakijalta odotetaan Linux-osaamista, tuntemusta skriptikielistä (esim. Python) ja versionhallinnasta (esim. Git), sekä ymmä
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 teknologia: python
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-platform-specialist-skaidi-consulting-helsinki-2795845>)
+
+### 70/100 — STRONG — APC Engineer
+
+Metso
+Centurion, Gauteng, ZA, Accra, GH, Espoo, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: As an APC Engineer, you will implement, configure and maintain Advanced Process Control and online condition‑monitoring systems while developing KPIs and measuring value delivered to customers. You will act as the primary technical contact, lead project execution and commissioning, provide customer training, and produce technical documentation. The role requires a relevant engineering degree, at least five year
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/apc-engineer-2650007>)
+
+### 65/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
+
+Skaidi Consulting Oy
+Pasila, Helsinki
+Yhteenveto: Tehtävänkuvaus Skaidi Consultingilla työskentelet laajoissa asiakasympäristöissä keskittyen SAP-ympäristöjen, palvelinajoalustojen ja integraatioiden ylläpito- ja kehitystehtäviin. Tehtävän painopiste on järjestelmien toimintavarmuudessa, alustanhallinnassa ja integraatioissa. Toimit tiiviissä yhteistyössä asiakkaiden kanssa heidän IT-tuki- ja kehitysprosesseissaan varmistaen, että liiketoimintakriittiset järjestelmät toimivat saumattomasti. Työt
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-platform-specialist-skaidi-consulting-helsinki/VO1Z41>)
+
+### 60/100 — REVIEW — Sales Manager / Director (Industrial AI Solutions)
+
+Aineo Agency
+Helsinki, FI, Tampere, Turku, Hämeenlinna, Lahti
+Julkaistu: 2026-11-09
+Yhteenveto: Sales Manager / Director (Industrial AI Solutions) Haluatko mukaan nopeasti kasvavaan AI-yritykseen, jossa pääset ottamaan vastuuta myynnistä, kasvamaan AI-aikakauden huippuosaajaksi ja rakentamaan jotain uutta? Aineo Agency rakentaa käytännön AI-ratkaisuja erityisesti teollisuuden, tuotannon, logistiikan, toimitusketjujen ja rakentamisen tarpeisiin. Vaikka olemme nuori yritys, meillä on jo merkittäviä asiakkuuksia, kiinnostavia referenssejä ja o
+Hakuaika päättyy: 2026-11-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-manager-director-industrial-ai-solutions-2795065>)
+
+## KOULUTUKSET — 12 UUTTA / MUUTTUNUTTA
+
+### 100/100 — STRONG — Tradenomi (ylempi AMK), Insinööri (ylempi AMK), Artenomi (ylempi AMK), Luonnonvara-ala (ylempi AMK), Sosiaali- ja terveysala (ylempi AMK), Yrittäjyyden ja yritystoiminnan kehittäminen, verkko-opinnot
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Kehitä ja kasvata yritystoimintaa – kaupallista ideasi ja osaamisesi HAMKin Yrittäjyyden ja yritystoiminnan kehittämisen YAMK-koulutus on suunnattu sinulle, joka haluat kehittää omaa tai organisaatiosi liiketoimintaa ja kasvaa strategiseksi, vastuulliseksi johtajaksi. Opinnoissa yhdistyvät yrittäjämäinen ajattelu, palvelumuotoilu, kaupallistaminen ja liiketoiminnan johtaminen. Opit tunnistamaan uusia liiketoimintamahdollisuuksia, rakentamaan kann
 Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
 Hinta: Maksuton
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035681>)
+
+### 90/100 — STRONG — Master of Engineering, Sustainability Management, online
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This online Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustain
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T23:59
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -39,88 +231,111 @@ Miksi / huomioitavaa:
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025527>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020434>)
 
-### 90/100 — STRONG — DISCO - Dataa, digiä ja tekoälyä töihin
+### 90/100 — STRONG — Master of Engineering, Sustainability Management, on-site
 
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: DISCO-hanke tarjoaa maksuttomia etäkoulutuksia työelämän tarpeisiin. Räätälöimme työyhteisölle sopivan opintokokonaisuuden varmistamaan organisaation tulevaisuuskyvykkyyden. Onko työyhteisössänne tarvetta kehittää digi- ja tekoälytaitoja? DISCO-hanke auttaa maksutta teille sopivan opintokokonaisuuden räätälöinnissä ja tarjoaa maksuttomat etäopinnot henkilöstöllenne. Millaisissa tilanteissa voimme auttaa? Onko asiantuntijoillanne tarvetta osata oh
-Koulutustyyppi: COURSE
-Laajuus: 20.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035894>)
-
-### 90/100 — STRONG — Insinööri (ylempi AMK), älykäs robotiikka ja konenäkö
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Älykäs robotiikka ja konenäkö on työelämälähtöinen ylemmän ammattikorkeakoulututkinnon koulutus, joka syventää osaamistasi robotiikan, tekoälyn, konenäön ja automaation nopeasti kehittyvillä osaamisalueilla. Koulutus tarjoaa valmiuksia hyödyntää uusia teknologioita organisaatioiden kehittämisessä, liiketoiminnan uudistamisessa sekä uusien tuotteiden ja palveluiden suunnittelussa. Tutkinto soveltuu erityisesti teknologia-alan asiantuntijoille, jot
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustainable st
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: Maksuton
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043496>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035023>)
 
-### 85/100 — STRONG — Liiketoiminnan ammattitutkinto, jatkuva haku
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
 
-Sasky Huittisten ja Kokemäen oppilaitos
-Huittinen
-Yhteenveto: Haku, koulutus- ja hakuajankohdat sekä lisätiedot nettisivuilta: HuKo Huittinen Huittisten ja Kokemäen oppilaitoksen Huittisten toimipisteessä voit suorittaa seuraavia liiketoiminnan ammattitutkinnon opintoja: Myynnin ja markkinointiviestinnän osaamisala Digitaalinen markkinointi ja tekoäly Markkinointiassistentti Liiketoiminnan palveluiden osaamisala Terveydenhuollon sihteeri ja tekoäly Taloushallinnon osaamisala Taloushallinnon osaaja Taloushal
+Työtehoseura ry
+Nurmijärvi, Vantaa
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkintoon johtavassa koulutuksessa keskiössä ovat johtaminen, strategiatyö, talousasiat, asiakkuudet ja työprosessien kehittäminen. Työtehoseura toteuttaa yrityksille ja työyhteisöille yksilöllisesti rakennettuja koulutuskokonaisuuksia, joissa huomioidaan toimialojen erityispiirteet ja osaamistarpeet tapauskohtaisesti.
 Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan
-Hinta: maksullinen: 250.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6000.0 (lähteen summa; tarkista ehdot) ; Opiskelumaksu 250€. Lukuvuosimaksu koskee vain EU- ja ETA-​alueen ulkopuolelta tulevia opiskelijoita (ns. kolmansien maiden kansalaiset). Lukuvuosimaksu määräytyy kansalaisuuden lisäksi oleskeluluvan perusteella.
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Oppisopimuksella toteutettava koulutus on opiskelijalle maksutonta. Mikäli hakijalla ei ole oppisopimuspaikkaa ja koulutus toteutetaan tavanomaisena opiskelumuotona, niin koulutus on silloin maksullinen. Tarkistathan koulutuksen hinnan Työtehoseurasta.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Peruskoulu
 Haku: OPEN
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006374>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004044>)
 
-### 85/100 — STRONG — Liiketoiminnan ammattitutkinto, myynnin ja markkinointiviestinnän osaamisala - Jatkuva haku
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto (KiRa JYEAT)
 
-Kouvolan Ammattiopisto Eduko
-Kouvola
-Yhteenveto: Liiketoiminnan ammattitutkinnon myynnin ja markkinointiviestinnän osaamisalan suorittaneella on osaamista myynnistä, markkinoinnista tai näistä molemmista. Hän osaa suunnitella ja toteuttaa myyntiä sekä markkinointia, seurata toimenpiteiden tuloksellisuutta ja kehittää asiakaskokemusta. Kenelle Liiketoiminnan ammattitutkinto on tarkoitettu henkilöille, jotka tekevät myynti- ja asiakaspalvelutyötä tai ovat siirtymässä myynti ja asiakaspalvelutyöhö
+Kiinteistöalan Koulutussäätiö sr.
+Helsinki
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tehokas koulutus sinulle, jolla on vahva oman toimialan ja tuotteiston osaaminen ja asiantuntemus. JYEAT on arvostettu ammatillinen tutkinto, jonka ammattitaitovaatimusten lähtökohtina ovat organisaation tai yrityksen toiminnan johtaminen sekä kehittäminen, johtajana kehittyminen sekä näiden prosessien kytkeminen toisiinsa. Tutkintoa suorittaessasi opit hallitsemaan kokonaisvaltaisesti joht
 Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
+Laajuus: 180 osaamispistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
+Hinta: maksullinen: 1150.0 (lähteen summa; tarkista ehdot) ; Koulutuksen hinta alkaen 1150 euroa (ALV 0 %).
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006760>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Omnia
+Espoo
+Yhteenveto: Osallistutko työssäsi henkilöstön johtamiseen? Onko vastuullasi yrityksen tai toiminnan johtaminen? Johtamisen ja esihenkilötyön koulutuksesta saat lisävalmiuksia johtamistyöhön, syvennät näkemystäsi tavoitteellisesta ja kannattavasta toiminnasta ja saat työkaluja kehittämisee n. Mitä valmiuksia tarvitset? Koulutus on suunnattu yksityisen tai julkisen sektorin johtamistehtävissä toimiville sekä yrittäjille, jotka johtavat yrityksen tai vastuualue
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 750.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 jälkeen alkavissa koulutuksissa oppisopimuskoulutuksen hinta EU/ETA-kansalaisille on 200€. Omaehtoisen koulutuksen hinta on 750 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6 400€. Lue lisää opintojen maksullisuudesta . Peruutusehdot Mikäli opiskelija on ottanut opiskelupaikan vast
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007491>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto, jatkuva haku (oppisopimus)
+
+Stadin ammattiopisto
+Helsinki
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on suunnattu yrityksen tai organisaation johtotehtävissä toimiville henkilöille, jotka johtavat, suunnittelevat ja kehittävät yrityksen tai vastuualueen toimintaa, omaa osaamista, henkilöstöä, taloutta ja tuloksellisuutta. Tutkinnon opinnoissa tarkastellaan johtajuutta uusista näkökulmista ja saadaan lisäosaamista omien esimiestaitojen sekä organisaation toiminnan kehittämiseen. Jokaiselle opi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on maksullista. Kysy tarkempia tietoja vastuuopettajalta. Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Peruskoulu
 Haku: OPEN
@@ -133,19 +348,19 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035196>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011379>)
 
-### 85/100 — STRONG — Myynnin ja asiakaspalvelun suunnittelu ja toteuttaminen -verkkototeutus
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
 
-Ammattiopisto Gradia
-Jyväskylä
-Yhteenveto: Myynnin ja asiakaspalvelun suunnittelun ja toteuttamisen opinnot sopivat henkilölle, joka haluaa syventää myynti- ja asiakaspalveluosaamistaan asiantuntijatasolle. Koulutus antaa valmiudet suunnitella ja toteuttaa myyntiä ja asiakaspalvelua asiakaslähtöisesti. Opiskelija oppii kartoittamaan asiakkaiden tarpeita, esittelemään ja perustelemaan tuotteita ja palveluita, tekemään myynti- ja asiakaspalvelusuunnitelmia sekä toimimaan yhteistyössä asiakk
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Syksy 2026
-Hinta: maksullinen: 190.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 8100.0 (lähteen summa; tarkista ehdot) ; Oppisopimuskoulutus on opiskelijalle maksutonta. Lukuvuosimaksut EU- ja ETA-alueen ulkopuolisille opiskelijoille 1.8.2026 alkaen: • 1. elokuuta 2026 alkaen Suomessa otetaan käyttöön lukuvuosimaksut toisen asteen opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta. • Lukuvuosimaksu koskee op
+Saimaan ammattiopisto Sampo
+Imatra, Lappeenranta
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tarkoitettu sinulle, joka toimit esihenkilöasemassa johtaen omaa vastuualuettasi ja olet jo hankkinut kokemusta johtamisesta. Erikoisammattitutkinto sopii esihenkilöille ja johtamistehtävissä toimiville, joilla on selkeästi talous- tai henkilöstövastuuta. Koulutus toteutetaan oppisopimuskoulutuksena, jolloin sinulla on oltava koulutukseen soveltuva työpaikka tai toimiva yritys.  Koulutus on
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto
 Haku: OPEN
 Lähteet: Opintopolku
 
@@ -156,13 +371,61 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036562>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021509>)
 
-### 85/100 — STRONG — Liiketoiminnan erikoisammattitutkinto
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Omnia
+Espoo
+Yhteenveto: Koulutus on tarkoitettu henkilöille, jotka suunnittelevat oman yrityksen perustamista tai ovat yrittäjyyden alkutaipaleella tai toimivat jo yrittäjänä. Alkuun pääset sillä, että sinulla on ajatus tulevasta yrityksestäsi. Omnian koulutuksissa painopiste on omien taitojen hiomisessa, toisia sparraten ja yhdessä oppien. Suunnitteletko yritystoiminnan käynnistämistä? Onko suunnitelmissasi sivutoiminen yrittäjyys? Hio idea kuntoon ja rakenna yrityksel
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; EU/ETA-kansalaisille Ammatillinen opiskelu oppisopimuksella | Omnia koulutus on maksuton. Omaehtoisen koulutuksen hinta on 450 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6400 €. Lue lisää Opintojen maksullisuus toisen asteen opinnoissa | Omnia Peruutusehdot Mikäli opiskelija on ottanut op
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039270>)
+
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Forssan ammatti-instituutti
+Forssa
+Yhteenveto: Tee unelmistasi totta – kasva yrittäjäksi tai kehitä liikeideaasi käytännönläheisen koulutuksen avulla! Yrittäjyyden ammattitutkinto tarjoaa konkreettisia työkaluja yritystoiminnan suunnitteluun, käynnistämiseen ja kehittämiseen. Kenelle Tämä koulutus on suunniteltu sinulle, joka harkitset yritystoiminnan aloittamista tai yrittäjäksi ryhtymistä omistajanvaihdoksen kautta. Se tarjoaa käytännönläheistä tukea ja tietoa, jonka avulla voit rakentaa va
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 590.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039869>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
 
 Hyria koulutus Oy
 Hyvinkää
-Yhteenveto: Koulutus toteutetaan monimuoto-opiskeluna. Koulutus sisältää lähiopetusta, työpaikalla järjestettävää koulutusta ja verkko-opiskelua sekä itsenäisesti että Teams-järjestelmän kautta. Opiskelijalla tulee olla käytössään tietokone, toimiva sähköpostiosoite ja internetyhteys. Koulutuksen alussa käydään jokaisen hakijan kanssa henkilökohtainen keskustelu, jossa kartoitetaan opiskelijan sen hetkinen osaaminen ja ammattitaito. Lähtötilannekartoituksen 
+Yhteenveto: Koulutus toteutetaan monimuoto-opiskeluna. Koulutus sisältää lähiopetusta, työpaikalla järjestettävää koulutusta ja verkko-opiskelua sekä itsenäisesti että Teams-järjestelmän kautta. Opiskelijalla tulee olla käytössään tietokone, toimiva sähköpostiosoite ja internetyhteys. Koulutuksen alussa käydään jokaisen hakijan kanssa henkilökohtainen keskustelu, jossa kartoitetaan opiskelijan olemassa oleva osaaminen ja ammattitaito. Lähtötilannekartoitukse
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
 Ajankohta: Henkilökohtaisen suunnitelman mukaan
@@ -180,263 +443,30 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040947>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040941>)
 
-### 85/100 — STRONG — Tekoälyn hyödyntäminen työprosessissa 15 osp
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
 
-Etelä-Savon ammattiopisto
-Mikkeli
-Yhteenveto: Tekoäly työn tukena – tehokkuutta ja oivalluksia Tekoälyn hyödyntäminen työprosessissa (15 osaamispistettä) on yksi tutkinnon osa tieto- ja viestintätekniikan ammattitutkinnosta. Haluatko oppia hyödyntämään tekoälyä oman työsi tukena? Tämä joustava verkkokoulutus antaa sinulle selkeän ymmärryksen siitä, miten generatiiviset tekoälytyökalut toimivat ja miten niitä voi käyttää tehokkaasti ja vastuullisesti erilaisissa työtehtävissä. Koulutuksessa t
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Opetus on maksuton Suomen sekä EU:n tai ETA-alueen jäsenmaan kansalaisille. Lukuvuosimaksut otetaan Suomessa käyttöön 1.8.2026 alkaen ammatillisessa koulutuksessa opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta (ns. kolmansien maiden kansalaiset). Kolmannen maan kansalaisella tarkoiteta
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-01-24T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041512>)
-
-### 85/100 — STRONG — Tekoälyn hyödyntäminen työprosessissa - tutkinnon osa, jatkuva haku
-
-Sataedu
-Kokemäki
-Yhteenveto: Lisätietoja tekoälyn hyödyntäminen työprosessissa -tutkinnon osasta sekä haku koulutukseen osoitteessa: Sataedu/Tekoälyn hyödyntäminen työprosessissa Tekoälyosaamista työpäivääsi – verkkokoulutus Tekoäly on jo osa työelämää – haluatko päivittää osaamisesi ja hyödyntää tekoälyä niin, että se näkyy työssäsi ajansäästönä, selkeytenä ja sujuvampana työnä? Koulutuksessa opit käyttämään tekoälyä käytännön työtehtävissäsi. Tunnistat, missä tekoäly tuo h
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Koulutusmaksu 100 €, oppisopimuskoulutus on maksuton Koulutusmaksun lisäksi ETA/EU maiden ulkopuolelta tulevilta opiskelijoiksi hyväksytyiltä peritään lukuvuosimaksu. Lisätietoja lukuvuosimaksusta löydät osoitteesta: https://sataedu.fi/hakijalle/lukuvuosimaksut/
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-01-17T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042676>)
-
-### 75/100 — STRONG — Matematiikka, maisteri (2 v)
-
-Turun yliopisto
-Turku
-Yhteenveto: Matematiikan FM- tutkinnossa aiemmissa opinnoissa hankittua osaamista matematiikassa syvennetään seuraavilla linjoilla. Matematiikan linjalla opinnot koostuvat matematiikan keskeisten osa-alueiden kursseista ja erityisesti laitoksen painopistealojen (diskreetti matematiikka, analyyttinen lukuteoria) kursseista. Opinnot antavat valmiudet matematiikan jatko-opintoihin sekä toimimiseen matemaattisesti vaativissa asiantuntijatehtävissä, esimerkiksi I
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002256>)
-
-### 75/100 — STRONG — Tilastotiede, maisteri (2 v)
-
-Turun yliopisto
-Turku
-Yhteenveto: Tilastotieteen FM- tutkinnossa syvennetään aiemmissa opinnoissa hankittua tilastotieteen osaamista. Vaikka tilastotieteen teoreettinen perusta liittyy vahvasti matematiikkaan ja erityisesti todennäköisyyslaskentaan, ovat tilastollisen päättelyn teorian eri lähestymistavat kehittyneet vuorovaikutuksessa soveltavien tieteiden kanssa. Lisäksi nyt erinäiset suositut laskennalliset ja koneoppimiseen liittyvät menetelmät rakentuvat pitkälti tilastotiet
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002324>)
-
-### 75/100 — STRONG — Information Networks, Master of Science (Technology) (2 yrs)
-
-Aalto-yliopisto
-Espoo
-Yhteenveto: Aikamme suuria haasteita tiedon manipuloinnista algoritmiseen johtamiseen ja geopoliittisiin jännitteisiin yhdistää yksi piirre: ne ovat monimutkaisia yhteiskunnallisia ilmiöitä, joiden ratkaiseminen vaatii monitieteistä lähestymistapaa, jossa tunnistetaan asioiden laajemmat yhteydet. Master's Programme in Information Networks -maisteriohjelmassa yhdistyvät tietotekniikka, yhteiskuntatieteet ja organisaatiotutkimus. Se tarjoaa opiskelijoille katt
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, SOCIAL
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008121>)
-
-### 75/100 — STRONG — Datatieteen maisteriohjelma, syksy 2027
-
-Helsingin yliopisto
+Stadin ammattiopisto
 Helsinki
-Yhteenveto: Datatiede muuttaa jokaista alaa genomiikasta ja ilmastomalleista rahoitukseen ja kaupunkisuunnitteluun. Ohjelmassamme kehität syvällisen ymmärryksen nykyaikaisten data-analyysimenetelmien taustalla olevista periaatteista: koneoppimisesta, tilastollisesta päättelystä, algoritmeista ja laskentainfrastruktuurista. Opit paitsi soveltamaan näitä menetelmiä myös ymmärtämään, miten ja miksi ne toimivat. Näin pystyt suunnittelemaan ratkaisuja täysin uusi
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Alempi korkeakoulututkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-19T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039878>)
-
-### 75/100 — STRONG — Uusiutuvien luonnonvarojen kestävän käytön teknologiat -maisteriohjelma, syksy 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: Uusiutuvat luonnonvarat ovat avainasemassa monien globaalien haasteiden ratkaisemisessa: ruokaturvasta ja ilmastonmuutoksesta kiertotalouteen ja ruoka- ja metsäjärjestelmien kokonaisvaltaisen kestävyyden edistämiseen. Tässä maisteriohjelmassa opit hyödyntämään teknologioita uusiutuvien luonnonvarojen alalla ja hallitsemaan alan tuotantoprosesseja sekä järjestelmiä kestävyyden periaatteet huomioon ottaen. Valitset erikoistumisalan järjestelmien ma
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-19T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039901>)
-
-### 70/100 — STRONG — Liiketoiminnan ammattitutkinto, Myynnin ja markkinointiviestinnän osaamisala, Puutarhakauppa
-
-Työtehoseura ry
-Nurmijärvi
-Yhteenveto: Puutarhakaupan alalle suunnattu liiketoiminnan ammattitutkinto antaa osallistujalle kattavat tiedot, taidot ja valmiudet toimia puutarhakaupan vaativissa tehtävissä. Puutarha -tuoteryhmän hoitaminen, asiakaskokemuksen kehittäminen, palvelumuotoilu sekä asiakaslähtöinen ja moderni myynti toimivat koulutusohjelman keskeisenä sisältönä. Vapaavalintaisena koulutukseen voi sisällyttää mm. kasvikierrospäiviä ja kasvituntemuksen teoriaopintoja. Koulutus
+Yhteenveto: Hei yrittäjyydestä haaveileva tai jo yrittäjänä toimiva! Lähde kehittämään liiketoimintasuunnitelmaasi ja yritystoimintaasi. Ole rohkeasti yhteydessä ja kysy, miten voisimme tukea sinua! Lähdetään suunnittelemaan opintojasi – aloittaa voit joustavasti oman aikataulusi mukaan. Yrittäjyyden ammattitutkinto soveltuu oman yritystoiminnan käynnistämistä suunnitteleville, jo yrittäjänä toimiville sekä yritysneuvontaa tekeville. Koulutuksen tavoitteet Y
 Koulutustyyppi: VOCATIONAL
 Laajuus: 150 osaamispistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan
-Hinta: Maksuton
-Toteutus: UNKNOWN
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot) ; Omaehtoisen koulutuksen hinta on 400 €. Oppisopimuskoulutus omassa yrityksessä on opiskelijalle maksuton lukuunottamatta mahdollisia oppimateriaalikustannuksia Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
+Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Peruskoulu
 Haku: OPEN
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027640>)
-
-### 70/100 — STRONG — Tieto- ja viestintätekniikan perustutkinto - OPPISOPIMUS 2026
-
-Ammattiopisto Tavastia
-Hämeenlinna
-Yhteenveto: Tieto- ja viestintätekniikan perustutkinnossa voit suuntautua joko IT-tukihenkilöksi tai tietoverkkoasentajaksi. IT-tukihenkilö Koulutuksessa perehdytään tieto- ja viestintätekniikan perustehtäviin, kuten sovellusohjelmiin, tietoturvaan, järjestelmien käyttöönottoon ja asiakaspalveluun. Tukihenkilö antaa tietoteknistä apua tietokoneiden tai IT-palveluiden käyttäjille erilaisissa teknisissä ongelmissa asiakkaan tiloissa tai etäyhteyden välityksell
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia tulee oppimateriaaleista, kuten oppikirjoista ja työvälineistä.
-Toteutus: UNKNOWN
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: OPEN
-Hakuaika päättyy: 2026-12-31T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036127>)
-
-### 70/100 — STRONG — Restonomi (AMK), Tourism Management, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Tourism Management -koulutusohjelma tarjoaa mahdollisuuden kehittyä vastuullisen matkailuliiketoiminnan ammattilaiseksi. Lisäksi tutkinto-ohjelmassamme syntyy vahvaa liiketoimintaosaamista alati muuttuviin kansallisiin ja kansainvälisiin alan työtehtäviin. Tutkinto-ohjelman kieli on englanti. Esimerkkejä opinnoistamme: Introduction to Responsible Tourism Responsible Tourism Management Experience Design Digitalisation in Tourism Tourism Service Ma
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-19T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037462>)
-
-### 70/100 — STRONG — Tarjoiluakatemia
-
-Luksia
-Lohja
-Yhteenveto: Tarjoiluakatemiakoulutus antaa perustiedot- ja taidot asiakaspalveluun ja tarjoiluun sekä juomatietouteen ravintolassa. Koulutuksen tavoitteet ovat: • Asiakaspalvelutaidot kahviloissa ja ravintoloissa / ravitsemisliikkeissä • Tarjoilutekniikan hallinta • Erilaisten ruokien ja juomien yhdistäminen • Juomien myynti ja tarjoilu • Anniskelupassin suorittaminen Koulutuksen läpäiseminen edellyttää Ravintolan asiakaspalvelu ja myynti tutkinnonosan 25 os
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041886>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041589>)
 
 
 Lähteiden ongelmat:
@@ -447,8 +477,8 @@ Lähteiden ongelmat:
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 9 tämän haun relevantissa ilmoituksessa.
-- Python mainittiin 7 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 11 tämän haun relevantissa ilmoituksessa.
+- Python mainittiin 8 tämän haun relevantissa ilmoituksessa.
 - SQL mainittiin 5 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
@@ -692,6 +722,28 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Azure, Power BI, SQL; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/data--ai-konsultti-pengon-oy/LGYKIH>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 95/100 — STRONG — Sales Trainee (Viljelijän Berner)
+
+Berner Oy
+Porvoo, FI, Hämeenlinna, Turku, Kokemäki, Pori, Seinäjoki
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kolmea 10 kuukauden kokoaikaista Sales Traineeta Viljelijän Bernerin myyntiorganisaatioon osaksi Basecamp 2027 -ohjelmaa ja tehtävät alkavat 1.2.2027. Tehtäviin kuuluu alueellinen myynti- ja asiakastyö, viljakaupan perehtyminen, koetoiminnan suunnittelu ja koordinointi sekä viestintä ja tapahtumat. Hakijalta edellytetään soveltuvia korkeakouluopintoja tai vastavalmistuneisuutta, vahvaa maatalousosa
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-trainee-viljelijan-berner-2795351>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -1669,7 +1721,7 @@ Muistiinpanot:
 
 Kiilto
 Lempäälä, FI, Pirkanmaa, Turku, Varsinais-Suomi, Helsinki, Uusimaa
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will build, develop, and support data flows and integrations across Kiilto’s systems, focusing on the One ERP programme with Microsoft Dynamics 365 Finance & Supply Chain Management. Your duties include building, testing, documenting, troubleshooting and monitoring integrations, supporting data migration and maintaining interface documentation and reusable integration standards. The role requires hands-on e
 Hakuaika päättyy: 2026-12-28
 Lähteet: Jobly
@@ -2049,7 +2101,7 @@ Muistiinpanot:
 
 The Switch
 Vaasa, FI, Lappeenranta, Helsinki, Uusimaa
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Do you enjoy building long-term customer relationships in a high-tech environment? We are looking for a Technical Sales Manager to join us at The Switch to be part of our mission to electrify the world with game-changing green technologies. You will have the opportunity to join our sales team in Vaasa, Lappeenranta or Helsinki. To discover more about us as a company and your future colleagues, please visit https://theswitch.com/careers/ Key focus
 Hakuaika päättyy: 2026-11-11
 Lähteet: Jobly
@@ -2091,7 +2143,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Lappeenranta, Vantaa
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Service Sales Specialist will be based in Vaasa, Lappeenranta or Vantaa, Finland and will develop and manage customer relationships while driving service sales in the high and medium voltage market. You will own sales cases end-to-end from lead generation and customer discussions to quotation preparation, negotiation and order closing while preparing technical and commercial offers with internal experts. Th
 Hakuaika päättyy: 2026-12-11
 Lähteet: Jobly
@@ -2112,7 +2164,7 @@ Muistiinpanot:
 
 Clevry
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tulisiko sinusta Clevryn seuraava Account Manager? Jos viihdyt monipuolisessa roolissa, jossa yhdistyvät uusasiakashankinta, asiakkuuksien hoito, neuvonta ja pitkäjänteinen asiakassuhteiden rakentaminen - jatka lukemista. Me Clevryllä etsimme joukkoomme kunnianhimoista Account Manageria toimistollemme Helsinkiin. Tehtävä on toistaiseksi voimassa oleva, ja työskentely tapahtuu pääasiallisesti Kampin toimistollamme. Tulet osaksi kansainvälistä tiim
 Hakuaika päättyy: 2026-12-22
 Lähteet: Jobly
@@ -2414,6 +2466,48 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/presales-specialist-also-finland-oy-tamperehelsinki/9A8U13>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Sales Development Representative (SDR) I Freelancer
+
+Myyntiakatemia LH Oy
+Espoo, FI, Jyväskylä, Tampere, Oulu, Turku, Vaasa, Fuengirola, ES, Helsinki, Rauma, Pori, Joensuu, Rovaniemi, Iisalmi, Kajaani, Mikkeli, Lahti
+Julkaistu: 2026-11-09
+Yhteenveto: Etsimme jälleen uusia kollegoita tiimiimme! Meillä et ole vain yksi soittaja muiden joukossa, vaan keskeinen osa asiantuntevaa myyntikoneistoa, joka avaa ovia konesalipalveluiden, IT-raudan ja kapasiteettiratkaisujen maailman johtaville brändeille. Miksi valita meidät? (Vakaus ja laatu keskiössä) Työntekijöidemme vaihtuvuus on poikkeuksellisen matala, mikä kertoo reilusta meiningistä ja siitä, että tavoitteet ovat realistisia. Pitkäaikaiset asiak
+Hakuaika päättyy: 2026-11-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-sdr-i-freelancer-2795658>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Tekninen myyjä, MariElectronics Oy
+
+MariElectronics Oy
+Tuusula, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tekninen myyjä MariElectronics Oy:lle vastaten uusien asiakkaiden hankinnasta, nykyisten asiakassuhteiden kehittämisestä ja teknisten turvallisuus- ja sensoriratkaisujen myynnistä. Tehtävä vaatii alempaa korkeakoulututkintoa, vähintään 6 kuukauden kokemusta, sujuvan suomen ja englannin kielen taidon sekä B-ajokortin. Työsuhde on kokoaikainen ja vakituinen, palkkakausi on kuukausittain, ja työssä edellytetään ak
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-myyja-marielectronics-oy-2795480>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -5069,7 +5163,7 @@ Muistiinpanot:
 
 Greenstep Oy
 Espoo, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Johdat Bezalan käyttöönottoprojekteja alusta loppuun ja toimit asiakkaan luotettavana kumppanina yhteistyössä myynnin, tuotekehityksen ja asiakastuen kanssa. Tehtävä edellyttää vahvoja projektijohtamisen, priorisoinnin ja asiakasviestinnän taitoja sekä ymmärrystä järjestelmäintegraatioista. Palkka on noin 3500 €/kk ja työ on hybridi Espoon Keilaniemessä, jolloin perehdytysvaiheessa odotetaan lähes täyttä toimis
 Hakuaika päättyy: 2026-12-25
 Lähteet: Jobly
@@ -5318,7 +5412,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Account Managerina vastaat B2B-asiakkuuksista ja ratkaisumyynnistä, prospektoit uusia asiakkaita, pidät asiakastapaamisia ja kehität pitkäaikaisia kumppanuuksia. Palkka koostuu kiinteästä pohjapalkasta, takuukomissiosta, aktiivisuusbonuksesta ja myyntiprovisiosta ilman palkkakattoa, ja arvioidut kuukausiansiot ovat 3 235 €–6 467 € (1–3 v.). Työsuhde on kokoaikainen ja vakituinen, aloitus 7.12.2026, sijainti Esp
 Hakuaika päättyy: 2026-11-20
 Lähteet: Jobly
@@ -5337,7 +5431,7 @@ Muistiinpanot:
 
 Rainmaker 
 Hyvinkää, FI, Kerava, Vantaa, Riihimäki, Porvoo, Nurmijärvi, Espoo, Helsinki, Uusimaa
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme energistä myyjää AT Aurinkopaneelit Oy:lle Uudenmaan alueelle, joka hoitaa koko myyntiprosessin ja myy aurinkosähköjärjestelmiä kotitalouksille. Tehtävä on kokoaikainen ja liikkuva Uudellamaalla, ja se edellyttää täysi-ikäisyyttä, sujuvaa suomen kieltä sekä voimassa olevaa ajokorttia, sillä saat käyttöösi työauton. Palkka on vähintään 1000 euroa ensimmäiseltä kuukaudelta pohjapalkkana, minkä jälkeen työ 
 Hakuaika päättyy: 2027-01-01
 Lähteet: Jobly
@@ -5766,6 +5860,44 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 75/100 — STRONG — B2B-myyjä – Tule mukaan kasvutarinaamme!
+
+Media Vista
+Helsinki, FI, Espoo, Vantaa, Turku
+Julkaistu: 2026-11-09
+Yhteenveto: Etsimme seuraavaa HUIPPUMYYJÄÄ mukaan kasvutarinaan! 🚀 Haluatko myydä tuotetta, jonka kysyntä on jo todistettu, vaikuttaa suoraan omiin ansioihisi ja päästä mukaan rakentamaan nopeasti kasvavaa mediayhtiötä? Media Vistan toinen tilikausi lähestyy loppuaan, ja olemme kolminkertaistamassa ensimmäisen tilikauden liikevaihtoa. Tavoitteemme on kolminkertaistaa liikevaihto jälleen seuraavalla tilikaudella. Sen toteuttamiseen etsimme nyt seuraavaa kovaa
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-tule-mukaan-kasvutarinaamme-2795681>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Kaksikielinen (suomi–ruotsi) turvapalvelumyyjä PK-seudulle
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kaksikielinen-suomi-ruotsi-turvapalvelumyyja-pk-seudulle-2795574>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 73/100 —  — Software Developer
 
 Organisaatio tuntematon
@@ -6046,7 +6178,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Sales Executive vastaa uusasiakashankinnasta Suomessa ja myy Hypergenen ratkaisuja Helsingin toimistolta käsin keskittyen mid-market- ja enterprise-asiakkaisiin. Tehtävään kuuluu koko myyntisykli prospektoinnista ja tarvekartoituksesta neuvotteluihin ja kauppojen päättämiseen sekä myynnin ennustaminen ja aktiivinen CRM-työ. Etsimme henkilöä, jolla on vahvat näytöt monimutkaisesta B2B-myynnistä ja pitkästä myynt
 Hakuaika päättyy: 2026-12-18
 Lähteet: Jobly
@@ -6127,6 +6259,49 @@ Miksi / huomioitavaa:
 - -20 pyytää vähintään 20 vuotta kokemusta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-executive-hypergene-helsinki-2780962>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 70/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on SAP-ympäristöjen, palvelinalustojen ja integraatioiden ylläpito sekä järjestelmien toimintavarmuuden varmistaminen. Työhön kuuluu asiakkaiden IT-ympäristöjen tukeminen, pilvipalvelut (AWS, Azure), tietokannat, kontit, skriptit sekä identiteetin- ja sertifikaattien hallinta. Hakijalta odotetaan Linux-osaamista, tuntemusta skriptikielistä (esim. Python) ja versionhallinnasta (esim. Git), sekä ymmä
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 teknologia: python
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-platform-specialist-skaidi-consulting-helsinki-2795845>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 70/100 — STRONG — APC Engineer
+
+Metso
+Centurion, Gauteng, ZA, Accra, GH, Espoo, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: As an APC Engineer, you will implement, configure and maintain Advanced Process Control and online condition‑monitoring systems while developing KPIs and measuring value delivered to customers. You will act as the primary technical contact, lead project execution and commissioning, provide customer training, and produce technical documentation. The role requires a relevant engineering degree, at least five year
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/apc-engineer-2650007>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6457,6 +6632,25 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 65/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
+
+Skaidi Consulting Oy
+Pasila, Helsinki
+Yhteenveto: Tehtävänkuvaus Skaidi Consultingilla työskentelet laajoissa asiakasympäristöissä keskittyen SAP-ympäristöjen, palvelinajoalustojen ja integraatioiden ylläpito- ja kehitystehtäviin. Tehtävän painopiste on järjestelmien toimintavarmuudessa, alustanhallinnassa ja integraatioissa. Toimit tiiviissä yhteistyössä asiakkaiden kanssa heidän IT-tuki- ja kehitysprosesseissaan varmistaen, että liiketoimintakriittiset järjestelmät toimivat saumattomasti. Työt
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-platform-specialist-skaidi-consulting-helsinki/VO1Z41>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 64/100 —  — Software Engineer
 
 Organisaatio tuntematon
@@ -6589,7 +6783,7 @@ Muistiinpanot:
 
 DNA Oyj
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Vastaat B2B-tuotteiden ja -palveluiden hinnoittelun analysoinnista, päätösten valmistelusta ja operatiivisista hinnoittelupäätöksistä yhteistyössä liiketoiminnan ja myynnin kanssa. Kehität ja ylläpidät hinnoittelun laskentamalleja sekä tuotat raportointia ja skenaarioita AI-avusteisia analytiikkaratkaisuja hyödyntäen. Hyväksyt, hylkäät, palautat tai eskalot hinnoitteluesitykset sovittujen valtuuksien mukaisesti
 Hakuaika päättyy: 2026-12-25
 Lähteet: Jobly
@@ -6736,6 +6930,28 @@ Miksi / huomioitavaa:
 - -30 senioriteetti ylittää nykyisen taustan
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/architect-it-hybrid-networks-2794109>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 60/100 — REVIEW — Sales Manager / Director (Industrial AI Solutions)
+
+Aineo Agency
+Helsinki, FI, Tampere, Turku, Hämeenlinna, Lahti
+Julkaistu: 2026-11-09
+Yhteenveto: Sales Manager / Director (Industrial AI Solutions) Haluatko mukaan nopeasti kasvavaan AI-yritykseen, jossa pääset ottamaan vastuuta myynnistä, kasvamaan AI-aikakauden huippuosaajaksi ja rakentamaan jotain uutta? Aineo Agency rakentaa käytännön AI-ratkaisuja erityisesti teollisuuden, tuotannon, logistiikan, toimitusketjujen ja rakentamisen tarpeisiin. Vaikka olemme nuori yritys, meillä on jo merkittäviä asiakkuuksia, kiinnostavia referenssejä ja o
+Hakuaika päättyy: 2026-11-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-manager-director-industrial-ai-solutions-2795065>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -8314,7 +8530,7 @@ Muistiinpanot:
 
 Erillisverkot
 Espoo, FI, Jyväskylä, Tampere, Kuopio, Turku, Oulu
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Kehityspäällikkönä vastaat mobiiliteknologioiden kehittämisestä, hankinnoista ja uusien ratkaisujen viemisestä kokeiluista tuotannollisiksi palveluiksi sekä osallistut tutkimus-, kehitys- ja innovaatiotoimintaan. Tehtävässä edellytetään hyvää mobiiliteknologioiden ja standardien tuntemusta, erityisesti 5G–6G- ja radioverkkoarkkitehtuureista, kokemusta tuote- tai teknologiakehityksestä ja projektien johtamisesta
 Hakuaika päättyy: 2027-01-01
 Lähteet: Jobly
@@ -8333,7 +8549,7 @@ Muistiinpanot:
 
 Erillisverkot
 Espoo, FI, Jyväskylä, Tampere, Kuopio, Turku, Oulu
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Kehityspäällikkönä vastaat satelliittiteknologioihin perustuvan liiketoiminnan ja uusien ratkaisujen kehittämisestä sekä osallistut kansallisiin ja kansainvälisiin työryhmiin ja TKI-hankkeisiin. Tehtäviisi kuuluvat uusien satelliittiteknologioiden ja käyttötapausten tunnistaminen ja arviointi, teknologiakokeilujen ja pilottien suunnittelu sekä yhteistyö asiakkaiden ja kumppaneiden kanssa. Edellytämme tuntemusta
 Hakuaika päättyy: 2027-01-01
 Lähteet: Jobly
@@ -8679,6 +8895,48 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Azure; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-product-owner-cloud-digital-development-2793233>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Microsoft 365 & Entra ID -asiantuntija
+
+Nice-business Consulting Oy (Nico)
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Nico hakee kokenutta Microsoft 365- ja Entra ID -asiantuntijaa asiakastoimeksiantoon, jossa vastaat tietoturva- ja identiteetinhallinnan muutoksista asiakkaiden ympäristöissä. Tehtävään kuuluu Microsoftin MFA- ja authentication-käytäntöjen vaikutusten arviointi sekä Conditional Access-, MFA-, SSPR- ja Authentication Methods -konfiguraatioiden suunnittelu, testaus ja käyttöönotto tenant‑tasolla. Tehtävässä vaadi
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/microsoft-365-entra-id-asiantuntija-2795771>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — EMEA UPS Services Application Engineering and Tendering Lead
+
+Eaton
+Vantaa, FI
+Julkaistu: 2026-11-02
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will be the EMEA technical authority for UPS services, leading final technical approvals for complex UPS modernization, retrofit, replacement and lifecycle projects. You will ensure bids are technically feasible, safe and serviceable, manage tendering activities and lifecycle replacements (including third‑party units), and lead Application and Tendering Engineers while working remotely with visits to Vantaa
+Hakuaika päättyy: 2026-11-16
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -30 senioriteetti ylittää nykyisen taustan
+- -10 pyytää vähintään 3 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/emea-ups-services-application-engineering-and-tendering-lead-2790884>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -10630,6 +10888,27 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 35/100 — LOW — Osa-aikainen myyjä Helsinkiin
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Haluaisitko työskennellä yrityksessä, jossa parhaimmat myyjät lennätetään kaksi kertaa vuodessa ulkomaanmatkalle? Sytytkö ihmisten kohtaamisesta ja itsesi haastamisesta? Haluatko vaikuttaa suoraan omaan palkkaasi? Mahtavaa, tervetuloa myyjäksi meidän jengiin! Tarjolla osa-aikaista myyntityötä Etsimme nyt myyjiä vakituiseen työsuhteeseen. Työ on liikkuvaa myyntityötä, ja pääset samalla nautiskelemaan raittiista ulkoilmasta. Työ sopii mainiosti myö
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/osa-aikainen-myyja-helsinkiin-2795679>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 34/100 —  — Software Engineer, Siemens Healthineers, Helsinki
 
 Academic Work
@@ -11322,6 +11601,26 @@ Miksi / huomioitavaa:
 - -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-f2f-tule-tienaamaan-kunnolla-2794898>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Myyjä kodinturvapalveluihin Helsinkiin
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Haluaisitko saada työkokemusta, josta on aidosti hyötyä tulevaisuuden urallasi? Entä kuulostaako työ, jossa kohtaat uusia ihmisiä, kehität taitojasi ja pääset vaikuttamaan omiin ansioihisi juuri siltä mitä etsit? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! 😎 Merkityksellistä myyntityötä tarjolla ⭐ Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen kokoaikaiseen työsuhteeseen osaksi kannustavaa t
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+- -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-kodinturvapalveluihin-helsinkiin-2795219>)
 Tila: UUSI
 Muistiinpanot: 
 

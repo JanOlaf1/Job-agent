@@ -602,6 +602,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
 
+### 100/100 — STRONG — Tradenomi (ylempi AMK), Insinööri (ylempi AMK), Artenomi (ylempi AMK), Luonnonvara-ala (ylempi AMK), Sosiaali- ja terveysala (ylempi AMK), Yrittäjyyden ja yritystoiminnan kehittäminen, verkko-opinnot
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Kehitä ja kasvata yritystoimintaa – kaupallista ideasi ja osaamisesi HAMKin Yrittäjyyden ja yritystoiminnan kehittämisen YAMK-koulutus on suunnattu sinulle, joka haluat kehittää omaa tai organisaatiosi liiketoimintaa ja kasvaa strategiseksi, vastuulliseksi johtajaksi. Opinnoissa yhdistyvät yrittäjämäinen ajattelu, palvelumuotoilu, kaupallistaminen ja liiketoiminnan johtaminen. Opit tunnistamaan uusia liiketoimintamahdollisuuksia, rakentamaan kann
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035681>)
+
 ### 95/100 — STRONG — Tekoälyn hyödyntämisosaaminen ajoneuvoalalla (Jotpa)
 
 Minna Learning Oy
@@ -2790,6 +2815,54 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025527>)
+
+### 90/100 — STRONG — Master of Engineering, Sustainability Management, on-site
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustainable st
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035023>)
+
+### 90/100 — STRONG — Master of Engineering, Sustainability Management, online
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This online Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustain
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020434>)
 
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
@@ -4982,6 +5055,217 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040947>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Saimaan ammattiopisto Sampo
+Imatra, Lappeenranta
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tarkoitettu sinulle, joka toimit esihenkilöasemassa johtaen omaa vastuualuettasi ja olet jo hankkinut kokemusta johtamisesta. Erikoisammattitutkinto sopii esihenkilöille ja johtamistehtävissä toimiville, joilla on selkeästi talous- tai henkilöstövastuuta. Koulutus toteutetaan oppisopimuskoulutuksena, jolloin sinulla on oltava koulutukseen soveltuva työpaikka tai toimiva yritys.  Koulutus on
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021509>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Omnia
+Espoo
+Yhteenveto: Osallistutko työssäsi henkilöstön johtamiseen? Onko vastuullasi yrityksen tai toiminnan johtaminen? Johtamisen ja esihenkilötyön koulutuksesta saat lisävalmiuksia johtamistyöhön, syvennät näkemystäsi tavoitteellisesta ja kannattavasta toiminnasta ja saat työkaluja kehittämisee n. Mitä valmiuksia tarvitset? Koulutus on suunnattu yksityisen tai julkisen sektorin johtamistehtävissä toimiville sekä yrittäjille, jotka johtavat yrityksen tai vastuualue
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 750.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 jälkeen alkavissa koulutuksissa oppisopimuskoulutuksen hinta EU/ETA-kansalaisille on 200€. Omaehtoisen koulutuksen hinta on 750 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6 400€. Lue lisää opintojen maksullisuudesta . Peruutusehdot Mikäli opiskelija on ottanut opiskelupaikan vast
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007491>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Työtehoseura ry
+Nurmijärvi, Vantaa
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkintoon johtavassa koulutuksessa keskiössä ovat johtaminen, strategiatyö, talousasiat, asiakkuudet ja työprosessien kehittäminen. Työtehoseura toteuttaa yrityksille ja työyhteisöille yksilöllisesti rakennettuja koulutuskokonaisuuksia, joissa huomioidaan toimialojen erityispiirteet ja osaamistarpeet tapauskohtaisesti.
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Oppisopimuksella toteutettava koulutus on opiskelijalle maksutonta. Mikäli hakijalla ei ole oppisopimuspaikkaa ja koulutus toteutetaan tavanomaisena opiskelumuotona, niin koulutus on silloin maksullinen. Tarkistathan koulutuksen hinnan Työtehoseurasta.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004044>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto, jatkuva haku (oppisopimus)
+
+Stadin ammattiopisto
+Helsinki
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on suunnattu yrityksen tai organisaation johtotehtävissä toimiville henkilöille, jotka johtavat, suunnittelevat ja kehittävät yrityksen tai vastuualueen toimintaa, omaa osaamista, henkilöstöä, taloutta ja tuloksellisuutta. Tutkinnon opinnoissa tarkastellaan johtajuutta uusista näkökulmista ja saadaan lisäosaamista omien esimiestaitojen sekä organisaation toiminnan kehittämiseen. Jokaiselle opi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on maksullista. Kysy tarkempia tietoja vastuuopettajalta. Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011379>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Hyria koulutus Oy
+Hyvinkää
+Yhteenveto: Koulutus toteutetaan monimuoto-opiskeluna. Koulutus sisältää lähiopetusta, työpaikalla järjestettävää koulutusta ja verkko-opiskelua sekä itsenäisesti että Teams-järjestelmän kautta. Opiskelijalla tulee olla käytössään tietokone, toimiva sähköpostiosoite ja internetyhteys. Koulutuksen alussa käydään jokaisen hakijan kanssa henkilökohtainen keskustelu, jossa kartoitetaan opiskelijan olemassa oleva osaaminen ja ammattitaito. Lähtötilannekartoitukse
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan
+Hinta: maksullinen: 800.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040941>)
+
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto (KiRa JYEAT)
+
+Kiinteistöalan Koulutussäätiö sr.
+Helsinki
+Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tehokas koulutus sinulle, jolla on vahva oman toimialan ja tuotteiston osaaminen ja asiantuntemus. JYEAT on arvostettu ammatillinen tutkinto, jonka ammattitaitovaatimusten lähtökohtina ovat organisaation tai yrityksen toiminnan johtaminen sekä kehittäminen, johtajana kehittyminen sekä näiden prosessien kytkeminen toisiinsa. Tutkintoa suorittaessasi opit hallitsemaan kokonaisvaltaisesti joht
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 1150.0 (lähteen summa; tarkista ehdot) ; Koulutuksen hinta alkaen 1150 euroa (ALV 0 %).
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006760>)
+
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Omnia
+Espoo
+Yhteenveto: Koulutus on tarkoitettu henkilöille, jotka suunnittelevat oman yrityksen perustamista tai ovat yrittäjyyden alkutaipaleella tai toimivat jo yrittäjänä. Alkuun pääset sillä, että sinulla on ajatus tulevasta yrityksestäsi. Omnian koulutuksissa painopiste on omien taitojen hiomisessa, toisia sparraten ja yhdessä oppien. Suunnitteletko yritystoiminnan käynnistämistä? Onko suunnitelmissasi sivutoiminen yrittäjyys? Hio idea kuntoon ja rakenna yrityksel
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; EU/ETA-kansalaisille Ammatillinen opiskelu oppisopimuksella | Omnia koulutus on maksuton. Omaehtoisen koulutuksen hinta on 450 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6400 €. Lue lisää Opintojen maksullisuus toisen asteen opinnoissa | Omnia Peruutusehdot Mikäli opiskelija on ottanut op
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039270>)
+
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Forssan ammatti-instituutti
+Forssa
+Yhteenveto: Tee unelmistasi totta – kasva yrittäjäksi tai kehitä liikeideaasi käytännönläheisen koulutuksen avulla! Yrittäjyyden ammattitutkinto tarjoaa konkreettisia työkaluja yritystoiminnan suunnitteluun, käynnistämiseen ja kehittämiseen. Kenelle Tämä koulutus on suunniteltu sinulle, joka harkitset yritystoiminnan aloittamista tai yrittäjäksi ryhtymistä omistajanvaihdoksen kautta. Se tarjoaa käytännönläheistä tukea ja tietoa, jonka avulla voit rakentaa va
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 590.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039869>)
+
+### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Stadin ammattiopisto
+Helsinki
+Yhteenveto: Hei yrittäjyydestä haaveileva tai jo yrittäjänä toimiva! Lähde kehittämään liiketoimintasuunnitelmaasi ja yritystoimintaasi. Ole rohkeasti yhteydessä ja kysy, miten voisimme tukea sinua! Lähdetään suunnittelemaan opintojasi – aloittaa voit joustavasti oman aikataulusi mukaan. Yrittäjyyden ammattitutkinto soveltuu oman yritystoiminnan käynnistämistä suunnitteleville, jo yrittäjänä toimiville sekä yritysneuvontaa tekeville. Koulutuksen tavoitteet Y
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot) ; Omaehtoisen koulutuksen hinta on 400 €. Oppisopimuskoulutus omassa yrityksessä on opiskelijalle maksuton lukuunottamatta mahdollisia oppimateriaalikustannuksia Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041589>)
 
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
@@ -10174,6 +10458,155 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040186>)
 
+### 65/100 — STRONG — Avoin yo: Johtamisen perusopinnot (UEF) lv. 2026-2027
+
+Kymenlaakson kesäyliopisto
+Kouvola
+Yhteenveto: Johtaminen perusopinnot 30 op (UEF) Opinnoissa perehdytään organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asioiden johtamista opiskellaan mm. esihenkilötyön ja asiantuntijaorganisaation ja osaamisen näkökulmista. Johtamisen opinnot sopivat kaikille yritysten ja erilaisten organisaatioiden johtamisesta kiinnostuneille. Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asi
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 26.0–30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 440.0 (lähteen summa; tarkista ehdot) ; Hinta : Kymenlaakson kesäyliopiston maksu 170 € + Itä-Suomen avoimen yliopiston maksut 270 €
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-18T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041131>)
+
+### 65/100 — STRONG — Avoin yo: Johtamisen perusopinnot (UEF), lv. 2025-2026
+
+Kymenlaakson kesäyliopisto
+Kouvola
+Yhteenveto: Johtaminen perusopinnot 26–30 op (UEF) Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asioiden johtamista opiskellaan mm. esimiestyön ja asiantuntijaorganisaation ja osaamisen näkökulmista. Johtamisen opinnot sopivat kaikille yritysten ja muiden organisaatioiden johtamisesta kiinnostuneille. Opinnot antavat valmiuksia toimia erilaisissa asiantuntija-, kehittämis- ja johtamistehtävissä s
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 26.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 404.0 (lähteen summa; tarkista ehdot) ; Hinta : Kymenlaakson kesäyliopiston maksu 170 € + Itä-Suomen yliopiston avoimen yliopiston maksu 234 €
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2025-10-19T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032611>)
+
+### 65/100 — STRONG — Avoin yo: Johtamisen perusopinnot, lv 2026-2027
+
+Päijät-Hämeen kesäyliopisto
+Lahti
+Yhteenveto: Johtamisen osaamista joustavasti verkossa! Johtamisen opinnoissa perehdytään organisaatioihin, johtamiseen ja johtajuuteen – niin ihmisten kuin asioiden johtamisen näkökulmasta. Opit tarkastelemaan johtamista esimerkiksi esihenkilötyön, asiantuntijaorganisaatioiden, muutosjohtamisen ja kilpailustrategioiden kautta. Opinnoissa käsitellään myös vastuullista liiketoimintaa ja johtamista tukevia analysointimalleja. Opintojen jälkeen: ● osaat soveltaa
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 360.0 (lähteen summa; tarkista ehdot) ; Hinta ilmoittautuessasi opintokokonaisuudelle on : Päijät-Hämeen kesäyliopiston perimä lukuvuosimaksu 90 € + Itä-Suomen avoimen yliopiston perimä maksu 9 € / opintopiste. Hinta ilmoittautuessasi yksittäiselle opintojaksolle on: Päijät-Hämeen kesäyliopiston perimä lukuvuosimaksu 90 € + Itä-Suomen avo
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-25T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039953>)
+
+### 65/100 — STRONG — Avoin yo: Johtamisen perusopinnot, lv 2026-2027, monimuoto-opinnot
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: OPINTOJAKSOT (30 op) Johtamisen perusteet 6 op International Business 6 op (15.3.2027 alkaen) Henkilöstöjohtaminen 6 op Vastuullinen liiketoiminta 6 op (opetus 8.1.2027alkaen, EXAM-tentti) Arvopohjainen liiketoiminta ja osuustoiminnan idea 6 op Opintojakson kohdalta pääset katsomaan opintojakson tarkempia tietoja ja ilmoittautumaan. Opiskelu Opinnot suoritetaan etä/verkko-opintoina perehtymällä oppimateriaaliin, palauttamalla oppimistehtäviä ja/t
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; Opintomaksut lukuvuonna 2026–2027 Yksittäinen opintojakso: 20 € / opintopiste Opintokokonaisuus: 15 € / opintopiste Opintomaksu kattaa opetuksen ja tentit opiskeluoikeusaikana, joka määräytyy opetussuunnitelman mukaan. Kirjallisuuden hankinta- tai lainauskulut eivät sisälly opintomaksuun. Tutustu ta
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-06T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037869>)
+
+### 65/100 — STRONG — Avoin yo: Johtamisen perusopinnot 30 op (UEF), lv. 2026-2027, verkko-opinnot
+
+Mikkelin kesäyliopisto
+Mikkeli
+Yhteenveto: Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Johtamisen perusopinnoista sinun on mahdollista edetä Johtamisen aineopinnot -sivuainekokonaisuuteen. Johtamisen perusopinnot koostuvat seuraavista pakollisista opintojaksoista: Johtamisen perusteet 6 op International Business 6 op Henkilöstöjohtaminen 6 op Vastuullinen liiketoiminta 6 op Arvopohjainen liiketoiminta ja osuustoiminnan idea 6 op Opintoje
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 475.0 (lähteen summa; tarkista ehdot) ; Hinta sisältää Mikkelin kesäyliopiston maksun ja Itä-Suomen avoimen yliopiston maksut 12€/op (voimassa 1.9.2026-31.7.2027).
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-09-29T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038719>)
+
+### 65/100 — STRONG — Johtamisen perusopinnot 30 op lv. 2026-27 (UEF)
+
+Kainuun kesäyliopisto
+Kajaani
+Yhteenveto: Johtamisen opinnoissa opiskelija perehtyy organisaatioihin, niiden johtamiseen ja johtajuuteen. Ihmisten ja asioiden johtamista opiskellaan mm. esihenkilötyön ja asiantuntijaorganisaation ja osaamisen näkökulmista. Opinnoissa käsitellään myös muutosjohtamista, kilpailustrategioita sekä johtamista tukevia analysointimalleja. OPINTOKOKONAISUUS SISÄLTÄÄ SEURAAVAT OPINTOJAKSOT • Johtamisen perusteet 6 op • International Business 6 op • Henkilöstöjoht
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 470.0 (lähteen summa; tarkista ehdot) ; 470 € Hinta on opintojen kokonaishinta sisältäen Itä-Suomen yliopiston avoimen yliopiston palvelumaksuosuuden (270 €) ja Kainuun kesäyliopiston osuuden (200 €).
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040253>)
+
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
 Oulun yliopisto
@@ -12882,6 +13315,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017771>)
 
+### 60/100 — REVIEW — Avoin yo, Yrittäjyyden perusteet
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Tarkat tiedot opintojaksosta, sen suoritustavoista ja aikataulusta löydät JYU avoimen yliopiston verkkosivuilta . Sisältö Opintojakso perehdyttää opiskelijat yrittäjyyden keskeisiin teemoihin. Jaksolla tutustutaan mm. seuraaviin aihealueisiin: • yrittäjyys yksilön, organisaation ja yhteiskunnan näkökulmasta • yrittäjyyden eri käsitteet ja ilmenemismuodot, • yrittäjyysprosessin vaiheet ja yrittäjänä epäonnistuminen • erilaiset käsitykset uuden yri
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 100.0 (lähteen summa; tarkista ehdot) ; Opintojen hinta on pääsääntöisesti 20 euroa/opintopiste. Tarkka hinta ilmoitetaan ilmoittautumisen yhteydessä Jyväskylän yliopiston verkkosivuilla.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015872>)
+
 ### 60/100 — REVIEW — Nopea tie tarjoilijaksi
 
 Vantaan ammattiopisto Varia
@@ -13980,6 +14437,122 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030097>)
 
+### 55/100 — REVIEW — Ekami, Johtamisen ja yritysjohtamisen erikoisammattitutkinto - Jatkuva 2027 (TULOSSA HAKUUN)
+
+Etelä-Kymenlaakson ammattiopisto
+Kotka
+Yhteenveto: TULOSSA KEVÄÄLLÄ 2027 Lisätietoa koulutuksesta tulossa! Muutokset mahdollisia. Johtamisen ja yritysjohtamisen erikoisammattitutkinto Haluatko vahvistaa johtamisosaamistasi ja kehittää omaa organisaatiotasi entistä tuloksellisemmin? Johtamisen ja yritysjohtamisen erikoisammattitutkinto on suunnattu sinulle, jolla on jo vahvaa käytännön kokemusta johtamistehtävistä ja hyvä oman toimialan sekä organisaation tuntemus. Koulutuksen aikana syvennät joht
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on opiskelijalle maksuton. Opiskelijalle voi aiheutua kustannuksia henkilökohtaisista opiskeluvälineistä, lupa-, sertifikaatti- ja korttikoulutuksista tai muista opiskelussa tarvittavista varusteista. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen sekä Sveitsin ulkopuolisten maiden kansalais
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042305>)
+
+### 55/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Mercuria kauppaoppilaitos
+Vantaa
+Yhteenveto: Kehitä johtamisosaamistasi käytännönläheisesti Johtamisen ja yritysjohtamisen erikoisammattitutkinto tarjoaa työkaluja strategian, henkilöstön, talouden ja asiakkuuksien johtamiseen. Opit tunnistamaan omia sekä organisaatiosi vahvuuksia ja kehittämiskohteita. Koulutuksen aikana kehität johtamisosaamistasi käytännönläheisesti sekä verkostoidut ja jaat kokemuksia muiden tulosvastuullisissa tehtävissä toimivien johtamisen ammattilaisten ja kouluttaj
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 300.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029975>)
+
+### 55/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto, jatkuva haku
+
+Ava-akatemia
+Helsinki
+Yhteenveto: Johtaminen on muutoksessa, kuinka pysyt tilanteen tasalla? Mietitkö, miten hyvä johtaja johtaa tiimiään jatkuvasti muuttuvassa maailmassa? Haluatko edetä vaativampiin tehtäviin tai kaipaat lisää itsevarmuutta, tietoa ja taitoa johtamiseen? Tunnistatko omat vahvuutesi ja voimavarasi johtajana? Johtamisen ja yritysjohtamisen erikoisammattitutkinto (JYET) on arvostettu tutkinto, joka vahvistaa johtamistaitojasi ja liiketoimintaosaamistasi. Opinnoist
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Oppisopimuksena suoritettava tutkinto on osallistujalle maksuton.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007892>)
+
+### 55/100 — REVIEW — Yrittäjyyden ammattitutkinto
+
+Keuda
+Järvenpää
+Yhteenveto: Koulutukseen hakeutuminen tapahtuu Keuda.fi-sivuston kautta Lisätietoja koulutuksesta sekä hakulomakkeen löydät koulutuksen nettisivulta. Suoran linkin koulutuksen sivulle löydät tämän sivun alareunassa olevasta Koulutuksen yhteyshenkilöt -kohdasta. Haluatko varmuutta ja osaamista – sitä kautta menestystä? Yrittäjyyden ammattitutkinto vahvistaa merkittävästi yrittäjyysosaamista, olet sitten toimiva yrittäjä tai yrittäjyyttä harkitseva. Opinnoista
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot) ; Oppisopimuksena ja koulutussopimuksena koulutus on maksuton. Ilman oppi- tai koulutussopimusta koko tutkinnon opiskelumaksu on 400 euroa. Tutkinnon osan opiskelumaksu on 150 euroa tutkinnon osaa kohden. Opiskelumaksu laskutetaan pääsääntöisesti yhdessä erässä opintojen alettua.
+Toteutus: HYBRID
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039925>)
+
+### 55/100 — REVIEW — Ekami, Yrittäjyyden ammattitutkinto, Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) - Jatkuva haku 2027
+
+Etelä-Kymenlaakson ammattiopisto
+Kotka
+Yhteenveto: Yrittäjyyden ammattitutkinto - Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) Yrittäjyyden ammattitutkinnon tavoitteena on vahvistaa valmiuksiasi suunnitella, arvioida ja kehittää liiketoimintaa sekä viedä suunnitelmat käytännön tekemiseksi. Koulutus tarjoaa työkaluja yritystoiminnan kehittämiseen, uuden liiketoiminnan käynnistämiseen sekä yrittäjämäiseen toimintaan erilaisissa työtehtävissä. Koulutus rakentuu neljän sisältö
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Koulutukseen osallistuvalla tulee olla käytössään kannattava tietokone. Koulutukseen osallistuvilla koko tutkinnon suorittavilla opiskelijoilla on mahdollisuus suorittaa Kauppakamarin HHJ-kurssi subventoituun hintaan. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen sekä Sveitsin ulkopuolisten maiden k
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043644>)
+
 ### 55/100 — REVIEW — Master’s Programme in Engineering of Data-intensive Intelligent Software Systems (EDISS, Erasmus Mundus), Master of Science (Technology) (2 years), 2027
 
 Åbo Akademi
@@ -14002,6 +14575,29 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043406>)
+
+### 55/100 — REVIEW — Tuotekehitystyön erikoisammattitutkinto - data ja analytiikka liiketoiminnassa
+
+Rastor
+Espoo
+Yhteenveto: Lue koulutuksesta ja hakeudu Rastorin verkkosivulta: Data ja analytiikka liiketoiminnassa – tuotekehitystyön erikoisammattitutkinto Datalla ja analytiikalla kannattavampaa liiketoimintaa ja asiakasarvoa! Ankkuroi data ja analytiikka osaksi liiketoimintaa ja päätöksentekoa! Koulutuksessa opit muotoilemaan liiketoimintamalliasi käyttäjätiedon pohjalta ja tunnistamaan siitä kriittiset kehittämisen kohdat. Data-analytiikkaa ja sen tuloksia hyödyntämä
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot)
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040053>)
 
 ### 50/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, polkuopinnot
 
@@ -14230,6 +14826,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030562>)
+
+### 50/100 — REVIEW — Johtamisen perusopinnot
+
+Alkio-opisto
+Jyväskylä
+Yhteenveto: Opinnot suoritetaan lukuvuoden 2023–2024 aikana Alkio-opistossa. Opinnot suositellaan suorittamaan Kauppatieteet-opintolinjan opintoina. Lue lisää: Kauppatieteet Alkio-opistolla
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 30.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 485.0 (lähteen summa; tarkista ehdot) ; Alkio-opiston päätoimisella opiskelijalla opinnot sisältyvät perusmaksuihin. Sivutoimiselle opiskelijalle hinta on 485 euroa (sisältäen avoimen yliopiston maksun).
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2023-08-14T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017422>)
 
 ### 45/100 — REVIEW — Kauppatieteet: Tietojärjestelmätiede (avoin yliopisto-opetus)
 
@@ -15139,6 +15759,52 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000029184>)
+
+### 40/100 — REVIEW — Yrittäjyyden ammattitutkinto, Tampere
+
+Tampereen seudun ammattiopisto Tredu
+Tampere
+Yhteenveto: Tampere, Sammonkatu Tarjolla olevia koulutuksia Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Digitaalinen markkinointi ja myynti yrittäjille (tutkinnon osa) Koulutuksen voi suorittaa vain oppisopimuksena . Oppisopimuskoulutus edellyttää päätoimisena yrittäjänä toimimista. Ota yhteyttä: oppisopimusasiantuntija Mervi Lammi p. 050 413 1900 mervi.lammi@tampere.fi Lue lisää oppisopimuskoulutuksesta *********************************************
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 0.0 (lähteen summa; tarkista ehdot) ; Koulutusten hinnat vaihtelevat. Löydät hinnan Tredun verkkosivuilta kunkin koulutuksen sivulta. Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: http
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042484>)
+
+### 40/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Business College Helsinki
+Helsinki
+Yhteenveto: Kenelle tämä tutkinto sopii? Sinun tulee toimia johto- tai esimiestehtävissä yksityisellä tai julkisella sektorilla tai asiantuntijatehtävissä johtaen tulosyksikön toimintaa.  Johtamisen ja yritysjohtamisen erikoisammattitutkintoon valittavalta henkilöltä edellytetään mahdollisuutta suunnitella ja organisoida yrityksen tai oman vastuualueen toimintaa ja taloutta sekä johtaa ja kehittää yrityksen tai oman vastuualueen henkilöstöä ja työhyvinvointi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 250.0 (lähteen summa; tarkista ehdot) ; 250€ - 650€
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011466>)
 
 ### 35/100 — LOW — Open university: Introduction to Social and Public Policy, autumn 2026
 
