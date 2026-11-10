@@ -7583,6 +7583,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039901>)
 
+### 75/100 — STRONG — Lukio, 150 opintopistettä
+Lukion yhteiskunta- ja talouslinja, 150 opintopistettä
+
+Kulosaaren yhteiskoulu
+Helsinki
+Yhteenveto: Kiinnostaako talous tai politiikka? Ura liike-elämässä tai yrittäjänä? Entä yhteiskunnallinen vaikuttaminen politiikassa tai järjestöissä? Harkitsetko tulevaisuuden opintoja kauppa-, oikeus- tai yhteiskuntatieteellisessä? Kulosaaren yhteiskoulun yhteiskunta- ja talouslinja tarjoaa sinulle mahdollisuuden kehittää tietojasi ja taitojasi tulevaisuutta varten. – Tule opiskelemaan samoista asioista kiinnostuneiden opiskelijoiden kanssa! – Opiskelet ko
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004186>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -9718,6 +9742,75 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041886>)
 
+### 70/100 — STRONG — Lukio, 150 opintopistettä
+Lukion yrittäjyyslinja , 150 opintopistettä
+
+Sulkavan lukio
+Sulkava
+Yhteenveto: Sulkavan lukiossa voi opiskella joko yleislinjalla tai yrittäjyyslinjalla. Yrittäjyyslinjalle etsimme nuoria , jotka haluavat teoreettisten lukio-opintojen lisäksi opiskella asioita käytännön tasolla. Yrittäjyyslinjalla opiskelemasi teoriatieto kytkeytyy käytäntöön ja oman tekemisen kautta lukio-opinnoistasi muodostuu monipuolinen ja oman näköisesi kokonaisuus. Luovuus ja innovatiivisuus ovat avaimia tulevaisuuden työelämässä menestymiseen. Yritt
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Lukuvuosimaksu koskee muun maan kuin Euroopan unionin jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaista. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskeluluvan saaneilta tai vaihto-opiskelijoita.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä, Peruskoulu
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010269>)
+
+### 70/100 — STRONG — Lukio, 150 opintopistettä
+Lukion urheilulinja , 150 opintopistettä
+
+Kankaanpään Yhteislyseo
+Kankaanpää
+Yhteenveto: Kankaanpään Yhteislyseo on noin 200 opiskelijan ja opettajan viihtyisä ja moderni oppimisympäristö, joka sijaitsee Lauhanvuori-Hämeenkangas Unesco Global Geopark -alueen sydämessä. Olemme yleislukio, jossa voit valita valtakunnallisten pakollisten ja valinnaisten opintojaksojen lisäksi paikallisia yrittäjyys- tai taideopintoja tai panostaa kielten opiskeluun. Englannin ja ruotsin lisäksi valittavana on saksa, ranska ja espanja sekä etäopintoina k
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; EU/ETA-alueen ulkopuolelta Suomeen toiselle asteelle opiskelemaan hakeutuvat opiskelijat ovat lukuvuosimaksuvelvollisia 1.8.2026 lähtien. Lukuvuosimaksu ei koske em. maista tulevia opiskelijoita, joiden oleskeluluvan peruste on muu kuin opiskelu. Lukuvuosimaksu sisältää opetuksen lisäksi päivittäise
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004355>)
+
+### 70/100 — STRONG — Valtio-oppi, perus- ja aineopintoja
+
+Alkio-opisto
+Jyväskylä
+Yhteenveto: Opinnot suoritetaan lukuvuoden 2026–2027 aikana Alkio-opistossa. Opinnot suositellaan suorittamaan Yhteiskunta- ja valtiotieteiden opintolinjan opintoina. Lue lisää: Yhteiskunta- ja valtiotieteet Alkio-opistolla
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 625.0 (lähteen summa; tarkista ehdot) ; Alkio-opiston päätoimisella opiskelijalla opinnot sisältyvät lukuvuoden perusmaksuihin tai 30 op:een opintoseteliin . Sivutoimiselle opiskelijalle hinta on 625 euroa (sisältäen avoimen yliopiston maksun).
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017452>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -10606,6 +10699,75 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040253>)
+
+### 65/100 — STRONG — Politiikan ja viestinnän maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Oletko kiinnostunut politiikan, vallan ja organisaatioiden kysymyksistä? Kiinnostavatko sinua maailman kriisit ja konfliktit? Pohditko mediajulkisuuden ja viestinnän roolia yhteiskunnassa? Helsingin yliopiston yleisen valtio-opin ja viestinnän tieteenalat ovat maailman kärkeen kuuluvia tutkimus- ja opetusyksikköjä. Politiikan ja viestinnän yhteinen maisteriohjelma on kansainvälisestikin ainutlaatuinen ja tukee perinteiset tieteenalarajat ylittävä
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040609>)
+
+### 65/100 — STRONG — Ympäristömuutoksen ja globaalin kestävyyden maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Ilmastonmuutos, luonnon monimuotoisuuden köyhtyminen ja luonnonvarojen ylikulutus vaativat ratkaisuja, jotka ylittävät tieteenalarajat. ECGS-ohjelmassa rakennat osaamista, joka yhdistää luonnon- ja yhteiskuntatieteet: opit analysoimaan monitasoisia sosio-ekologisia järjestelmiä ja työskentelemään kestävän tulevaisuuden puolesta. Kiinnostuksesi mukaan voit suuntautua Ympäristömuutos (EC) -opintosuuntaan, joka pohjautuu biologisiin, maantieteellisi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039902>)
+
+### 65/100 — STRONG — Filosofia, valtiotieteiden maisteri (2 v)
+
+Turun yliopisto
+Turku
+Yhteenveto: Filosofia pyrkii tutkimaan ihmisenä olemisen ja todellisuuden luonnetta. Filosofian opiskelijoille yhteistä on kiinnostus perustavanlaatuisiin kysymyksiin ja niiden ratkaisuyrityksiin. Filosofian opiskelu antaa perusteelliset tiedot teoreettisen ja käytännöllisen filosofian perusteista ja tutkimusmenetelmistä sekä harjaannuttaa filosofiseen ajatteluun ja argumentaatioon. Turun yliopiston filosofian oppiaineen vahvuutena on teoreettisen ja käytänn
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002912>)
 
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -13339,6 +13501,186 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000015872>)
 
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+Lukion yrittäjyyden ja kansainvälisen liiketoiminnan linja (erityinen koulutustehtävä), 150 opintopistettä
+
+Lauttasaaren yhteiskoulu
+Helsinki
+Yhteenveto: Lauttasaaren yhteiskoulu, Kansainvälisen liiketoiminnan lukio LYKissä voit opiskella yleislinjalla tai kansainvälisen liiketoiminnan linjalla. Koululla on erityinen koulutustehtävä yrittäjyydessä ja kansainvälisessä liiketoimintaosaamisessa. Opiskelijat voivat halutessaan valita Science-polun. Lukiossamme on reilut 300 opiskelijaa. KANSAINVÄLISEN LIIKETOIMINNAN LINJA JA YLEISLINJA Sisäänpääsyraja 2026 Yleislinjan alin keskiarvo vuonna 2026 oli 8,
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042467>)
+
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+
+Joutsan lukio
+Joutsa
+Yhteenveto: Joutsan lukio tarjoaa laadukasta ja opiskelijalähtöistä lukio-opetusta. Painopisteitämme ovat liikuntavalmennus&Futsal, kansainvälisyys ja yrittäjyys.
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004529>)
+
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+
+Pyhäjoen lukio
+Pyhäjoki
+Yhteenveto: Pyhäjoen lukio on yrittäjyyspainotteinen lukio, jossa arvostetaan henkilökunnan ja opiskelijoiden omaehtoista aktiivisuutta ja yritteliäisyyttä. Lukiossamme korostuu opiskelijoiden sekä henkilökunnan aktiivinen työote, kannustava oppimisympäristö, eri oppiaineiden yhteiset projektit ja työt, yrittäjyys sekä mediataidot. Lukion toisen vuosikurssin opiskelijat vastaavat paikallisen tapahtuman, joka syksy pidettävien Pyhäjoen messujen järjestämisest
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Maksuttomuus koskee EU- ja ETA-alueen opiskelijoita. Näiden ulkopuolisille käytössä myöhemmin ilmoitettavat lukuvuosimaksut.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042969>)
+
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+
+Joroisten lukio
+Joroinen
+Yhteenveto: Joroisten lukio on lämminhenkinen ja opiskelijoistaan välittävä lukio, jossa painottuu kansainvälisyys, yrittäjyys ja liikunta. Toisen vuoden opiskelijat tekevät kahden viikon mittaisen opintomatkan Keski-Eurooppaan. Vuosittain aloitetaan uuden lyhyen kielen opiskelu, esim. ranskan, saksan tai japanin. Yrittäjyyttä kannustetaan harjoittelemaan omassa yrityksessä ja lukion omassa osuuskunnassa. Urheiluakatemissa voi pelata lentopalloa, salibandya 
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Lukuvuosimaksu on käytössä EU:n ja ETA:n ulkopuolelta tuleville opiskelijoille.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043446>)
+
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+Lukion yrittäjyyslinja , 150 opintopistettä
+
+Säkylän seudun lukio
+Säkylä
+Yhteenveto: Säkylän seudun lukio on yleislukio, jossa on mahdollisuus painottaa opintoja opiskelijan omien tavoitteiden mukaisesti. Lukiomme tarjoaa mahdollisuuden hankkia laaja-alaisen yleissivistyksen. Koulumme kaikkia toimia ohjaa pyrkimys luoda ja säilyttää myönteinen, ahkera, oppimiselle suotuisa ja ihmisarvoa kunnioittava työilmapiiri. Sen elementtejä ovat kannustavuus ja suvaitsevaisuus, ohjaus itsenäiseen työskentelyyn, sekä eheyttäminen ja yhteenkuu
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Toisen asteen koulutuksen lukuvuosimaksut Lukuvuosimaksu koskee opiskelutarkoituksessa Suomeen tulevia ja Suomessa oleskelevia kolmansien maiden kansalaisia. Kolmannen maan kansalaisella tarkoitetaan muun maan kuin Euroopan unionin jäsenvaltion tai Islannin, Liechtensteinin, Norjan ja Sveitsin kansa
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä, Peruskoulu
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041875>)
+
+### 60/100 — REVIEW — Lukio, 150 opintopistettä
+Lukion talous- ja elinkeinoelämä -linja, 150 opintopistettä
+Lukion sirkustaiteen linja, 150 opintopistettä
+
+Tampereen yliopiston normaalikoulu
+Tampere
+Yhteenveto: Norssin lukio - yliopiston oma lukio Tampereen yliopiston normaalikoulun lukio eli Norssin lukio kuuluu Tampereen yliopiston Kasvatustieteiden ja kulttuurin tiedekuntaan (EDU). Koulutuksen järjestäjämme on Tampereen korkeakoulusäätiö ja kuulumme yksityisiin lukioihin. Lukiomme sijaitsee Tampereen yliopiston keskustakampuksella tiedeyhteisön sykkeessä hyvien kulkuyhteyksien varrella. Opiskelijalle tarjoamme lämminhenkisen yhteisön, jossa on ainutl
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Lukuvuosimaksu koskee opiskelutarkoituksessa Suomeen tulevia ja Suomessa oleskelevia kolmansien maiden kansalaisia. Kolmannen maan kansalaisella tarkoitetaan muun maan kuin Euroopan unionin jäsenvaltion tai Islannin, Liechtensteinin, Norjan ja Sveitsin kansalaista.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035035>)
+
+### 60/100 — REVIEW — Sähkö- ja automaatioalan perustutkinto
+
+Lapin koulutuskeskus REDU
+Sodankylä, Rovaniemi
+Yhteenveto: Perustutkinnon ohessa voi suorittaa lukio-opintoja ja ylioppilastutkinnon. Sähkö- ja automaatioalan opiskelijana voit hakeutua väyläopintoihin Lapin AMKiin. Sähköasentaja Sähköasentajana huolehdit erilaisista sähköasennustöistä sekä alan huolto- ja korjaustöistä. Voit tehdä rakennuskohteiden sähkö-, tele- ja LVI-järjestelmien sähköasennustöitä, asentaa ja korjata sähkökoneita ja -laitteita tai toimia sähkön tuotanto- ja jakelutehtävissä. Luet säh
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Lukuvuosimaksu peritään muilta kuin EU:n jäsenvaltioiden, Islannin, Liechtensteinin, Norjan ja Sveitsin kansalaisilta. Lisätietoa täällä .
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034218>)
+
+### 60/100 — REVIEW — Taideteollisuusalan perustutkinto, Hepolamminkatu Tampere - YHTEISHAKU 2027
+
+Tampereen seudun ammattiopisto Tredu
+Tampere
+Yhteenveto: Puusepänalan artesaani Puusepänalan artesaani on kalusteiden ja muiden puutuotteiden asiantuntija. Hän suunnittelee, valmistaa ja entisöi huonekaluja sekä käyttö- ja koriste-esineitä. Puusepänalan ammattilainen hallitsee alan tyypillisimmät materiaalit sekä perinteiset käsityötekniikat, työkalut ja nykyaikaiset puusepän koneet. Puusepänala edellyttää käden tarkkuutta, luovuutta, kokeilunhalua ja intohimoa materiaalin työstämiseen. Artesaanilla tu
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042294>)
+
 ### 60/100 — REVIEW — Nopea tie tarjoilijaksi
 
 Vantaan ammattiopisto Varia
@@ -14851,6 +15193,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017422>)
 
+### 50/100 — REVIEW — Politiikan ja viestinnän kandiohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Kiinnostavatko sinua vallan kysymykset, median rooli yhteiskunnassa ja kansainväliset kriisit? Politiikan ja viestinnän kandiohjelmassa rakennat ymmärrystä siitä, miten politiikka, julkisuus ja organisaatiot toimivat ja miten niitä voi muuttaa. Opit tarkastelemaan vallan jakautumista yksilöiden tasolta Euroopan unioniin ja kansainvälisiin instituutioihin, analysoimaan mediajulkisuutta ja sosiaalista mediaa sekä ymmärtämään diplomatiaa, konfliktej
+Koulutustyyppi: UNIVERSITY DEGREE
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041384>)
+
 ### 45/100 — REVIEW — Kauppatieteet: Tietojärjestelmätiede (avoin yliopisto-opetus)
 
 Turun yliopisto
@@ -15805,6 +16169,28 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011466>)
+
+### 40/100 — REVIEW — Lukio, 150 opintopistettä
+
+Pyhäjoen lukio
+Pyhäjoki
+Yhteenveto: Pyhäjoen lukio on yrittäjyyspainotteinen lukio, jossa arvostetaan henkilökunnan ja opiskelijoiden omaehtoista aktiivisuutta ja yritteliäisyyttä. Lukiossamme korostuu opiskelijoiden sekä henkilökunnan aktiivinen työote, kannustava oppimisympäristö, eri oppiaineiden yhteiset projektit ja työt, yrittäjyys sekä mediataidot. Lukion toisen vuosikurssin opiskelijat vastaavat paikallisen tapahtuman, joka syksy pidettävien Pyhäjoen messujen järjestämisest
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005118>)
 
 ### 35/100 — LOW — Open university: Introduction to Social and Public Policy, autumn 2026
 

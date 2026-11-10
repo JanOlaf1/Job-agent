@@ -1,472 +1,202 @@
 # JOB AGENT
 
-Haku: 2026-11-09T16:38+02:00
+Haku: 2026-11-10T02:08+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 9 uutta sopivaa työpaikkaa.
+Sinulle on 1 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 9
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 98
-Vahvat: 8 | Harkitse: 1
+Uusia sopivia työpaikkoja: 1
+Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 97
+Vahvat: 1 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 95/100 — STRONG — Sales Trainee (Viljelijän Berner)
+### 70/100 — STRONG — HPC Application Specialist
 
-Berner Oy
-Porvoo, FI, Hämeenlinna, Turku, Kokemäki, Pori, Seinäjoki
+CSC - Tieteen tietotekniikan keskus Oy
+Espoo, FI
 Julkaistu: 2026-11-09
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kolmea 10 kuukauden kokoaikaista Sales Traineeta Viljelijän Bernerin myyntiorganisaatioon osaksi Basecamp 2027 -ohjelmaa ja tehtävät alkavat 1.2.2027. Tehtäviin kuuluu alueellinen myynti- ja asiakastyö, viljakaupan perehtyminen, koetoiminnan suunnittelu ja koordinointi sekä viestintä ja tapahtumat. Hakijalta edellytetään soveltuvia korkeakouluopintoja tai vastavalmistuneisuutta, vahvaa maatalousosa
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The HPC Application Specialist role at CSC’s Digital Twin Technologies Group in Espoo is a fixed-term position until December 2029 focused on enabling Europe’s flagship weather and climate applications to run efficiently on EuroHPC systems such as LUMI. You will develop portable software build recipes and deployment solutions for multiple EuroHPC architectures, implement workflow solutions for federated HPC exe
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +5 junior-/aloitustaso
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-trainee-viljelijan-berner-2795351>)
-
-### 90/100 — STRONG — Tekninen myyjä, MariElectronics Oy
-
-MariElectronics Oy
-Tuusula, FI
-Julkaistu: 2026-11-09
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tekninen myyjä MariElectronics Oy:lle vastaten uusien asiakkaiden hankinnasta, nykyisten asiakassuhteiden kehittämisestä ja teknisten turvallisuus- ja sensoriratkaisujen myynnistä. Tehtävä vaatii alempaa korkeakoulututkintoa, vähintään 6 kuukauden kokemusta, sujuvan suomen ja englannin kielen taidon sekä B-ajokortin. Työsuhde on kokoaikainen ja vakituinen, palkkakausi on kuukausittain, ja työssä edellytetään ak
-Hakuaika päättyy: 2027-01-08
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-myyja-marielectronics-oy-2795480>)
-
-### 90/100 — STRONG — Sales Development Representative (SDR) I Freelancer
-
-Myyntiakatemia LH Oy
-Espoo, FI, Jyväskylä, Tampere, Oulu, Turku, Vaasa, Fuengirola, ES, Helsinki, Rauma, Pori, Joensuu, Rovaniemi, Iisalmi, Kajaani, Mikkeli, Lahti
-Julkaistu: 2026-11-09
-Yhteenveto: Etsimme jälleen uusia kollegoita tiimiimme! Meillä et ole vain yksi soittaja muiden joukossa, vaan keskeinen osa asiantuntevaa myyntikoneistoa, joka avaa ovia konesalipalveluiden, IT-raudan ja kapasiteettiratkaisujen maailman johtaville brändeille. Miksi valita meidät? (Vakaus ja laatu keskiössä) Työntekijöidemme vaihtuvuus on poikkeuksellisen matala, mikä kertoo reilusta meiningistä ja siitä, että tavoitteet ovat realistisia. Pitkäaikaiset asiak
-Hakuaika päättyy: 2026-11-22
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 etätyö Suomesta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-sdr-i-freelancer-2795658>)
-
-### 75/100 — STRONG — B2B-myyjä – Tule mukaan kasvutarinaamme!
-
-Media Vista
-Helsinki, FI, Espoo, Vantaa, Turku
-Julkaistu: 2026-11-09
-Yhteenveto: Etsimme seuraavaa HUIPPUMYYJÄÄ mukaan kasvutarinaan! 🚀 Haluatko myydä tuotetta, jonka kysyntä on jo todistettu, vaikuttaa suoraan omiin ansioihisi ja päästä mukaan rakentamaan nopeasti kasvavaa mediayhtiötä? Media Vistan toinen tilikausi lähestyy loppuaan, ja olemme kolminkertaistamassa ensimmäisen tilikauden liikevaihtoa. Tavoitteemme on kolminkertaistaa liikevaihto jälleen seuraavalla tilikaudella. Sen toteuttamiseen etsimme nyt seuraavaa kovaa
-Hakuaika päättyy: 2026-11-23
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-tule-mukaan-kasvutarinaamme-2795681>)
-
-### 75/100 — STRONG — Kaksikielinen (suomi–ruotsi) turvapalvelumyyjä PK-seudulle
-
-Sector Alarm
-Helsinki, FI
-Julkaistu: 2026-11-09
-Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
-Hakuaika päättyy: 2026-11-23
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kaksikielinen-suomi-ruotsi-turvapalvelumyyja-pk-seudulle-2795574>)
-
-### 70/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
-
-Academic Work
-Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on SAP-ympäristöjen, palvelinalustojen ja integraatioiden ylläpito sekä järjestelmien toimintavarmuuden varmistaminen. Työhön kuuluu asiakkaiden IT-ympäristöjen tukeminen, pilvipalvelut (AWS, Azure), tietokannat, kontit, skriptit sekä identiteetin- ja sertifikaattien hallinta. Hakijalta odotetaan Linux-osaamista, tuntemusta skriptikielistä (esim. Python) ja versionhallinnasta (esim. Git), sekä ymmä
-Hakuaika päättyy: 2027-01-08
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
 - +10 teknologia: python
-- +5 junior-/aloitustaso
-- +10 Uusimaa
-- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-platform-specialist-skaidi-consulting-helsinki-2795845>)
-
-### 70/100 — STRONG — APC Engineer
-
-Metso
-Centurion, Gauteng, ZA, Accra, GH, Espoo, FI
-Julkaistu: 2026-11-09
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: As an APC Engineer, you will implement, configure and maintain Advanced Process Control and online condition‑monitoring systems while developing KPIs and measuring value delivered to customers. You will act as the primary technical contact, lead project execution and commissioning, provide customer training, and produce technical documentation. The role requires a relevant engineering degree, at least five year
-Hakuaika päättyy: 2027-01-08
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
 - +10 etätyö Suomesta
-- -20 pyytää vähintään 5 vuotta kokemusta
+- -10 pyytää vähintään 3 vuotta kokemusta
+- ? ilmoituksessa mainitaan Docker; osaamista ei ole vahvistettu profiilissa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/apc-engineer-2650007>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hpc-application-specialist-2796110>)
 
-### 65/100 — STRONG — Junior Platform Specialist, Skaidi Consulting, Helsinki
+## KOULUTUKSET — 7 UUTTA / MUUTTUNUTTA
 
-Skaidi Consulting Oy
-Pasila, Helsinki
-Yhteenveto: Tehtävänkuvaus Skaidi Consultingilla työskentelet laajoissa asiakasympäristöissä keskittyen SAP-ympäristöjen, palvelinajoalustojen ja integraatioiden ylläpito- ja kehitystehtäviin. Tehtävän painopiste on järjestelmien toimintavarmuudessa, alustanhallinnassa ja integraatioissa. Toimit tiiviissä yhteistyössä asiakkaiden kanssa heidän IT-tuki- ja kehitysprosesseissaan varmistaen, että liiketoimintakriittiset järjestelmät toimivat saumattomasti. Työt
-Lähteet: Academic Work
+### 75/100 — STRONG — Lukio, 150 opintopistettä
+Lukion yhteiskunta- ja talouslinja, 150 opintopistettä
 
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +5 teknologia: IT-palvelujen ymmärrys
-- +5 junior-/aloitustaso
-- +10 Uusimaa
-- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
-
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-platform-specialist-skaidi-consulting-helsinki/VO1Z41>)
-
-### 60/100 — REVIEW — Sales Manager / Director (Industrial AI Solutions)
-
-Aineo Agency
-Helsinki, FI, Tampere, Turku, Hämeenlinna, Lahti
-Julkaistu: 2026-11-09
-Yhteenveto: Sales Manager / Director (Industrial AI Solutions) Haluatko mukaan nopeasti kasvavaan AI-yritykseen, jossa pääset ottamaan vastuuta myynnistä, kasvamaan AI-aikakauden huippuosaajaksi ja rakentamaan jotain uutta? Aineo Agency rakentaa käytännön AI-ratkaisuja erityisesti teollisuuden, tuotannon, logistiikan, toimitusketjujen ja rakentamisen tarpeisiin. Vaikka olemme nuori yritys, meillä on jo merkittäviä asiakkuuksia, kiinnostavia referenssejä ja o
-Hakuaika päättyy: 2026-11-22
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- -30 senioriteetti ylittää nykyisen taustan
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-manager-director-industrial-ai-solutions-2795065>)
-
-## KOULUTUKSET — 12 UUTTA / MUUTTUNUTTA
-
-### 100/100 — STRONG — Tradenomi (ylempi AMK), Insinööri (ylempi AMK), Artenomi (ylempi AMK), Luonnonvara-ala (ylempi AMK), Sosiaali- ja terveysala (ylempi AMK), Yrittäjyyden ja yritystoiminnan kehittäminen, verkko-opinnot
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Kehitä ja kasvata yritystoimintaa – kaupallista ideasi ja osaamisesi HAMKin Yrittäjyyden ja yritystoiminnan kehittämisen YAMK-koulutus on suunnattu sinulle, joka haluat kehittää omaa tai organisaatiosi liiketoimintaa ja kasvaa strategiseksi, vastuulliseksi johtajaksi. Opinnoissa yhdistyvät yrittäjämäinen ajattelu, palvelumuotoilu, kaupallistaminen ja liiketoiminnan johtaminen. Opit tunnistamaan uusia liiketoimintamahdollisuuksia, rakentamaan kann
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035681>)
-
-### 90/100 — STRONG — Master of Engineering, Sustainability Management, online
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This online Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustain
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020434>)
-
-### 90/100 — STRONG — Master of Engineering, Sustainability Management, on-site
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: As a Master of Engineering in Sustainability Management, you will lead and support deploying sustainable technologies, organisational change processes, and collaboration networks for environmentally and socially responsible businesses. This Master's Programme uniquely combines technological and strategic business aspects of sustainability. It builds on the needs of businesses to meet rising sustainability requirements and carry out sustainable st
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
+Kulosaaren yhteiskoulu
+Helsinki
+Yhteenveto: Kiinnostaako talous tai politiikka? Ura liike-elämässä tai yrittäjänä? Entä yhteiskunnallinen vaikuttaminen politiikassa tai järjestöissä? Harkitsetko tulevaisuuden opintoja kauppa-, oikeus- tai yhteiskuntatieteellisessä? Kulosaaren yhteiskoulun yhteiskunta- ja talouslinja tarjoaa sinulle mahdollisuuden kehittää tietojasi ja taitojasi tulevaisuutta varten. – Tule opiskelemaan samoista asioista kiinnostuneiden opiskelijoiden kanssa! – Opiskelet ko
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non EU/EEA-students.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035023>)
-
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
-
-Työtehoseura ry
-Nurmijärvi, Vantaa
-Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkintoon johtavassa koulutuksessa keskiössä ovat johtaminen, strategiatyö, talousasiat, asiakkuudet ja työprosessien kehittäminen. Työtehoseura toteuttaa yrityksille ja työyhteisöille yksilöllisesti rakennettuja koulutuskokonaisuuksia, joissa huomioidaan toimialojen erityispiirteet ja osaamistarpeet tapauskohtaisesti.
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Oppisopimuksella toteutettava koulutus on opiskelijalle maksutonta. Mikäli hakijalla ei ole oppisopimuspaikkaa ja koulutus toteutetaan tavanomaisena opiskelumuotona, niin koulutus on silloin maksullinen. Tarkistathan koulutuksen hinnan Työtehoseurasta.
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Peruskoulu
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004044>)
-
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto (KiRa JYEAT)
-
-Kiinteistöalan Koulutussäätiö sr.
-Helsinki
-Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tehokas koulutus sinulle, jolla on vahva oman toimialan ja tuotteiston osaaminen ja asiantuntemus. JYEAT on arvostettu ammatillinen tutkinto, jonka ammattitaitovaatimusten lähtökohtina ovat organisaation tai yrityksen toiminnan johtaminen sekä kehittäminen, johtajana kehittyminen sekä näiden prosessien kytkeminen toisiinsa. Tutkintoa suorittaessasi opit hallitsemaan kokonaisvaltaisesti joht
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 1150.0 (lähteen summa; tarkista ehdot) ; Koulutuksen hinta alkaen 1150 euroa (ALV 0 %).
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006760>)
-
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
-
-Omnia
-Espoo
-Yhteenveto: Osallistutko työssäsi henkilöstön johtamiseen? Onko vastuullasi yrityksen tai toiminnan johtaminen? Johtamisen ja esihenkilötyön koulutuksesta saat lisävalmiuksia johtamistyöhön, syvennät näkemystäsi tavoitteellisesta ja kannattavasta toiminnasta ja saat työkaluja kehittämisee n. Mitä valmiuksia tarvitset? Koulutus on suunnattu yksityisen tai julkisen sektorin johtamistehtävissä toimiville sekä yrittäjille, jotka johtavat yrityksen tai vastuualue
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 750.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 jälkeen alkavissa koulutuksissa oppisopimuskoulutuksen hinta EU/ETA-kansalaisille on 200€. Omaehtoisen koulutuksen hinta on 750 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6 400€. Lue lisää opintojen maksullisuudesta . Peruutusehdot Mikäli opiskelija on ottanut opiskelupaikan vast
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007491>)
-
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto, jatkuva haku (oppisopimus)
-
-Stadin ammattiopisto
-Helsinki
-Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on suunnattu yrityksen tai organisaation johtotehtävissä toimiville henkilöille, jotka johtavat, suunnittelevat ja kehittävät yrityksen tai vastuualueen toimintaa, omaa osaamista, henkilöstöä, taloutta ja tuloksellisuutta. Tutkinnon opinnoissa tarkastellaan johtajuutta uusista näkökulmista ja saadaan lisäosaamista omien esimiestaitojen sekä organisaation toiminnan kehittämiseen. Jokaiselle opi
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutus on maksullista. Kysy tarkempia tietoja vastuuopettajalta. Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011379>)
-
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
-
-Saimaan ammattiopisto Sampo
-Imatra, Lappeenranta
-Yhteenveto: Johtamisen ja yritysjohtamisen erikoisammattitutkinto on tarkoitettu sinulle, joka toimit esihenkilöasemassa johtaen omaa vastuualuettasi ja olet jo hankkinut kokemusta johtamisesta. Erikoisammattitutkinto sopii esihenkilöille ja johtamistehtävissä toimiville, joilla on selkeästi talous- tai henkilöstövastuuta. Koulutus toteutetaan oppisopimuskoulutuksena, jolloin sinulla on oltava koulutukseen soveltuva työpaikka tai toimiva yritys.  Koulutus on
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto
-Haku: OPEN
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021509>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004186>)
 
-### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+### 70/100 — STRONG — Lukio, 150 opintopistettä
+Lukion urheilulinja , 150 opintopistettä
 
-Omnia
-Espoo
-Yhteenveto: Koulutus on tarkoitettu henkilöille, jotka suunnittelevat oman yrityksen perustamista tai ovat yrittäjyyden alkutaipaleella tai toimivat jo yrittäjänä. Alkuun pääset sillä, että sinulla on ajatus tulevasta yrityksestäsi. Omnian koulutuksissa painopiste on omien taitojen hiomisessa, toisia sparraten ja yhdessä oppien. Suunnitteletko yritystoiminnan käynnistämistä? Onko suunnitelmissasi sivutoiminen yrittäjyys? Hio idea kuntoon ja rakenna yrityksel
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 450.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; EU/ETA-kansalaisille Ammatillinen opiskelu oppisopimuksella | Omnia koulutus on maksuton. Omaehtoisen koulutuksen hinta on 450 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6400 €. Lue lisää Opintojen maksullisuus toisen asteen opinnoissa | Omnia Peruutusehdot Mikäli opiskelija on ottanut op
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039270>)
-
-### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
-
-Forssan ammatti-instituutti
-Forssa
-Yhteenveto: Tee unelmistasi totta – kasva yrittäjäksi tai kehitä liikeideaasi käytännönläheisen koulutuksen avulla! Yrittäjyyden ammattitutkinto tarjoaa konkreettisia työkaluja yritystoiminnan suunnitteluun, käynnistämiseen ja kehittämiseen. Kenelle Tämä koulutus on suunniteltu sinulle, joka harkitset yritystoiminnan aloittamista tai yrittäjäksi ryhtymistä omistajanvaihdoksen kautta. Se tarjoaa käytännönläheistä tukea ja tietoa, jonka avulla voit rakentaa va
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 590.0 (lähteen summa; tarkista ehdot)
-Toteutus: ONLINE
+Kankaanpään Yhteislyseo
+Kankaanpää
+Yhteenveto: Kankaanpään Yhteislyseo on noin 200 opiskelijan ja opettajan viihtyisä ja moderni oppimisympäristö, joka sijaitsee Lauhanvuori-Hämeenkangas Unesco Global Geopark -alueen sydämessä. Olemme yleislukio, jossa voit valita valtakunnallisten pakollisten ja valinnaisten opintojaksojen lisäksi paikallisia yrittäjyys- tai taideopintoja tai panostaa kielten opiskeluun. Englannin ja ruotsin lisäksi valittavana on saksa, ranska ja espanja sekä etäopintoina k
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; EU/ETA-alueen ulkopuolelta Suomeen toiselle asteelle opiskelemaan hakeutuvat opiskelijat ovat lukuvuosimaksuvelvollisia 1.8.2026 lähtien. Lukuvuosimaksu ei koske em. maista tulevia opiskelijoita, joiden oleskeluluvan peruste on muu kuin opiskelu. Lukuvuosimaksu sisältää opetuksen lisäksi päivittäise
+Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
 Haku: OPEN
-Hakuaika päättyy: 2026-12-31T00:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039869>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004355>)
 
-### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+### 70/100 — STRONG — Lukio, 150 opintopistettä
+Lukion yrittäjyyslinja , 150 opintopistettä
 
-Hyria koulutus Oy
-Hyvinkää
-Yhteenveto: Koulutus toteutetaan monimuoto-opiskeluna. Koulutus sisältää lähiopetusta, työpaikalla järjestettävää koulutusta ja verkko-opiskelua sekä itsenäisesti että Teams-järjestelmän kautta. Opiskelijalla tulee olla käytössään tietokone, toimiva sähköpostiosoite ja internetyhteys. Koulutuksen alussa käydään jokaisen hakijan kanssa henkilökohtainen keskustelu, jossa kartoitetaan opiskelijan olemassa oleva osaaminen ja ammattitaito. Lähtötilannekartoitukse
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan
-Hinta: maksullinen: 800.0 (lähteen summa; tarkista ehdot)
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
+Sulkavan lukio
+Sulkava
+Yhteenveto: Sulkavan lukiossa voi opiskella joko yleislinjalla tai yrittäjyyslinjalla. Yrittäjyyslinjalle etsimme nuoria , jotka haluavat teoreettisten lukio-opintojen lisäksi opiskella asioita käytännön tasolla. Yrittäjyyslinjalla opiskelemasi teoriatieto kytkeytyy käytäntöön ja oman tekemisen kautta lukio-opinnoistasi muodostuu monipuolinen ja oman näköisesi kokonaisuus. Luovuus ja innovatiivisuus ovat avaimia tulevaisuuden työelämässä menestymiseen. Yritt
+Koulutustyyppi: lk
+Laajuus: 150.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton ; Lukuvuosimaksu koskee muun maan kuin Euroopan unionin jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaista. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskeluluvan saaneilta tai vaihto-opiskelijoita.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä, Peruskoulu
 Haku: OPEN
-Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040941>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010269>)
 
-### 85/100 — STRONG — Yrittäjyyden ammattitutkinto
+### 70/100 — STRONG — Valtio-oppi, perus- ja aineopintoja
 
-Stadin ammattiopisto
-Helsinki
-Yhteenveto: Hei yrittäjyydestä haaveileva tai jo yrittäjänä toimiva! Lähde kehittämään liiketoimintasuunnitelmaasi ja yritystoimintaasi. Ole rohkeasti yhteydessä ja kysy, miten voisimme tukea sinua! Lähdetään suunnittelemaan opintojasi – aloittaa voit joustavasti oman aikataulusi mukaan. Yrittäjyyden ammattitutkinto soveltuu oman yritystoiminnan käynnistämistä suunnitteleville, jo yrittäjänä toimiville sekä yritysneuvontaa tekeville. Koulutuksen tavoitteet Y
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
+Alkio-opisto
+Jyväskylä
+Yhteenveto: Opinnot suoritetaan lukuvuoden 2026–2027 aikana Alkio-opistossa. Opinnot suositellaan suorittamaan Yhteiskunta- ja valtiotieteiden opintolinjan opintoina. Lue lisää: Yhteiskunta- ja valtiotieteet Alkio-opistolla
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 400.0 (lähteen summa; tarkista ehdot) ; Omaehtoisen koulutuksen hinta on 400 €. Oppisopimuskoulutus omassa yrityksessä on opiskelijalle maksuton lukuunottamatta mahdollisia oppimateriaalikustannuksia Osaaminen on mahdollista osoittaa myös osallistumalla suoraan näyttöön (maksuton).
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
+Hinta: maksullinen: 625.0 (lähteen summa; tarkista ehdot) ; Alkio-opiston päätoimisella opiskelijalla opinnot sisältyvät lukuvuoden perusmaksuihin tai 30 op:een opintoseteliin . Sivutoimiselle opiskelijalle hinta on 625 euroa (sisältäen avoimen yliopiston maksun).
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
 Haku: OPEN
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +10 osaamista täydentävä kokonaisuus
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041589>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017452>)
+
+### 65/100 — STRONG — Filosofia, valtiotieteiden maisteri (2 v)
+
+Turun yliopisto
+Turku
+Yhteenveto: Filosofia pyrkii tutkimaan ihmisenä olemisen ja todellisuuden luonnetta. Filosofian opiskelijoille yhteistä on kiinnostus perustavanlaatuisiin kysymyksiin ja niiden ratkaisuyrityksiin. Filosofian opiskelu antaa perusteelliset tiedot teoreettisen ja käytännöllisen filosofian perusteista ja tutkimusmenetelmistä sekä harjaannuttaa filosofiseen ajatteluun ja argumentaatioon. Turun yliopiston filosofian oppiaineen vahvuutena on teoreettisen ja käytänn
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002912>)
+
+### 65/100 — STRONG — Ympäristömuutoksen ja globaalin kestävyyden maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Ilmastonmuutos, luonnon monimuotoisuuden köyhtyminen ja luonnonvarojen ylikulutus vaativat ratkaisuja, jotka ylittävät tieteenalarajat. ECGS-ohjelmassa rakennat osaamista, joka yhdistää luonnon- ja yhteiskuntatieteet: opit analysoimaan monitasoisia sosio-ekologisia järjestelmiä ja työskentelemään kestävän tulevaisuuden puolesta. Kiinnostuksesi mukaan voit suuntautua Ympäristömuutos (EC) -opintosuuntaan, joka pohjautuu biologisiin, maantieteellisi
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039902>)
+
+### 65/100 — STRONG — Politiikan ja viestinnän maisteriohjelma, syksy 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: Oletko kiinnostunut politiikan, vallan ja organisaatioiden kysymyksistä? Kiinnostavatko sinua maailman kriisit ja konfliktit? Pohditko mediajulkisuuden ja viestinnän roolia yhteiskunnassa? Helsingin yliopiston yleisen valtio-opin ja viestinnän tieteenalat ovat maailman kärkeen kuuluvia tutkimus- ja opetusyksikköjä. Politiikan ja viestinnän yhteinen maisteriohjelma on kansainvälisestikin ainutlaatuinen ja tukee perinteiset tieteenalarajat ylittävä
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040609>)
 
 
 Lähteiden ongelmat:
@@ -477,9 +207,9 @@ Lähteiden ongelmat:
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 11 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 10 tämän haun relevantissa ilmoituksessa.
 - Python mainittiin 8 tämän haun relevantissa ilmoituksessa.
-- SQL mainittiin 5 tämän haun relevantissa ilmoituksessa.
+- SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
 
@@ -6305,6 +6035,28 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 70/100 — STRONG — HPC Application Specialist
+
+CSC - Tieteen tietotekniikan keskus Oy
+Espoo, FI
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The HPC Application Specialist role at CSC’s Digital Twin Technologies Group in Espoo is a fixed-term position until December 2029 focused on enabling Europe’s flagship weather and climate applications to run efficiently on EuroHPC systems such as LUMI. You will develop portable software build recipes and deployment solutions for multiple EuroHPC architectures, implement workflow solutions for federated HPC exe
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -10 pyytää vähintään 3 vuotta kokemusta
+- ? ilmoituksessa mainitaan Docker; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hpc-application-specialist-2796110>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 65/100 — STRONG — Korkeakouluharjoittelija sijoitusten datanhallintaan ja analytiikkaan
 
 Keva
@@ -8940,6 +8692,25 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 50/100 — REVIEW — BIM Specialist
+
+Hitachi Energy
+Vaasa, FI, Pohjanmaa, Ballerup, DK, Helsinki, Uusimaa, Ludvika, Dalarnas län, SE, Middelfart, Tampere, Pirkanmaa, Västeråsin kunta, Västmanlandin lääni
+Julkaistu: 2026-11-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive BIM and digital construction workflows on AIS and GIS substation projects across Finland, Sweden and Denmark. The role requires configuring and maintaining Autodesk Forma and Autodesk Construction Cloud and managing digital workflows such as RFIs, NCRs, inspections, punch lists and handover. You will train and support site teams and subcontractors, provide first-line support for Forma, ACC and ap
+Hakuaika päättyy: 2027-01-08
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/bim-specialist-2796052>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 48/100 —  — Software Engineer, Aiven Context
 
 Organisaatio tuntematon
@@ -10871,7 +10642,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-02
+Julkaistu: 2026-11-09
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Rooli on yrityksen ensimmäisenä Fullstack-kehittäjänä ja vastaat prototyypin viemisestä tuotantoon sekä teknisestä kehityksestä skaalautuvaksi SaaS‑tuotteeksi. Tehtävä edellyttää hands-on fullstack-osaamista, API‑integraatioiden ja tietoturvan ymmärrystä sekä Azure‑kokemusta ja sujuvaa suomen kieltä. Tarjoamme vapaat teknologiavalinnat, modernit työkalut, kasvun ja vastuunkantamisen mahdollisuudet sekä joustava
 Hakuaika päättyy: 2027-01-02
 Lähteet: Jobly
