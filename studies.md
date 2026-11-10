@@ -152,6 +152,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003753>)
 
+### 100/100 — STRONG — Master of Engineering, Information Technology, Medical Technology, Blended Studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki
+Yhteenveto: Lead the future of healthcare through medical technology innovation. Medical technology is a rapidly evolving, interdisciplinary field of technology that plays a crucial role in shaping the future of healthcare. In Finland, across Europe and around the world, digital health solutions, smart medical devices, and advanced healthcare systems are transforming how we diagnose, treat, and care for people. This programme is your opportunity to be part o
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11,500. Read more about tuition fees and scholarships on our website.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033202>)
+
 ### 100/100 — STRONG — Master of Business Administration, Game Business Management (online studies), Kajaani University of Applied Sciences, KAMK
 
 Kajaanin ammattikorkeakoulu
@@ -251,6 +276,31 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003762>)
+
+### 100/100 — STRONG — Master of Engineering, Smart Industry, blended studies
+
+Metropolia Ammattikorkeakoulu
+Vantaa
+Yhteenveto: The Master’s Degree Program in Smart Industry is a one-year, interdisciplinary program designed for professionals aiming to lead and shape the digital transformation of modern industry. The program focuses on the integration of advanced technologies—such as AI, data analytics and cloud solutions—into smart and sustainable industrial processes. The curriculum combines professional studies (30 ECTS) with a Master’s thesis (30 ECTS), offering studen
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 12500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non-EU/EEA citizens: 12500€ EU/EEA citizens: free of charge Read more about tuition fees and scholarships on our website.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030656>)
 
 ### 100/100 — STRONG — Master of Business Administration, Business Technologies
 
@@ -1187,30 +1237,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042965>)
 
-### 90/100 — STRONG — Master of Engineering, Information Technology, Medical Technology, Blended Studies
-
-Metropolia Ammattikorkeakoulu
-Helsinki
-Yhteenveto: Lead the future of healthcare through medical technology innovation. Medical technology is a rapidly evolving, interdisciplinary field of technology that plays a crucial role in shaping the future of healthcare. In Finland, across Europe and around the world, digital health solutions, smart medical devices, and advanced healthcare systems are transforming how we diagnose, treat, and care for people. This programme is your opportunity to be part o
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11,500. Read more about tuition fees and scholarships on our website.
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2027-04-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033202>)
-
 ### 90/100 — STRONG — Tradenomi (ylempi AMK), Älykkään liiketoiminnan ja tekoälyn johtaminen
 
 Tampereen ammattikorkeakoulu
@@ -1362,7 +1388,7 @@ Kokkola
 Yhteenveto: Data-analytiikan ja johtamisen ylempään ammattikorkeakoulututkintoon tähtäävässä koulutuksessa voit syventää osaamistasi data-analytiikassa, johtamisessa sekä datan ja tekoälyn hyödyntämisessä johtamisen ja liiketoiminnan kehittämisen tukena. Voit suuntautua erityisesti syventämään osaamistasi alan erikoisasiantuntijana tai erityisesti kehittämään valmiuksiasi alan johto- ja kehittämistehtäviin. Koulutus antaa valmiuksia myös dataa hyödyntävän uu
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot
@@ -1410,10 +1436,10 @@ Tampere
 Yhteenveto: Harness the Power of Data and AI to Shape the Future Digitalization is rapidly reshaping society and organizations, driving the demand for new competencies in the workforce. To thrive in this evolving landscape, professionals across industries need to enhance their data skills, recognize AI opportunities, and navigate ethical considerations. Learn how to leverage data to your advantage and elevate your skills by incorporating artificial intellige
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. If you are unsure about whether you'd be subject to tuition fees, check the ' Do I have to pay tuition fees? ' section at Studyinfo.fi.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -1437,7 +1463,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. If you are unsure about whether you'd be subject to tuition fees, check the ' Do I have to pay tuition fees? ' section at Studyinfo.fi.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -1451,30 +1477,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027794>)
 
-### 90/100 — STRONG — Master of Engineering, Smart Industry, blended studies
-
-Metropolia Ammattikorkeakoulu
-Vantaa
-Yhteenveto: The Master’s Degree Program in Smart Industry is a one-year, interdisciplinary program designed for professionals aiming to lead and shape the digital transformation of modern industry. The program focuses on the integration of advanced technologies—such as AI, data analytics and cloud solutions—into smart and sustainable industrial processes. The curriculum combines professional studies (30 ECTS) with a Master’s thesis (30 ECTS), offering studen
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026
-Hinta: lukuvuosimaksu: 12500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non-EU/EEA citizens: 12500€ EU/EEA citizens: free of charge Read more about tuition fees and scholarships on our website.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-04-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030656>)
-
 ### 90/100 — STRONG — Master of Business Administration, Digital Business and Management, Vaasa, part-time studies
 
 Yrkeshögskolan Novia
@@ -1483,7 +1485,7 @@ Yhteenveto: Do you wish to develop your skills on an education that combines the
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The studies are free for EU/EEA citizens. Tuition fee for non-EU/EEA students is set to 12000 euro for the academic year 2026-2027. Read more about tuition fee here. Tuition fee-paying (non-EU/EEA) students can apply for a scholarship. Read more about scholarships here.
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The studies are free for EU/EEA citizens. Tuition fee for non-EU/EEA students is set to 12000 euro for the academic year 2027-2028. Read more about tuition fee here.
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Harkinnanvaraisuus tai erivapaus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
@@ -1507,7 +1509,7 @@ Yhteenveto: Do you wish to develop your skills on an education that combines the
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The studies are free for EU/EEA citizens. Tuition fee for non-EU/EEA students is set to 12 000 euro for the academic year 2026-2027. Read more about tuition fee here. Tuition fee-paying (non-EU/EEA) students can apply for a scholarship. Read more about our scholarships here.
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The studies are free for EU/EEA citizens. Tuition fee for non-EU/EEA students is set to 12 000 euro for the academic year 2027-2028. Read more about tuition fee here.
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Harkinnanvaraisuus tai erivapaus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
@@ -2911,6 +2913,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027996>)
+
+### 85/100 — STRONG — Tietojenkäsittely ja digitaaliset järjestelmät, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
+
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Tietojenkäsittelyn ja digitaalisten järjestelmien maisteriohjelma johtaa diplomi-insinöörin (DI) tai kauppatieteiden maisterin (KTM) tutkintoon. Ohjelma keskittyy älykkäisiin digitaalisiin järjestelmiin, automaatioon, robotiikkaan, tekoälyyn, data-analytiikkaan ja -tekniikkaan, tietojärjestelmiin sekä avaruussovelluksiin. Ohjelman opintosuunnista kaksi on tarjolla suomeksi (Automaatio ja tietotekniikka, Kyberjohtaminen) ja kolme englanniksi (Auto
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu koskee vain englanninkielisiä opintosuuntia. Maksuvelvollisia ovat hakijat, jotka eivät ole EU/ETA-maiden kansalaisia.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026963>)
 
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
@@ -5670,29 +5696,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003006>)
 
-### 75/100 — STRONG — Tietojenkäsittely ja digitaaliset järjestelmät, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
-
-Vaasan yliopisto
-Vaasa
-Yhteenveto: Maisteriohjelmamme tietojenkäsittelytieteissä kouluttaa diplomi-insinöörejä (DI) automaatiotekniikan, tietoliikennetekniikan ja tietotekniikan aloille sekä kauppatieteiden maistereita (KTM) tietojärjestelmätieteen alalle. Ohjelman opintosuunnista kaksi on tarjolla suomeksi (Automaatio ja tietotekniikka, Tietojärjestelmätiede) ja kolme englanniksi (Automation and Robotics, Sustainable and Autonomous Systems, Artificial Intelligence and Data Engine
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027
-Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu koskee vain englanninkielisiä opintosuuntia. Maksuvelvollisia ovat hakijat, jotka eivät ole EU/ETA-maiden kansalaisia.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026963>)
-
 ### 75/100 — STRONG — Information Systems, Master of Science in Economics and Business Administration (2 yrs), autumn 2027
 
 Jyväskylän yliopisto
@@ -5861,12 +5864,12 @@ Helsinki
 Yhteenveto: Yritysjohtajien työ on muuttunut perusteellisesti, kun digitalisaatio ja tekoäly ovat tulleet osaksi liiketoimintaa ja päätöksentekoa. Information and Service Management (ISM) -maisteriohjelman tarkoituksena on kouluttaa seuraavan sukupolven yritysjohtajia teknologiavetoisten yritysten vuosisadalla. Ohjelmassa on kolme erikoistumisvaihtoehtoa: liiketoiminta-analytiikka, tietojärjestelmät sekä logistiikka ja palvelujohtaminen. ISM-maisteriohjelmas
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -5907,12 +5910,12 @@ Espoo
 Yhteenveto: Ohjelmistot ovat kriittisen tärkeitä lähes kaikilla teollisuuden ja liiketoiminnan aloilla ja kaikissa toiminnoissa aina terveydenhuollosta ja tietotekniikasta tutkimukseen ja kehitykseen tai julkisen sektorin organisaatioihin. Laajat ohjelmistojärjestelmät muodostavat jo yhteiskunnan ja talouden selkärangan, ja ohjelmistoihin kohdistuvat vaatimukset sekä ohjelmistojen monimutkaisuus ja vaikutukset kasvavat jatkuvasti. Software Engineering -pääai
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6022,12 +6025,12 @@ Espoo
 Yhteenveto: Dataa on runsaasti saatavilla, mutta heitä, jotka osaavat käyttää dataa uuden tiedon tuottamiseen on liian vähän. Siksi lahjakkaille asiantuntijoille, joilla on työkalut ja osaamista  louhia tietoa ja ymmärrystä datasta, on kysyntää enemmäin kuin koskaan. Signal Processing and Data Science -pääaine sijaitsee monen ajankohtaisen haasteen risteyskohdassa. Haasteet yltävät pörssikurssien ennustamisesta lääketieteellisen teknologian kehitystyöhön. Ku
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Ohjelman lukuvuosimaksu on 17 000 euroa. Euroopan unionin (EU) jäsenmaiden, Euroopan talousalueen (ETA) tai Sveitsin kansalaisilta ei peritä lukuvuosimaksua. Kaikkien muiden maiden kansalaisilta peritään lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6045,12 +6048,12 @@ Espoo
 Yhteenveto: Mitä on älykkyys ja miten se kehittyy? Mitä oppiminen on ja miksi ”oppimisen oppimisesta” on tullut ratkaiseva taito nykymaailmassa? Halu vastata näinkin yksinkertaisiin ja suoriin kysymyksiin voi olla riittävä syy opiskella koneoppimista, datatiedettä ja tekoälyä. Näillä aloilla käsitellään kuitenkin myös 2000-luvun haastavimpia ongelmia. Tämä tekee Aalto-yliopiston Machine Learning, Data Science and Artificial Intelligence -pääaineesta (”Macada
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6068,12 +6071,12 @@ Helsinki
 Yhteenveto: Opiskelu Business Analytics -maisteriohjelmassa antaa opiskelijoille ainutlaatuisen yhdistelmän sellaista liiketoiminta- ja teknologiaosaamista, joka on olennaista dataan pohjautuvassa päätöksenteossa ja ongelmanratkaisussa. Näille taidoille on suurta kysyntää, sillä niiden avulla innovatiiviset tulevaisuuden johtajat voivat vastata tulevaisuuden tarpeisiin digitalisaation, tekoälyn ja kestävyyshaasteiden aikakaudella. Ohjelma antaa opiskelijoill
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027
 Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6091,12 +6094,12 @@ Espoo
 Yhteenveto: Pääaineessa saat syväluotaavia taitoja ja vankan tietopohjan, joita kumpaakin tarvitaan nopeatempoisessa tietotekniikan maailmassa menestymiseen. Saat erinomaiset käytännön ja teoreettiset taidot kehittyneeseen laskentaan monenlaisissa järjestelmissä: internet-mittakaavan hajautetuista alustoista kehittyviin kvanttilaskentainfrastruktuureihin. Pääaineesta valmistuneilla on: Laaja metodologinen perusta. Sinusta tulee ovat edistyneiden ohjelmistoje
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6160,10 +6163,10 @@ Turku
 Yhteenveto: The Data Engineering and Artificial Intelligence (AI) program is aimed at engineers in information technology, electronics, or telecommunications who have gained professional experience and wish to deepen their expertise in data management and artificial intelligence. Upon completion, you will earn UAS Master’s degree from a University of Applied Sciences. In the Data Engineering and AI program, your advanced professional competence will expand, 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -6183,12 +6186,12 @@ Helsinki
 Yhteenveto: Markkinointi on keskeinen tekijä siinä, miten organisaatiot ymmärtävät asiakkaitaan, tekevät strategisia päätöksiä ja luovat kilpailuetua. Samalla tekoälyn, markkinoinnin automaation ja big datan nopea kehitys, akuutit kestävän kehityksen haasteet ja eettiset haasteet muuttavat markkinoinnin perusperiaatteiden soveltamistapaa. Aalto-yliopiston Marketing-maisteriohjelma antaa sinulle työkalut vastata näihin haasteisiin: saat syventävää osaamista m
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -7930,12 +7933,11 @@ Oulu
 Yhteenveto: Oletko kiinnostunut ratkaisemaan biologisia ongelmia matematiikan keinoin? Haluatko oppia bioinformatiikkaa, työskentelyä suurten aineistojen (big data) kanssa ja niiden analysointia, biologisten prosessien mallintamista, ohjelmointia, tai yleisesti laskennallisten menetelmien soveltamista biologisiin aineistoihin. Laskennallisen biologian ja data-analyysin maisteriohjelma on laadittu siten, että opiskelijat pääsevät soveltamaan käytännössä kurss
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2026
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
 Haku: CLOSED
-Hakuaika päättyy: 2026-03-24T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:

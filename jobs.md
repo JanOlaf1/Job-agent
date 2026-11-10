@@ -1,26 +1,26 @@
 # JOB AGENT
 
-Haku: 2026-11-10T16:10+02:00
+Haku: 2026-11-10T23:31+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 6 uutta sopivaa työpaikkaa.
+Sinulle on 4 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 6
-Tällä ajolla luettuja hakutuloksia: 205 | Lähetysrajan täyttäviä työpaikkoja: 96
-Vahvat: 6 | Harkitse: 0
+Uusia sopivia työpaikkoja: 4
+Tällä ajolla luettuja hakutuloksia: 205 | Lähetysrajan täyttäviä työpaikkoja: 98
+Vahvat: 4 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
+### 95/100 — STRONG — Junior Sales Representative, Proact Finland, Espoo
 
 Academic Work
-Helsinki, Uusimaa, FI, Kuopio
+Helsinki, Uusimaa, FI, Espoo
 Julkaistu: 2026-11-10
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will train as a B2B sales professional with a personal coach to turn cold outreach into qualified sales meetings. You will prospect and identify decision-makers, contact B2B clients by phone and email, qualify cold leads, and maintain CRM data. The role requires professional proficiency in Danish, Norwegian, or Swedish and a resilient, target-driven attitude with strong communication skills. No prior B2B sa
-Hakuaika päättyy: 2027-01-09
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Junior Sales Representative -roolissa vastaat uusasiakashankinnasta, prospektoinnista, puhelinyhteyksistä ja tapaamisten sopimisesta Proactin IT-ratkaisuista kiinnostuneille asiakkaille Espoossa. Työ tarjoaa mahdollisuuden oppia laajasta IT-infrastruktuuritarjonnasta, kuten tallennus-, varmistus- ja tukipalveluista, kokeneiden kollegoiden tuella. Etsimme rohkeaa, oma-aloitteista ja oppimishaluista henkilöä, jol
+Hakuaika päättyy: 2026-12-04
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -29,15 +29,16 @@ Miksi / huomioitavaa:
 - +5 teknologia: IT-palvelujen ymmärrys
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-no-dk-swe-vendre-group-2796293>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-sales-representative-proact-finland-espoo-2796863>)
 
-### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
+### 95/100 — STRONG — Junior Sales Representative, Proact Finland, Espoo
 
-Vendre Group
-Helsinki, Kuopio
-Yhteenveto: About the role As a Sales Development Representative at Vendre Group, you’ll build the skills to become a successful B2B sales professional while creating real growth opportunities for our clients. You’ll learn how to identify the right companies and decision-makers, start meaningful sales conversations, and turn cold outreach into qualified sales meetings, supported by continuous coaching along the way. You will work closely with your personal c
+Proact Finland Oy
+Espoo
+Yhteenveto: Tehtävänkuvaus Junior Sales Representativena pääset osaksi Proact Finlandin asiantuntevaa myyntiorganisaatiota, jossa kasvatat osaamistasi monipuolisten IT-ratkaisujen ja asiakkuuksien parissa. Tehtäväsi painottuu alkuvaiheessa uusasiakashankintaan, potentiaalisten asiakkaiden kartoittamiseen, yhteydenottoihin sekä asiakastapaamisten sopimiseen. Proact Finland tarjoaa asiakkailleen laajan valikoiman IT-infrastruktuuriratkaisuja, kuten tallennus- 
 Lähteet: Academic Work
 
 Miksi / huomioitavaa:
@@ -46,16 +47,17 @@ Miksi / huomioitavaa:
 - +5 teknologia: IT-palvelujen ymmärrys
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/sales-development-representative-no--dk--swe-vendre-group/5REH2R>)
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-sales-representative-proact-finland-espoo/EZMX56>)
 
-### 90/100 — STRONG — Account Manager
+### 90/100 — STRONG — Technical Sales Manager, Forchem Oyj
 
-Experis
-Tuusula, FI
+Adecco
+Helsinki, Uusimaa, FI
 Julkaistu: 2026-11-10
-Yhteenveto: kW-set Oy on varavoimajärjestelmiin erikoistunut yritys. Toimimme yhteistyössä merkittävien eurooppalaisten valmistajien kanssa ja olemme muun muassa Cumminsin varavoimalaitteiden ja dieselgeneraattoreiden maahantuoja. Tuotevalikoimamme kattaa teollisuusluokan dieselgeneraattorit teholuokissa 11 kVA-3750 kVA, ja myös suuremmat tehot ovat mahdollisia rinnakkaisilla laitteilla. Laajan toimittajaverkostomme ansiosta pystymme tarjoamaan aina parhaan 
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is part of the Portuguese Respol Group and is a leading producer of tall oil‑based sustainable pine chemicals serving international markets from its Rauma site. The Technical Sales Manager will drive profitable international growth by managing the full sales cycle, identifying new business and leading trials, negotiations and account development. The role requires a technical degree (e.g., MSc in Chemis
 Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
 
@@ -67,75 +69,42 @@ Miksi / huomioitavaa:
 - +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/account-manager-2796131>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-sales-manager-forchem-oyj-2796824>)
 
-### 80/100 — STRONG — Supply Chain & Sales Support Trainee (Teollisuuden Berner)
+### 90/100 — STRONG — Technical Sales Manager, Forchem Oyj
 
-Berner Oy
-Helsinki, Uusimaa, FI, Tampere, Pirkkala
-Julkaistu: 2026-11-10
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kahta Supply Chain & Sales Support -traineeta osaksi Basecamp 2027 -ohjelmaa 10 kuukauden kokoaikaiseen tehtävään alkaen 1.2.2027 Helsingin tai Pirkkalan toimipisteisiin hybrid-mallilla. Traineena tehtäviisi kuuluvat tilausten käsittely ja toimitusten seuranta, toimitusketjun tiedonhallinta ERP-järjestelmissä sekä koordinointi hankinnan, myynnin, varastojen ja kuljetusten kanssa. Etsimme opintojens
-Hakuaika päättyy: 2027-01-09
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +5 junior-/aloitustaso
-- +10 etätyö Suomesta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/supply-chain-sales-support-trainee-teollisuuden-berner-2796522>)
-
-### 75/100 — STRONG — KEY ACCOUNT MANAGER, FOODSERVICE
-
-Prescott Oy / co Mercuri Urval
+Adecco
 Helsinki, Uusimaa, FI
 Julkaistu: 2026-11-10
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Avainasiakaspäällikkönä vastaat Prescottin edustamien tuotteiden myynnistä HoReCa- ja keskusliikeasiakkaille, kehität nykyisiä asiakkuuksia, hankit uusia asiakkaita ja kehität La Rose Noiren premium-portfoliota. Tehtävässä edellytetään kokemusta Foodservice-myynnistä, kaupallista tai elintarvikealan koulutusta, oma-aloitteisuutta sekä sujuvaa suomen ja englannin kielen taitoa. Tarjoamme vakituisen työsuhteen ka
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is hiring a Technical Sales Manager to drive international, profitable growth in sustainable pine chemicals. You will manage the full sales cycle globally, including identifying opportunities, leading trials, negotiations, and account development. The role requires a technical degree or relevant commercial background, proven international B2B technical sales experience, and fluent English. The position 
 Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
+- +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
 - +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/key-account-manager-foodservice-2796132>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-sales-manager-forchem-oyj-2796825>)
 
-### 75/100 — STRONG —  Myyntiedustaja - Viemäriremontit (Pohja 1 500 €/kk + provisiot) 
+## KOULUTUKSET — 12 UUTTA / MUUTTUNUTTA
 
-TalentFlow
-Helsinki, FI, Espoo, Vantaa
-Julkaistu: 2026-11-10
-Yhteenveto: Etsimme asiakkaallemme kenttämyyjiä viemäriremonttien ja -sukitusten pariin Helsinkiin Homma sopii sinulle, jos olet jo tehnyt jotain suoramyyntiä aikasemmin (esim. ständi- tai ovimyyntiä) ja haluat laittaa taitosi aitoon testiin isomman kaupan parissa. Palkkaus ja edut Pohjapalkka: 1 500 €/kk kiinteä pohja Provisiot: 5–13 % kaupan arvosta Bonukset: Kuukausitason bonusportaikko 400 € – 5 000 € sekä tuntuva vuosibonus huipputuloksista Työnkuva Tap
-Hakuaika päättyy: 2026-11-24
-Lähteet: Jobly
+### 100/100 — STRONG — Master of Engineering, Information Technology, Cloud-Based Software Engineering, VAMK
 
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2796429>)
-
-## KOULUTUKSET — 6 UUTTA / MUUTTUNUTTA
-
-### 90/100 — STRONG — Sosiaali- ja terveydenhuollon tiedonhallinnan maisteriohjelma, Kuopio, terveystieteiden tai yhteiskuntatieteiden maisteri (2 v)
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Opetus painottuu sosiaali- ja terveydenhuollon palvelujärjestelmän tiedonhallintaan ja sen kehittämiseen ja johtamiseen palvelujen tuottamisessa sekä julkisten, yksityisten että järjestöjen toiminnassa; ICT-teknologian tietotekniikan vaikutuksiin palvelujen tuotannossa sekä koulutukseen sisältyvien tietojenkäsittelytieteen tai tietojärjestelmätieteen perusopintojen kautta tietojenkäsittelyn perusteisiin; tiedonhallinnan teoreettiseen perustaan se
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Master’s programme in Cloud-Based Software Engineering gives you insight and knowledge about how to develop, deploy and maintain cloud applications. You will learn to design and architect cloud-based applications. The Master's studies are linked close to your own work tasks, so with the learning tasks and the thesis development project you can evolve  your own employer organization or project. Cloud Professional has a Desired Skill Set After comp
 Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: Maksuton
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change. Information on  the Finnish Residence permit for studies at migri.fi/en/studying-in-finland
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -143,47 +112,168 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027994>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003753>)
 
-### 90/100 — STRONG — Sosiaali- ja terveyshallintotieteen maisteriohjelma, Kuopio, terveystieteiden, yhteiskuntatieteiden tai hallintotieteiden maisteri (2 v)
+### 100/100 — STRONG — Master of Engineering, Smart Industry, blended studies
 
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Sosiaali- ja terveyshallintotieteessä sovelletaan hallinto- ja yhteiskuntatieteiden teoreettisia ja metodologisia lähtökohtia sosiaali- ja terveydenhuollon toimintaympäristössä. Koulutuksen sisältö keskittyy kolmeen kokonaisuuteen: 1. vaikuttavat sosiaali- ja terveyspalvelut, 2. sosiaali- ja terveyspalvelujen johtaminen ja kehittäminen sekä 3. sosiaali- ja terveyspalvelujen tutkimus Näitä tarkastellaan sekä kotimaisesta että kansainvälisestä näkö
+Metropolia Ammattikorkeakoulu
+Vantaa
+Yhteenveto: The Master’s Degree Program in Smart Industry is a one-year, interdisciplinary program designed for professionals aiming to lead and shape the digital transformation of modern industry. The program focuses on the integration of advanced technologies—such as AI, data analytics and cloud solutions—into smart and sustainable industrial processes. The curriculum combines professional studies (30 ECTS) with a Master’s thesis (30 ECTS), offering studen
 Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: Maksuton
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 12500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non-EU/EEA citizens: 12500€ EU/EEA citizens: free of charge Read more about tuition fees and scholarships on our website.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030656>)
+
+### 100/100 — STRONG — Master of Engineering, Information Technology, Medical Technology, Blended Studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki
+Yhteenveto: Lead the future of healthcare through medical technology innovation. Medical technology is a rapidly evolving, interdisciplinary field of technology that plays a crucial role in shaping the future of healthcare. In Finland, across Europe and around the world, digital health solutions, smart medical devices, and advanced healthcare systems are transforming how we diagnose, treat, and care for people. This programme is your opportunity to be part o
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11,500. Read more about tuition fees and scholarships on our website.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033202>)
+
+### 90/100 — STRONG — Insinööri (ylempi AMK), data-analytiikka ja johtaminen, verkkototeutus
+
+Centria-ammattikorkeakoulu
+Kokkola
+Yhteenveto: Data-analytiikan ja johtamisen ylempään ammattikorkeakoulututkintoon tähtäävässä koulutuksessa voit syventää osaamistasi data-analytiikassa, johtamisessa sekä datan ja tekoälyn hyödyntämisessä johtamisen ja liiketoiminnan kehittämisen tukena. Voit suuntautua erityisesti syventämään osaamistasi alan erikoisasiantuntijana tai erityisesti kehittämään valmiuksiasi alan johto- ja kehittämistehtäviin. Koulutus antaa valmiuksia myös dataa hyödyntävän uu
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
+- +40 kiinnostava aihe: IT, BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027996>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028485>)
 
-### 75/100 — STRONG — Liikunnan yhteiskuntatieteiden maisteriohjelma, liikuntatieteiden maisteri (2 v), syksy 2027
+### 85/100 — STRONG — Tietojenkäsittely ja digitaaliset järjestelmät, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
 
-Jyväskylän yliopisto
-Jyväskylä
-Yhteenveto: Liikunnan yhteiskuntatieteiden koulutuksessa käsitellään liikuntaa ja urheilua laajoina yhteiskunnallisina ilmiöinä. Tavoitteena on kehittää alan toimintaa vastuullisesti ja kestävästi. Tutkinto-ohjelmissa koulutetaan akateemisia asiantuntijoita liikunnan, urheilun ja vapaa-ajan alojen eri tehtäviin. Koulutuksessa tarkastellaan liikkumista, liikuntaa ja urheilua laajoina ja muun yhteiskunnan kehitykseen kytkeytyvinä ilmiöinä sekä tuotetaan ratkai
+Vaasan yliopisto
+Vaasa
+Yhteenveto: Tietojenkäsittelyn ja digitaalisten järjestelmien maisteriohjelma johtaa diplomi-insinöörin (DI) tai kauppatieteiden maisterin (KTM) tutkintoon. Ohjelma keskittyy älykkäisiin digitaalisiin järjestelmiin, automaatioon, robotiikkaan, tekoälyyn, data-analytiikkaan ja -tekniikkaan, tietojärjestelmiin sekä avaruussovelluksiin. Ohjelman opintosuunnista kaksi on tarjolla suomeksi (Automaatio ja tietotekniikka, Kyberjohtaminen) ja kolme englanniksi (Auto
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: Maksuton
+Hinta: lukuvuosimaksu: 14000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu koskee vain englanninkielisiä opintosuuntia. Maksuvelvollisia ovat hakijat, jotka eivät ole EU/ETA-maiden kansalaisia.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026963>)
+
+### 75/100 — STRONG — Information and Service Management, Master of Science (Economics and Business Administration) (2 yrs)
+
+Aalto-yliopisto
+Helsinki
+Yhteenveto: Yritysjohtajien työ on muuttunut perusteellisesti, kun digitalisaatio ja tekoäly ovat tulleet osaksi liiketoimintaa ja päätöksentekoa. Information and Service Management (ISM) -maisteriohjelman tarkoituksena on kouluttaa seuraavan sukupolven yritysjohtajia teknologiavetoisten yritysten vuosisadalla. Ohjelmassa on kolme erikoistumisvaihtoehtoa: liiketoiminta-analytiikka, tietojärjestelmät sekä logistiikka ja palvelujohtaminen. ISM-maisteriohjelmas
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008022>)
+
+### 75/100 — STRONG — Marketing, Master of Science (Economics and Business Administration) (2 yrs)
+
+Aalto-yliopisto
+Helsinki
+Yhteenveto: Markkinointi on keskeinen tekijä siinä, miten organisaatiot ymmärtävät asiakkaitaan, tekevät strategisia päätöksiä ja luovat kilpailuetua. Samalla tekoälyn, markkinoinnin automaation ja big datan nopea kehitys, akuutit kestävän kehityksen haasteet ja eettiset haasteet muuttavat markkinoinnin perusperiaatteiden soveltamistapaa. Aalto-yliopiston Marketing-maisteriohjelma antaa sinulle työkalut vastata näihin haasteisiin: saat syventävää osaamista m
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008023>)
+
+### 75/100 — STRONG — Business Analytics, Master of Science (Economics and Business Administration) (2 yrs)
+
+Aalto-yliopisto
+Helsinki
+Yhteenveto: Opiskelu Business Analytics -maisteriohjelmassa antaa opiskelijoille ainutlaatuisen yhdistelmän sellaista liiketoiminta- ja teknologiaosaamista, joka on olennaista dataan pohjautuvassa päätöksenteossa ja ongelmanratkaisussa. Näille taidoille on suurta kysyntää, sillä niiden avulla innovatiiviset tulevaisuuden johtajat voivat vastata tulevaisuuden tarpeisiin digitalisaation, tekoälyn ja kestävyyshaasteiden aikakaudella. Ohjelma antaa opiskelijoill
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 15000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 15 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -192,76 +282,99 @@ Miksi / huomioitavaa:
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043414>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008030>)
 
-### 70/100 — STRONG — Yhteiskuntatieteiden ja filosofian perusopinnot
+### 75/100 — STRONG — Computer Science, Master of Science (Technology) (2 yrs)
 
-Alkio-opisto
-Jyväskylä
-Yhteenveto: Opinnot suoritetaan lukuvuoden 2026–2027 aikana Alkio-opistossa. Opinnot suositellaan suorittamaan Yhteiskunta- ja valtiotieteiden opintolinjan opintoina. Lue lisää: Yhteiskunta- ja valtiotieteet Alkio-opistolla
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 25.0 opintopistettä
+Aalto-yliopisto
+Espoo
+Yhteenveto: Pääaineessa saat syväluotaavia taitoja ja vankan tietopohjan, joita kumpaakin tarvitaan nopeatempoisessa tietotekniikan maailmassa menestymiseen. Saat erinomaiset käytännön ja teoreettiset taidot kehittyneeseen laskentaan monenlaisissa järjestelmissä: internet-mittakaavan hajautetuista alustoista kehittyviin kvanttilaskentainfrastruktuureihin. Pääaineesta valmistuneilla on: Laaja metodologinen perusta. Sinusta tulee ovat edistyneiden ohjelmistoje
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
 Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 625.0 (lähteen summa; tarkista ehdot) ; Alkio-opiston päätoimisella opiskelijalla opinnot sisältyvät lukuvuoden perusmaksuihin tai 30 op:een opintoseteliin . Sivutoimiselle opiskelijalle hinta on 625 euroa (sisältäen avoimen yliopiston maksun).
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024479>)
-
-### 65/100 — STRONG — Master's Programme in Russian, Eurasian and Eastern European Studies, Autumn 2027
-
-Helsingin yliopisto
-Helsinki
-Yhteenveto: In an era when Russia, Eurasia, and Eastern Europe shape global security, migration as well as environmental and energy politics, specialised knowledge has never been more valuable. MAREEES offers an interdisciplinary approach to understanding this vast and complex area, from political crises and military conflicts to cultural identities and energy transitions. You explore topics such as historical and geopolitical development, governance and the
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-19T23:59
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039905>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008123>)
 
-### 65/100 — STRONG — Master's Programme in Global Politics and Communication, Autumn 2027
+### 75/100 — STRONG — Machine Learning, Data Science and Artificial Intelligence, Master of Science (Technology) (2 yrs)
 
-Helsingin yliopisto
-Helsinki
-Yhteenveto: How do global transformations reshape democracy? What role does the media play when authoritarian tendencies and the commercialisation of public debate are changing political life? In this programme, you explore the complex connections between world politics, economic governance, organisations and communication. You choose one of three study tracks — Governance, Organisations and Communication; Media and Democracy; or World Politics and Economic 
+Aalto-yliopisto
+Espoo
+Yhteenveto: Mitä on älykkyys ja miten se kehittyy? Mitä oppiminen on ja miksi ”oppimisen oppimisesta” on tullut ratkaiseva taito nykymaailmassa? Halu vastata näinkin yksinkertaisiin ja suoriin kysymyksiin voi olla riittävä syy opiskella koneoppimista, datatiedettä ja tekoälyä. Näillä aloilla käsitellään kuitenkin myös 2000-luvun haastavimpia ongelmia. Tämä tekee Aalto-yliopiston Machine Learning, Data Science and Artificial Intelligence -pääaineesta (”Macada
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-19T23:59
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039911>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008126>)
+
+### 75/100 — STRONG — Software Engineering, Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Ohjelmistot ovat kriittisen tärkeitä lähes kaikilla teollisuuden ja liiketoiminnan aloilla ja kaikissa toiminnoissa aina terveydenhuollosta ja tietotekniikasta tutkimukseen ja kehitykseen tai julkisen sektorin organisaatioihin. Laajat ohjelmistojärjestelmät muodostavat jo yhteiskunnan ja talouden selkärangan, ja ohjelmistoihin kohdistuvat vaatimukset sekä ohjelmistojen monimutkaisuus ja vaikutukset kasvavat jatkuvasti. Software Engineering -pääai
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 17 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008129>)
+
+### 75/100 — STRONG — Signal Processing and Data Science, Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Dataa on runsaasti saatavilla, mutta heitä, jotka osaavat käyttää dataa uuden tiedon tuottamiseen on liian vähän. Siksi lahjakkaille asiantuntijoille, joilla on työkalut ja osaamista  louhia tietoa ja ymmärrystä datasta, on kysyntää enemmäin kuin koskaan. Signal Processing and Data Science -pääaine sijaitsee monen ajankohtaisen haasteen risteyskohdassa. Haasteet yltävät pörssikurssien ennustamisesta lääketieteellisen teknologian kehitystyöhön. Ku
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: lukuvuosimaksu: 17000.0 (lähteen summa; tarkista ehdot) ; Ohjelman lukuvuosimaksu on 17 000 euroa. Euroopan unionin (EU) jäsenmaiden, Euroopan talousalueen (ETA) tai Sveitsin kansalaisilta ei peritä lukuvuosimaksua. Kaikkien muiden maiden kansalaisilta peritään lukuvuosimaksu.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008729>)
 
 
 Lähteiden ongelmat:
@@ -539,6 +652,48 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-trainee-viljelijan-berner-2795351>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 95/100 — STRONG — Junior Sales Representative, Proact Finland, Espoo
+
+Academic Work
+Helsinki, Uusimaa, FI, Espoo
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Junior Sales Representative -roolissa vastaat uusasiakashankinnasta, prospektoinnista, puhelinyhteyksistä ja tapaamisten sopimisesta Proactin IT-ratkaisuista kiinnostuneille asiakkaille Espoossa. Työ tarjoaa mahdollisuuden oppia laajasta IT-infrastruktuuritarjonnasta, kuten tallennus-, varmistus- ja tukipalveluista, kokeneiden kollegoiden tuella. Etsimme rohkeaa, oma-aloitteista ja oppimishaluista henkilöä, jol
+Hakuaika päättyy: 2026-12-04
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-sales-representative-proact-finland-espoo-2796863>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 95/100 — STRONG — Junior Sales Representative, Proact Finland, Espoo
+
+Proact Finland Oy
+Espoo
+Yhteenveto: Tehtävänkuvaus Junior Sales Representativena pääset osaksi Proact Finlandin asiantuntevaa myyntiorganisaatiota, jossa kasvatat osaamistasi monipuolisten IT-ratkaisujen ja asiakkuuksien parissa. Tehtäväsi painottuu alkuvaiheessa uusasiakashankintaan, potentiaalisten asiakkaiden kartoittamiseen, yhteydenottoihin sekä asiakastapaamisten sopimiseen. Proact Finland tarjoaa asiakkailleen laajan valikoiman IT-infrastruktuuriratkaisuja, kuten tallennus- 
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-sales-representative-proact-finland-espoo/EZMX56>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -1559,7 +1714,7 @@ Muistiinpanot:
 
 Neste Oyj
 Espoo, FI
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The IT Solution Manager, Sales is a full-time permanent role based in Espoo focused on Sales for Neste’s Renewable Products business area. You will lead Sales IT improvement projects and small enhancements, act as project manager or stream lead, and ensure service quality and cost efficiency while providing functional and architectural guidance. The role requires strong Salesforce expertise (Sales Cloud, Servic
 Hakuaika päättyy: 2026-12-26
 Lähteet: Jobly
@@ -2364,6 +2519,48 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/sales-development-representative-no--dk--swe-vendre-group/5REH2R>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Technical Sales Manager, Forchem Oyj
+
+Adecco
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is part of the Portuguese Respol Group and is a leading producer of tall oil‑based sustainable pine chemicals serving international markets from its Rauma site. The Technical Sales Manager will drive profitable international growth by managing the full sales cycle, identifying new business and leading trials, negotiations and account development. The role requires a technical degree (e.g., MSc in Chemis
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-sales-manager-forchem-oyj-2796824>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Technical Sales Manager, Forchem Oyj
+
+Adecco
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is hiring a Technical Sales Manager to drive international, profitable growth in sustainable pine chemicals. You will manage the full sales cycle globally, including identifying opportunities, leading trials, negotiations, and account development. The role requires a technical degree or relevant commercial background, proven international B2B technical sales experience, and fluent English. The position 
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-sales-manager-forchem-oyj-2796825>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -9441,6 +9638,26 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Docker, Kubernetes; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/principal-technical-consultant-google-cloud-gcp-2796524>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 45/100 — REVIEW — Sales Director, B2B (Small Office/ Home Office)
+
+DNA Oyj
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Myyntijohtajana vastaat DNA:n SOHO- ja pienyrityssegmentin myynnistä, asiakkuuksista ja kestävän kasvun varmistamisesta. Tehtävä sijoittuu Helsinkiin ja työtä voi tehdä joustavasti hybridityönä. Johdat kaupallista uudistumista hyödyntäen dataa, analytiikkaa ja tekoälyä sekä kehität monikanavaista myyntiä. Haemme kokenutta kaupallista johtajaa, jolla on näyttöjä tuloksellisesta johtamisesta ja monikanavaisen myy
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 etätyö Suomesta
+- -30 senioriteetti ylittää nykyisen taustan
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-director-b2b-small-office-home-office-2796818>)
 Tila: UUSI
 Muistiinpanot: 
 
