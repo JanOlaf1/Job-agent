@@ -1,112 +1,200 @@
 # JOB AGENT
 
-Haku: 2026-11-10T02:08+02:00
+Haku: 2026-11-10T16:10+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 1 uutta sopivaa työpaikkaa.
+Sinulle on 6 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 1
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 97
-Vahvat: 1 | Harkitse: 0
+Uusia sopivia työpaikkoja: 6
+Tällä ajolla luettuja hakutuloksia: 205 | Lähetysrajan täyttäviä työpaikkoja: 96
+Vahvat: 6 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 70/100 — STRONG — HPC Application Specialist
+### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
 
-CSC - Tieteen tietotekniikan keskus Oy
-Espoo, FI
-Julkaistu: 2026-11-09
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The HPC Application Specialist role at CSC’s Digital Twin Technologies Group in Espoo is a fixed-term position until December 2029 focused on enabling Europe’s flagship weather and climate applications to run efficiently on EuroHPC systems such as LUMI. You will develop portable software build recipes and deployment solutions for multiple EuroHPC architectures, implement workflow solutions for federated HPC exe
-Hakuaika päättyy: 2027-01-08
+Academic Work
+Helsinki, Uusimaa, FI, Kuopio
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will train as a B2B sales professional with a personal coach to turn cold outreach into qualified sales meetings. You will prospect and identify decision-makers, contact B2B clients by phone and email, qualify cold leads, and maintain CRM data. The role requires professional proficiency in Danish, Norwegian, or Swedish and a resilient, target-driven attitude with strong communication skills. No prior B2B sa
+Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
-- +10 teknologia: python
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-no-dk-swe-vendre-group-2796293>)
+
+### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
+
+Vendre Group
+Helsinki, Kuopio
+Yhteenveto: About the role As a Sales Development Representative at Vendre Group, you’ll build the skills to become a successful B2B sales professional while creating real growth opportunities for our clients. You’ll learn how to identify the right companies and decision-makers, start meaningful sales conversations, and turn cold outreach into qualified sales meetings, supported by continuous coaching along the way. You will work closely with your personal c
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/sales-development-representative-no--dk--swe-vendre-group/5REH2R>)
+
+### 90/100 — STRONG — Account Manager
+
+Experis
+Tuusula, FI
+Julkaistu: 2026-11-10
+Yhteenveto: kW-set Oy on varavoimajärjestelmiin erikoistunut yritys. Toimimme yhteistyössä merkittävien eurooppalaisten valmistajien kanssa ja olemme muun muassa Cumminsin varavoimalaitteiden ja dieselgeneraattoreiden maahantuoja. Tuotevalikoimamme kattaa teollisuusluokan dieselgeneraattorit teholuokissa 11 kVA-3750 kVA, ja myös suuremmat tehot ovat mahdollisia rinnakkaisilla laitteilla. Laajan toimittajaverkostomme ansiosta pystymme tarjoamaan aina parhaan 
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/account-manager-2796131>)
+
+### 80/100 — STRONG — Supply Chain & Sales Support Trainee (Teollisuuden Berner)
+
+Berner Oy
+Helsinki, Uusimaa, FI, Tampere, Pirkkala
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kahta Supply Chain & Sales Support -traineeta osaksi Basecamp 2027 -ohjelmaa 10 kuukauden kokoaikaiseen tehtävään alkaen 1.2.2027 Helsingin tai Pirkkalan toimipisteisiin hybrid-mallilla. Traineena tehtäviisi kuuluvat tilausten käsittely ja toimitusten seuranta, toimitusketjun tiedonhallinta ERP-järjestelmissä sekä koordinointi hankinnan, myynnin, varastojen ja kuljetusten kanssa. Etsimme opintojens
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
 - +10 etätyö Suomesta
-- -10 pyytää vähintään 3 vuotta kokemusta
-- ? ilmoituksessa mainitaan Docker; osaamista ei ole vahvistettu profiilissa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hpc-application-specialist-2796110>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/supply-chain-sales-support-trainee-teollisuuden-berner-2796522>)
 
-## KOULUTUKSET — 7 UUTTA / MUUTTUNUTTA
+### 75/100 — STRONG — KEY ACCOUNT MANAGER, FOODSERVICE
 
-### 75/100 — STRONG — Lukio, 150 opintopistettä
-Lukion yhteiskunta- ja talouslinja, 150 opintopistettä
+Prescott Oy / co Mercuri Urval
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Avainasiakaspäällikkönä vastaat Prescottin edustamien tuotteiden myynnistä HoReCa- ja keskusliikeasiakkaille, kehität nykyisiä asiakkuuksia, hankit uusia asiakkaita ja kehität La Rose Noiren premium-portfoliota. Tehtävässä edellytetään kokemusta Foodservice-myynnistä, kaupallista tai elintarvikealan koulutusta, oma-aloitteisuutta sekä sujuvaa suomen ja englannin kielen taitoa. Tarjoamme vakituisen työsuhteen ka
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
 
-Kulosaaren yhteiskoulu
-Helsinki
-Yhteenveto: Kiinnostaako talous tai politiikka? Ura liike-elämässä tai yrittäjänä? Entä yhteiskunnallinen vaikuttaminen politiikassa tai järjestöissä? Harkitsetko tulevaisuuden opintoja kauppa-, oikeus- tai yhteiskuntatieteellisessä? Kulosaaren yhteiskoulun yhteiskunta- ja talouslinja tarjoaa sinulle mahdollisuuden kehittää tietojasi ja taitojasi tulevaisuutta varten. – Tule opiskelemaan samoista asioista kiinnostuneiden opiskelijoiden kanssa! – Opiskelet ko
-Koulutustyyppi: lk
-Laajuus: 150.0 opintopistettä
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/key-account-manager-foodservice-2796132>)
+
+### 75/100 — STRONG —  Myyntiedustaja - Viemäriremontit (Pohja 1 500 €/kk + provisiot) 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-10
+Yhteenveto: Etsimme asiakkaallemme kenttämyyjiä viemäriremonttien ja -sukitusten pariin Helsinkiin Homma sopii sinulle, jos olet jo tehnyt jotain suoramyyntiä aikasemmin (esim. ständi- tai ovimyyntiä) ja haluat laittaa taitosi aitoon testiin isomman kaupan parissa. Palkkaus ja edut Pohjapalkka: 1 500 €/kk kiinteä pohja Provisiot: 5–13 % kaupan arvosta Bonukset: Kuukausitason bonusportaikko 400 € – 5 000 € sekä tuntuva vuosibonus huipputuloksista Työnkuva Tap
+Hakuaika päättyy: 2026-11-24
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2796429>)
+
+## KOULUTUKSET — 6 UUTTA / MUUTTUNUTTA
+
+### 90/100 — STRONG — Sosiaali- ja terveydenhuollon tiedonhallinnan maisteriohjelma, Kuopio, terveystieteiden tai yhteiskuntatieteiden maisteri (2 v)
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Opetus painottuu sosiaali- ja terveydenhuollon palvelujärjestelmän tiedonhallintaan ja sen kehittämiseen ja johtamiseen palvelujen tuottamisessa sekä julkisten, yksityisten että järjestöjen toiminnassa; ICT-teknologian tietotekniikan vaikutuksiin palvelujen tuotannossa sekä koulutukseen sisältyvien tietojenkäsittelytieteen tai tietojärjestelmätieteen perusopintojen kautta tietojenkäsittelyn perusteisiin; tiedonhallinnan teoreettiseen perustaan se
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-16T15:00
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004186>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027994>)
 
-### 70/100 — STRONG — Lukio, 150 opintopistettä
-Lukion urheilulinja , 150 opintopistettä
+### 90/100 — STRONG — Sosiaali- ja terveyshallintotieteen maisteriohjelma, Kuopio, terveystieteiden, yhteiskuntatieteiden tai hallintotieteiden maisteri (2 v)
 
-Kankaanpään Yhteislyseo
-Kankaanpää
-Yhteenveto: Kankaanpään Yhteislyseo on noin 200 opiskelijan ja opettajan viihtyisä ja moderni oppimisympäristö, joka sijaitsee Lauhanvuori-Hämeenkangas Unesco Global Geopark -alueen sydämessä. Olemme yleislukio, jossa voit valita valtakunnallisten pakollisten ja valinnaisten opintojaksojen lisäksi paikallisia yrittäjyys- tai taideopintoja tai panostaa kielten opiskeluun. Englannin ja ruotsin lisäksi valittavana on saksa, ranska ja espanja sekä etäopintoina k
-Koulutustyyppi: lk
-Laajuus: 150.0 opintopistettä
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sosiaali- ja terveyshallintotieteessä sovelletaan hallinto- ja yhteiskuntatieteiden teoreettisia ja metodologisia lähtökohtia sosiaali- ja terveydenhuollon toimintaympäristössä. Koulutuksen sisältö keskittyy kolmeen kokonaisuuteen: 1. vaikuttavat sosiaali- ja terveyspalvelut, 2. sosiaali- ja terveyspalvelujen johtaminen ja kehittäminen sekä 3. sosiaali- ja terveyspalvelujen tutkimus Näitä tarkastellaan sekä kotimaisesta että kansainvälisestä näkö
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; EU/ETA-alueen ulkopuolelta Suomeen toiselle asteelle opiskelemaan hakeutuvat opiskelijat ovat lukuvuosimaksuvelvollisia 1.8.2026 lähtien. Lukuvuosimaksu ei koske em. maista tulevia opiskelijoita, joiden oleskeluluvan peruste on muu kuin opiskelu. Lukuvuosimaksu sisältää opetuksen lisäksi päivittäise
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
-Haku: OPEN
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004355>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027996>)
 
-### 70/100 — STRONG — Lukio, 150 opintopistettä
-Lukion yrittäjyyslinja , 150 opintopistettä
+### 75/100 — STRONG — Liikunnan yhteiskuntatieteiden maisteriohjelma, liikuntatieteiden maisteri (2 v), syksy 2027
 
-Sulkavan lukio
-Sulkava
-Yhteenveto: Sulkavan lukiossa voi opiskella joko yleislinjalla tai yrittäjyyslinjalla. Yrittäjyyslinjalle etsimme nuoria , jotka haluavat teoreettisten lukio-opintojen lisäksi opiskella asioita käytännön tasolla. Yrittäjyyslinjalla opiskelemasi teoriatieto kytkeytyy käytäntöön ja oman tekemisen kautta lukio-opinnoistasi muodostuu monipuolinen ja oman näköisesi kokonaisuus. Luovuus ja innovatiivisuus ovat avaimia tulevaisuuden työelämässä menestymiseen. Yritt
-Koulutustyyppi: lk
-Laajuus: 150.0 opintopistettä
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Liikunnan yhteiskuntatieteiden koulutuksessa käsitellään liikuntaa ja urheilua laajoina yhteiskunnallisina ilmiöinä. Tavoitteena on kehittää alan toimintaa vastuullisesti ja kestävästi. Tutkinto-ohjelmissa koulutetaan akateemisia asiantuntijoita liikunnan, urheilun ja vapaa-ajan alojen eri tehtäviin. Koulutuksessa tarkastellaan liikkumista, liikuntaa ja urheilua laajoina ja muun yhteiskunnan kehitykseen kytkeytyvinä ilmiöinä sekä tuotetaan ratkai
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: Maksuton ; Lukuvuosimaksu koskee muun maan kuin Euroopan unionin jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaista. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskeluluvan saaneilta tai vaihto-opiskelijoita.
+Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä, Peruskoulu
-Haku: OPEN
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010269>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043414>)
 
-### 70/100 — STRONG — Valtio-oppi, perus- ja aineopintoja
+### 70/100 — STRONG — Yhteiskuntatieteiden ja filosofian perusopinnot
 
 Alkio-opisto
 Jyväskylä
@@ -127,40 +215,17 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017452>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024479>)
 
-### 65/100 — STRONG — Filosofia, valtiotieteiden maisteri (2 v)
-
-Turun yliopisto
-Turku
-Yhteenveto: Filosofia pyrkii tutkimaan ihmisenä olemisen ja todellisuuden luonnetta. Filosofian opiskelijoille yhteistä on kiinnostus perustavanlaatuisiin kysymyksiin ja niiden ratkaisuyrityksiin. Filosofian opiskelu antaa perusteelliset tiedot teoreettisen ja käytännöllisen filosofian perusteista ja tutkimusmenetelmistä sekä harjaannuttaa filosofiseen ajatteluun ja argumentaatioon. Turun yliopiston filosofian oppiaineen vahvuutena on teoreettisen ja käytänn
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: SOCIAL
-- +10 vastaa yhteiskunnallista kiinnostusta
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002912>)
-
-### 65/100 — STRONG — Ympäristömuutoksen ja globaalin kestävyyden maisteriohjelma, syksy 2027
+### 65/100 — STRONG — Master's Programme in Russian, Eurasian and Eastern European Studies, Autumn 2027
 
 Helsingin yliopisto
 Helsinki
-Yhteenveto: Ilmastonmuutos, luonnon monimuotoisuuden köyhtyminen ja luonnonvarojen ylikulutus vaativat ratkaisuja, jotka ylittävät tieteenalarajat. ECGS-ohjelmassa rakennat osaamista, joka yhdistää luonnon- ja yhteiskuntatieteet: opit analysoimaan monitasoisia sosio-ekologisia järjestelmiä ja työskentelemään kestävän tulevaisuuden puolesta. Kiinnostuksesi mukaan voit suuntautua Ympäristömuutos (EC) -opintosuuntaan, joka pohjautuu biologisiin, maantieteellisi
+Yhteenveto: In an era when Russia, Eurasia, and Eastern Europe shape global security, migration as well as environmental and energy politics, specialised knowledge has never been more valuable. MAREEES offers an interdisciplinary approach to understanding this vast and complex area, from political crises and military conflicts to cultural identities and energy transitions. You explore topics such as historical and geopolitical development, governance and the
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Lukuvuosimaksu ei koske EU/ETA-alueen kansalaisia.
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
@@ -173,21 +238,21 @@ Miksi / huomioitavaa:
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039902>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039905>)
 
-### 65/100 — STRONG — Politiikan ja viestinnän maisteriohjelma, syksy 2027
+### 65/100 — STRONG — Master's Programme in Global Politics and Communication, Autumn 2027
 
 Helsingin yliopisto
 Helsinki
-Yhteenveto: Oletko kiinnostunut politiikan, vallan ja organisaatioiden kysymyksistä? Kiinnostavatko sinua maailman kriisit ja konfliktit? Pohditko mediajulkisuuden ja viestinnän roolia yhteiskunnassa? Helsingin yliopiston yleisen valtio-opin ja viestinnän tieteenalat ovat maailman kärkeen kuuluvia tutkimus- ja opetusyksikköjä. Politiikan ja viestinnän yhteinen maisteriohjelma on kansainvälisestikin ainutlaatuinen ja tukee perinteiset tieteenalarajat ylittävä
+Yhteenveto: How do global transformations reshape democracy? What role does the media play when authoritarian tendencies and the commercialisation of public debate are changing political life? In this programme, you explore the complex connections between world politics, economic governance, organisations and communication. You choose one of three study tracks — Governance, Organisations and Communication; Media and Democracy; or World Politics and Economic 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
 Ajankohta: Syksy 2027
-Hinta: Maksuton
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -196,7 +261,7 @@ Miksi / huomioitavaa:
 - +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040609>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039911>)
 
 
 Lähteiden ongelmat:
@@ -208,7 +273,7 @@ Lähteiden ongelmat:
 
 Työmarkkinan havainnot:
 - Azure mainittiin 10 tämän haun relevantissa ilmoituksessa.
-- Python mainittiin 8 tämän haun relevantissa ilmoituksessa.
+- Python mainittiin 7 tämän haun relevantissa ilmoituksessa.
 - SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
@@ -395,7 +460,7 @@ Muistiinpanot:
 
 Oy Linde Gas AB
 Espoo, FI
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Are you interested in Linde's core business functions and looking forward to experiencing how we live our mission of making our world more productive? Are you curious to know how we make our customers more successful while sustaining and protecting our planet? What you will enjoy doing You will explore Europe while working with colleagues across Linde living in two European countries You will explore three different work assignments in our core b
 Hakuaika päättyy: 2026-12-01
 Lähteet: Jobly
@@ -1515,7 +1580,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will strengthen automated test reliability and build end-to-end tests for public-facing web platforms, focusing on checkout flows across Finland, Sweden and Norway. You will drive the automation strategy, maintain tests, integrate QA into CI/CD pipelines, and support manual testing when needed. The role uses modern tools like Playwright, Storybook, Chromatic and BrowserStack and offers a flexible hybrid mod
 Hakuaika päättyy: 2026-12-26
 Lähteet: Jobly
@@ -1642,8 +1707,8 @@ Muistiinpanot:
 
 Clevry
 Vantaa, FI, Uusimaa
-Julkaistu: 2026-11-04
-Yhteenveto: Etsimme sinua Me Clevryllä etsimme asiakkaallemme Atea Finlandille Business Sales Specialistia kehittämään Copilot+ PC -liiketoimintaa osaksi Endpoint Sales -tiimiä. Tehtävässä yhdistyvät asiakastyö, liiketoiminnan kehittäminen, myynnin tuki sekä tiivis yhteistyö Microsoftin ja johtavien laitevalmistajien kanssa. Tehtävä on kokoaikainen ja määräaikainen 30.9.2027 saakka. Aloitus tehtävässä on heti sopivan henkilön löydyttyä ja tulet työllistymään
+Julkaistu: 2026-11-10
+Yhteenveto: Etsimme sinua Me Clevryllä etsimme asiakkaallemme Atea Finlandille Business Sales Specialistia kehittämään Copilot+ PC -liiketoimintaa osaksi Endpoint Sales -tiimiä. Tehtävässä yhdistyvät asiakastyö, liiketoiminnan kehittäminen, myynnin tuki sekä tiivis yhteistyö Microsoftin ja johtavien laitevalmistajien kanssa. Tehtävä on kokoaikainen ja määräaikainen aluksi 30.9.2027 saakka. Tehtävän jatkomahdollisuuksia tarkastellaan työsuhteen edetessä. Aloi
 Hakuaika päättyy: 2027-01-03
 Lähteet: Jobly
 
@@ -1726,7 +1791,7 @@ Muistiinpanot:
 
 Academic Work
 Tampere, FI, Helsinki, Uusimaa, Turku, Jyväskylä, Oulu
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme Lenio Oy:lle sitoutunutta B2B-ratkaisumyyjää, joka myy kokonaisvaltaisia ohjelmistoratkaisuja etä- tai hybridityöskentelyssä. Tehtävä sisältää asiakkaiden liiketoiminnan kartoituksen, uusasiakashankinnan, ohjelmistodemot ja kaupan päättämisen sekä asiakkuuksien hoidon. Edellytämme näyttöjä B2B- ja ratkaisumyynnistä, sujuvaa suomen ja englannin kielen taitoa sekä kykyä kommunikoida selkeästi ja työskennel
 Hakuaika päättyy: 2027-01-02
 Lähteet: Jobly
@@ -2241,6 +2306,67 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
+
+Academic Work
+Helsinki, Uusimaa, FI, Kuopio
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will train as a B2B sales professional with a personal coach to turn cold outreach into qualified sales meetings. You will prospect and identify decision-makers, contact B2B clients by phone and email, qualify cold leads, and maintain CRM data. The role requires professional proficiency in Danish, Norwegian, or Swedish and a resilient, target-driven attitude with strong communication skills. No prior B2B sa
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-development-representative-no-dk-swe-vendre-group-2796293>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Account Manager
+
+Experis
+Tuusula, FI
+Julkaistu: 2026-11-10
+Yhteenveto: kW-set Oy on varavoimajärjestelmiin erikoistunut yritys. Toimimme yhteistyössä merkittävien eurooppalaisten valmistajien kanssa ja olemme muun muassa Cumminsin varavoimalaitteiden ja dieselgeneraattoreiden maahantuoja. Tuotevalikoimamme kattaa teollisuusluokan dieselgeneraattorit teholuokissa 11 kVA-3750 kVA, ja myös suuremmat tehot ovat mahdollisia rinnakkaisilla laitteilla. Laajan toimittajaverkostomme ansiosta pystymme tarjoamaan aina parhaan 
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/account-manager-2796131>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Sales Development Representative (NO / DK / SWE), Vendre Group
+
+Vendre Group
+Helsinki, Kuopio
+Yhteenveto: About the role As a Sales Development Representative at Vendre Group, you’ll build the skills to become a successful B2B sales professional while creating real growth opportunities for our clients. You’ll learn how to identify the right companies and decision-makers, start meaningful sales conversations, and turn cold outreach into qualified sales meetings, supported by continuous coaching along the way. You will work closely with your personal c
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/sales-development-representative-no--dk--swe-vendre-group/5REH2R>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 85/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
 
 Vaisala Oyj
@@ -2623,6 +2749,26 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-team-leader-trainee-myynnin-esihenkiloharjoittelija-2794102>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Supply Chain & Sales Support Trainee (Teollisuuden Berner)
+
+Berner Oy
+Helsinki, Uusimaa, FI, Tampere, Pirkkala
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kahta Supply Chain & Sales Support -traineeta osaksi Basecamp 2027 -ohjelmaa 10 kuukauden kokoaikaiseen tehtävään alkaen 1.2.2027 Helsingin tai Pirkkalan toimipisteisiin hybrid-mallilla. Traineena tehtäviisi kuuluvat tilausten käsittely ja toimitusten seuranta, toimitusketjun tiedonhallinta ERP-järjestelmissä sekä koordinointi hankinnan, myynnin, varastojen ja kuljetusten kanssa. Etsimme opintojens
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/supply-chain-sales-support-trainee-teollisuuden-berner-2796522>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -5628,6 +5774,44 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 75/100 — STRONG —  Myyntiedustaja - Viemäriremontit (Pohja 1 500 €/kk + provisiot) 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-10
+Yhteenveto: Etsimme asiakkaallemme kenttämyyjiä viemäriremonttien ja -sukitusten pariin Helsinkiin Homma sopii sinulle, jos olet jo tehnyt jotain suoramyyntiä aikasemmin (esim. ständi- tai ovimyyntiä) ja haluat laittaa taitosi aitoon testiin isomman kaupan parissa. Palkkaus ja edut Pohjapalkka: 1 500 €/kk kiinteä pohja Provisiot: 5–13 % kaupan arvosta Bonukset: Kuukausitason bonusportaikko 400 € – 5 000 € sekä tuntuva vuosibonus huipputuloksista Työnkuva Tap
+Hakuaika päättyy: 2026-11-24
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2796429>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — KEY ACCOUNT MANAGER, FOODSERVICE
+
+Prescott Oy / co Mercuri Urval
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Avainasiakaspäällikkönä vastaat Prescottin edustamien tuotteiden myynnistä HoReCa- ja keskusliikeasiakkaille, kehität nykyisiä asiakkuuksia, hankit uusia asiakkaita ja kehität La Rose Noiren premium-portfoliota. Tehtävässä edellytetään kokemusta Foodservice-myynnistä, kaupallista tai elintarvikealan koulutusta, oma-aloitteisuutta sekä sujuvaa suomen ja englannin kielen taitoa. Tarjoamme vakituisen työsuhteen ka
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/key-account-manager-foodservice-2796132>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 73/100 —  — Software Developer
 
 Organisaatio tuntematon
@@ -6221,7 +6405,7 @@ Muistiinpanot:
 
 Academic Work
 Tampere, FI, Helsinki, Uusimaa
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will work as a hands-on Data Platform Specialist in the Data & Analytics Development team supporting a large-scale data transformation and AI roadmap for a global forest industry company, based in Tampere or Helsinki. The role focuses on configuration, setup and continuous development of Data Platform Tooling (DPT) and Snowflake and on ensuring the reliability, scalability and optimal structure of the platf
 Hakuaika päättyy: 2026-12-12
 Lähteet: Jobly
@@ -6242,7 +6426,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI, Vaasa, Turku
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will act as a link between business and IT to translate business needs into technical data solutions and support data governance and digitalization in the energy and marine sectors. Key tasks include coordinating between business and IT teams, collecting and analysing data to support decision-making, developing and maintaining Power BI reports and dashboards, and monitoring data quality and reporting practi
 Hakuaika päättyy: 2027-01-02
 Lähteet: Jobly
@@ -7206,7 +7390,7 @@ Muistiinpanot:
 
 aTalent
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-03
+Julkaistu: 2026-11-10
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haetaan Account Manageria vastaamaan uusasiakashankinnasta ja asiakkuuksien kehittämisestä rekrytointi- ja HR-konsultointipalveluissa. Työhön kuuluu aktiivinen prospektointi ja päätöksentekijöiden kontaktointi sekä myyntiprosessin johtaminen ensimmäisestä kontaktista sopimukseen ja lisämyynnin tekeminen. Edellytämme aiempaa kokemusta B2B-myynnistä, tavoitteellisuutta ja oma-aloitteisuutta sekä sujuvaa suomen ja
 Hakuaika päättyy: 2027-01-02
 Lähteet: Jobly
@@ -8711,6 +8895,23 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 50/100 — REVIEW — Scrum Master (Payments, SAFe & IT Analysis) – Banking Sector, Helsinki
+
+Organisaatio tuntematon
+Helsinki
+Yhteenveto: About the role In this role, you will take ownership of facilitating and coordinating delivery for a multidisciplinary team operating globally. The team specializes in Batch, Cross-Border Payments, and Swift Tech (BX & ST), managing high-volume batch executions and core financial messaging infrastructure. You will not be merely scheduling meetings or acting as a passive observer. Instead, you serve as the PO's operational co-pilot and RTE's trust
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/scrum-master-payments-safe--it-analysis--banking-sector-helsinki/9S886W>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 48/100 —  — Software Engineer, Aiven Context
 
 Organisaatio tuntematon
@@ -9216,6 +9417,30 @@ Miksi / huomioitavaa:
 - ? pyytää 2 vuotta kokemusta; tarkista vaadittu ala
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/research-fellow-university-researcher-ai-population-health-and-genomics-2783545>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 45/100 — REVIEW — Principal Technical Consultant, Google Cloud (GCP)
+
+Barona IT Talent Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The role is Principal Technical Consultant (Google Cloud) for a 6-month, full-time consultant assignment with immediate start, fully remote in Finland with preference for the Helsinki area. You will lead the design and implementation of enterprise-scale GCP solutions, drive migrations and modernization, define target architectures and roadmaps, and mentor technical teams. Required qualifications include strong 
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -30 senioriteetti ylittää nykyisen taustan
+- -20 pyytää vähintään 5 vuotta kokemusta
+- ? ilmoituksessa mainitaan Docker, Kubernetes; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/principal-technical-consultant-google-cloud-gcp-2796524>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -11392,6 +11617,29 @@ Miksi / huomioitavaa:
 - -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-kodinturvapalveluihin-helsinkiin-2795219>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Senior Technical Consultant, Google Cloud (GCP)
+
+Barona IT Talent Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-10
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Senior Technical Consultant will design, build, and implement Google Cloud solutions including migrations, Terraform-based infrastructure as code, CI/CD pipelines, and cloud-native practices. Applicants must have a minimum of 5 years' cloud, infrastructure, or DevOps experience with at least 3 years hands-on GCP experience and strong skills in Terraform, Kubernetes, CI/CD, and scripting. This is a 6-month f
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -30 senioriteetti ylittää nykyisen taustan
+- -20 pyytää vähintään 5 vuotta kokemusta
+- ? ilmoituksessa mainitaan SQL, Docker, Kubernetes; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/senior-technical-consultant-google-cloud-gcp-2796525>)
 Tila: UUSI
 Muistiinpanot: 
 

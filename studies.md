@@ -2864,6 +2864,54 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020434>)
 
+### 90/100 — STRONG — Sosiaali- ja terveydenhuollon tiedonhallinnan maisteriohjelma, Kuopio, terveystieteiden tai yhteiskuntatieteiden maisteri (2 v)
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Opetus painottuu sosiaali- ja terveydenhuollon palvelujärjestelmän tiedonhallintaan ja sen kehittämiseen ja johtamiseen palvelujen tuottamisessa sekä julkisten, yksityisten että järjestöjen toiminnassa; ICT-teknologian tietotekniikan vaikutuksiin palvelujen tuotannossa sekä koulutukseen sisältyvien tietojenkäsittelytieteen tai tietojärjestelmätieteen perusopintojen kautta tietojenkäsittelyn perusteisiin; tiedonhallinnan teoreettiseen perustaan se
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027994>)
+
+### 90/100 — STRONG — Sosiaali- ja terveyshallintotieteen maisteriohjelma, Kuopio, terveystieteiden, yhteiskuntatieteiden tai hallintotieteiden maisteri (2 v)
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Sosiaali- ja terveyshallintotieteessä sovelletaan hallinto- ja yhteiskuntatieteiden teoreettisia ja metodologisia lähtökohtia sosiaali- ja terveydenhuollon toimintaympäristössä. Koulutuksen sisältö keskittyy kolmeen kokonaisuuteen: 1. vaikuttavat sosiaali- ja terveyspalvelut, 2. sosiaali- ja terveyspalvelujen johtaminen ja kehittäminen sekä 3. sosiaali- ja terveyspalvelujen tutkimus Näitä tarkastellaan sekä kotimaisesta että kansainvälisestä näkö
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027996>)
+
 ### 85/100 — STRONG — Responsible Information Systems Development, Master of Science in Technology
 
 Lappeenrannan-Lahden teknillinen yliopisto LUT
@@ -7607,6 +7655,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004186>)
 
+### 75/100 — STRONG — Liikunnan yhteiskuntatieteiden maisteriohjelma, liikuntatieteiden maisteri (2 v), syksy 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Liikunnan yhteiskuntatieteiden koulutuksessa käsitellään liikuntaa ja urheilua laajoina yhteiskunnallisina ilmiöinä. Tavoitteena on kehittää alan toimintaa vastuullisesti ja kestävästi. Tutkinto-ohjelmissa koulutetaan akateemisia asiantuntijoita liikunnan, urheilun ja vapaa-ajan alojen eri tehtäviin. Koulutuksessa tarkastellaan liikkumista, liikuntaa ja urheilua laajoina ja muun yhteiskunnan kehitykseen kytkeytyvinä ilmiöinä sekä tuotetaan ratkai
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043414>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, erillishaku aiemmin YAMK-opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -9811,6 +9882,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017452>)
 
+### 70/100 — STRONG — Yhteiskuntatieteiden ja filosofian perusopinnot
+
+Alkio-opisto
+Jyväskylä
+Yhteenveto: Opinnot suoritetaan lukuvuoden 2026–2027 aikana Alkio-opistossa. Opinnot suositellaan suorittamaan Yhteiskunta- ja valtiotieteiden opintolinjan opintoina. Lue lisää: Yhteiskunta- ja valtiotieteet Alkio-opistolla
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 25.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 625.0 (lähteen summa; tarkista ehdot) ; Alkio-opiston päätoimisella opiskelijalla opinnot sisältyvät lukuvuoden perusmaksuihin tai 30 op:een opintoseteliin . Sivutoimiselle opiskelijalle hinta on 625 euroa (sisältäen avoimen yliopiston maksun).
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024479>)
+
 ### 70/100 — STRONG — Liiketalouden ylempi AMK-tutkinto, tietojenkäsittely, aiempia ylemmän korkeakoulutason opintoja suorittaneille
 
 Laurea-ammattikorkeakoulu
@@ -10768,6 +10862,52 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002912>)
+
+### 65/100 — STRONG — Master's Programme in Global Politics and Communication, Autumn 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: How do global transformations reshape democracy? What role does the media play when authoritarian tendencies and the commercialisation of public debate are changing political life? In this programme, you explore the complex connections between world politics, economic governance, organisations and communication. You choose one of three study tracks — Governance, Organisations and Communication; Media and Democracy; or World Politics and Economic 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039911>)
+
+### 65/100 — STRONG — Master's Programme in Russian, Eurasian and Eastern European Studies, Autumn 2027
+
+Helsingin yliopisto
+Helsinki
+Yhteenveto: In an era when Russia, Eurasia, and Eastern Europe shape global security, migration as well as environmental and energy politics, specialised knowledge has never been more valuable. MAREEES offers an interdisciplinary approach to understanding this vast and complex area, from political crises and military conflicts to cultural identities and energy transitions. You explore topics such as historical and geopolitical development, governance and the
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-19T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: SOCIAL
+- +10 vastaa yhteiskunnallista kiinnostusta
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039905>)
 
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -13680,6 +13820,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042294>)
+
+### 60/100 — REVIEW — Liikunnan yhteiskuntatieteiden kandidaatti- ja maisteriohjelma, liikuntatieteiden kandidaatti ja maisteri (3 v + 2 v), syksy 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Liikunnan yhteiskuntatieteiden koulutuksessa käsitellään liikuntaa ja urheilua laajoina yhteiskunnallisina ilmiöinä. Tavoitteena on kehittää alan toimintaa vastuullisesti ja kestävästi. Tutkinto-ohjelmissa koulutetaan akateemisia asiantuntijoita liikunnan, urheilun ja vapaa-ajan alojen eri tehtäviin. Koulutuksessa tarkastellaan liikkumista, liikuntaa ja urheilua laajoina ja muun yhteiskunnan kehitykseen kytkeytyvinä ilmiöinä sekä tuotetaan ratkai
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039871>)
 
 ### 60/100 — REVIEW — Nopea tie tarjoilijaksi
 
