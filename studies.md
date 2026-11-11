@@ -772,31 +772,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028723>)
 
-### 95/100 — STRONG — Datasta tehoa liiketoimintaan
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Datasta tehoa liiketoimintaan -koulutuksessa lisätään mikro- ja pk-yritysten työntekijöiden osaamista datan hyödyntämisestä liiketoiminnan kehittämisessä. Opinnot vahvistavat opiskelijan datan hyödyntämiseen liittyvää osaamista erityisesti liiketoiminnan kehittämisen näkökulmasta. Opintokokonaisuuden laajuus on yhteensä 15 op, ja koulutukseen osallistuva opiskelija voi valita opintokokonaisuudesta omaa osaamistaan parhaiten vahvistavat opintojaks
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 15.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-11T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043544>)
-
 ### 95/100 — STRONG — CREA – Creative Business Toolkit
 
 Hämeen ammattikorkeakoulu
@@ -10071,6 +10046,31 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036311>)
+
+### 65/100 — STRONG — Datasta tehoa liiketoimintaan
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Datasta tehoa liiketoimintaan -koulutuksessa lisätään mikro- ja pk-yritysten työntekijöiden osaamista datan hyödyntämisestä liiketoiminnan kehittämisessä. Opinnot vahvistavat opiskelijan datan hyödyntämiseen liittyvää osaamista erityisesti liiketoiminnan kehittämisen näkökulmasta. Opintokokonaisuuden laajuus on yhteensä 15 op, ja koulutukseen osallistuva opiskelija voi valita opintokokonaisuudesta omaa osaamistaan parhaiten vahvistavat opintojaks
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 15.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-11T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043544>)
 
 ### 65/100 — STRONG — Avoin yo: Datatieteen perusopinnot, lv. 2026-2027
 
