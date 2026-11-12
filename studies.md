@@ -2910,6 +2910,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006994>)
 
+### 90/100 — STRONG — Tradenomi (ylempi AMK), organisaation ja talouden johtaminen, kevään 2027 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Organisaation ja talouden johtamisen YAMK-opinnot sopivat sinulle, joka haluat edetä asiantuntijana tai esihenkilönä organisaation johtamisen tai talousjohtamisen osaamisalueilla. Organisaation johtamisopinnoissa opiskelet ja kehität mm. johtajuutta ja vastuullisen sekä moninaisen työyhteisön johtamista. Talousjohtamisen opinnoissa opiskelet ajankohtaisia teemoja mm. talousjohtamisen etiikasta ja strategisesta sekä julkisorganisaatioiden talousjo
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043893>)
+
 ### 85/100 — STRONG — Tietojenkäsittely ja digitaaliset järjestelmät, diplomi-insinööri tai kauppatieteiden maisteri (2 v)
 
 Vaasan yliopisto
@@ -3253,10 +3277,10 @@ Vaasa
 Yhteenveto: Tutkinto-ohjelma tarjoaa sinulle mahdollisuuden kehittyä tulevaisuuden teknologia-asiantuntijaksi, jonka ydinosaamista ovat ohjelmistokehitys ja tekoälyratkaisujen suunnittelu sekä toteutus. Järjestämme koulutuksen kokonaan verkossa etäopintoina , mutta et jää opinnoissasi yksin. Opiskeluun sisältyy ryhmätyöskentelyä ja järjestämme verkko-oppitunnit päiväsaikaan, pääsääntöisesti maanantaista perjantaihin kello 8 -16 välisenä aikana. Toteutamme tu
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot, Suomalaisen lukion oppimäärä tai ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -3325,10 +3349,10 @@ Hämeenlinna
 Yhteenveto: Kasva IT-alan ammattilaiseksi kehittämään tulevaisuuden ratkaisuja liiketoiminnalle! Tietojenkäsittelyn koulutuksessa opit kehittämään, turvaamaan ja ylläpitämään laadukkaita ja kestäviä ohjelmistoratkaisuja sekä saat mahdollisuuden kasvaa osaavaksi työyhteisön jäseneksi ratkomalla todellisia työelämältä tulevia haasteita. Opiskelet tekemällä, yhteistyössä muiden opiskelijoiden ja yritysten kanssa. Tekoälyä hyödynnetään IT-alalla enenevissä määri
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -3349,7 +3373,7 @@ Mikkeli
 Yhteenveto: Haluatko olla mukana rakentamassa käyttäjälähtöisiä älykkäitä palveluja, joilla on oikeasti merkitystä? Käyttäjälähtöiset älykkäät palvelut ovat tänä päivänä keskeinen osa työelämää, yritysten menestystä ja ihmisten arkea. Niiden tarve kasvaa jatkuvasti – ja samalla kasvaa tarve osaaville, oppimiskykyisille ja mukautuville tekijöille. Xamkin tietojenkäsittelyn koulutus antaa sinulle erinomaiset valmiudet työllistyä ja kehittyä nopeasti muuttuvall
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
@@ -3378,7 +3402,7 @@ Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2026-12-17T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3517,7 +3541,7 @@ Oulu
 Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
 Koulutustyyppi: BACHELOR + MASTER
 Laajuus: 300.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
@@ -8578,10 +8602,10 @@ Kajaani
 Yhteenveto: Tervetuloa opiskelemaan Euroopanlaajuisesti ainutlaatuiseen konesaliympäristöön! Datacenter-opinnoissa opiskelet keskeisiä palvelin- ja työasematuotteita sekä nykyaikaisia organisaatioiden verkkoratkaisuja. Ylläpidon perusvalmiuksien lisäksi saat valmiudet suunnitella ja kehittää tietoteknisiä ratkaisuja osana organisaation muuta kehittämistyötä. Ammattiopinnot pääset suorittamaan tietojärjestelmälaboratoriossa tai virtualisoitujen ympäristöjen a
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-11-13T15:00
 Lähteet: Opintopolku
@@ -8670,7 +8694,7 @@ Lahti
 Yhteenveto: The Business Information Systems for Digital Commerce programme trains digital commerce specialists capable of leading and developing digital commerce in organisations of varying sizes. The programme builds competence around data, information systems, and customer value creation as an integrated whole. Students develop a combination of data-driven business understanding and foundational programming skills, enabling them to contribute measurably t
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000 € per academic year for bachelor’s degree programmes.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
@@ -8698,7 +8722,7 @@ Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UA
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2026-12-17T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9997,6 +10021,29 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044049>)
+
+### 70/100 — STRONG — Matematiikan kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), kevät 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Jyväskylän yliopiston matematiikan tutkinto-ohjelmissa kohtaavat kansainvälinen huippututkimus ja opiskelijalähtöinen opetus. Opinnoissa saat kattavan perustietämyksen matematiikan eri osa-alueista ja mahdollisuuden perehtyä tieteenalan uusimpiin saavutuksiin. Jyväskylä tunnetaan liikunta- ja opiskelijakaupunkina, ja kampusympäristö on muutenkin Suomen ehdotonta huippua. Matematiikan kandidaatti- ja maisteriohjelmassa on tarjolla kursseja matemat
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042869>)
 
 ### 65/100 — STRONG — Avoin yo: Tietojenkäsittelytieteen aineopintoja, lv. 2026-2027
 
@@ -11933,10 +11980,10 @@ Espoo
 Yhteenveto: Tietotekniikan hakukohde on vuodesta toiseen yksi Aalto-yliopiston Perustieteiden korkeakoulun suosituimmista kohteista. Alalle hakeutuu monenlaisia ihmisiä: tietokoneisiin keskittyviä ammattilaisia, luovia taiteilijasieluja ja laaja-alaisia, ihmisten tarpeista, tiimityöstä ja liiketoiminnasta kiinnostuneita tekijöitä. Tietotekniikan opiskelijana pääset luovimaan muuttuvan maailman haasteissa – tutkimaan esimerkiksi ihmisen ja koneen välistä vuor
 Koulutustyyppi: UNIVERSITY DEGREE
 Laajuus: 300.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus, Ei pohjakoulutusvaatimusta
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -12090,7 +12137,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ulkomainen toisen asteen tutkinto
+Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, International Baccalaureate -tutkinto, Yleinen yliopistokelpoisuus, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
@@ -12202,7 +12249,7 @@ Hinta: Maksuton
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12740,7 +12787,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033706>)
 
-### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Jatkuva haku 2026
+### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Jatkuva haku 2027
 
 Ammattiopisto Tavastia
 Hämeenlinna
@@ -13935,6 +13982,50 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
+
+### 60/100 — REVIEW — Matematiikan ja tilastollisen data-analyysin koulutus, Luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), syksy 2027
+
+Tampereen yliopisto
+Tampere
+Yhteenveto: Luvut hallitsevat maailmaa - opi ymmärtämään ja ratkaisemaan tulevaisuuden haasteita Matematiikka ja tilastollinen data-analyysi ovat keskeisessä roolissa teknologian, tekoälyn, tieteen ja yhteiskunnan kehityksessä. Niiden avulla voidaan mallintaa ilmiöitä, analysoida dataa, tehdä ennusteita ja ratkaista monimutkaisia ongelmia. Alan osaajille on kasvava tarve niin yrityksissä, tutkimusorganisaatioissa kuin julkisella sektorilla.  Tule opiskelemaa
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038826>)
+
+### 60/100 — REVIEW — Matematiikan kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), syksy 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Jyväskylän yliopiston matematiikan tutkinto-ohjelmissa kohtaavat kansainvälinen huippututkimus ja opiskelijalähtöinen opetus. Opinnoissa saat kattavan perustietämyksen matematiikan eri osa-alueista ja mahdollisuuden perehtyä tieteenalan uusimpiin saavutuksiin. Jyväskylä tunnetaan liikunta- ja opiskelijakaupunkina, ja kampusympäristö on muutenkin Suomen ehdotonta huippua. Matematiikan kandidaatti- ja maisteriohjelmassa on tarjolla kursseja matemat
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039849>)
 
 ### 55/100 — REVIEW — Tietojenkäsittelytieteen maisteriohjelma, filosofian maisteri (2 v), kevät 2027
 

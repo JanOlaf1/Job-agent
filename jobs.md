@@ -1,57 +1,252 @@
 # JOB AGENT
 
-Haku: 2026-11-12T00:07+02:00
+Haku: 2026-11-12T16:29+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 2 uutta sopivaa työpaikkaa.
+Sinulle on 4 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 2
-Tällä ajolla luettuja hakutuloksia: 206 | Lähetysrajan täyttäviä työpaikkoja: 99
-Vahvat: 2 | Harkitse: 0
+Uusia sopivia työpaikkoja: 4
+Tällä ajolla luettuja hakutuloksia: 205 | Lähetysrajan täyttäviä työpaikkoja: 94
+Vahvat: 4 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 70/100 — STRONG — New Business Sales Executive, Luxid Group (Helsinki tai Turku)
-
-Scoutria Oy
-Helsinki, FI, Turku
-Julkaistu: 2026-11-11
-Yhteenveto: Autamme Luxidilla kunnianhimoisia yrityksiä valjastamaan markkinoinnin, myynnin ja asiakaskokemuksen kestävän kasvun moottoreiksi. Yhdistämme strategian, luovuuden, teknologian, datan ja tekoälyn ratkaistaksemme monimutkaisia liiketoimintahaasteita ja luodaksemme mitattavaa liiketoimintahyötyä. Kansainvälinen asiantuntijatiimimme toimii tiiviisti asiakkaidemme rinnalla yhdistäen kyvykkyyksiä, kiihdyttäen muutosta ja muuttaen mahdollisuudet konkre
-Hakuaika päättyy: 2026-11-24
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- -20 pyytää vähintään 8 vuotta kokemusta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/new-business-sales-executive-luxid-group-helsinki-tai-turku-2797644>)
-
-### 70/100 — STRONG — FullStack Developer (Java, SpringBoot), Wärtsilä
+### 75/100 — STRONG — Founder’s Associate (AI & Client Operations), Wicflow, Helsinki
 
 Academic Work
-Helsinki, Uusimaa, FI, Vaasa
-Julkaistu: 2026-11-11
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will develop and maintain end-to-end full-stack solutions primarily using Java and Spring Boot, participate in Web UI development, and apply DevOps practices for documentation-related systems. This junior-to-mid level role requires at least one year of Java and Spring Boot experience, readiness to own both back-end and front-end tasks, and fluent English. The position starts in January 2027 and is a permane
-Hakuaika päättyy: 2027-01-10
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Roolissa Wicflowille vastaat asiakasprojektien kokonaisvaltaisesta koordinoinnista ja siitä, että tekoäly- ja automaatioratkaisut viedään ideasta maaliin. Tehtäviisi kuuluu asiakkaiden tarpeiden kartoittaminen, viestintä asiakkaiden ja kehittäjien välillä sekä asiakastoiveiden kääntäminen konkreettisiksi kehitystehtäviksi ja osallistuminen myyntiin. Etsimme oma-aloitteista ja järjestelmällistä henkilöä, jolla o
+Hakuaika päättyy: 2027-01-11
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +10 teknologia: java
-- +5 junior-/aloitustaso
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
-- ? pyytää 1 vuotta kokemusta; tarkista vaadittu ala
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/fullstack-developer-java-springboot-wartsila-2797648>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/founders-associate-ai-client-operations-wicflow-helsinki-2797791>)
+
+### 75/100 — STRONG — B2B Yritysmyyjä
+
+Intensive Sales Partners Oy
+Helsinki, FI, Turku, Tampere, Lahti
+Julkaistu: 2026-11-12
+Yhteenveto: Oletko myynnin taitaja ja viihdyt kameran edessä? Etsimme B2B yritysmyyjää, joka innostuu myynnistä ja uskaltaa hypätä kameran eteen! Mitä me teemme? Autamme yrityksiä tuomaan omaa toimintaansa näkyväksi lyhytvideoiden avulla. Teemme yrityksille monipuolisia mainosvideoita, joissa voidaan esitellä esimerkiksi tuotteita, palveluita, yrityksen arkea tai mitä tahansa, mikä tukee yrityksen liiketoimintaa. Tavoitteena on tuottaa kiinnostavaa ja aidost
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-yritysmyyja-2798320>)
+
+### 75/100 — STRONG — MYYNTIPÄÄLLIKKÖ, Spelsberg Oy
+
+Spelsberg Oy
+Vantaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Kasvata kanssamme Spelsbergin liiketoimintaa suomalaisessa teollisuudessa! Spelsberg on kansainvälinen sähköteollisuuden tuotteita valmistava, myyvä ja kehittävä perheyritys, jonka erikoisosaamista ovat sähkökotelot, kotelointiratkaisut ja sähköasennustekniikka. 120 vuoden ajan toimintamme mottona on ollut „ safe.inspiring.green “, mikä tarkoittaa meille korkeaa laatua, huipputeknologiaa, tehokkuutta sekä turvallisuutta. Haluamme olla segmenttimm
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-spelsberg-oy-2798289>)
+
+### 75/100 — STRONG — Myynti- ja Tiiminvetäjäharjoittelija
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-12
+Yhteenveto: Etkö etsi vain harjoittelupaikkaa, vaan mahdollisuutta löytää oma urapolkusi myynnin parissa? Haluaisitko kehittyä myyjänä, ottaa enemmän vastuuta ja tulevaisuudessa johtaa omaa myyntitiimiäsi? Me etsimme harjoittelijaa, jolla on kunnianhimoa kehittyä myynnin ammattilaiseksi ja halua rakentaa pitkäaikainen ura myynnin parissa. Mitä pääset tekemään? Aluksi pääset keskittymään käytännön myyntityöhön, asiakkaiden kohtaamiseen ja omien myyntitaitojes
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myynti-ja-tiiminvetajaharjoittelija-2798297>)
+
+## KOULUTUKSET — 7 UUTTA / MUUTTUNUTTA
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), organisaation ja talouden johtaminen, kevään 2027 haku
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Organisaation ja talouden johtamisen YAMK-opinnot sopivat sinulle, joka haluat edetä asiantuntijana tai esihenkilönä organisaation johtamisen tai talousjohtamisen osaamisalueilla. Organisaation johtamisopinnoissa opiskelet ja kehität mm. johtajuutta ja vastuullisen sekä moninaisen työyhteisön johtamista. Talousjohtamisen opinnoissa opiskelet ajankohtaisia teemoja mm. talousjohtamisen etiikasta ja strategisesta sekä julkisorganisaatioiden talousjo
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043893>)
+
+### 85/100 — STRONG — Erillishaut Lapin AMK, Tradenomi (AMK), tietojenkäsittely, Siirtohaku ja Avoimen AMKin ja/tai muilla opinnoilla tutkinto-opiskelijaksi
+
+Lapin ammattikorkeakoulu
+Tornio
+Yhteenveto: Avoimen AMKin ja/tai muilla opinnoilla Hakuaika on 1.6. - 30.11., kun aloittaa opiskelun syyslukukaudella. Hakuaika on 1.12. - 31.5., kun aloittaa opiskelun kevätlukukaudella. Siirtohaku Hakuajat 1.-15.5. ja 1.-15.11. Lisää tietoa löytyy täältä .
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005545>)
+
+### 85/100 — STRONG — Tradenomi (AMK), tietojenkäsittely
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helian tietojenkäsittelyn tradenomina olet työnantajien arvostama IT-asiantuntija, joka työskentelee eri kehittämistehtävissä erilaisissa yrityksissä ja organisaatioissa. Haaga-Heliassa voit yhdistää teknologian ja liiketoiminnan osaamiset oppimispolullasi. Tietojenkäsittelyn tradenomikoulutus vastaa kehittyviin työelämän tarpeisiin ja tarjoaa sinulle mahdollisuuden muotoilla omia opintojasi joustavasti. Voit suunnitella henkilökohtaisen op
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-12-17T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009237>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Peliala, päiväopinnot, Kajaani
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Unelmoitko urasta pelituottajana, peligraafikkona tai peliohjelmoijana? Pelialan opinnoissa voit opiskella unelmiesi ammattia varten innostuneiden, samanhenkisten ja hyvien tyyppien kanssa, huippuympäristöä unohtamatta. Pelialan koulutuksen johtoajatus on oikeissa peliprojekteissa työskenteleminen ja tekemisen kautta oppiminen. Opinnoista suuri osa toteutetaankin erilaisina projekteina, joiden kautta saavutat syvällisen ja käytännönläheisen ymmär
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002985>)
+
+### 70/100 — STRONG — Tradenomi (AMK), Tietojenkäsittely, Datacenter, päivätoteutus
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Tervetuloa opiskelemaan Euroopanlaajuisesti ainutlaatuiseen konesaliympäristöön! Datacenter-opinnoissa opiskelet keskeisiä palvelin- ja työasematuotteita sekä nykyaikaisia organisaatioiden verkkoratkaisuja. Ylläpidon perusvalmiuksien lisäksi saat valmiudet suunnitella ja kehittää tietoteknisiä ratkaisuja osana organisaation muuta kehittämistyötä. Ammattiopinnot pääset suorittamaan tietojärjestelmälaboratoriossa tai virtualisoitujen ympäristöjen a
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004516>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, Business Information Technology
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: The Degree Programme in Business Information Technology provides you with practical professional Business IT skills combined with an extensive theoretical base. The programme offers the most interesting areas of current IT education: software development; digital services; ICT Infrastructures, Cloud Services and Cybersecurity; and ICT and Business. In addition, the studies typically include content and practical application arranged in cooperatio
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-12-17T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009206>)
+
+### 70/100 — STRONG — Matematiikan kandidaatti- ja maisteriohjelma, luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), kevät 2027
+
+Jyväskylän yliopisto
+Jyväskylä
+Yhteenveto: Jyväskylän yliopiston matematiikan tutkinto-ohjelmissa kohtaavat kansainvälinen huippututkimus ja opiskelijalähtöinen opetus. Opinnoissa saat kattavan perustietämyksen matematiikan eri osa-alueista ja mahdollisuuden perehtyä tieteenalan uusimpiin saavutuksiin. Jyväskylä tunnetaan liikunta- ja opiskelijakaupunkina, ja kampusympäristö on muutenkin Suomen ehdotonta huippua. Matematiikan kandidaatti- ja maisteriohjelmassa on tarjolla kursseja matemat
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-11-16T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042869>)
 
 
 Lähteiden ongelmat:
@@ -1326,7 +1521,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Manage delivery projects for IT Service Management (ITSM/ESM) and Identity and Access Management (IAM/IGA), including planning, execution, resource and budget control, and reporting. The role focuses on the Swedish and Finnish markets and requires fluency in Swedish and English, with Finnish skills considered an advantage. The position requires at least 2 years of IT project leadership experience, familiarity w
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
@@ -2203,7 +2398,7 @@ Muistiinpanot:
 
 Adecco
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-10
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is part of the Portuguese Respol Group and is a leading producer of tall oil‑based sustainable pine chemicals serving international markets from its Rauma site. The Technical Sales Manager will drive profitable international growth by managing the full sales cycle, identifying new business and leading trials, negotiations and account development. The role requires a technical degree (e.g., MSc in Chemis
 Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
@@ -2224,7 +2419,7 @@ Muistiinpanot:
 
 Adecco
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-10
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Forchem is hiring a Technical Sales Manager to drive international, profitable growth in sustainable pine chemicals. You will manage the full sales cycle globally, including identifying opportunities, leading trials, negotiations, and account development. The role requires a technical degree or relevant commercial background, proven international B2B technical sales experience, and fluent English. The position 
 Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
@@ -2630,7 +2825,7 @@ Muistiinpanot:
 
 Berner Oy
 Helsinki, Uusimaa, FI, Tampere, Pirkkala
-Julkaistu: 2026-11-10
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kahta Supply Chain & Sales Support -traineeta osaksi Basecamp 2027 -ohjelmaa 10 kuukauden kokoaikaiseen tehtävään alkaen 1.2.2027 Helsingin tai Pirkkalan toimipisteisiin hybrid-mallilla. Traineena tehtäviisi kuuluvat tilausten käsittely ja toimitusten seuranta, toimitusketjun tiedonhallinta ERP-järjestelmissä sekä koordinointi hankinnan, myynnin, varastojen ja kuljetusten kanssa. Etsimme opintojens
 Hakuaika päättyy: 2027-01-09
 Lähteet: Jobly
@@ -5726,6 +5921,82 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 75/100 — STRONG — Founder’s Associate (AI & Client Operations), Wicflow, Helsinki
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Roolissa Wicflowille vastaat asiakasprojektien kokonaisvaltaisesta koordinoinnista ja siitä, että tekoäly- ja automaatioratkaisut viedään ideasta maaliin. Tehtäviisi kuuluu asiakkaiden tarpeiden kartoittaminen, viestintä asiakkaiden ja kehittäjien välillä sekä asiakastoiveiden kääntäminen konkreettisiksi kehitystehtäviksi ja osallistuminen myyntiin. Etsimme oma-aloitteista ja järjestelmällistä henkilöä, jolla o
+Hakuaika päättyy: 2027-01-11
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/founders-associate-ai-client-operations-wicflow-helsinki-2797791>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — B2B Yritysmyyjä
+
+Intensive Sales Partners Oy
+Helsinki, FI, Turku, Tampere, Lahti
+Julkaistu: 2026-11-12
+Yhteenveto: Oletko myynnin taitaja ja viihdyt kameran edessä? Etsimme B2B yritysmyyjää, joka innostuu myynnistä ja uskaltaa hypätä kameran eteen! Mitä me teemme? Autamme yrityksiä tuomaan omaa toimintaansa näkyväksi lyhytvideoiden avulla. Teemme yrityksille monipuolisia mainosvideoita, joissa voidaan esitellä esimerkiksi tuotteita, palveluita, yrityksen arkea tai mitä tahansa, mikä tukee yrityksen liiketoimintaa. Tavoitteena on tuottaa kiinnostavaa ja aidost
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-yritysmyyja-2798320>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Myynti- ja Tiiminvetäjäharjoittelija
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-12
+Yhteenveto: Etkö etsi vain harjoittelupaikkaa, vaan mahdollisuutta löytää oma urapolkusi myynnin parissa? Haluaisitko kehittyä myyjänä, ottaa enemmän vastuuta ja tulevaisuudessa johtaa omaa myyntitiimiäsi? Me etsimme harjoittelijaa, jolla on kunnianhimoa kehittyä myynnin ammattilaiseksi ja halua rakentaa pitkäaikainen ura myynnin parissa. Mitä pääset tekemään? Aluksi pääset keskittymään käytännön myyntityöhön, asiakkaiden kohtaamiseen ja omien myyntitaitojes
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myynti-ja-tiiminvetajaharjoittelija-2798297>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — MYYNTIPÄÄLLIKKÖ, Spelsberg Oy
+
+Spelsberg Oy
+Vantaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Kasvata kanssamme Spelsbergin liiketoimintaa suomalaisessa teollisuudessa! Spelsberg on kansainvälinen sähköteollisuuden tuotteita valmistava, myyvä ja kehittävä perheyritys, jonka erikoisosaamista ovat sähkökotelot, kotelointiratkaisut ja sähköasennustekniikka. 120 vuoden ajan toimintamme mottona on ollut „ safe.inspiring.green “, mikä tarkoittaa meille korkeaa laatua, huipputeknologiaa, tehokkuutta sekä turvallisuutta. Haluamme olla segmenttimm
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-spelsberg-oy-2798289>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 73/100 —  — Software Developer
 
 Organisaatio tuntematon
@@ -5984,7 +6255,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will work as a Revenue Management Specialist in Vaisala's RevOps team in Espoo, supporting global Xweather subscription billing and subscription management. Daily tasks include booking subscriptions and hardware orders, advising sales on billing cadences and payment terms, routing billing and contract inquiries, and verifying cases in Salesforce and Stripe. Requirements include fluent English, an ongoing or
 Hakuaika päättyy: 2027-01-04
 Lähteet: Jobly
@@ -7410,7 +7681,7 @@ Muistiinpanot:
 
 Destia Oy
 Helsinki, Uusimaa, FI, Tampere
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Destia hakee Data Engineeriä työskentelemään datan ja integraatioiden parissa Azure-migratiossa, Databricksissä ja Power BI -raportoinnissa. Edellytämme vähintään 1–3 vuoden kokemusta data- tai integraatiokehityksestä sekä käytännön osaamista Databricksistä tai Azure Integration Services -teknologioista ja sujuvaa Python- sekä SQL-osaamista. Työsuhde on vakituinen, tiimi kokoontuu viikoittain Pasilassa mutta hy
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
@@ -7431,7 +7702,7 @@ Muistiinpanot:
 
 Eliittikatot Oy
 Vantaa, FI, Mäntsälä, Hyvinkää, Porvoo, Riihimäki
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Oletko tavoitteellinen myyjä, joka nauttii uusien asiakkaiden kohtaamisesta ja haluaa nähdä oman työnsä tulokset myös ansioissaan? Eliittikatot Oy etsii nyt remonttimyyjiä Jyväskylän ja Uudenmaan alueille! Tarjolla on itsenäinen ja liikkuva myyntitehtävä, jossa sinulla on mahdollisuus ansaita 4 000–5 500 euroa kuukaudessa. Eliittikatot Oy on vuonna 2000 perustettu kotimainen perheyritys ja yksi Suomen johtavista pientalojen kattoremontteihin erik
 Hakuaika päättyy: 2026-11-20
 Lähteet: Jobly
@@ -7483,6 +7754,27 @@ Miksi / huomioitavaa:
 - +10 etätyö Suomesta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hpc-platform-specialist-2797686>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 55/100 — REVIEW — Manager Business Processes & Solutions (m/f/d)
+
+UPM
+Leuna, Saksi-Anhalt, DE, Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Manager Business Processes & Solutions will drive end-to-end business process design and SAP S/4HANA solution delivery for UPM Next Generation Renewables at the Leuna (Germany) and Lappeenranta (Finland) biorefineries. The role leads SAP process design and medium-to-large IT projects across Demand-to-Supply, eWM, QM, EHS and related areas while partnering with UPM IT, vendors, process owners and stakeholder
+Hakuaika päättyy: 2027-01-11
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/manager-business-processes-solutions-m-f-d-2798229>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -8402,7 +8694,7 @@ Muistiinpanot:
 
 NG Nordic
 Espoo, FI, Riihimäki, Uusimaa, Kanta-Häme
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Technical Lead will own the architecture, engineering practices and reliable delivery of NG Nordic’s customer-facing digital solutions in a hybrid role based in Espoo or Riihimäki. You will lead and mentor a small team of 2–4 developers while contributing hands-on development and making independent technical decisions. Key responsibilities include designing and evolving the customer portal, APIs, data and i
 Hakuaika päättyy: 2026-12-28
 Lähteet: Jobly
@@ -8424,7 +8716,7 @@ Muistiinpanot:
 
 Destia Oy
 Helsinki, Uusimaa, FI, Tampere
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Johtajana vastaat Destian Data & AI -tiimistä, jonka nykyinen koko on viisi ja tavoite kasvaa yhdeksään, sekä kehität pilvinatiivista Azure-pohjaista AI-arkkitehtuuria. Tehtäviisi kuuluu esihenkilötyö (121-keskustelut, rekrytointi, perehdytys), tiimin työn ohjaus, kustannusten seuranta sekä AI-strategian toimeenpano. Tehtävässä menestyy kokemus esihenkilötehtävistä ja monipuolinen data- ja tekoälyosaaminen (mm.
 Hakuaika päättyy: 2026-12-21
 Lähteet: Jobly
@@ -8444,7 +8736,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI, Kuopio, Oulu
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: IT-projektipäällikkönä toimit palvelunhallinnan (ITSM/ESM) ja identiteetinhallinnan (IAM/IGA) toimitusprojektien vastuuhenkilönä erityisesti Ruotsin ja Suomen markkinoilla sekä julkisissa hankkeissa. Rooli vaatii sujuvaa ruotsin ja englannin kielen taitoa, vähintään 2 vuoden kokemusta IT-projektien vetovastuusta sekä kykyä johtaa useita projekteja samanaikaisesti. Työskentely tapahtuu hybridimallilla Espoon, Ku
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
@@ -8502,7 +8794,7 @@ Muistiinpanot:
 
 Destia Oy
 Helsinki, Uusimaa, FI, Tampere
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Manager, Data & AI -roolissa johdat Destian Data & AI -tiimiä (nykyinen koko 5, tavoitteena 9) ja vastaat tiimin esihenkilötyöstä sekä sisäisistä ja ulkoisista sidosryhmäyhteyksistä. Tehtäviisi kuuluvat tiimin rekrytointi, 1–1-keskustelut, työn ohjaus ja kehittäminen, tekoälystrategian toimeenpano, projektien ja kustannusten johtaminen sekä yhteistyö kumppaneiden kanssa. Menestyäksesi tarvitset kokemusta esihen
 Hakuaika päättyy: 2026-11-16
 Lähteet: Jobly
@@ -8907,6 +9199,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/scrum-master-payments-safe--it-analysis--banking-sector-helsinki/9S886W>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — ICT-asiantuntija
+
+Helsingin kaupunki
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Helsingin kaupungin kasvatuksen ja koulutuksen toimialan ICT-teknologiat ja -projektit -yksikköön haetaan vakinaista ICT-asiantuntijaa. Tehtävässä suunnittelet ja kehität laajan järjestelmäkokonaisuuden teknologiaratkaisuja, tuet kehitysprojekteja (esim. PowerApps, integraatiot, tekoäly) sekä tietoturvaa ja toimittajahallintaa. Palkka on tasopalkka 4293,47 €/kk sekä mahdollinen KVTES:n mukainen kokemuslisä 0-8 
+Hakuaika päättyy: 2027-01-11
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ict-asiantuntija-2797878>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -9459,6 +9770,26 @@ Miksi / huomioitavaa:
 - -30 senioriteetti ylittää nykyisen taustan
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-director-b2b-small-office-home-office-2796818>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 45/100 — REVIEW — Head of Sales, Finland
+
+Nordrest
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Head of Sales -roolissa vastaat myynnin kehittämisestä Suomessa, uusien B2B-asiakkuuksien hankinnasta ja myyntiprosessien johtamisesta ideasta sopimukseen. Tehtävään vaaditaan kokemusta B2B‑myynnistä ja liiketoiminnan kehittämisestä, ja ravintola‑ tai palvelualan kokemus sekä näyttö uusien liiketoimintojen luomisesta on eduksi. Työsuhde on vakituinen ja työpaikka on Helsingin Ruoholahdessa, jossa työskennellään
+Hakuaika päättyy: 2027-01-11
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/head-sales-finland-2797735>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -10623,7 +10954,7 @@ Muistiinpanot:
 
 Clevry
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-05
+Julkaistu: 2026-11-12
 Yhteenveto: Software Engineer, Truster, Helsinki Etsimme asiakkaallemme Trusterille Software Engineeriä osaksi pientä ja kehittyvää ohjelmistotiimiä. Tehtävä on kokoaikainen ja toistaiseksi voimassa oleva, ja työllistyt suoraan Trusterille. Aloitus tehtävässä on heti sopivan henkilön löydyttyä. Tehtävässä työskennellään hybridimallissa: pääsääntöisesti 3–4 päivää viikossa toimistolla ja 1–2 päivää etänä. Tehtävä sopii kehittäjälle, jolla on jo käytännön koke
 Hakuaika päättyy: 2026-12-28
 Lähteet: Jobly
@@ -10726,7 +11057,7 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
-### 40/100 — REVIEW — Software Developer (Fullstack), Uusimaa
+### 40/100 — REVIEW — Software Developer(Fullstack) for energy sector, Espoo
 
 Academic Work
 Helsinki, Uusimaa, FI
@@ -11742,6 +12073,47 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan SQL, Docker, Kubernetes; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/senior-technical-consultant-google-cloud-gcp-2796525>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Hallinnollinen tietoturvakonsultti
+
+Marvel Consulting Group Oy
+Espoo, FI, Helsinki, Vantaa, Oulu, Tampere
+Julkaistu: 2026-11-12
+Yhteenveto: Etsimme kokeneita tietoturvakonsultteja. Jos tunnistat itsesi tästä, saatat olla etsimämme asiantuntija: Olet kokenut Senior-/Lead-tason tietoturvakonsultti. Sinulla on vähintään 5v kokemusta tietoturvan saralta ja toimit asiakasprojekteissa itsenäisesti sekä omaan asiantuntijuuteesi luottaen. Vahvuutesi ovat tietoturvan hallinnassa, riskienhallinnassa ja prosesseissa. Tunnet regulaation, kuten NIS2:n, CRA:n, DORAn, AI Actin ja GDPR:n, ja osaat m
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hallinnollinen-tietoturvakonsultti-2798302>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Tekninen tietoturva-arkkitehti
+
+Marvel Consulting Group Oy
+Espoo, FI, Helsinki, Vantaa, Tampere, Oulu
+Julkaistu: 2026-11-12
+Yhteenveto: Etsimme kokeneita tietoturva-arkkitehteja. Jos tunnistat itsesi tästä, saatat olla etsimämme asiantuntija: Olet kokenut, Senior-/Lead-tason tietoturva-arkkitehti. Sinulla on vähintään 5v kokemusta tietoturvan saralta ja toimit asiakasprojekteissa itsenäisesti sekä omaan asiantuntijuuteesi luottaen. Suunnittelet ja toteutat tietoturvaratkaisuja käytäntöön asti, ja vahvuutesi on teknisessä tekemisessä sekä esimerkiksi identiteetin- ja pääsynhallinn
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+- -20 pyytää vähintään 5 vuotta kokemusta
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-tietoturva-arkkitehti-2798301>)
 Tila: UUSI
 Muistiinpanot: 
 
