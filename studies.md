@@ -3589,10 +3589,10 @@ Turku
 Yhteenveto: As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Your studies take place in an inspiring setting where long-
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -3685,7 +3685,7 @@ Turku
 Yhteenveto: In the Data Engineering and AI degree programme, you learn to build AI systems, train machine learning models, and design cloud data pipelines. You will move from being a technology user to becoming a data expert. The goal is to ensure you understand the entire data pipeline: how data is collected, processed, and stored (data engineering), how it is analyzed, and how it is leveraged in intelligent applications and decision-making. The extent of t
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
@@ -3733,10 +3733,10 @@ Hämeenlinna
 Yhteenveto: Study Computer Applications and become an international ICT talent! With us, you will combine technology with business. Are you fascinated by the possibilities of programming and artificial intelligence? Do you want to master big data and business analytics? Then you are at right place! In our Computer Applications degree programme, you will get a strong base for your future career. Learning by doing and working in teams are key elements in our s
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -3901,7 +3901,7 @@ Valkeakoski
 Yhteenveto: Empower Your Future with Sustainable and Data-Driven Decision Making! Are you ready to become a bettermaker? Join HAMK’s International Business degree and turn your ideas into action! Learn by doing with students from many cultures, working together on real business projects that make a difference. Build practical skills in data, marketing, and business development to create a better, more sustainable future. At HAMK, you don’t just study, you sh
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
@@ -3990,19 +3990,19 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038216>)
 
-### 85/100 — STRONG — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
+### 85/100 — STRONG — Kosmetiikan myynti ja neuvonta 35 osp - Eduko
 
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon keskiviikkona 18.11.2026 klo 14.30-16.00. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessi
+Kouvolan Ammattiopisto Eduko
+Kouvola
+Yhteenveto: Tutkinnon osa Hius- ja kauneudenhoitoalan perustutkinnosta. Kenelle Sinulle, joka olet kiinnostunut työskentelemään, tai työskentelet jo, kauneuden ja hyvinvoinnin parissa. Omaat hyvät vuorovaikutus- ja asiakaspalvelutaidot. Olet oma-aloitteinen, joustava ja tavoitteisiin sitoutuva.  Voit olla jo valmis ammattilainen hius- ja/tai kauneudenhoitoalalla, tai vielä alaa opiskeleva opiskelija, kokonaan vailla ennakko-osaamista hius- ja kauneudenhoitoa
 Koulutustyyppi: amm-tutkinnon-osa
 Laajuus: UNKNOWN
 Ajankohta: Kevät 2027
-Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
-Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hinta: lukuvuosimaksu: 6710.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville maksullisia. Lue lisää lukuvuosimaksusta Edukon sivuilta .
+Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Peruskoulu
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T12:00
+Hakuaika päättyy: 2027-01-14T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4012,7 +4012,7 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035383>)
 
 ### 85/100 — STRONG — Juomien myynti ja tarjoilu 25 osp, osa Ravintola- ja cateringalan perustutkinnosta - Jatkuva haku
 
@@ -7086,10 +7086,10 @@ Espoo
 Yhteenveto: Bachelor of Engineering, Information Technology, top-up degree is jointly run by Middle East College and Metropolia University of Applied Sciences. First two year of studies (120 ECTS) will be done in partner school. 3rd and 4th year studies (120 ECTS) will be in Metropolia University of Applied Sciences, Karamamlmi Espoo, Finland. Study objectives As a graduated engineer you have a vast technological knowledge and understanding of the field of I
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
@@ -7154,7 +7154,7 @@ Hämeen ammattikorkeakoulu
 Forssa
 Yhteenveto: Laita hyvä kiertämään! Luo kestävä huominen teknologian avulla. ICT-alan insinöörikoulutuksessa opit data-analytiikkaa, esineiden internetiä ja älykästä teknologiaa, joilla luot kestävän kehityksen tuotteita ja palveluita. Kestävällä teknologialla voit vaikuttaa ratkaisevasti ilmastonmuutoksen torjuntaan parantamalla ihmisten hyvinvointia ja hyödyntämällä luonnonvaroja vastuullisesti. HAMKin Design Factory-koulutuksessa Forssassa et opiskele vain
 Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
+Laajuus: UNKNOWN
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID
@@ -7239,29 +7239,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042647>)
-
-### 75/100 — STRONG — Kosmetiikan myynti ja neuvonta 35 osp - Eduko
-
-Kouvolan Ammattiopisto Eduko
-Kouvola
-Yhteenveto: Tutkinnon osa Hius- ja kauneudenhoitoalan perustutkinnosta. Kenelle Sinulle, joka olet kiinnostunut työskentelemään, tai työskentelet jo, kauneuden ja hyvinvoinnin parissa. Omaat hyvät vuorovaikutus- ja asiakaspalvelutaidot. Olet oma-aloitteinen, joustava ja tavoitteisiin sitoutuva.  Voit olla jo valmis ammattilainen hius- ja/tai kauneudenhoitoalalla, tai vielä alaa opiskeleva opiskelija, kokonaan vailla ennakko-osaamista hius- ja kauneudenhoitoa
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Kevät 2027
-Hinta: lukuvuosimaksu: 6710.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville maksullisia. Lue lisää lukuvuosimaksusta Edukon sivuilta .
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-14T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035383>)
 
 ### 75/100 — STRONG — Tradenomi (AMK), Liiketalouden tutkinto-ohjelma, Markkinointi- ja myyntiosaaminen, monimuotototeutus
 
@@ -8812,7 +8789,7 @@ Laajuus: 240.0 opintopistettä
 Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is 10 700 euros/academic year Read more about the tuition fees at Xamk.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Suomalainen ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -8878,10 +8855,10 @@ Kouvola
 Yhteenveto: Robotiikan ja tekoälyn ammattilaisille on kova kysyntä työelämässä. Hanki insinöörintutkinto tulevaisuuden alalta! Robotiikan ja tekoälyn -insinöörikoulutuksessa perehdyt robottien suunnitteluun, ohjelmointiin ja hyödyntämiseen niin teollisessa tuotannossa kuin palvelualoillakin. Moderni robotiikka hyödyntää tekoälyä ja tarjoaa runsaasti mahdollisuuksia toiminnan kehittämiseen yhteiskunnan eri aloilla. Tekoälyn avulla koneet, laitteet, ohjelmat, 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -8947,12 +8924,12 @@ Porvoo
 Yhteenveto: This degree in digital business innovations is an excellent investment for your future career. Businesses around the world constantly experience and undergo digitalization, global networking and demand for sustainability. As digitalization has allowed companies to develop and move into new markets, career opportunities in the field of digital business have also increased rapidly. Haaga-Helia’s BBA degree in Digital Business Innovations combines i
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8993,10 +8970,10 @@ Kajaani
 Yhteenveto: The Bachelor’s Degree in International Business at Kajaani University of Applied Sciences is a comprehensive program is designed to equip you with the theoretical and practical knowledge needed to thrive in the complex global marketplace. By combining strong core business fundamentals with specialized knowledge in international operations, marketing, and leadership, we help you launch your professional career as an international business expert. 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fees and scholarships
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-13T15:00
 Lähteet: Opintopolku
@@ -9016,10 +8993,10 @@ Helsinki, Vantaa
 Yhteenveto: Overview The Bachelor’s Degree Programme in International Business and Analytics at Metropolia University of Applied Sciences prepares students for dynamic careers in the global business environment, with a focus on international business studies and data analytics, equipping students with the skills to harness the power of data in driving business decisions and strategies. If you want to lead the way towards a more sustainable future in multicul
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is currently €11.500. Read more about current tuition fees and scholarships on our website.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -9088,9 +9065,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
+Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-10T23:59
+Hakuaika päättyy: 2027-04-30T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9113,7 +9090,7 @@ Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA stu
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ammatillinen perustutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ulkomainen toisen asteen tutkinto
 Haku: OPEN
-Hakuaika päättyy: 2026-11-10T23:59
+Hakuaika päättyy: 2027-04-30T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12337,7 +12314,7 @@ Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / 
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
 Haku: UPCOMING
-Hakuaika päättyy: 2027-02-28T15:00
+Hakuaika päättyy: 2027-02-28T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12357,7 +12334,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot, Ulkomainen toisen asteen tutkinto
+Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, Yleinen yliopistokelpoisuus, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot, Ulkomainen toisen asteen tutkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -12376,7 +12353,7 @@ Espoo
 Yhteenveto: As a graduated engineer you have a vast technological knowledge and understanding of the field of Information Technology and core engineering subjects. You have also gained knowledge in mathematics and natural sciences needed in your profession. You are able to communicate both orally and in writing in engineering surroundings and you are also able to work independently and as a member of a team. You have skills to operate in working life and you
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
@@ -12467,7 +12444,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 12 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Erikoisammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Erikoisammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-22T23:59
 Lähteet: Opintopolku
@@ -12511,7 +12488,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tämän ohjelman lukuvuosimaksu on 12 000 euroa lukuvuodessa. Lukuvuosimaksua eivät maksa Euroopan unionin (EU) tai Euroopan talousalueen (ETA) jäsenmaiden kansalaiset eivätkä Sveitsin kansalaiset. Muiden maiden kansalaisten on maksettava lukuvuosimaksu.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Erikoisammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Erikoisammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-22T23:59
 Lähteet: Opintopolku
@@ -12621,7 +12598,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -14682,6 +14659,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037777>)
+
+### 55/100 — REVIEW — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
+
+Tampereen seudun ammattiopisto Tredu
+Tampere
+Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon keskiviikkona 18.11.2026 klo 14.30-16.00. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessi
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-11T12:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
 
 ### 55/100 — REVIEW — Liiketoiminnan ammattitutkinto, asiakaspalvelu ja myynti - JATKUVA HAKU
 
