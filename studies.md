@@ -534,10 +534,10 @@ Hämeenlinna
 Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -4115,10 +4115,10 @@ Varkaus
 Yhteenveto: Voit opiskella Varkauden kampuksellamme liiketalouden perustutkinnon joko päiväopetuksena tai työelämäpainotteisessa toteutuksessa. Tällä hetkellä haettavissa työelämäpainotteinen toteutus ja oppisopimuskoulutus. Seuraava päiväopetusryhmä haku ja aloitus ilmoitetaan myöhemmin. Ala sopii sinulle, jos haluat työskennellä ihmisten kanssa. sinua kiinnostaa myyntityö, asiakkaiden palvelu ja markkinointi. haluat työskennellä muuttuvissa tilanteissa. pi
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot)
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Lukio ja/tai ylioppilastutkinto, Ammatillinen perustutkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-11-29T23:59
 Lähteet: Opintopolku
@@ -4165,7 +4165,7 @@ Laajuus: 180 osaamispistettä
 Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; • 1. elokuuta 2026 alkaen Suomessa otettiin käyttöön lukuvuosimaksut toisen asteen opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta. • Lukuvuosimaksu koskee opiskelijoita, joiden oleskeluluvan tyyppi tai peruste ei vapauta heitä maksusta. • Katso lisätietoja: Lukuvuosimaksut .
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Lukio ja/tai ylioppilastutkinto, Ammatillinen perustutkinto, Ammattikorkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Ammattikorkeakoulututkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-12-13T23:59
 Lähteet: Opintopolku
@@ -4273,54 +4273,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043430>)
 
-### 85/100 — STRONG — Tradenomi (AMK), markkinointi ja myynti, monimuotototeutus, Salo
-
-Turun ammattikorkeakoulu
-Salo
-Yhteenveto: Koulutuksen tavoite Koulutus on suunnattu useamman vuoden työkokemuksen omaaville, jotka haluavat kehittyä työssään tai etsivät uusia uramahdollisuuksia. Koulutuksen tavoitteena on valmentaa monipuolisia liiketoimintaosaajia ja työelämän kehittäjiä. Liiketalouden tradenomit sijoittuvat erilaisiin liiketalouden asiantuntija-, kehittämis-, johto- ja esimiestehtäviin sekä yrittäjiksi. Koulutuksessa korostuvat sekä liiketoiminnan perusteiden hallinta
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: Maksuton
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031208>)
-
-### 85/100 — STRONG — Tradenomi (AMK), liiketalous Porvoo
-
-Haaga-Helia ammattikorkeakoulu
-Porvoo
-Yhteenveto: Porvoon kampuksen opiskelijana työskentelet inspiroivassa ja ainutlaatuisessa ympäristössä, jossa totut haastamaan itsesi, työskentelemään eri rooleissa ja kohtaamaan ihmisiä. Opiskelu perustuu tutkivaan ja kehittävään oppimiseen, jonka myötä opit kuuntelemaan ja ymmärtämään asiakkaan tarpeita, tunnistamaan mahdollisuuksia sekä etsimään ratkaisuja yhdessä asiakkaiden ja työelämän kanssa. Liiketalouden päivätoteutuksessa opetus järjestetään arkisi
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta
-Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011277>)
-
 ### 85/100 — STRONG — Tradenomi (AMK), liiketalous Helsinki
 
 Haaga-Helia ammattikorkeakoulu
@@ -4328,12 +4280,12 @@ Helsinki
 Yhteenveto: Haaga-Helian laaja ja monipuolinen koulutustarjonta mahdollistaa opintojesi joustavan ja yksilöllisen suunnittelun sekä erilaiset opiskelutavat. Opiskelet liiketalouden osa-alueita käytännönläheisesti ja pääset osallistumaan aitoihin yritysprojekteihin. Haaga-Heliasta valmistuneet tradenomit työllistyvät hyvin ja ovat arvostettuja ammattilaisia asiantuntija-, kehittämis- ja esihenkilötehtävissä. Päivätoteutuksen suuntautumisvaihtoehdot ovat: · HR
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2026-12-17T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4376,10 +4328,10 @@ Mikkeli
 Yhteenveto: Kiinnostaako sinua työ liike-elämässä? Tähtäätkö liiketoiminnan asiantuntijaksi tai esimiestehtäviin? Onko suunnitelmissasi oma startup? Tradenomi (AMK) -koulutuksessa saat tietoja ja taitoja näihin tehtäviin. Opit, miten yritys toimii kannattavasti ja tuloksellisesti. Osaat myydä ja markkinoida. Osaat myös johtaa projekteja ja ihmisiä sekä tiedät, miten toimintaa kehitetään. Monimuotototeutuksessa vuorottelevat verkkotapaamiset ja Mikkelin kampu
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -4424,7 +4376,7 @@ Mikkeli
 Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Tr
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
@@ -4451,7 +4403,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-18T23:59
 Lähteet: Opintopolku
@@ -4472,7 +4424,7 @@ Kuopio
 Yhteenveto: Liiketalouden monipuolinen toimintakenttä haltuun – verkossa opiskellen Tradenomiopinnot ovat monipuoliset ja käytännönläheiset. Koulutuksesta saat laajan osaamisen liiketalouden alalle. Verkkototeutuksessa voit suuntautua esihenkilötyöhön, digitaaliseen liiketoimintaan tai talousosaamiseen. Opinnot toteutetaan kokonaan verkossa. Opiskelu onnistuu mainiosti asuinpaikasta riippumatta, ja opinnot voi suorittaa työn ohessa. Tutkinto-ohjelman toteutt
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
@@ -4499,7 +4451,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -7263,6 +7215,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003189>)
 
+### 75/100 — STRONG — Tradenomi (AMK), liiketalous Porvoo
+
+Haaga-Helia ammattikorkeakoulu
+Porvoo
+Yhteenveto: Porvoon kampuksen opiskelijana työskentelet inspiroivassa ja ainutlaatuisessa ympäristössä, jossa totut haastamaan itsesi, työskentelemään eri rooleissa ja kohtaamaan ihmisiä. Opiskelu perustuu tutkivaan ja kehittävään oppimiseen, jonka myötä opit kuuntelemaan ja ymmärtämään asiakkaan tarpeita, tunnistamaan mahdollisuuksia sekä etsimään ratkaisuja yhdessä asiakkaiden ja työelämän kanssa. Liiketalouden päivätoteutuksessa opetus järjestetään arkisi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011277>)
+
 ### 75/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus
 
 Oulun ammattikorkeakoulu
@@ -7270,7 +7245,7 @@ Oulu
 Yhteenveto: Koulutuksemme antaa sinulle kattavat tiedot ja hyvät valmiudet urallesi monipuolisissa liiketalouden tehtävissä. Opiskelijat työskentelevät usein tiimeissä, joissa pääset kehittämään omia vuorovaikutus- ja yhteistyötaitojasi. Saat myös vahvat valmiudet tiedon hallintaan ja analysointiin. Oamkin liiketalouden opinnoissa voit valita tutkintoosi sinua kiinnostavia opintokokonaisuuksia: •    HR-asiantuntijana toimiminen •    esihenkilöosaaminen •    
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
@@ -7316,7 +7291,7 @@ Vantaa
 Yhteenveto: Haluatko rakentaa uran liiketoiminnan asiantuntija- ja kehittämistehtävissä? Liiketalouden tradenomikoulutuksessa hankit osaamista, jota tarvitaan yrityksissä ja organisaatioissa eri toimialoilla. Opinnoissa yhdistyvät liiketoiminnan perusteet, asiakaslähtöinen ajattelu ja käytännön kehittämistyö. Koulutus antaa valmiudet toimia muuttuvassa työelämässä, jossa korostuvat yhteistyö, ongelmanratkaisu ja kyky kehittää toimintaa yhdessä muiden kanssa.
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
@@ -9250,7 +9225,7 @@ Laajuus: 180 osaamispistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton ; EU/ETA-alueen ulkopuolisten kansalaisten lukuvuosimaksu Lukuvuosimaksu peritään niiltä kolmannen maan kansalaisilta, jotka ovat saapuneet tai saapumassa Suomeen opiskelutarkoituksessa. Kolmannen maan kansalaisia ovat muun maan kuin Euroopan unionin jäsenvaltion tai Islannin, Liechtensteinin, Norjan 
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
 Haku: OPEN
 Lähteet: Opintopolku
 
@@ -9337,7 +9312,7 @@ Kouvola
 Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Saat opinnoissa valmiudet työskennellä liiketoiminnan asiantuntijana, kehittäjänä, esihenkilönä tai yrittäjänä. Xamkissa voit erikoist
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
@@ -12764,6 +12739,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033706>)
 
+### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Yhteishaku 2027
+
+Ammattiopisto Tavastia
+Hämeenlinna
+Yhteenveto: Merkonomi Oletko kiinnostunut bisnesmaailmasta ja taloudesta? Merkonomin koulutus sopii sinulle, jos pidät työskentelystä ihmisten kanssa. Opiskelet mm. asiakaspalveluosaamista, liiketoimintaa, yrittäjyyttä, taloushallintoa, työelämätaitoja, bisnesalan matematiikkaa ja kieliopintoja. Voit valita opintoihisi esimerkiksi myyntiä, markkinointiviestintää, tapahtumatuotantoa ja mediaosaamista. Merkonomina voit työskennellä kaupan ja palvelualojen yrit
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia voi tulla oppimateriaaleista, oppikirjoista ja tietokoneesta. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville opiskelijoille maksullisia. Lue lisää lukuvuosimaksusta Tavastian sivuilta .
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034273>)
+
 ### 60/100 — REVIEW — Liiketoiminnan perustutkinto - Jatkuva haku 2027
 
 Ammattiopisto Tavastia
@@ -12774,7 +12771,7 @@ Laajuus: 180 osaamispistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Koulutus on maksutonta. Muille kuin oppivelvollisille kustannuksia voi tulla oppimateriaaleista, oppikirjoista ja tietokoneesta. 1.8.2026 alkaen koulutukset ovat osalle EU- ja ETA-maiden ulkopuolelta tuleville opiskelijoille maksullisia. Lue lisää lukuvuosimaksusta Tavastian sivuilta .
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
 Haku: UPCOMING
 Hakuaika päättyy: 2027-05-09T23:59
 Lähteet: Opintopolku
@@ -13057,10 +13054,10 @@ Turku
 Yhteenveto: Minustako tradenomi? Tavoitteletko näköalapaikkaa liiketalouden asiantuntijatehtävissä? Haluatko kehittyä kansainväliseksi tiimiosaajaksi ja toimia monialaisessa ja -kulttuurisessa toimintaympäristössä? Tradenomin tutkinto tarjoaa sinulle mielenkiintoiset työskentelymahdollisuudet niin kotimaassa kuin ulkomaillakin. Koulutus on kansainvälistä ja käytännönläheistä ja sillä on kiinteät yhteydet elinkeinoelämään. Opintojen aikana tehtävät työelämälä
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -14798,6 +14795,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041327>)
+
+### 55/100 — REVIEW — Tradenomi (AMK), markkinointi ja myynti, monimuotototeutus, Salo
+
+Turun ammattikorkeakoulu
+Salo
+Yhteenveto: Koulutuksen tavoite Koulutus on suunnattu useamman vuoden työkokemuksen omaaville, jotka haluavat kehittyä työssään tai etsivät uusia uramahdollisuuksia. Koulutuksen tavoitteena on valmentaa monipuolisia liiketoimintaosaajia ja työelämän kehittäjiä. Liiketalouden tradenomit sijoittuvat erilaisiin liiketalouden asiantuntija-, kehittämis-, johto- ja esimiestehtäviin sekä yrittäjiksi. Koulutuksessa korostuvat sekä liiketoiminnan perusteiden hallinta
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031208>)
 
 ### 55/100 — REVIEW — Tradenomi (AMK), liiketalous, monimuotototeutus, Salo
 
