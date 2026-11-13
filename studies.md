@@ -4496,10 +4496,10 @@ Seinäjoki
 Yhteenveto: SEAMKin liiketalouden tradenomikoulutuksen tavoitteena on, että opiskelijasta kehittyy monipuolinen liiketoiminnan osaaja, jolla on työelämän vaatimuksia vastaavat tiedot, taidot ja asenteet. Tutkinto antaa laaja-alaiset valmiudet liiketalouden tehtäviin sekä opiskelijan valitseman osaamisalueen mukaista erityisosaamista. Tutkinnon suoritettuaan opiskelijalla on myös hyvät viestintä- ja vuorovaikutustaidot sekä liiketalouden asiantuntija-, johto-
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Ammattitutkinto, Erikoisammattitutkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-12-18T23:59
 Lähteet: Opintopolku
@@ -4520,10 +4520,10 @@ Helsinki, Vantaa
 Yhteenveto: Metropolia Ammattikorkeakoulun liiketalouden monimuoto-opinnoissa opiskelet 2-4 arki-iltana klo 17 alkaen joko Myllypuron kampuksella tai online. Lue lisää opiskelukäytänteistä! Opiskeluaika on 3,5 vuotta, mutta koulutustaustasta, työkokemuksesta ja elämäntilanteesta riippuen opinnot voi suorittaa nopeammassakin aikataulussa. Metropolian tradenomin vahvuuksia ovat laaja-alainen osaaminen yritystoiminnasta, näkemys liiketoiminnan kokonaisuudesta s
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -4642,7 +4642,7 @@ Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note th
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4666,7 +4666,7 @@ Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UA
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4688,9 +4688,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
+Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4803,7 +4803,7 @@ Nivala, Ylivieska
 Yhteenveto: Ole ylpeästi nörtti! Ohjelmistokehittäjän opinnoissa perehdyt erilaisiin ohjelmointikieliin ja -tekniikoihin. Web-ohjelmointi, tietokantojen käsittely, verkkokaupat, mobiiliohjelmointi, robotiikka, lausekieliset ohjelmointikielet ja low-code sovellusten kehittäminen sekä erilaisissa ohjelmistoprojekteissa työskentely tulevat sinulle tutuiksi. Lisäksi opiskelet IT-alan perustaitoja: työvälineohjelmistojen käyttöä, käyttöjärjestelmien asennuksia ja
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Syksy 2027
+Ajankohta: Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan
 Hinta: lukuvuosimaksu — tarkista summa ja ehdot ; Lukuvuosimaksu koskee pääsääntöisesti opiskelijoita, jotka: ovat EU-/ETA-alueen ulkopuolisen maan kansalaisia (kolmannen maan kansalaisia) tulevat Suomeen tai oleskelevat Suomessa opiskelijan oleskeluluvalla aloittavat toisen asteen opinnot 1.8.2026 tai sen jälkeen. Katso lisätietoja: Ulkomaalaiset 
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
@@ -7388,7 +7388,7 @@ Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9381,10 +9381,10 @@ Espoo
 Yhteenveto: Tuotantotalouden insinöörin tekniikan tuntemus yhdistyy yritystaloudelliseen osaamiseen. Sinusta tulee yritystoiminnan kehittäjä. Ratkaiset ongelmia ja rakennat verkostoja. Tavoitteenasi on tuottavuuden ja tehokkuuden parantaminen tai uuden liiketoiminnan kehittäminen. Sinun osaamisellasi on kysyntää sekä yrityksissä että julkishallinnossa. Tekniikka ja yritystalous yhdistyvät hyvin opinnoissa, ja opit esimerkiksi: miten yritysten toimintaa kehit
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
@@ -9543,7 +9543,7 @@ Helsinki, Vantaa
 Yhteenveto: The International Business and Logistics program offers practically oriented business administration studies with a special focus on operations of international trade, supply chain management and marketing. It responds to the needs of future business leaders developing their strategic knowledge and practical skills required in the management of people, material and information flows. We offer you a dynamic international study environment with cla
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
@@ -13145,7 +13145,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Aalto-yliopiston kauppakorkeakoulun kandidaatin tutkintoon johtavien englanniksi opettavien koulutusohjelmien lukuvuosimaksu on 12 000 euroa. Lukuvuosimaksu peritään muilta kuin Euroopan unionin jäsenmaiden (EU), Euroopan talousalueen (ETA) tai Sveitsin kansalaisilta.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Ammattitutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-22T23:59
 Lähteet: Opintopolku
@@ -13343,9 +13343,9 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -13365,7 +13365,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 13000.0 (lähteen summa; tarkista ehdot) ; Tuition fee per year for non-EU/EEA citizens. No tuition fee for EU/EEA citizens.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Avoimen yliopiston opinnot, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ammattitutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen toisen asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ammattitutkinto, Erikoisammattitutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen toisen asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, European baccalaureate -tutkinto, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Avoimen yliopiston opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-19T23:59
 Lähteet: Opintopolku

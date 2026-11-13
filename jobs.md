@@ -1,26 +1,26 @@
 # JOB AGENT
 
-Haku: 2026-11-13T15:50+02:00
+Haku: 2026-11-13T23:36+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 4 uutta sopivaa työpaikkaa.
+Sinulle on 8 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 4
-Tällä ajolla luettuja hakutuloksia: 206 | Lähetysrajan täyttäviä työpaikkoja: 92
-Vahvat: 4 | Harkitse: 0
+Uusia sopivia työpaikkoja: 8
+Tällä ajolla luettuja hakutuloksia: 206 | Lähetysrajan täyttäviä työpaikkoja: 90
+Vahvat: 8 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — Sales Specialist
+### 90/100 — STRONG — Myyntipäällikkö
 
-Hitachi Energy
-Vaasa, FI, Helsinki, Uusimaa, Tampere
+Rakennustieto Oy
+Helsinki, FI
 Julkaistu: 2026-11-13
-Yhteenveto: At Grid & Power Quality Solutions and Service business at Hitachi Energy in Europe (HBUEU), Inclusion drives our culture of innovation and collaboration. Our leading technology and strong market position enable us to achieve growth targets in the energy transition across current and growing market segments such as data centers, hydrogen and e-mobility. Join Our Team! The opportunity We are now looking for a Sales Specialist at Hitachi Energy, Gri
-Hakuaika päättyy: 2027-01-12
+Yhteenveto: Rakennustieto Oy on luotettava tietopalvelukumppani rakentamisen elinkaaressa. Arvoa tuovalla, ajantasaisella tiedolla mahdollistamme kestävästi rakennetun ympäristön. Rakennustieto Oy kuuluu RTS-konserniin, jonka omistaa Rakennustietosäätiö RTS sr. Haemme nyt MYYNTIPÄÄLLIKKÖÄ toistaiseksi voimassa olevaan työsuhteeseen Helsinkiin vahvistamaan digitaalisten ratkaisujemme myyntiä. Asiakkaitamme ovat kiinteistö- ja rakentamisalan yritykset, julkise
+Hakuaika päättyy: 2026-12-06
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -31,15 +31,15 @@ Miksi / huomioitavaa:
 - +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-specialist-2699477>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2799153>)
 
-### 75/100 — STRONG — Aluesuojamyyjä
+### 75/100 — STRONG —  Myyntiedustaja - Viemäriremontit (Pohja 1 500 €/kk + provisiot) 
 
-Eezy Henkilöstöpalvelut
-Hyvinkää, FI
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
 Julkaistu: 2026-11-13
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme omatoimaista myyjää aluesuojauksen pariin Hyvinkäälle, työ on vakituinen ja alkaa mahdollisimman pian. Tehtävä sisältää b2b-asiakkaiden ja sidosryhmien hankintaa ja ylläpitoa pitkälti puhelimitse toimistolta käsin sekä kustannuslaskentaa. Edellytämme kokemusta b2b-myynnistä, valmiutta tarttua puhelimeen ja ratkaisukeskeistä työotetta, ja rakennusalan kokemus on etu. Tarjoamme vakituisen paikan vakavarais
-Hakuaika päättyy: 2026-11-30
+Yhteenveto: Etsimme asiakkaallemme kenttämyyjiä viemäriremonttien ja -sukitusten pariin Helsinkiin Homma sopii sinulle, jos olet jo tehnyt jotain suoramyyntiä aikasemmin (esim. ständi- tai ovimyyntiä) ja haluat laittaa taitosi aitoon testiin isomman kaupan parissa. Palkkaus ja edut Pohjapalkka: 1 500 €/kk kiinteä pohja Provisiot: 5–13 % kaupan arvosta Bonukset: Kuukausitason bonusportaikko 400 € – 5 000 € sekä tuntuva vuosibonus huipputuloksista Työnkuva Tap
+Hakuaika päättyy: 2026-11-27
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -48,57 +48,125 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-2772827>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2799265>)
 
-### 75/100 — STRONG — IT Service Manager - Asset Management Applications , Espoo
+### 75/100 — STRONG — Kattomyyjä
 
-Academic Work
-Helsinki, Uusimaa, FI, Espoo
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Porvoo, Mäntsälä, Hyvinkää, Kerava, Riihimäki, Lahti, Hämeenlinna, Seinäjoki, Joensuu
 Julkaistu: 2026-11-13
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will act as Service Manager for the IBM Maximo Suite, owning the development backlog and service roadmap while governing the AMS partner for a business-critical system. You will coordinate releases, plan sprints, manage the continuous minor development pipeline, and guide an offshore team during and after transition. The role requires practical experience with Agile tools (Jira), ITSM processes (ServiceNow)
-Hakuaika päättyy: 2027-01-12
+Yhteenveto: Haemme nyt asiakkaallemme kattomyyjiä Uudellemaalle ja Etelä-Pohjanmaalle . Tässä työssä pääset tekemään kotimyyntiä kuluttaja-asiakkaille, pitkälti sun kalenteriin valmiiksi sovituilla käynneillä. Työ sopii sinulle, joka haluat myyntityöltä hyvän tuotteen myytäväksi, ison ansaintapotentiaalin ja kunnollisen tuen taustalle. 🔧 Työnkuva Kotimyyntiä kuluttaja-asiakkaille (kattoremonttien myynti) 2–3 valmista tapaamista päivässä bookkitiimiltä Myös o
+Hakuaika päättyy: 2026-11-27
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
+- +30 roolisopivuus: MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 teknologian ja asiakastyön yhdistelmä
+- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-service-manager-asset-management-applications-espoo-2798650>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kattomyyja-2799279>)
 
-### 75/100 — STRONG — IT Service Manager - Asset Management Applications , Espoo
+### 75/100 — STRONG — B2B Myyjä - Brändijuomat
 
-Organisaatio tuntematon
-Espoo
-Yhteenveto: About the role In this role, you will act as a key figure working with the IBM Maximo Suite system. While the AMS partner executes day-to-day application operations, you will govern the partner and remain accountable for the service as a whole. Your main focus will be on owning the development backlog and service roadmap, as well as managing and streamlining the continuous development pipeline in a business-critical environment. Acting as a vital
-Lähteet: Academic Work
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-13
+Yhteenveto: Asiakasyrityksemme hakee tiimiinsä B2B-myyjää brändi juomien pariin, jolta ei kovaa asennetta tai halua oppia yritysmyynnin salat puutu! Jos olet valmis käärimään hihat ja tekemään tulosta, tässä on paikka, jossa tekeminen näkyy suoraan tilipussissa. 💰 Paljonko tästä maksetaan? Tässä roolissa palkkamalli on selkeä ja suoraviivainen: OTE: 4 000 – 5 000 €/kk (toteutuu jo noin 20 000 €/kk kaupalla). Keskikauppa: Noin 1 300 € (tämä luku ollut jatkuva
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
+- +30 roolisopivuus: MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 teknologian ja asiakastyön yhdistelmä
+- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/it-service-manager--asset-management-applications--espoo/9K0P0O>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-brandijuomat-2799270>)
 
-## KOULUTUKSET — 2 UUTTA / MUUTTUNUTTA
+### 75/100 — STRONG — Ratkaisumyyjä – Provikat 800 € / kauppa! 
 
-### 85/100 — STRONG — Tradenomi (AMK), liiketalous Helsinki
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Kirkkonummi, Tampere, Turku, Pori, Jyväskylä, Kuopio, Lappeenranta, Seinäjoki, Oulu
+Julkaistu: 2026-11-13
+Yhteenveto: Me TalentFlow'lla valitaan asiakkaamme tarkasti. Nyt etsimme ratkaisumyyjiä älykkäiden ilmanvaihtoratkaisujen pariin alan johtavalle toimijalle. Etsimme uusia vahvistuksia useille paikkakunnille ympäri Suomea tuloshakuisiin tiimeihin! Tässä työssä kohtaat omakotitaloasujia arjen tärkeimpien asioiden äärellä. Et myy turhaa krääsää, vaan autat perheitä tekemään talostaan terveellisemmän, turvallisemman ja energiatehokkaamman. Miksi älykkäät ilmanva
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
 
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Haaga-Helian laaja ja monipuolinen koulutustarjonta mahdollistaa opintojesi joustavan ja yksilöllisen suunnittelun sekä erilaiset opiskelutavat. Opiskelet liiketalouden osa-alueita käytännönläheisesti ja pääset osallistumaan aitoihin yritysprojekteihin. Haaga-Heliasta valmistuneet tradenomit työllistyvät hyvin ja ovat arvostettuja ammattilaisia asiantuntija-, kehittämis- ja esihenkilötehtävissä. Päivätoteutuksen suuntautumisvaihtoehdot ovat: · HR
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ratkaisumyyja-provikat-800-eu-kauppa-2799290>)
+
+### 75/100 — STRONG — Myyntiedustaja (Kotisiivoukset) - PK-seutu
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-13
+Yhteenveto: Etsitkö myyntiroolia, jossa yhdistyvät vahva markkinoiden kysyntä, laadukas palvelu ja erinomainen ansiotaso? Me TalentFlow’lla etsimme nyt energisiä ja tuloshakuisia Myyntiedustajia kenttämyyntiin pääkaupunkiseudulle! Asiakkaamme on tunnettu kotimainen yritys, jonka tarjoamalla kotisiivouspalvelulla on kova kysyntä. Tässä roolissa pääset hyödyntämään yrityksen tarjoamia lämpimiä liidejä, mutta otat myös itse aktiivisen roolin oman kalenterisi tä
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-kotisiivoukset-pk-seutu-2799275>)
+
+### 75/100 — STRONG — Remonttimyyjä (LVIS) – 1600 € takuu + huippuprovikat! 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Kirkkonummi, Turku, Tampere, Vaasa, Oulu, Jyväskylä, Kuopio, Lappeenranta, Imatra, Etelä-Karjala, Lahti, Pori, Porvoo, Hämeenlinna, Kouvola, Seinäjoki, Rovaniemi, Salo
+Julkaistu: 2026-11-13
+Yhteenveto: Haluatko päästä klousaamaan isoa kauppaa ja auttaa asiakkaita löytämään itselleen parhaat LVIS ratkaisut kotiinsa? Me TalentFlow’lla etsimme nyt asiakasyrityksellemme nälkäisiä ja tuloshakuisia Remonttimyyjiä kodintekniikan ja talotekniikan ratkaisujen pariin. Asiakkaamme on yksi Suomen suurimmista ja vakavaraisimmista alan toimijoista. Tässä roolissa tapaat asiakkaita heidän kotonaan usein jo valmiiksi sovitulla käynnillä, missä käyt heidän tarp
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/remonttimyyja-lvis-1600-eu-takuu-huippuprovikat-2799273>)
+
+### 75/100 — STRONG — Energiakonsultti / Myyjä – Aurinkopaneelit, akustot & energiankäytön optimointi
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Tampere, Turku, Pori, Oulu, Jyväskylä, Kuopio, Joensuu, Lahti, Nurmijärvi, Hämeenlinna
+Julkaistu: 2026-11-13
+Yhteenveto: Etsitkö myyntiroolia, jossa pääset aidosti vaikuttamaan omiin tuloihisi ja auttamaan kuluttajia rakentamaan energiatehokkaampaa arkea? Me TalentFlow’lla etsimme nyt asiakasyrityksellemme motivoituneita ja tuloshakuisia Energiakonsultteja kenttämyyntiin. Yritys Asiakkaamme on vakavarainen ja kasvava suomalainen perheyritys, joka on toiminut uusiutuvan energian ja sähkönkäytön optimoinnin edelläkävijänä jo yli 10 vuotta. Yritys tarjoaa korkealaatui
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/energiakonsultti-myyja-aurinkopaneelit-akustot-energiankayton-optimointi-2799280>)
+
+## KOULUTUKSET — 4 UUTTA / MUUTTUNUTTA
+
+### 85/100 — STRONG — Bachelor of Business Administration, Business Administration, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Do you want to study for a BBA degree in Finland? Apply for Business Administration at Turku University of Applied Sciences! Would you like to be a marketing manager in a fast-growing IT company in Finland, a business strategy consultant in the EU, an international sales manager in Singapore or start up your own business? These are examples of some of the positions our Business Administration programme may open for you. In this programme you will
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-12-17T15:00
+Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -108,41 +176,89 @@ Miksi / huomioitavaa:
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011276>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009693>)
 
-### 75/100 — STRONG — Tradenomi (AMK), liiketalous Porvoo
+### 85/100 — STRONG — Bachelor of Business Administration, International Business
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helia’s International Business degree offers a holistic business understanding and competencies needed in the changing global and digital business environment. Studies include close co-operation with businesses. In the International Business Degree, you can choose your Major from five specialisation fields: Accounting and Finance People Management Marketing and Sales Supply Chain Management You will study in Haaga-Helia’s truly internationa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2027-05-12T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009871>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, Aviation Business
 
 Haaga-Helia ammattikorkeakoulu
 Porvoo
-Yhteenveto: Porvoon kampuksen opiskelijana työskentelet inspiroivassa ja ainutlaatuisessa ympäristössä, jossa totut haastamaan itsesi, työskentelemään eri rooleissa ja kohtaamaan ihmisiä. Opiskelu perustuu tutkivaan ja kehittävään oppimiseen, jonka myötä opit kuuntelemaan ja ymmärtämään asiakkaan tarpeita, tunnistamaan mahdollisuuksia sekä etsimään ratkaisuja yhdessä asiakkaiden ja työelämän kanssa. Liiketalouden päivätoteutuksessa opetus järjestetään arkisi
+Yhteenveto: Aviation is a unique, continuously developing industry, and offers versatile career opportunities. The degree programme in Aviation Business provides you skills and competences to work in various positions in aviation and also in other fields of business. During your studies, your will gain expertise in the aviation business environment and an understanding of the key aviation business processes. You will also acquire skills in sales and services
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Lisensiaatin tutkinto, Tohtorin tutkinto, Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000011277>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000010027>)
+
+### 75/100 — STRONG — Hallintotieteet ja johtaminen, hallintotieteiden tai yhteiskuntatieteiden kandidaatti ja hallintotieteiden tai yhteiskuntatieteiden maisteri (3 v + 2 v)
+
+Lapin yliopisto
+Rovaniemi
+Yhteenveto: Hallintotieteiden ja johtamisen tutkinto-ohjelma antaa sinulle vahvan hallintotieteeseen ja liiketaloustieteeseen perustuvan tietopohjan organisaatioiden ja työyhteisöjen kehittämiseen kestävällä ja oikeudenmukaisella tavalla. Tutkinto-ohjelman opinnot ovat sisällöllisesti monipuolisia ja ainutlaatuisia. Ne tarjoavat sinulle laaja-alaista näkemystä organisaatioiden toimintaan ja kohdentuvat tulevaisuuden työelämän tarpeisiin. Kehität johtamisvalm
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002344>)
 
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
 - LinkedIn: BLOCKED — robots.txt disallows automated access
-- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread | ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread
 - Laura: FAILED — 500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 10 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 9 tämän haun relevantissa ilmoituksessa.
 - Python mainittiin 6 tämän haun relevantissa ilmoituksessa.
 - SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
 
@@ -1913,7 +2029,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Helsinki, Uusimaa, Tampere
-Julkaistu: 2026-11-06
+Julkaistu: 2026-11-13
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The position is based in Vaasa, Tampere, or Helsinki, Finland, and can be filled as either a Sales Engineer or Sales Manager depending on experience. You will drive sales and marketing of Grid Automation solutions in Finland, develop customer and partner opportunities, and support tendering and proposal coordination. Candidates should have a B.Sc. or M.Sc. in Electrical Engineering or a related field, strong sa
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -2121,7 +2237,7 @@ Muistiinpanot:
 
 Academic Work
 Tampere, FI, Helsinki, Uusimaa
-Julkaistu: 2026-11-06
+Julkaistu: 2026-11-13
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Technical Pre-Sales Specialistina tuet jälleenmyyjiä teknisessä myynnissä ja räätälöit tietoturvaratkaisuja loppuasiakkaille. Työhön kuuluu jälleenmyyjien tarjous- ja koulutusvastuu, yhteistyö pohjoismaisen tiimin kanssa sekä uusien kaupallisten mahdollisuuksien tunnistaminen. Edellytämme hyvää ymmärrystä modernista IT-arkkitehtuurista ja pilvipalveluista, sujuvaa suomen ja englannin kielen taitoa sekä kiinnost
 Hakuaika päättyy: 2027-01-05
 Lähteet: Jobly
@@ -2382,6 +2498,27 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-specialist-2699477>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Myyntipäällikkö
+
+Rakennustieto Oy
+Helsinki, FI
+Julkaistu: 2026-11-13
+Yhteenveto: Rakennustieto Oy on luotettava tietopalvelukumppani rakentamisen elinkaaressa. Arvoa tuovalla, ajantasaisella tiedolla mahdollistamme kestävästi rakennetun ympäristön. Rakennustieto Oy kuuluu RTS-konserniin, jonka omistaa Rakennustietosäätiö RTS sr. Haemme nyt MYYNTIPÄÄLLIKKÖÄ toistaiseksi voimassa olevaan työsuhteeseen Helsinkiin vahvistamaan digitaalisten ratkaisujemme myyntiä. Asiakkaitamme ovat kiinteistö- ja rakentamisalan yritykset, julkise
+Hakuaika päättyy: 2026-12-06
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2799153>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -5720,7 +5857,7 @@ Muistiinpanot:
 
 Eezy Henkilöstöpalvelut
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-06
+Julkaistu: 2026-11-13
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Etsimme innostunutta ja reipasta myyntineuvottelijaa, joka työskentelee yritysasiakkaiden parissa tunnistaen yhteistyömahdollisuuksia, esittelemällä palveluratkaisuja ja rakentamalla pitkäjänteisiä asiakassuhteita. Hakijalta odotetaan hyvää tietoteknistä osaamista (esim. Google ja Microsoft), sujuvaa suomen ja englannin kielen taitoa, oma-aloitteisuutta sekä erinomaisia vuorovaikutustaitoja, ja aiempi kokemus m
 Hakuaika päättyy: 2026-11-19
 Lähteet: Jobly
@@ -6000,6 +6137,139 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/it-service-manager--asset-management-applications--espoo/9K0P0O>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Ratkaisumyyjä – Provikat 800 € / kauppa! 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Kirkkonummi, Tampere, Turku, Pori, Jyväskylä, Kuopio, Lappeenranta, Seinäjoki, Oulu
+Julkaistu: 2026-11-13
+Yhteenveto: Me TalentFlow'lla valitaan asiakkaamme tarkasti. Nyt etsimme ratkaisumyyjiä älykkäiden ilmanvaihtoratkaisujen pariin alan johtavalle toimijalle. Etsimme uusia vahvistuksia useille paikkakunnille ympäri Suomea tuloshakuisiin tiimeihin! Tässä työssä kohtaat omakotitaloasujia arjen tärkeimpien asioiden äärellä. Et myy turhaa krääsää, vaan autat perheitä tekemään talostaan terveellisemmän, turvallisemman ja energiatehokkaamman. Miksi älykkäät ilmanva
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ratkaisumyyja-provikat-800-eu-kauppa-2799290>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Energiakonsultti / Myyjä – Aurinkopaneelit, akustot & energiankäytön optimointi
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Tampere, Turku, Pori, Oulu, Jyväskylä, Kuopio, Joensuu, Lahti, Nurmijärvi, Hämeenlinna
+Julkaistu: 2026-11-13
+Yhteenveto: Etsitkö myyntiroolia, jossa pääset aidosti vaikuttamaan omiin tuloihisi ja auttamaan kuluttajia rakentamaan energiatehokkaampaa arkea? Me TalentFlow’lla etsimme nyt asiakasyrityksellemme motivoituneita ja tuloshakuisia Energiakonsultteja kenttämyyntiin. Yritys Asiakkaamme on vakavarainen ja kasvava suomalainen perheyritys, joka on toiminut uusiutuvan energian ja sähkönkäytön optimoinnin edelläkävijänä jo yli 10 vuotta. Yritys tarjoaa korkealaatui
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/energiakonsultti-myyja-aurinkopaneelit-akustot-energiankayton-optimointi-2799280>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Kattomyyjä
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Porvoo, Mäntsälä, Hyvinkää, Kerava, Riihimäki, Lahti, Hämeenlinna, Seinäjoki, Joensuu
+Julkaistu: 2026-11-13
+Yhteenveto: Haemme nyt asiakkaallemme kattomyyjiä Uudellemaalle ja Etelä-Pohjanmaalle . Tässä työssä pääset tekemään kotimyyntiä kuluttaja-asiakkaille, pitkälti sun kalenteriin valmiiksi sovituilla käynneillä. Työ sopii sinulle, joka haluat myyntityöltä hyvän tuotteen myytäväksi, ison ansaintapotentiaalin ja kunnollisen tuen taustalle. 🔧 Työnkuva Kotimyyntiä kuluttaja-asiakkaille (kattoremonttien myynti) 2–3 valmista tapaamista päivässä bookkitiimiltä Myös o
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kattomyyja-2799279>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Myyntiedustaja (Kotisiivoukset) - PK-seutu
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-13
+Yhteenveto: Etsitkö myyntiroolia, jossa yhdistyvät vahva markkinoiden kysyntä, laadukas palvelu ja erinomainen ansiotaso? Me TalentFlow’lla etsimme nyt energisiä ja tuloshakuisia Myyntiedustajia kenttämyyntiin pääkaupunkiseudulle! Asiakkaamme on tunnettu kotimainen yritys, jonka tarjoamalla kotisiivouspalvelulla on kova kysyntä. Tässä roolissa pääset hyödyntämään yrityksen tarjoamia lämpimiä liidejä, mutta otat myös itse aktiivisen roolin oman kalenterisi tä
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-kotisiivoukset-pk-seutu-2799275>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Remonttimyyjä (LVIS) – 1600 € takuu + huippuprovikat! 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Kirkkonummi, Turku, Tampere, Vaasa, Oulu, Jyväskylä, Kuopio, Lappeenranta, Imatra, Etelä-Karjala, Lahti, Pori, Porvoo, Hämeenlinna, Kouvola, Seinäjoki, Rovaniemi, Salo
+Julkaistu: 2026-11-13
+Yhteenveto: Haluatko päästä klousaamaan isoa kauppaa ja auttaa asiakkaita löytämään itselleen parhaat LVIS ratkaisut kotiinsa? Me TalentFlow’lla etsimme nyt asiakasyrityksellemme nälkäisiä ja tuloshakuisia Remonttimyyjiä kodintekniikan ja talotekniikan ratkaisujen pariin. Asiakkaamme on yksi Suomen suurimmista ja vakavaraisimmista alan toimijoista. Tässä roolissa tapaat asiakkaita heidän kotonaan usein jo valmiiksi sovitulla käynnillä, missä käyt heidän tarp
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/remonttimyyja-lvis-1600-eu-takuu-huippuprovikat-2799273>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — B2B Myyjä - Brändijuomat
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-13
+Yhteenveto: Asiakasyrityksemme hakee tiimiinsä B2B-myyjää brändi juomien pariin, jolta ei kovaa asennetta tai halua oppia yritysmyynnin salat puutu! Jos olet valmis käärimään hihat ja tekemään tulosta, tässä on paikka, jossa tekeminen näkyy suoraan tilipussissa. 💰 Paljonko tästä maksetaan? Tässä roolissa palkkamalli on selkeä ja suoraviivainen: OTE: 4 000 – 5 000 €/kk (toteutuu jo noin 20 000 €/kk kaupalla). Keskikauppa: Noin 1 300 € (tämä luku ollut jatkuva
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-brandijuomat-2799270>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG —  Myyntiedustaja - Viemäriremontit (Pohja 1 500 €/kk + provisiot) 
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa
+Julkaistu: 2026-11-13
+Yhteenveto: Etsimme asiakkaallemme kenttämyyjiä viemäriremonttien ja -sukitusten pariin Helsinkiin Homma sopii sinulle, jos olet jo tehnyt jotain suoramyyntiä aikasemmin (esim. ständi- tai ovimyyntiä) ja haluat laittaa taitosi aitoon testiin isomman kaupan parissa. Palkkaus ja edut Pohjapalkka: 1 500 €/kk kiinteä pohja Provisiot: 5–13 % kaupan arvosta Bonukset: Kuukausitason bonusportaikko 400 € – 5 000 € sekä tuntuva vuosibonus huipputuloksista Työnkuva Tap
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2799265>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6349,7 +6619,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-06
+Julkaistu: 2026-11-13
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive new business in Finland from Hypergene's Helsinki office, owning the full sales cycle for mid-market and enterprise customers. The role requires proven experience in complex B2B sales, independent pipeline building, and strong stakeholder engagement skills. Fluency in Finnish and advanced English are required, and knowledge of SaaS, financial planning tools, or Swedish is meritorious. You are off
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -7781,6 +8051,28 @@ Miksi / huomioitavaa:
 - -20 pyytää vähintään 5 vuotta kokemusta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/manager-business-processes-solutions-m-f-d-2798229>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 55/100 — REVIEW — Power Platform Advisor 
+
+Forward Forever
+Helsinki, FI
+Julkaistu: 2026-11-13
+Yhteenveto: We are looking for an experienced professional who wants to turn ambitious ideas into reliable, useful solutions—and help customers make the right choices along the way. This role brings together business insight, solution architecture and hands-on development. You will help customers discover what is worth building, shape the solution, and stay involved in making it real. Who is Forward Forever? We are focused on Power Platform. That's our craft
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -20 pyytää vähintään 5 vuotta kokemusta
+- ? ilmoituksessa mainitaan Azure, Power BI; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/power-platform-advisor-ai-solution-architecture-2799136>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -11001,7 +11293,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-06
+Julkaistu: 2026-11-13
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Roolissasi kehität ja integroitat sisäisiä tekoälyratkaisuja ja web-sovelluksia sekä hyödynnät Azure‑pilveä. Edellytämme sujuvaa suomen kielen taitoa, soveltuvaa korkeakoulututkintoa ja full stack -osaamista (Python, React, TypeScript) sekä vähintään kahden vuoden IT-kokemusta tai vastaavia näyttöjä. Tarjoamme mahdollisuuden vaikuttaa teknologiavalintoihin vakaassa yrityksessä, joustavat työajat, kattavat henki
 Hakuaika päättyy: 2026-12-22
 Lähteet: Jobly
@@ -12199,6 +12491,26 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Azure, AWS, SQL; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/ohjelmistokehittaja-fullstack-energiasektorille-espoo/2BIFTF>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Myyjä (F2F) - Tule tienaamaan kunnolla!
+
+TalentFlow
+Helsinki, FI, Espoo, Vantaa, Kirkkonummi, Tampere, Lappeenranta, Etelä-Karjala, Jyväskylä, Joensuu, Kuopio, Mikkeli
+Julkaistu: 2026-11-13
+Yhteenveto: Haluatko tienata kunnolla ja duunata huippuporukassa? Me etsimme nyt myynnin tekijöitä PK-seudulle, Tampereelle ja Itä-Suomen alueelle asiakkaamme ständimyynti tiimeihin! Miltä asiakkaamme tarjoaa sinulle: ✔️ 600€ pohjapalkka ekassa kuussa. Siitä eteenpäin puhdas provikkapalkkio - pääset vaikuttamaan omalla panoksella suoraan palkkakuittiisi! ✔️ Duunia Suomen tunnetuimpien brändien kanssa – voit oikeesti olla ylpeä siitä mitä myyt. ✔️ Rennon yhte
+Hakuaika päättyy: 2026-11-27
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+- -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-f2f-tule-tienaamaan-kunnolla-2799287>)
 Tila: UUSI
 Muistiinpanot: 
 
