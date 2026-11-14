@@ -1,0 +1,124 @@
+{
+  "new_jobs": [],
+  "new_count": 0,
+  "existing_count": 206,
+  "rejected_count": 0,
+  "strong_count": 0,
+  "review_count": 0,
+  "new_studies": [
+    {
+      "study_id": "1.2.246.562.17.00000000000000034612",
+      "title": "Insinööri (AMK), Tieto- ja viestintätekniikka, Ohjelmistokehitys ja kyberturvallisuus, monimuoto-opinnot, Kajaani",
+      "institution": "Kajaanin ammattikorkeakoulu",
+      "location": "Kajaani",
+      "study_type": "UAS DEGREE",
+      "scope": "240.0 opintopistettä",
+      "remote_type": "HYBRID / PART_TIME_OR_EVENING",
+      "eligibility": "TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus",
+      "application_status": "OPEN",
+      "application_periods": "[[\"2026-10-30T08:00\", \"2026-11-13T15:00\"], [\"2026-10-30T08:00\", \"2026-12-31T23:59\"], [\"2027-03-09T08:00\", \"2027-03-23T15:00\"]]",
+      "deadline": "2026-12-31T23:59",
+      "score": 85,
+      "classification": "STRONG",
+      "score_reasons": "+40 kiinnostava aihe: IT ; +20 rakentaa IT/liiketalous-taustalle ; +15 joustava toteutus; tarkista pakolliset lähipäivät ; +10 haku avoinna ; ? hakukelpoisuutta ei vahvistettu automaattisesti",
+      "sources": "Opintopolku",
+      "urls": "https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034612",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-14",
+      "detail_checked": "2026-11-14T14:54:33.394359+02:00",
+      "status": "UUSI",
+      "notes": "",
+      "summary": "Tämä koulutus on suunnattu sinulle, joka haluat kehittää vahvan osaamisen ohjelmistokehityksestä ja kyberturvallisuudesta. Se sopii sekä alanvaihtajille että jo ICT-alalla työskenteleville, jotka haluavat syventää osaamistaan. Monimuotototeutus mahdollistaa opiskelun työn ohessa. Koulutuksen aikana opit suunnittelemaan ja toteuttamaan moderneja ohjelmistoja sekä varmistamaan niiden tietoturvan. Opinnot kattavat mm.: Ohjelmoinnin ja ohjelmistokehi",
+      "price": "Maksuton",
+      "start_date": "Kevät 2027 ; Syksy 2027",
+      "notification_status": "pending",
+      "sent_at": "2026-11-08T14:38:24+02:00"
+    }
+  ],
+  "run_time": "2026-11-14T14:55+02:00",
+  "status": "DEGRADED",
+  "sources": {
+    "Duunitori": {
+      "ok": 0,
+      "failed": 0,
+      "blocked": 1,
+      "raw_jobs": 0,
+      "detail_failed": 0,
+      "detail_ok": 0,
+      "last_error": "robots.txt HTTP 403",
+      "errors": [
+        "robots.txt HTTP 403"
+      ],
+      "status": "BLOCKED"
+    },
+    "LinkedIn": {
+      "ok": 0,
+      "failed": 0,
+      "blocked": 1,
+      "raw_jobs": 0,
+      "detail_failed": 0,
+      "detail_ok": 0,
+      "last_error": "robots.txt disallows automated access",
+      "errors": [
+        "robots.txt disallows automated access"
+      ],
+      "status": "BLOCKED"
+    },
+    "Jobly": {
+      "ok": 10,
+      "failed": 2,
+      "blocked": 0,
+      "raw_jobs": 200,
+      "detail_failed": 0,
+      "detail_ok": 196,
+      "last_error": "Jobly: page limit reached (5); some results remain unread",
+      "errors": [
+        "Jobly: page limit reached (5); some results remain unread"
+      ],
+      "status": "PARTIAL"
+    },
+    "Academic Work": {
+      "ok": 1,
+      "failed": 0,
+      "blocked": 0,
+      "raw_jobs": 10,
+      "detail_failed": 0,
+      "detail_ok": 10,
+      "last_error": "",
+      "status": "HEALTHY"
+    },
+    "Laura": {
+      "ok": 0,
+      "failed": 4,
+      "blocked": 0,
+      "raw_jobs": 0,
+      "detail_failed": 0,
+      "detail_ok": 0,
+      "last_error": "500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi",
+      "errors": [
+        "500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi"
+      ],
+      "status": "FAILED"
+    },
+    "Opintopolku": {
+      "status": "PARTIAL",
+      "ok": 46,
+      "raw_jobs": 1200,
+      "detail_ok": 99,
+      "failed": 1111,
+      "last_error": "Detail limit reached; some eligibility/deadlines remain unknown"
+    }
+  },
+  "raw_count": 210,
+  "normalized_count": 206,
+  "deduplicated_count": 206,
+  "min_relevance_score": 60,
+  "observations": [
+    "Azure mainittiin 9 tämän haun relevantissa ilmoituksessa.",
+    "Python mainittiin 6 tämän haun relevantissa ilmoituksessa.",
+    "SQL mainittiin 4 tämän haun relevantissa ilmoituksessa."
+  ],
+  "relevant_count": 90,
+  "email_status": "pending",
+  "message_id": "<d69c661e325a4700835b7724e3584dee@job-agent.local>"
+}

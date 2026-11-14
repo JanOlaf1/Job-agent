@@ -4855,7 +4855,7 @@ Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4867,30 +4867,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034612>)
 
-### 85/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, full-time
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Information and Communications Technology (ICT) deals with technologies, methods and tools such as software applications and engineering, data networks and cybersecurity, games and embedded IoT devices and systems. This programme offers you versatile opportunities as a future ICT professional. The extent of the Bachelor of Engineering degree programme is 240 ECTS credits and the planned duration of the studies is four years. The degree is placed 
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001446>)
-
 ### 85/100 — STRONG — IT-tukihenkilö S2-tuettuna, tieto- ja viestintätekniikan perustutkinto
 
 Taitotalo
@@ -4898,7 +4874,7 @@ Helsinki
 Yhteenveto: Onko tietotekniikka lähellä sydäntäsi? Haluatko toimia tietoteknisissä työtehtävissä, esimerkiksi ICT-tukihenkilönä? Tieto- ja viestintätekniikan perustutkinto, IT-osaaja -koulutuksessa saat valmiudet toimia monipuolisissa tietoteknisissä tehtävissä ja kyberturvallisuusosaamisen periaatteet.
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Ajankohta: Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Peruskoulu
@@ -14912,6 +14888,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035517>)
+
+### 55/100 — REVIEW — Bachelor of Engineering, Information and Communications Technology, full-time
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Information and Communications Technology (ICT) deals with technologies, methods and tools such as software applications and engineering, data networks and cybersecurity, games and embedded IoT devices and systems. This programme offers you versatile opportunities as a future ICT professional. The extent of the Bachelor of Engineering degree programme is 240 ECTS credits and the planned duration of the studies is four years. The degree is placed 
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-13T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001446>)
 
 ### 55/100 — REVIEW — Osaajaksi puolijohdeteollisuuteen
 
