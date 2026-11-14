@@ -1,6 +1,6 @@
 # JOB AGENT
 
-Haku: 2026-11-14T14:55+02:00
+Haku: 2026-11-14T21:52+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
@@ -17,29 +17,28 @@ Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi oll
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
 ## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
 
-### 85/100 — STRONG — Insinööri (AMK), Tieto- ja viestintätekniikka, Ohjelmistokehitys ja kyberturvallisuus, monimuoto-opinnot, Kajaani
+### 70/100 — STRONG — Nopea tie tarjoilijaksi
 
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Tämä koulutus on suunnattu sinulle, joka haluat kehittää vahvan osaamisen ohjelmistokehityksestä ja kyberturvallisuudesta. Se sopii sekä alanvaihtajille että jo ICT-alalla työskenteleville, jotka haluavat syventää osaamistaan. Monimuotototeutus mahdollistaa opiskelun työn ohessa. Koulutuksen aikana opit suunnittelemaan ja toteuttamaan moderneja ohjelmistoja sekä varmistamaan niiden tietoturvan. Opinnot kattavat mm.: Ohjelmoinnin ja ohjelmistokehi
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Vantaan ammattiopisto Varia
+Vantaa
+Yhteenveto: Kiinnostaako työ asiakaspalvelun parissa ravintolassa? Ravintolan asiakaspalvelu ja myynti -koulutus antaa käytännön valmiudet tarjoilijan työtehtäviin sekä vahvistaa suomen kielen taitoasi. Ravintola-alalla työskentelet asiakaspalvelun, myynnin ja tarjoilun tehtävissä. Koulutuksessa opit asiakaspalvelua, ruoka- ja juomatuotteiden esillepanoa, tarjoilua, kassatyöskentelyä sekä ravintolan päivittäisiä työtehtäviä. Saat valmiuksia toimia erilaisiss
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Tarkemmat tiedot opiskeluun liittyvistä kustannuks
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-12-31T23:59
+Hakuaika päättyy: 2027-01-07T00:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034612>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
 
 
 Lähteiden ongelmat:

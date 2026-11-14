@@ -9927,6 +9927,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000024479>)
 
+### 70/100 — STRONG — Nopea tie tarjoilijaksi
+
+Vantaan ammattiopisto Varia
+Vantaa
+Yhteenveto: Kiinnostaako työ asiakaspalvelun parissa ravintolassa? Ravintolan asiakaspalvelu ja myynti -koulutus antaa käytännön valmiudet tarjoilijan työtehtäviin sekä vahvistaa suomen kielen taitoasi. Ravintola-alalla työskentelet asiakaspalvelun, myynnin ja tarjoilun tehtävissä. Koulutuksessa opit asiakaspalvelua, ruoka- ja juomatuotteiden esillepanoa, tarjoilua, kassatyöskentelyä sekä ravintolan päivittäisiä työtehtäviä. Saat valmiuksia toimia erilaisiss
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Tarkemmat tiedot opiskeluun liittyvistä kustannuks
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2027-01-07T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
+
 ### 70/100 — STRONG — Ohjelmistokehittäjä (web-ohjelmointi ja kyberturvallisuus), tieto- ja viestintätekniikan perustutkinto
 
 Taitotalo
@@ -13670,10 +13693,10 @@ Vantaa
 Yhteenveto: A degree program in Smart Automation with specializations in cloud engineering and artificial intelligence, smart factories and robotics is designed to equip students with the skills and knowledge needed to develop, operate and manage smart systems in various fields of industry. The program offers an interdisciplinary approach, combining aspects of engineering, computer science and automation technology. The program covers topics like industrial 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: tuition fee 11.500 € Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
@@ -13910,28 +13933,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039871>)
-
-### 60/100 — REVIEW — Nopea tie tarjoilijaksi
-
-Vantaan ammattiopisto Varia
-Vantaa
-Yhteenveto: Kiinnostaako työ asiakaspalvelun parissa ravintolassa? Ravintolan asiakaspalvelu ja myynti -koulutus antaa käytännön valmiudet tarjoilijan työtehtäviin sekä vahvistaa suomen kielen taitoasi. Ravintola-alalla työskentelet asiakaspalvelun, myynnin ja tarjoilun tehtävissä. Koulutuksessa opit asiakaspalvelua, ruoka- ja juomatuotteiden esillepanoa, tarjoilua, kassatyöskentelyä sekä ravintolan päivittäisiä työtehtäviä. Saat valmiuksia toimia erilaisiss
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Tarkemmat tiedot opiskeluun liittyvistä kustannuks
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
 
 ### 60/100 — REVIEW — Matematiikan ja tilastollisen data-analyysin koulutus, Luonnontieteiden kandidaatti ja filosofian maisteri (3 v + 2 v), syksy 2027
 
