@@ -1,6 +1,6 @@
 # JOB AGENT
 
-Haku: 2026-11-14T21:52+02:00
+Haku: 2026-11-15T15:27+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
@@ -15,31 +15,6 @@ Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi oll
 ## UUDET TYÖPAIKAT
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
-## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
-
-### 70/100 — STRONG — Nopea tie tarjoilijaksi
-
-Vantaan ammattiopisto Varia
-Vantaa
-Yhteenveto: Kiinnostaako työ asiakaspalvelun parissa ravintolassa? Ravintolan asiakaspalvelu ja myynti -koulutus antaa käytännön valmiudet tarjoilijan työtehtäviin sekä vahvistaa suomen kielen taitoasi. Ravintola-alalla työskentelet asiakaspalvelun, myynnin ja tarjoilun tehtävissä. Koulutuksessa opit asiakaspalvelua, ruoka- ja juomatuotteiden esillepanoa, tarjoilua, kassatyöskentelyä sekä ravintolan päivittäisiä työtehtäviä. Saat valmiuksia toimia erilaisiss
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Lukuvuosimaksuvelvollisia ovat kolmansien maiden kansalaiset, jotka eivät ole EU:n jäsenvaltion, Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaisia. Lukuvuosimaksuja ei peritä esimerkiksi oppivelvollisilta ja pysyvän oleskeluluvan saaneilta. Tarkemmat tiedot opiskeluun liittyvistä kustannuks
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: OPEN
-Hakuaika päättyy: 2027-01-07T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042624>)
-
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
@@ -49,7 +24,7 @@ Lähteiden ongelmat:
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 9 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 7 tämän haun relevantissa ilmoituksessa.
 - Python mainittiin 6 tämän haun relevantissa ilmoituksessa.
 - SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
 
