@@ -1,6 +1,6 @@
 # JOB AGENT
 
-Haku: 2026-11-15T15:27+02:00
+Haku: 2026-11-15T22:29+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
@@ -15,6 +15,33 @@ Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi oll
 ## UUDET TYÖPAIKAT
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
+## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
+
+### 100/100 — STRONG — Tradenomi (ylempi AMK), Insinööri (ylempi AMK), Artenomi (ylempi AMK), Luonnonvara-ala (ylempi AMK), Sosiaali- ja terveysala (ylempi AMK), Yrittäjyyden ja yritystoiminnan kehittäminen, verkko-opinnot
+
+Hämeen ammattikorkeakoulu
+Hämeenlinna
+Yhteenveto: Kehitä ja kasvata yritystoimintaa – kaupallista ideasi ja osaamisesi HAMKin Yrittäjyyden ja yritystoiminnan kehittämisen YAMK-koulutus on suunnattu sinulle, joka haluat kehittää omaa tai organisaatiosi liiketoimintaa ja kasvaa strategiseksi, vastuulliseksi johtajaksi. Opinnoissa yhdistyvät yrittäjämäinen ajattelu, palvelumuotoilu, kaupallistaminen ja liiketoiminnan johtaminen. Opit tunnistamaan uusia liiketoimintamahdollisuuksia, rakentamaan kann
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035681>)
+
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
