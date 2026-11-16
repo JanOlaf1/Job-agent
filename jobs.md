@@ -1,46 +1,110 @@
 # JOB AGENT
 
-Haku: 2026-11-15T22:29+02:00
+Haku: 2026-11-16T16:24+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
+Sinulle on 5 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 0
-Tällä ajolla luettuja hakutuloksia: 206 | Lähetysrajan täyttäviä työpaikkoja: 90
-Vahvat: 0 | Harkitse: 0
+Uusia sopivia työpaikkoja: 5
+Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 88
+Vahvat: 5 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
-## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
+### 90/100 — STRONG — B2B-myyjä | Pohja + provisio tai 40 % provisio
 
-### 100/100 — STRONG — Tradenomi (ylempi AMK), Insinööri (ylempi AMK), Artenomi (ylempi AMK), Luonnonvara-ala (ylempi AMK), Sosiaali- ja terveysala (ylempi AMK), Yrittäjyyden ja yritystoiminnan kehittäminen, verkko-opinnot
-
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Kehitä ja kasvata yritystoimintaa – kaupallista ideasi ja osaamisesi HAMKin Yrittäjyyden ja yritystoiminnan kehittämisen YAMK-koulutus on suunnattu sinulle, joka haluat kehittää omaa tai organisaatiosi liiketoimintaa ja kasvaa strategiseksi, vastuulliseksi johtajaksi. Opinnoissa yhdistyvät yrittäjämäinen ajattelu, palvelumuotoilu, kaupallistaminen ja liiketoiminnan johtaminen. Opit tunnistamaan uusia liiketoimintamahdollisuuksia, rakentamaan kann
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
+Raiva Talent
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: B2B-myyjä | SaaS | Pohja + provisio tai 40 % provisio Haluatko rakentaa korkean ansiotason omilla myyntituloksillasi? Yksi toteutunut kauppa viikossa voi tarkoittaa noin 6 000–7 000 € kuukausiansiota 40 % provisiomallilla. Etsimme nyt asiakasyrityksellemme tavoitteellista B2B-myyjää Helsinkiin. Jos sinulla on vähintään noin 6 kuukauden kokemus myyntityöstä ja haluat kasvattaa ansaintasi oman tekemisesi kautta, tämä voi olla seuraava askel urallas
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035681>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-pohja-provisio-tai-40-provisio-2799723>)
+
+### 90/100 — STRONG — Myyntipäällikkö
+
+Inhunt Oy
+Helsinki, FI
+Julkaistu: 2026-11-16
+Yhteenveto: Tule rakentamaan turvallisempaa infrastruktuuria ja kasvattamaan Roxtecin liiketoimintaa Suomessa Sytytkö uusien asiakkaiden löytämisestä, teknisten ratkaisujen myymisestä ja mahdollisuudesta vaikuttaa merkittäviin rakennus- ja infrastruktuurihankkeisiin? MYYNTIPÄÄLLIKKÖ – ROXTEC FINLAND OY Haluatko tehdä myyntityötä, jossa et vain tarjoa tuotteita, vaan autat asiakkaitasi ratkaisemaan todellisia teknisiä haasteita? Etsimme asiakkaallemme Roxtec 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2800258>)
+
+### 80/100 — STRONG — Software Tester Trainee (Naval Architecture)
+
+NAPA
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: NAPA Design Solutions ’ Development is looking for a summer colleague for the role of a Software Tester Trainee in the Structure Design team, at our sea view office in Ruoholahti, Helsinki. You can also work partly remotely in accordance with your team. NAPA is a leading provider of comprehensive 3D model-based ship design software. Our solution brings unrivaled value to our clients to ensure safe, efficient, and competitive vessel designs. Our m
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/software-tester-trainee-naval-architecture-2800181>)
+
+### 75/100 — STRONG — Client Manager - teollisuus
+
+Saranen Consulting Oy
+Helsinki, Uusimaa, FI, Espoo, Vantaa, Turku, Tampere, Lappeenranta
+Julkaistu: 2026-11-16
+Yhteenveto: Mahtavaa, että olet kiinnostunut työskentelemään Sarasella! Tällä hakulomakkeella pääset hakemaan teollisuuden kokemusta omaavan Client Managerin rooliin. Kerrothan avoimessa kentässä lyhyesti teollisuuden toimialakokemuksestasi ja verkostoistasi sekä miltä paikkakunnalta ensisijaisesti haet töitä. Client Manager - teollisuus Haku on auki 7.12.2026 asti Työ pähkinänkuoressa Tunnetko teollisuuden yritykset ja niiden osaamistarpeet? Haemme Client M
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/client-manager-teollisuus-2800072>)
+
+### 65/100 — STRONG — DigiHelsinki / ICT-harjoittelija
+
+DigiHelsinki Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: DigiHelsinki hakee kolmea kokoaikaista ICT-harjoittelijaa viiden kuukauden palkalliseen harjoitteluun, joka alkaa 11.1.2027, ja kuukausipalkka on 2 000 euroa. Harjoittelija osallistuu käyttäjä- ja lähitukeen, Microsoft 365 -käyttäjätukeen, laitteiden käyttöönottoon, tekniseen ongelmanratkaisuun sekä ICT-infrastruktuurin ja kyberturvallisuuden avustaviin tehtäviin. Sopiva hakija opiskelee ICT-alaa korkeakoulussa
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/digihelsinki-ict-harjoittelija-2799522>)
 
 
 Lähteiden ongelmat:
@@ -51,7 +115,7 @@ Lähteiden ongelmat:
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Azure mainittiin 7 tämän haun relevantissa ilmoituksessa.
+- Azure mainittiin 8 tämän haun relevantissa ilmoituksessa.
 - Python mainittiin 6 tämän haun relevantissa ilmoituksessa.
 - SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
 
@@ -303,7 +367,7 @@ Muistiinpanot:
 
 Berner Oy
 Porvoo, FI, Hämeenlinna, Turku, Kokemäki, Pori, Seinäjoki
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Berner hakee kolmea 10 kuukauden kokoaikaista Sales Traineeta Viljelijän Bernerin myyntiorganisaatioon osaksi Basecamp 2027 -ohjelmaa ja tehtävät alkavat 1.2.2027. Tehtäviin kuuluu alueellinen myynti- ja asiakastyö, viljakaupan perehtyminen, koetoiminnan suunnittelu ja koordinointi sekä viestintä ja tapahtumat. Hakijalta edellytetään soveltuvia korkeakouluopintoja tai vastavalmistuneisuutta, vahvaa maatalousosa
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -1780,7 +1844,7 @@ Muistiinpanot:
 
 Clevry
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tulisiko sinusta Clevryn seuraava Account Manager? Jos viihdyt monipuolisessa roolissa, jossa yhdistyvät uusasiakashankinta, asiakkuuksien hoito, neuvonta ja pitkäjänteinen asiakassuhteiden rakentaminen - jatka lukemista. Me Clevryllä etsimme joukkoomme kunnianhimoista Account Manageria toimistollemme Helsinkiin. Tehtävä on toistaiseksi voimassa oleva, ja työskentely tapahtuu pääasiallisesti Kampin toimistollamme. Tulet osaksi kansainvälistä tiim
 Hakuaika päättyy: 2026-12-22
 Lähteet: Jobly
@@ -2110,7 +2174,7 @@ Muistiinpanot:
 
 MariElectronics Oy
 Tuusula, FI
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tekninen myyjä MariElectronics Oy:lle vastaten uusien asiakkaiden hankinnasta, nykyisten asiakassuhteiden kehittämisestä ja teknisten turvallisuus- ja sensoriratkaisujen myynnistä. Tehtävä vaatii alempaa korkeakoulututkintoa, vähintään 6 kuukauden kokemusta, sujuvan suomen ja englannin kielen taidon sekä B-ajokortin. Työsuhde on kokoaikainen ja vakituinen, palkkakausi on kuukausittain, ja työssä edellytetään ak
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -2312,6 +2376,48 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2799153>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Myyntipäällikkö
+
+Inhunt Oy
+Helsinki, FI
+Julkaistu: 2026-11-16
+Yhteenveto: Tule rakentamaan turvallisempaa infrastruktuuria ja kasvattamaan Roxtecin liiketoimintaa Suomessa Sytytkö uusien asiakkaiden löytämisestä, teknisten ratkaisujen myymisestä ja mahdollisuudesta vaikuttaa merkittäviin rakennus- ja infrastruktuurihankkeisiin? MYYNTIPÄÄLLIKKÖ – ROXTEC FINLAND OY Haluatko tehdä myyntityötä, jossa et vain tarjoa tuotteita, vaan autat asiakkaitasi ratkaisemaan todellisia teknisiä haasteita? Etsimme asiakkaallemme Roxtec 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2800258>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — B2B-myyjä | Pohja + provisio tai 40 % provisio
+
+Raiva Talent
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: B2B-myyjä | SaaS | Pohja + provisio tai 40 % provisio Haluatko rakentaa korkean ansiotason omilla myyntituloksillasi? Yksi toteutunut kauppa viikossa voi tarkoittaa noin 6 000–7 000 € kuukausiansiota 40 % provisiomallilla. Etsimme nyt asiakasyrityksellemme tavoitteellista B2B-myyjää Helsinkiin. Jos sinulla on vähintään noin 6 kuukauden kokemus myyntityöstä ja haluat kasvattaa ansaintasi oman tekemisesi kautta, tämä voi olla seuraava askel urallas
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-pohja-provisio-tai-40-provisio-2799723>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -2717,6 +2823,27 @@ Miksi / huomioitavaa:
 - +10 etätyö Suomesta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/supply-chain-sales-support-trainee-teollisuuden-berner-2796522>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Software Tester Trainee (Naval Architecture)
+
+NAPA
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: NAPA Design Solutions ’ Development is looking for a summer colleague for the role of a Software Tester Trainee in the Structure Design team, at our sea view office in Ruoholahti, Helsinki. You can also work partly remotely in accordance with your team. NAPA is a leading provider of comprehensive 3D model-based ship design software. Our solution brings unrivaled value to our clients to ensure safe, efficient, and competitive vessel designs. Our m
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/software-tester-trainee-naval-architecture-2800181>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -4850,10 +4977,10 @@ Muistiinpanot:
 
 Suoramarkkinointi Mega Oy
 Kerava, Uusimaa, FI
-Julkaistu: 2026-10-22
-Yhteenveto: Haemme Keravan alueelle ständimyyjiä. Tehtäväsi on edustaa laadukkaita, useimmiten asiakkaille tuttuja brändejä ja markkinoida niiden tuotteita tapahtumissa ja kauppakeskuksissa. Edellytämme sinulta positiivista asennetta, kykyä tulla toimeen erilaisten ihmisten kanssa, myyntihenkisyyttä ja sujuvaa suomen kieleltä sekä vähintään 18 vuoden ikää. Aikaisempi kokemus myynnistä ja asiakaspalvelusta on eduksi, mutta ei välttämätöntä – koulutamme sinut 
-Hakuaika päättyy: 2026-11-16
-Lähteet: Laura
+Julkaistu: 2026-10-19
+Yhteenveto: Haemme Keravan alueelle ständimyyjiä. Tehtäväsi on edustaa laadukkaita, useimmiten asiakkaille tuttuja brändejä ja markkinoida niiden tuotteita tapahtumissa ja kauppakeskuksissa. Edellytämme sinulta positiivista asennetta, kykyä tulla toimeen erilaisten ihmisten kanssa, myyntihenkisyyttä ja sujuvaa suomen kieltä sekä vähintään 18 vuoden ikää. Aikaisempi kokemus myynnistä ja asiakaspalvelusta on eduksi, mutta ei välttämätöntä – koulutamme sinut ty
+Hakuaika päättyy: 2026-12-18
+Lähteet: Laura | Jobly
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: MYYNTI
@@ -4861,7 +4988,7 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://laura.fi/avoimet-tyopaikat/suoramarkkinointi-mega-oy/standimyyja-keravalle/3908574>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/standimyyja-keravalle-2781755>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -4987,7 +5114,7 @@ Muistiinpanot:
 
 Greenstep Oy
 Espoo, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Johdat Bezalan käyttöönottoprojekteja alusta loppuun ja toimit asiakkaan luotettavana kumppanina yhteistyössä myynnin, tuotekehityksen ja asiakastuen kanssa. Tehtävä edellyttää vahvoja projektijohtamisen, priorisoinnin ja asiakasviestinnän taitoja sekä ymmärrystä järjestelmäintegraatioista. Palkka on noin 3500 €/kk ja työ on hybridi Espoon Keilaniemessä, jolloin perehdytysvaiheessa odotetaan lähes täyttä toimis
 Hakuaika päättyy: 2026-12-25
 Lähteet: Jobly
@@ -5046,9 +5173,9 @@ Muistiinpanot:
 
 Eezy Henkilöstöpalvelut
 Hyvinkää, FI, Espoo
-Julkaistu: 2026-11-11
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tehtävänä on kasvattaa Kallioinen Rentin konevuokrauksen B2B-liiketoimintaa yhdistämällä perinteinen myynti, ratkaisumyynti ja digitaalinen markkinointi. Työhön kuuluu uusasiakashankinta ja asiakkuuksien kehittäminen infra-, rakennus-, teollisuus- ja datakeskushankkeissa sekä tarjousten ja palvelukokonaisuuksien laatiminen. Etsimme kaupallista ja oma-aloitteista tekijää, jolla on kokemusta B2B-myynnistä kone-, 
-Hakuaika päättyy: 2026-11-16
+Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -5255,7 +5382,7 @@ Muistiinpanot:
 
 Rainmaker 
 Hyvinkää, FI, Kerava, Vantaa, Riihimäki, Porvoo, Nurmijärvi, Espoo, Helsinki, Uusimaa
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme energistä myyjää AT Aurinkopaneelit Oy:lle Uudenmaan alueelle, joka hoitaa koko myyntiprosessin ja myy aurinkosähköjärjestelmiä kotitalouksille. Tehtävä on kokoaikainen ja liikkuva Uudellamaalla, ja se edellyttää täysi-ikäisyyttä, sujuvaa suomen kieltä sekä voimassa olevaa ajokorttia, sillä saat käyttöösi työauton. Palkka on vähintään 1000 euroa ensimmäiseltä kuukaudelta pohjapalkkana, minkä jälkeen työ 
 Hakuaika päättyy: 2027-01-01
 Lähteet: Jobly
@@ -5707,7 +5834,7 @@ Muistiinpanot:
 
 Sector Alarm
 Helsinki, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
 Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly
@@ -6063,6 +6190,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiedustaja-viemariremontit-pohja-1-500-eu-kk-provisiot-2799265>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Client Manager - teollisuus
+
+Saranen Consulting Oy
+Helsinki, Uusimaa, FI, Espoo, Vantaa, Turku, Tampere, Lappeenranta
+Julkaistu: 2026-11-16
+Yhteenveto: Mahtavaa, että olet kiinnostunut työskentelemään Sarasella! Tällä hakulomakkeella pääset hakemaan teollisuuden kokemusta omaavan Client Managerin rooliin. Kerrothan avoimessa kentässä lyhyesti teollisuuden toimialakokemuksestasi ja verkostoistasi sekä miltä paikkakunnalta ensisijaisesti haet töitä. Client Manager - teollisuus Haku on auki 7.12.2026 asti Työ pähkinänkuoressa Tunnetko teollisuuden yritykset ja niiden osaamistarpeet? Haemme Client M
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/client-manager-teollisuus-2800072>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6881,6 +7027,26 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/junior-platform-specialist-skaidi-consulting-helsinki/VO1Z41>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 65/100 — STRONG — DigiHelsinki / ICT-harjoittelija
+
+DigiHelsinki Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: DigiHelsinki hakee kolmea kokoaikaista ICT-harjoittelijaa viiden kuukauden palkalliseen harjoitteluun, joka alkaa 11.1.2027, ja kuukausipalkka on 2 000 euroa. Harjoittelija osallistuu käyttäjä- ja lähitukeen, Microsoft 365 -käyttäjätukeen, laitteiden käyttöönottoon, tekniseen ongelmanratkaisuun sekä ICT-infrastruktuurin ja kyberturvallisuuden avustaviin tehtäviin. Sopiva hakija opiskelee ICT-alaa korkeakoulussa
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/digihelsinki-ict-harjoittelija-2799522>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -9332,6 +9498,25 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 50/100 — REVIEW — Erityisasiantuntija (turvallisuusarkkitehti), vt.14
+
+Verohallinto
+Helsinki, Uusimaa, FI, Joensuu, Jyväskylä, Kuopio, Lappeenranta, Oulu, Rovaniemi, Seinäjoki, Tampere, Turku, Vaasa, Etelä-Karjala, Etelä-Pohjanmaa, Keski-Suomi, Lappi, Pirkanmaa, Pohjanmaa, Pohjois-Karjala, Pohjois-Pohjanmaa, Pohjois-Savo, Varsinais-Suomi
+Julkaistu: 2026-11-16
+Yhteenveto: Työtehtävän kuvaus Haemme joukkoomme digitaalisen turvallisuuden arkkitehtuuriosaajaa, jolla on vahvan tietoturvaosaamisen lisäksi osaaminen turvallisuusarkkitehtuurin toteuttamisesta erilaisten suorituskykyjä yhdistelmällä. Sinulla on kyky ja halu ymmärtää liiketoiminnan tarpeita ja sen digitalisaatiokehitystä sekä yhteensovittaa sitä turvallisiin teknologiaratkaisuihin ja fyysiseen maailmaan. Osaat yhdistää strategiset valinnat, kehittämistyön 
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/erityisasiantuntija-turvallisuusarkkitehti-vt14-2800095>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 48/100 —  — Software Engineer, Aiven Context
 
 Organisaatio tuntematon
@@ -11453,7 +11638,7 @@ Muistiinpanot:
 
 Sector Alarm
 Helsinki, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Haluaisitko työskennellä yrityksessä, jossa parhaimmat myyjät lennätetään kaksi kertaa vuodessa ulkomaanmatkalle? Sytytkö ihmisten kohtaamisesta ja itsesi haastamisesta? Haluatko vaikuttaa suoraan omaan palkkaasi? Mahtavaa, tervetuloa myyjäksi meidän jengiin! Tarjolla osa-aikaista myyntityötä Etsimme nyt myyjiä vakituiseen työsuhteeseen. Työ on liikkuvaa myyntityötä, ja pääset samalla nautiskelemaan raittiista ulkoilmasta. Työ sopii mainiosti myö
 Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly
@@ -12189,7 +12374,7 @@ Muistiinpanot:
 
 Sector Alarm
 Helsinki, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Haluaisitko saada työkokemusta, josta on aidosti hyötyä tulevaisuuden urallasi? Entä kuulostaako työ, jossa kohtaat uusia ihmisiä, kehität taitojasi ja pääset vaikuttamaan omiin ansioihisi juuri siltä mitä etsit? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! 😎 Merkityksellistä myyntityötä tarjolla ⭐ Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen kokoaikaiseen työsuhteeseen osaksi kannustavaa t
 Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly

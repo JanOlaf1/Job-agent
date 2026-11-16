@@ -13922,9 +13922,9 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
