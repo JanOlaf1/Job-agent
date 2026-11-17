@@ -1,110 +1,327 @@
 # JOB AGENT
 
-Haku: 2026-11-16T16:24+02:00
+Haku: 2026-11-17T02:06+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 5 uutta sopivaa työpaikkaa.
+Sinulle on 6 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 5
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 88
-Vahvat: 5 | Harkitse: 0
+Uusia sopivia työpaikkoja: 6
+Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 90
+Vahvat: 5 | Harkitse: 1
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — B2B-myyjä | Pohja + provisio tai 40 % provisio
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
 
-Raiva Talent
-Helsinki, Uusimaa, FI
+Löydämme Oy
+Helsinki, FI, Tampere, Turku, Jyväskylä
 Julkaistu: 2026-11-16
-Yhteenveto: B2B-myyjä | SaaS | Pohja + provisio tai 40 % provisio Haluatko rakentaa korkean ansiotason omilla myyntituloksillasi? Yksi toteutunut kauppa viikossa voi tarkoittaa noin 6 000–7 000 € kuukausiansiota 40 % provisiomallilla. Etsimme nyt asiakasyrityksellemme tavoitteellista B2B-myyjää Helsinkiin. Jos sinulla on vähintään noin 6 kuukauden kokemus myyntityöstä ja haluat kasvattaa ansaintasi oman tekemisesi kautta, tämä voi olla seuraava askel urallas
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
 Hakuaika päättyy: 2026-11-30
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-pohja-provisio-tai-40-provisio-2799723>)
-
-### 90/100 — STRONG — Myyntipäällikkö
-
-Inhunt Oy
-Helsinki, FI
-Julkaistu: 2026-11-16
-Yhteenveto: Tule rakentamaan turvallisempaa infrastruktuuria ja kasvattamaan Roxtecin liiketoimintaa Suomessa Sytytkö uusien asiakkaiden löytämisestä, teknisten ratkaisujen myymisestä ja mahdollisuudesta vaikuttaa merkittäviin rakennus- ja infrastruktuurihankkeisiin? MYYNTIPÄÄLLIKKÖ – ROXTEC FINLAND OY Haluatko tehdä myyntityötä, jossa et vain tarjoa tuotteita, vaan autat asiakkaitasi ratkaisemaan todellisia teknisiä haasteita? Etsimme asiakkaallemme Roxtec 
-Hakuaika päättyy: 2026-11-30
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntipaallikko-2800258>)
-
-### 80/100 — STRONG — Software Tester Trainee (Naval Architecture)
-
-NAPA
-Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-16
-Yhteenveto: NAPA Design Solutions ’ Development is looking for a summer colleague for the role of a Software Tester Trainee in the Structure Design team, at our sea view office in Ruoholahti, Helsinki. You can also work partly remotely in accordance with your team. NAPA is a leading provider of comprehensive 3D model-based ship design software. Our solution brings unrivaled value to our clients to ensure safe, efficient, and competitive vessel designs. Our m
-Hakuaika päättyy: 2027-01-15
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 teknologian ja asiakastyön yhdistelmä
-- +5 junior-/aloitustaso
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/software-tester-trainee-naval-architecture-2800181>)
-
-### 75/100 — STRONG — Client Manager - teollisuus
-
-Saranen Consulting Oy
-Helsinki, Uusimaa, FI, Espoo, Vantaa, Turku, Tampere, Lappeenranta
-Julkaistu: 2026-11-16
-Yhteenveto: Mahtavaa, että olet kiinnostunut työskentelemään Sarasella! Tällä hakulomakkeella pääset hakemaan teollisuuden kokemusta omaavan Client Managerin rooliin. Kerrothan avoimessa kentässä lyhyesti teollisuuden toimialakokemuksestasi ja verkostoistasi sekä miltä paikkakunnalta ensisijaisesti haet töitä. Client Manager - teollisuus Haku on auki 7.12.2026 asti Työ pähkinänkuoressa Tunnetko teollisuuden yritykset ja niiden osaamistarpeet? Haemme Client M
-Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
 - +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/client-manager-teollisuus-2800072>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800361>)
 
-### 65/100 — STRONG — DigiHelsinki / ICT-harjoittelija
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
 
-DigiHelsinki Oy
-Helsinki, Uusimaa, FI
+Löydämme Oy
+Turku, FI, Jyväskylä, Helsinki, Tampere
 Julkaistu: 2026-11-16
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: DigiHelsinki hakee kolmea kokoaikaista ICT-harjoittelijaa viiden kuukauden palkalliseen harjoitteluun, joka alkaa 11.1.2027, ja kuukausipalkka on 2 000 euroa. Harjoittelija osallistuu käyttäjä- ja lähitukeen, Microsoft 365 -käyttäjätukeen, laitteiden käyttöönottoon, tekniseen ongelmanratkaisuun sekä ICT-infrastruktuurin ja kyberturvallisuuden avustaviin tehtäviin. Sopiva hakija opiskelee ICT-alaa korkeakoulussa
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800363>)
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Jyväskylä, FI, Helsinki, Tampere, Turku
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800364>)
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Tampere, FI, Turku, Jyväskylä, Helsinki
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800362>)
+
+### 80/100 — STRONG — Forward Deployment Engineer / Oulu
+
+Academic Work
+Helsinki, Uusimaa, FI, Oulu
+Julkaistu: 2026-11-16
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Forward Deployment Engineer role in Oulu embeds in client development programs to troubleshoot deep 4G/5G protocol issues and integrate custom software into live production systems. The engineer will lead large-scale deployment initiatives, take end-to-end ownership of complex defects, design automation and diagnostics, and deliver controlled patches and releases alongside client teams. The position require
 Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +5 teknologia: IT-palvelujen ymmärrys
-- +5 junior-/aloitustaso
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/digihelsinki-ict-harjoittelija-2799522>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/forward-deployment-engineer-oulu-2800371>)
+
+### 60/100 — REVIEW — Senior Marketing Analytics Manager (FIN/SWE/NOR)
+
+M-Files Oy
+Helsinki, Uusimaa, FI, Tampere, Stockholm, Tukholma, SE, Oslo, NO
+Julkaistu: 2026-11-17
+Yhteenveto: APPLICATION DEADLINE: This opportunity will be taken offline based on applicant volume. We encourage you to apply today if interested. Who we are: M-Files is redefining how work gets done. Our context-first document management system offers purpose-built business use cases—spanning universal and industry-specific workflows—to enable secure collaboration, automate processes, and ensure governance. Unlike traditional systems, M-Files organizes cont
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+- ? ilmoituksessa mainitaan Power BI, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/senior-marketing-analytics-manager-fin-swe-nor-2796885>)
+
+## KOULUTUKSET — 8 UUTTA / MUUTTUNUTTA
+
+### 100/100 — STRONG — Tradenomi (ylempi AMK), Tietojenkäsittely, Tietotyön johtaminen, verkkokoulutus, KAMK
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Tietojenkäsittely, tietotyön johtaminen on työelämän kehittämistutkinto, jonka voit suorittaa työn ohessa. Koulutus sisältää osaamista laajentavia ja syventäviä opintoja johtamisesta ja kehittämisestä erityisesti tietotyön parissa. Opinnoissa korostuvat johtamis- ja kehittämisosaaminen sekä kansallisessa että kansainvälisessä toimintaympäristössä. Mukana on opintoja tietotyön johtamisesta, projekti-, henkilöstö- ja strategisesta johtamisesta, sek
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003196>)
+
+### 100/100 — STRONG — Master of Engineering, Information Technology, Cloud-Based Software Engineering, VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Master’s programme in Cloud-Based Software Engineering gives you insight and knowledge about how to develop, deploy and maintain cloud applications. You will learn to design and architect cloud-based applications. The Master's studies are linked close to your own work tasks, so with the learning tasks and the thesis development project you can evolve  your own employer organization or project. Cloud Professional has a Desired Skill Set After comp
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change. Information on  the Finnish Residence permit for studies at migri.fi/en/studying-in-finland
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-11-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003753>)
+
+### 100/100 — STRONG — Master of Business Administration, Game Business Management (online studies), Kajaani University of Applied Sciences, KAMK
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: The Master´s Degree in Game Business Management is aimed at persons working or seeking employment in growth and internationalization-oriented game development organizations, and staff of organizations that already engage in international operations. The degree’s learning objectives and contents focus on management and leadership, research and development methods, global economic issues, international game business and game development project man
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The tuition fees are 12 000 euros per academic year. The tuition fee for non-EU/EEA citizens at KAMK is 12 000 euros per academic year. For the first year, an early bird scholarship is available for those who accepting their study place within 14 days from the notice of admissions. The Early Bird di
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009867>)
+
+### 100/100 — STRONG — Insinööri (ylempi AMK), Data-analytiikka ja johtaminen, verkko-opinnot
+
+Kajaanin ammattikorkeakoulu
+Kajaani
+Yhteenveto: Data-analytiikan ja johtamisen ylempään ammattikorkeakoulututkintoon tähtäävä koulutus on tarkoitettu insinööritutkinnon omaaville henkilöille, joilla on tavoitteena syventää osaamistaan data-analytiikassa ja kehittää osaamistaan data-analytiikkaa hyödyntävässä johtamisessa . Koulutus tarjoaa mahdollisuuden kehittyä alan erikoisosaajana tai vaihtoehtoisesti suuntautua alan johto- ja kehittämistehtäviin. Koulutus tarjoaa mahdollisuuden lisäosaamis
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-12-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028425>)
+
+### 100/100 — STRONG — Master of Engineering, Information Technology, Medical Technology, Blended Studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki
+Yhteenveto: Lead the future of healthcare through medical technology innovation. Medical technology is a rapidly evolving, interdisciplinary field of technology that plays a crucial role in shaping the future of healthcare. In Finland, across Europe and around the world, digital health solutions, smart medical devices, and advanced healthcare systems are transforming how we diagnose, treat, and care for people. This programme is your opportunity to be part o
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11,500. Read more about tuition fees and scholarships on our website.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000033202>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan teknologiat
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Oletko kiinnostunut työskentelemään digitaalisten teknologioiden ja liiketoiminnan rajapinnassa? Liiketoiminnan teknologiat -koulutus antaa sinulle erinomaiset valmiudet ja työvälineet toimia vaativissa asiantuntija- ja johtotehtävissä teknologioiden ja liiketoiminnan rajapinnassa. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Kehität myös asiantuntemusta digitaalisen muutoksen johtamisessa sekä syvennät va
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008588>)
+
+### 85/100 — STRONG — Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus), Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Erasmus Mundus -ohjelmaan kuuluvassa Master's Programme in Cybersecurity and Assurance -yhteisohjelmassa keskitytään tietoturvaan ja tietojen turvaamiseen. Tietoturva käsittää laskennan, viestinnän ja tietojen suojaamisen luvattomalta käytöltä. Tietojen turvaaminen kattaa järjestelmälliset päättely- ja todistusmenetelmät sekä turvallisuusstrategiat ja -toiminnan. CYBERSURE-opintojen aikana saat sekä käytännön teknistä tietoa että teoreettista tie
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; CYBERSURE-maisteriohjelmalla on yhteinen osallistumismaksu ja Euroopan komission Erasmus Mundus -ohjelman rahoittama kattava stipendijärjestelmä.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: OPEN
+Hakuaika päättyy: 2027-01-05T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035958>)
+
+### 75/100 — STRONG — Communications and Data Science (Erasmus Mundus), Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Communications and Data Science -maisteriohjelman opiskelijat oppivat monipuolisia ohjelmointitaitoja, erinomaiset matemaattiset taidot, tavoitteellista ongelmanratkaisua sekä tehokasta projektisuunnittelua ja -johtamista. Opiskelija syventää osaamistaan tietoverkkojen ja kyberturvallisuuden aloilla ja saa työkokemusta räätälöidyistä alan hankkeista ja yrittäjyyskoulutuksesta. Ohjelma antaa opiskelijoille taidot ratkaista alan ongelmia hyödyntämä
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 8000.0 (lähteen summa; tarkista ehdot) ; CoDaS-maisteriohjelmalla on yhteinen osallistumismaksu ja Euroopan komission Erasmus Mundus -ohjelman rahoittama kattava stipendijärjestelmä.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-05T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008171>)
 
 
 Lähteiden ongelmat:
@@ -116,8 +333,8 @@ Lähteiden ongelmat:
 
 Työmarkkinan havainnot:
 - Azure mainittiin 8 tämän haun relevantissa ilmoituksessa.
-- Python mainittiin 6 tämän haun relevantissa ilmoituksessa.
-- SQL mainittiin 4 tämän haun relevantissa ilmoituksessa.
+- Python mainittiin 7 tämän haun relevantissa ilmoituksessa.
+- SQL mainittiin 5 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
 
@@ -2844,6 +3061,106 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/software-tester-trainee-naval-architecture-2800181>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Forward Deployment Engineer / Oulu
+
+Academic Work
+Helsinki, Uusimaa, FI, Oulu
+Julkaistu: 2026-11-16
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Forward Deployment Engineer role in Oulu embeds in client development programs to troubleshoot deep 4G/5G protocol issues and integrate custom software into live production systems. The engineer will lead large-scale deployment initiatives, take end-to-end ownership of complex defects, design automation and diagnostics, and deliver controlled patches and releases alongside client teams. The position require
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +10 teknologia: python
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/forward-deployment-engineer-oulu-2800371>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Jyväskylä, FI, Helsinki, Tampere, Turku
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800364>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Turku, FI, Jyväskylä, Helsinki, Tampere
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800363>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Tampere, FI, Turku, Jyväskylä, Helsinki
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800362>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Your first job in Finland while studying – no experience needed!
+
+Löydämme Oy
+Helsinki, FI, Tampere, Turku, Jyväskylä
+Julkaistu: 2026-11-16
+Yhteenveto: Want a part-time job that makes the world a better place—and pays fairly for your efforts? Join our amazing team of door-to-door fundraisers! Enjoy a flexible schedule, a competetive salary, and a meaningful mission. As a fundraiser, your goal is to acquire new donors for our non-profit clients. The donors you bring in help to change lives — from protecting children’s wellbeing to advancing women’s rights. You go from door to door with your team 
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/your-first-job-finland-while-studying-no-experience-needed-2800361>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6492,7 +6809,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Sales Executive vastaa uusasiakashankinnasta Suomessa ja myy Hypergenen ratkaisuja Helsingin toimistolta käsin keskittyen mid-market- ja enterprise-asiakkaisiin. Tehtävään kuuluu koko myyntisykli prospektoinnista ja tarvekartoituksesta neuvotteluihin ja kauppojen päättämiseen sekä myynnin ennustaminen ja aktiivinen CRM-työ. Etsimme henkilöä, jolla on vahvat näytöt monimutkaisesta B2B-myynnistä ja pitkästä myynt
 Hakuaika päättyy: 2026-12-18
 Lähteet: Jobly
@@ -6580,7 +6897,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on SAP-ympäristöjen, palvelinalustojen ja integraatioiden ylläpito sekä järjestelmien toimintavarmuuden varmistaminen. Työhön kuuluu asiakkaiden IT-ympäristöjen tukeminen, pilvipalvelut (AWS, Azure), tietokannat, kontit, skriptit sekä identiteetin- ja sertifikaattien hallinta. Hakijalta odotetaan Linux-osaamista, tuntemusta skriptikielistä (esim. Python) ja versionhallinnasta (esim. Git), sekä ymmä
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -6623,7 +6940,7 @@ Muistiinpanot:
 
 CSC - Tieteen tietotekniikan keskus Oy
 Espoo, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The HPC Application Specialist role at CSC’s Digital Twin Technologies Group in Espoo is a fixed-term position until December 2029 focused on enabling Europe’s flagship weather and climate applications to run efficiently on EuroHPC systems such as LUMI. You will develop portable software build recipes and deployment solutions for multiple EuroHPC architectures, implement workflow solutions for federated HPC exe
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -7373,6 +7690,29 @@ Miksi / huomioitavaa:
 - -30 senioriteetti ylittää nykyisen taustan
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/head-sales-sweden-orien-trade-ou-2797178>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 60/100 — REVIEW — Senior Marketing Analytics Manager (FIN/SWE/NOR)
+
+M-Files Oy
+Helsinki, Uusimaa, FI, Tampere, Stockholm, Tukholma, SE, Oslo, NO
+Julkaistu: 2026-11-17
+Yhteenveto: APPLICATION DEADLINE: This opportunity will be taken offline based on applicant volume. We encourage you to apply today if interested. Who we are: M-Files is redefining how work gets done. Our context-first document management system offers purpose-built business use cases—spanning universal and industry-specific workflows—to enable secure collaboration, automate processes, and ensure governance. Unlike traditional systems, M-Files organizes cont
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+- ? ilmoituksessa mainitaan Power BI, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/senior-marketing-analytics-manager-fin-swe-nor-2796885>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -9385,7 +9725,7 @@ Muistiinpanot:
 
 Nice-business Consulting Oy (Nico)
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Nico hakee kokenutta Microsoft 365- ja Entra ID -asiantuntijaa asiakastoimeksiantoon, jossa vastaat tietoturva- ja identiteetinhallinnan muutoksista asiakkaiden ympäristöissä. Tehtävään kuuluu Microsoftin MFA- ja authentication-käytäntöjen vaikutusten arviointi sekä Conditional Access-, MFA-, SSPR- ja Authentication Methods -konfiguraatioiden suunnittelu, testaus ja käyttöönotto tenant‑tasolla. Tehtävässä vaadi
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -9427,7 +9767,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Pohjanmaa, Ballerup, DK, Helsinki, Uusimaa, Ludvika, Dalarnas län, SE, Middelfart, Tampere, Pirkanmaa, Västeråsin kunta, Västmanlandin lääni
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive BIM and digital construction workflows on AIS and GIS substation projects across Finland, Sweden and Denmark. The role requires configuring and maintaining Autodesk Forma and Autodesk Construction Cloud and managing digital workflows such as RFIs, NCRs, inspections, punch lists and handover. You will train and support site teams and subcontractors, provide first-line support for Forma, ACC and ap
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -9514,6 +9854,42 @@ Miksi / huomioitavaa:
 - +10 etätyö Suomesta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/erityisasiantuntija-turvallisuusarkkitehti-vt14-2800095>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Järjestelmäasiantuntija - Citrix, VDI, sovellusvirtualisointi
+
+2M-IT Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-17
+Yhteenveto: Haemme Konesalipalvelut -yksikköön, VDI (Citrix) järjestelmäasiantuntijaa. Vastuualueisiimme kuuluu mm. virtualisointiympäristöjen, tietokantojen ja virtuaalityöpöytäratkaisujen ylläpito ja kehitys, sekä niiden päälle rakennettujen moninaisten palveluiden tuottaminen asiakkaillemme kriittisissä terveydenhuollon ympäristöissä. Ympäristömme ovat laajoja ja yhteiskunnallisesti merkittäviä. VDI-asiantuntijan tehtävässä menestyäksesi sinulla tulee oll
+Hakuaika päättyy: 2027-01-16
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/jarjestelmaasiantuntija-citrix-vdi-sovellusvirtualisointi-2800536>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Production Test Engineer, Hyvinkää
+
+Organisaatio tuntematon
+Hyvinkää
+Yhteenveto: About the role As a Production test Engineer, you will work primarily onsite in Hyvinkää, focusing on production testing and test system support. You will provide technical support for test stations, perform troubleshooting, and participate in modifications, updates, and development activities. You will collaborate closely with a team of engineers and gain valuable experience in a global environment. You are offered Be part of a collaborative tea
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/production-test-engineer-hyvinkaa/C9ZGK5>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -10086,6 +10462,25 @@ Miksi / huomioitavaa:
 - -30 senioriteetti ylittää nykyisen taustan
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/head-sales-finland-2797735>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 45/100 — REVIEW — Analyytikko (määräaikainen), Yle Asiakasanalyysi
+
+Yle
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-16
+Yhteenveto: Etsimme analyytikkoa, joka haluaa auttaa yleläisiä hyödyntämään dataa ja tekoälyä arjen työssään. Pääset tukemaan toimituksia ja kehitystiimejä datan hyödyntämisessä ja AI-analytiikkatyökalujen käytössä sekä osallistumaan työkalujen kehittämiseen. Yleläinen AI-analytiikka on edistyksellistä kansainväliselläkin tasolla. Jos ymmärrät, miten data ja tekoäly voivat tukea päätöksentekoa, haluat auttaa muita ja haluat oppia analytiikan tämän hetken kär
+Hakuaika päättyy: 2027-01-15
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 etätyö Suomesta
+- ? ilmoituksessa mainitaan Power BI, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/analyytikko-maaraaikainen-yle-asiakasanalyysi-2800337>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -11617,7 +12012,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-09
+Julkaistu: 2026-11-16
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Rooli on yrityksen ensimmäisenä Fullstack-kehittäjänä ja vastaat prototyypin viemisestä tuotantoon sekä teknisestä kehityksestä skaalautuvaksi SaaS‑tuotteeksi. Tehtävä edellyttää hands-on fullstack-osaamista, API‑integraatioiden ja tietoturvan ymmärrystä sekä Azure‑kokemusta ja sujuvaa suomen kieltä. Tarjoamme vapaat teknologiavalinnat, modernit työkalut, kasvun ja vastuunkantamisen mahdollisuudet sekä joustava
 Hakuaika päättyy: 2027-01-02
 Lähteet: Jobly

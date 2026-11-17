@@ -14,7 +14,7 @@ Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -26,81 +26,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003196>)
-
-### 100/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan teknologiat
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Oletko kiinnostunut työskentelemään digitaalisten teknologioiden ja liiketoiminnan rajapinnassa? Liiketoiminnan teknologiat -koulutus antaa sinulle erinomaiset valmiudet ja työvälineet toimia vaativissa asiantuntija- ja johtotehtävissä teknologioiden ja liiketoiminnan rajapinnassa. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Kehität myös asiantuntemusta digitaalisen muutoksen johtamisessa sekä syvennät va
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Lisensiaatin tutkinto, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
-Haku: OPEN
-Hakuaika päättyy: 2026-11-11T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008588>)
-
-### 100/100 — STRONG — Master's Degree, Modern Software and Computing Solutions, erillishaut
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lisätietoa lukuvuosimaksuista ja apurahoista täältä.
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2026-11-16T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009023>)
-
-### 100/100 — STRONG — Erillishaku syksy 2026: Master of Engineering, Full Stack Software Development
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Full Stack -ohjelmistotuotannon englanninkielisessä YAMK-koulutuksessa opit ymmärtämään ohjelmistotuotannon koko elinkaaren, kehitysvälineet ja menetelmät. Pääpaino on käytännön tekemisessä, johon viimeisintä teknologiaa ja teoriaa sovelletaan. Ohjelmistotuotantoon tarvitaan osaajia, jotka hallitsevat sekä tuotantoprosessin työkaluineen että sovellusarkkitehtuurin eri osat "front-endistä back-endiin". Full Stack Software Development -YAMK-koulutu
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000€/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038308>)
 
 ### 100/100 — STRONG — Software Product Management and Business, Master of Science in Technology
 
@@ -139,7 +64,7 @@ Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Information on
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2027-04-30T15:00
+Hakuaika päättyy: 2026-11-30T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -164,7 +89,7 @@ Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants fro
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -189,7 +114,7 @@ Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; The tuition fe
 Toteutus: ONLINE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -214,7 +139,7 @@ Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -226,56 +151,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028425>)
-
-### 100/100 — STRONG — Erillishaku syksy 2026: Master of Engineering, Artificial Intelligence and Data Analytics
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Kiinnostaako tekoälyn ja data-analytiikan hyödyntäminen ja soveltaminen käytännössä? Master-tason koulutuksessa opit valitsemaan ja soveltamaan käytännössä oikeita menetelmiä oikeassa ympäristössä. Artificial Intelligence and Data-analytics YAMK-koulutuksessa opit ymmärtämään tekoälyn ja data-analytiikan mahdollisuuksia ja soveltamiskohteita. Ymmärrät datan laadun ja datastrategian merkityksen ja osaat huomioida tekoälyn etiikan. Opit suunnittele
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000€/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038305>)
-
-### 100/100 — STRONG — Master's Degree, Data Analytics and Project Management, erillishaut
-
-Oulun ammattikorkeakoulu
-Oulu
-Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lisätietoa lukuvuosimaksuista ja apurahoista täältä.
-Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2026-11-16T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003762>)
 
 ### 100/100 — STRONG — Master of Engineering, Smart Industry, blended studies
 
@@ -896,6 +771,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040042>)
+
+### 90/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan teknologiat
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Oletko kiinnostunut työskentelemään digitaalisten teknologioiden ja liiketoiminnan rajapinnassa? Liiketoiminnan teknologiat -koulutus antaa sinulle erinomaiset valmiudet ja työvälineet toimia vaativissa asiantuntija- ja johtotehtävissä teknologioiden ja liiketoiminnan rajapinnassa. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Kehität myös asiantuntemusta digitaalisen muutoksen johtamisessa sekä syvennät va
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008588>)
 
 ### 90/100 — STRONG — Software Engineering and Information Systems, Master of Science (2 years)
 
@@ -3053,6 +2952,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008167>)
+
+### 85/100 — STRONG — Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus), Master of Science (Technology) (2 yrs)
+
+Aalto-yliopisto
+Espoo
+Yhteenveto: Erasmus Mundus -ohjelmaan kuuluvassa Master's Programme in Cybersecurity and Assurance -yhteisohjelmassa keskitytään tietoturvaan ja tietojen turvaamiseen. Tietoturva käsittää laskennan, viestinnän ja tietojen suojaamisen luvattomalta käytöltä. Tietojen turvaaminen kattaa järjestelmälliset päättely- ja todistusmenetelmät sekä turvallisuusstrategiat ja -toiminnan. CYBERSURE-opintojen aikana saat sekä käytännön teknistä tietoa että teoreettista tie
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 120.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; CYBERSURE-maisteriohjelmalla on yhteinen osallistumismaksu ja Euroopan komission Erasmus Mundus -ohjelman rahoittama kattava stipendijärjestelmä.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
+Haku: OPEN
+Hakuaika päättyy: 2027-01-05T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035958>)
 
 ### 85/100 — STRONG — Cloud and Network Infrastructures and High-Performance Computing - ICT Innovation (28DIGITAL Master School), Master of Science (Technology) (2 yrs)
 
@@ -5978,7 +5901,7 @@ Hinta: lukuvuosimaksu: 8000.0 (lähteen summa; tarkista ehdot) ; CoDaS-maisterio
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
 Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T15:00
+Hakuaika päättyy: 2027-01-05T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -6080,29 +6003,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008123>)
-
-### 75/100 — STRONG — Cybersecurity and Assurance (CYBERSURE, Erasmus Mundus), Master of Science (Technology) (2 yrs)
-
-Aalto-yliopisto
-Espoo
-Yhteenveto: Erasmus Mundus -ohjelmaan kuuluvassa Master's Programme in Cybersecurity and Assurance -yhteisohjelmassa keskitytään tietoturvaan ja tietojen turvaamiseen. Tietoturva käsittää laskennan, viestinnän ja tietojen suojaamisen luvattomalta käytöltä. Tietojen turvaaminen kattaa järjestelmälliset päättely- ja todistusmenetelmät sekä turvallisuusstrategiat ja -toiminnan. CYBERSURE-opintojen aikana saat sekä käytännön teknistä tietoa että teoreettista tie
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 120.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; CYBERSURE-maisteriohjelmalla on yhteinen osallistumismaksu ja Euroopan komission Erasmus Mundus -ohjelman rahoittama kattava stipendijärjestelmä.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor)
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-05T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035958>)
 
 ### 75/100 — STRONG — Master of Business Administration, Data Engineering and AI
 
@@ -7773,6 +7673,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008338>)
 
+### 70/100 — STRONG — Master's Degree, Modern Software and Computing Solutions, erillishaut
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lisätietoa lukuvuosimaksuista ja apurahoista täältä.
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009023>)
+
 ### 70/100 — STRONG — Master of Engineering, Full Stack Software Development, spring 2026 application
 
 Jyväskylän ammattikorkeakoulu
@@ -7796,6 +7721,31 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031278>)
+
+### 70/100 — STRONG — Erillishaku syksy 2026: Master of Engineering, Full Stack Software Development
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Full Stack -ohjelmistotuotannon englanninkielisessä YAMK-koulutuksessa opit ymmärtämään ohjelmistotuotannon koko elinkaaren, kehitysvälineet ja menetelmät. Pääpaino on käytännön tekemisessä, johon viimeisintä teknologiaa ja teoriaa sovelletaan. Ohjelmistotuotantoon tarvitaan osaajia, jotka hallitsevat sekä tuotantoprosessin työkaluineen että sovellusarkkitehtuurin eri osat "front-endistä back-endiin". Full Stack Software Development -YAMK-koulutu
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000€/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038308>)
 
 ### 70/100 — STRONG — Master of Engineering, Cloud-Driven Artificial Intelligence
 
@@ -7967,6 +7917,56 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031276>)
+
+### 70/100 — STRONG — Erillishaku syksy 2026: Master of Engineering, Artificial Intelligence and Data Analytics
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Kiinnostaako tekoälyn ja data-analytiikan hyödyntäminen ja soveltaminen käytännössä? Master-tason koulutuksessa opit valitsemaan ja soveltamaan käytännössä oikeita menetelmiä oikeassa ympäristössä. Artificial Intelligence and Data-analytics YAMK-koulutuksessa opit ymmärtämään tekoälyn ja data-analytiikan mahdollisuuksia ja soveltamiskohteita. Ymmärrät datan laadun ja datastrategian merkityksen ja osaat huomioida tekoälyn etiikan. Opit suunnittele
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000€/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-15T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038305>)
+
+### 70/100 — STRONG — Master's Degree, Data Analytics and Project Management, erillishaut
+
+Oulun ammattikorkeakoulu
+Oulu
+Yhteenveto: Oulun ammattikorkeakouluun voi hakea yhteishaun lisäksi erillishauissa. Seuraavat erillishaut on tarkoitettu hakijoille, joilla on korkeakouluopintoja suoritettuna. Lue alta hakujen tarkemmat kuvaukset. Avoimen väylä: Voit hakea avoimen väylän haussa tutkinto-opiskelijaksi, jos olet suorittanut vaadittavat avoimen ammattikorkeakoulun opinnot. Ammattikorkeakoulututkintoa varten tarvitset soveltuvia avoimen ammattikorkeakoulun opintoja vähintään 30
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Oulun ammattikorkeakoulu perii lukuvuosimaksun englanninkielisiin koulutuksiin hyväksytyiltä opiskelijoilta. Lukuvuosimaksu ei koske EU/ETA -alueen eikä Sveitsin kansalaisia. Lisätietoa lukuvuosimaksuista ja apurahoista täältä.
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-16T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003762>)
 
 ### 70/100 — STRONG — Double Degree, Master's Degree, Data Analytics and Project Management
 
