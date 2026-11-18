@@ -547,6 +547,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000028723>)
 
+### 95/100 — STRONG — Tradenomi (AMK), Markkinointi ja myynti, monimuotototeutus, Salo, polkuopinnot
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400€ (lukuvuosi). Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joust
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-12-01T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
+
 ### 95/100 — STRONG — CREA – Creative Business Toolkit
 
 Hämeen ammattikorkeakoulu
@@ -3117,30 +3142,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037282>)
 
-### 85/100 — STRONG — Tradenomi (AMK), Markkinointi ja myynti, monimuotototeutus, Salo, polkuopinnot
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Polkuopinnoissa suoritat AMK-tutkinnon ensimmäisen vuoden opinnot samassa ryhmässä tutkinto-opiskelijoiden kanssa yhden lukuvuoden aikana. AMK-polkuopintojen laajuus on noin 60 opintopistettä. Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 400€ (lukuvuosi). Polkuopinnot ovat päätoimista opiskelua, ja läsnäolovaatimus vaihtelee toteutusmuodon mukaan. Opintojen suorittaminen polkuopintojen kautta ei ole tutkinto-opintoja joust
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; Opiskelu avoimessa AMK:ssa on maksullista ja polkuopintojen hinta on 500 €. Opintomaksu maksetaan kertamaksuna opintojen alussa. Valitut polkuopiskelijat saavat maksuohjeet sähköpostiinsa. Lue lisää avoimen AMK:n opintomaksuista verkkosivuillamme ja tutustu peruutusehtoihin.
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-01T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043084>)
-
 ### 85/100 — STRONG — Erillishaku: Tradenomi (AMK), tietojenkäsittely, VAMK
 
 Vaasan ammattikorkeakoulu
@@ -4856,6 +4857,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042676>)
 
+### 85/100 — STRONG — DataStart - helppo alku datan hyödyntämiseen mikro- ja pienyrityksissä (5 osp)
+
+Työtehoseura ry
+Nurmijärvi
+Yhteenveto: Koulutuksessa ohjataan pohtimaan, miten dataa voi hyödyntää jokapäiväisessä työssä. Koulutuksessa perehdytään datan analysoinnin ja raportoinnin toimintaperiaatteisiin ja työkalujen käyttöön. Tavoitteena on madaltaa datan ja tekoälyn käyttöönoton kynnystä tarjoamalla mikro- ja pienyrittäjille sekä yksinyrittäjille työelämälähtöinen ja työn ohessa suoritettava koulutusmalli. Koulutuksessa opitaan tekemään dataan perustuvia havaintoja ja kehittämis
+Koulutustyyppi: amm-muu
+Laajuus: 5.0 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-02-28T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043334>)
+
 ### 85/100 — STRONG — Myynnin ja asiakaspalvelun suunnittelu ja toteuttaminen -verkkototeutus
 
 Ammattiopisto Gradia
@@ -5207,6 +5232,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044113>)
 
+### 80/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Software Engineering, path studies
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Open Studies’ path studies provide a channel to a degree As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Yo
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-12-01T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043098>)
+
 ### 80/100 — STRONG — Business Opportunities in the Defence and Security industry - Defence4SME Training
 
 Metropolia Ammattikorkeakoulu
@@ -5230,6 +5279,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041716>)
+
+### 80/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, path studies
+
+Turun ammattikorkeakoulu
+Turku
+Yhteenveto: Open Studies’ path studies provide a channel to a degree In path studies, you complete the first-year studies of a Bachelor’s degree in a group of degree students in an academic year. The extent of UAS path studies is about 60 ECTS credits. Open Studies are subject to a charge and the price of path studies is EUR 500. Path studies are full-time studies, and the presence requirement varies between the modes of teaching. Completing studies through 
+Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
+Laajuus: 60.0 opintopistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2026-12-01T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 osaamista täydentävä kokonaisuus
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043101>)
 
 ### 80/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
 
@@ -8429,52 +8502,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043280>)
-
-### 70/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Software Engineering, path studies
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Open Studies’ path studies provide a channel to a degree As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Yo
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-01T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043098>)
-
-### 70/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Data Engineering and AI, path studies
-
-Turun ammattikorkeakoulu
-Turku
-Yhteenveto: Open Studies’ path studies provide a channel to a degree In path studies, you complete the first-year studies of a Bachelor’s degree in a group of degree students in an academic year. The extent of UAS path studies is about 60 ECTS credits. Open Studies are subject to a charge and the price of path studies is EUR 500. Path studies are full-time studies, and the presence requirement varies between the modes of teaching. Completing studies through 
-Koulutustyyppi: OPEN HIGHER EDUCATION / MODULE
-Laajuus: 60.0 opintopistettä
-Ajankohta: Kevät 2027
-Hinta: maksullinen: 500.0 (lähteen summa; tarkista ehdot) ; The total cost of path studies is 500 €. As a new path student, you will receive instructions for completing your study fee payment by e-mail after you accept your path study place on Studyinfo.fi. Find more information on the Open UAS study fee and our cancellation policy on the Turku UAS website.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-01T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 osaamista täydentävä kokonaisuus
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043101>)
 
 ### 70/100 — STRONG — Bachelor-level path studies, Bachelor of Business Administration, International Business, on-campus studies, Lahti
 
@@ -14960,30 +14987,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041040>)
-
-### 55/100 — REVIEW — DataStart - helppo alku datan hyödyntämiseen mikro- ja pienyrityksissä (5 osp)
-
-Työtehoseura ry
-Nurmijärvi
-Yhteenveto: Koulutuksessa ohjataan pohtimaan, miten dataa voi hyödyntää jokapäiväisessä työssä. Koulutuksessa perehdytään datan analysoinnin ja raportoinnin toimintaperiaatteisiin ja työkalujen käyttöön. Tavoitteena on madaltaa datan ja tekoälyn käyttöönoton kynnystä tarjoamalla mikro- ja pienyrittäjille sekä yksinyrittäjille työelämälähtöinen ja työn ohessa suoritettava koulutusmalli. Koulutuksessa opitaan tekemään dataan perustuvia havaintoja ja kehittämis
-Koulutustyyppi: amm-muu
-Laajuus: 5.0 osaamispistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: CLOSED
-Hakuaika päättyy: 2026-11-08T00:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043334>)
 
 ### 55/100 — REVIEW — Kasvata myyntiä digitaalisesti
 
