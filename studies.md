@@ -3358,30 +3358,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000005545>)
 
-### 85/100 — STRONG — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-16T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
-
 ### 85/100 — STRONG — Bachelor of Engineering, Information Technology, AI-Driven Development, päivätoteutus
 
 Oulun ammattikorkeakoulu
@@ -3413,10 +3389,10 @@ Turku
 Yhteenveto: As artificial intelligence transforms the field and automates routine tasks, the industry needs professionals who can think critically, understand the big picture, and build high-quality digital systems. In the Software Engineering programme , you develop the skills to design, implement, test, and evolve reliable software solutions – and to become a creator of next-generation technology. Your studies take place in an inspiring setting where long-
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -3430,30 +3406,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000038153>)
 
-### 85/100 — STRONG — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-16T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
-
 ### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Software Development in the Age of AI (blended studies), Helsinki, KAMK
 
 Kajaanin ammattikorkeakoulu
@@ -3466,7 +3418,7 @@ Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more abou
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3509,7 +3461,7 @@ Turku
 Yhteenveto: In the Data Engineering and AI degree programme, you learn to build AI systems, train machine learning models, and design cloud data pipelines. You will move from being a technology user to becoming a data expert. The goal is to ensure you understand the entire data pipeline: how data is collected, processed, and stored (data engineering), how it is analyzed, and how it is leveraged in intelligent applications and decision-making. The extent of t
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
@@ -3557,12 +3509,12 @@ Hämeenlinna
 Yhteenveto: Study Computer Applications and become an international ICT talent! With us, you will combine technology with business. Are you fascinated by the possibilities of programming and artificial intelligence? Do you want to master big data and business analytics? Then you are at right place! In our Computer Applications degree programme, you will get a strong base for your future career. Learning by doing and working in teams are key elements in our s
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3597,30 +3549,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043755>)
-
-### 85/100 — STRONG — Data käytäntöön – osaamista dataohjautuvaan toimintaan ja päätöksentekoon (Jotpa)
-
-Savon ammattiopisto
-Kuopio
-Yhteenveto: Data käytäntöön on Pohjois-Savon mikro- ja pk-yritysten johdolle, esihenkilöille, asiantuntijoille ja kehittämisestä vastaaville henkilöille suunnattu maksuton koulutus. Koulutuksessa opit hyödyntämään dataa käytännön päätöksenteossa, johtamisessa ja liiketoiminnan kehittämisessä sekä toteutat omaan työhösi liittyvän kehittämistehtävän.
-Koulutustyyppi: amm-muu
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton ; Koulutuksen rahoittaa Jatkuvan oppimisen ja työllisyyden palvelukeskus JOTPA . Koulutus on osallistujille maksuton.
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-17T16:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043342>)
 
 ### 85/100 — STRONG — Insinööri (AMK), tuotantotalous (kestävä teknologia ja data-analytiikka), verkkototeutus 
 
@@ -3728,9 +3656,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3741,30 +3669,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001574>)
-
-### 85/100 — STRONG — Bachelor of Business Administration, International Business, päivätoteutus
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: International Business -tradenomikoulutuksesta valmistut kansainvälisen markkinoinnin ja liiketoiminnan tehtäviin. Opintojen aikana sinulle syntyy kokonaisvaltainen kuva kansainvälisestä liiketoiminnasta. Opinnoissa perehdyt erityisesti kansainväliseen markkinointiin ja asiakasosaamiseen. Kansainväliseen tradenomitutkintoon (BBA) sisältyy myös viestinnän, talouden, myynnin ja johtamisen opintoja. Täydentävät opinnot, harjoittelu sekä opinnäytetyö
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; Opetus on maksullista EU/ETA-alueen ulkopuolelta tuleville opiskelijoille. Lisätietoja lukuvuosimaksusta ja stipendijärjestelmästä löydät Karelian www-sivuilta. Lukuvuosimaksu on 9 000 euroa.
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001591>)
 
 ### 85/100 — STRONG — Bachelor of Business Administration, International Business, päivätoteutus
 
@@ -6903,6 +6807,52 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043824>)
 
+### 75/100 — STRONG — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
+
+### 75/100 — STRONG — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
+
 ### 75/100 — STRONG — Bachelor of Engineering, Information Technology,  daytime studies (top-up)
 
 Metropolia Ammattikorkeakoulu
@@ -6915,7 +6865,7 @@ Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants fro
 Toteutus: ON_SITE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-31T15:00
+Hakuaika päättyy: 2027-03-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -7063,6 +7013,29 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042647>)
+
+### 75/100 — STRONG — Bachelor of Business Administration, International Business, päivätoteutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: International Business -tradenomikoulutuksesta valmistut kansainvälisen markkinoinnin ja liiketoiminnan tehtäviin. Opintojen aikana sinulle syntyy kokonaisvaltainen kuva kansainvälisestä liiketoiminnasta. Opinnoissa perehdyt erityisesti kansainväliseen markkinointiin ja asiakasosaamiseen. Kansainväliseen tradenomitutkintoon (BBA) sisältyy myös viestinnän, talouden, myynnin ja johtamisen opintoja. Täydentävät opinnot, harjoittelu sekä opinnäytetyö
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; Opetus on maksullista EU/ETA-alueen ulkopuolelta tuleville opiskelijoille. Lisätietoja lukuvuosimaksusta ja stipendijärjestelmästä löydät Karelian www-sivuilta. Lukuvuosimaksu on 9 000 euroa.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001591>)
 
 ### 75/100 — STRONG — Tradenomi (AMK), Liiketalouden tutkinto-ohjelma, Markkinointi- ja myyntiosaaminen, monimuotototeutus
 
@@ -8530,7 +8503,7 @@ Lahti
 Yhteenveto: The Business Information Systems for Digital Commerce programme trains digital commerce specialists capable of leading and developing digital commerce in organisations of varying sizes. The programme builds competence around data, information systems, and customer value creation as an integrated whole. Students develop a combination of data-driven business understanding and foundational programming skills, enabling them to contribute measurably t
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000 € per academic year for bachelor’s degree programmes.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
@@ -8592,6 +8565,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020305>)
 
+### 70/100 — STRONG — Bachelor's Degree in Software Engineering
+
+Tampereen ammattikorkeakoulu
+Tampere
+Yhteenveto: Future career in a digitalised world Are you aiming for a career in the international field of software engineering? Our Bachelor’s Degree Programme in Software Engineering equips you with strong working-life skills and the confidence to build your own professional path in the global software industry. The demand for software professionals remains consistently high, and ICT specialists play a central role in a highly digitalised and AI-driven soc
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-02-28T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001543>)
+
 ### 70/100 — STRONG — Bachelor of Engineering, AI and Digital Infrastructure Engineering, on-campus studies, Lappeenranta 
 
 LAB-ammattikorkeakoulu
@@ -8645,12 +8641,12 @@ Mikkeli
 Yhteenveto: Xamk’s Degree Programme in Information Technology (IT) gives you a solid foundation in IT and allows you to specialize in the field of your own interest with a flexible study plan. This way, you can find and use your personal strengths as a future IT engineer. The IT programme focuses on computer networking and the implementation of services in modern data center environments. You learn to build secure Internet-connected, wired and wireless local
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
 Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is 10 700 euros/academic year Read more about the tuition fees at Xamk.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-01-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8694,9 +8690,9 @@ Laajuus: 240.0 opintopistettä
 Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen toisen asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8714,12 +8710,12 @@ Kouvola
 Yhteenveto: Robotiikan ja tekoälyn ammattilaisille on kova kysyntä työelämässä. Hanki insinöörintutkinto tulevaisuuden alalta! Robotiikan ja tekoälyn -insinöörikoulutuksessa perehdyt robottien suunnitteluun, ohjelmointiin ja hyödyntämiseen niin teollisessa tuotannossa kuin palvelualoillakin. Moderni robotiikka hyödyntää tekoälyä ja tarjoaa runsaasti mahdollisuuksia toiminnan kehittämiseen yhteiskunnan eri aloilla. Tekoälyn avulla koneet, laitteet, ohjelmat, 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8729,29 +8725,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006925>)
-
-### 70/100 — STRONG — Tradenomi (AMK), International Business, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: International Business (IB) -tutkinto-ohjelma – Vastuullisille tulevaisuuden kansainvälisen liiketoiminnan johtajille Vastuullisena tulevaisuuden kansainvälisen liiketoiminnan johtajana tulet kehittämään luovia ja kestäviä ratkaisuja maailmanlaajuisiin liiketoiminnan haasteisiin ja luomaan uusia liiketoimintamahdollisuuksia kansainvälisillä markkinoilla. Tulet johtamaan liiketoimintaa tehokkaasti, eettisesti ja vastuullisesti. International Busin
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-19T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037409>)
 
 ### 70/100 — STRONG — Bachelor of Business Administration, International Business, päivätoteutus
 
@@ -8783,10 +8756,10 @@ Porvoo
 Yhteenveto: This degree in digital business innovations is an excellent investment for your future career. Businesses around the world constantly experience and undergo digitalization, global networking and demand for sustainability. As digitalization has allowed companies to develop and move into new markets, career opportunities in the field of digital business have also increased rapidly. Haaga-Helia’s BBA degree in Digital Business Innovations combines i
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
 Haku: OPEN
 Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
@@ -8799,6 +8772,29 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009874>)
 
+### 70/100 — STRONG — Bachelor of Business Administration, Digital International Business, Mikkeli, full-time studies
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Ready to challenge yourself in Digital International Business? The Degree Programme in Digital International Business provides broad competence in business administration in an international and digital context, both in Finland and globally. The programme also develops entrepreneurial knowledge and skills and is suitable for both Finnish and international students. You will graduate from the Digital International Business Degree Programme ready f
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 10 700 /academic year Read more about the tuition fees at Xamk.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-02-15T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043241>)
+
 ### 70/100 — STRONG — Bachelor of Business Administration, Digital International Business, Kouvola, full-time studies
 
 Kaakkois-Suomen ammattikorkeakoulu
@@ -8806,12 +8802,12 @@ Kouvola
 Yhteenveto: Ready to challenge yourself in Digital International Business? The Degree Programme in Digital International Business provides broad competence in business administration in an international and digital context, both in Finland and globally. The programme also develops entrepreneurial knowledge and skills and is suitable for both Finnish and international students. You will graduate from the Digital International Business Degree Programme ready f
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 10 700 /academic year Read more about the tuition fees at Xamk.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-01-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8829,12 +8825,12 @@ Kajaani
 Yhteenveto: The Bachelor’s Degree in International Business at Kajaani University of Applied Sciences is a comprehensive program is designed to equip you with the theoretical and practical knowledge needed to thrive in the complex global marketplace. By combining strong core business fundamentals with specialized knowledge in international operations, marketing, and leadership, we help you launch your professional career as an international business expert. 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fees and scholarships
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-13T15:00
+Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8852,12 +8848,12 @@ Helsinki, Vantaa
 Yhteenveto: Overview The Bachelor’s Degree Programme in International Business and Analytics at Metropolia University of Applied Sciences prepares students for dynamic careers in the global business environment, with a focus on international business studies and data analytics, equipping students with the skills to harness the power of data in driving business decisions and strategies. If you want to lead the way towards a more sustainable future in multicul
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is currently €11.500. Read more about current tuition fees and scholarships on our website.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -8924,7 +8920,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Non-EU/EEA students are subject to tuition fees. As of 1st of August 2026, the tuition fee for new students from non-EU/EEA countries is 11,000€ per academic year for bachelor’s degree programmes.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Suomalainen ylioppilastutkinto, Ulkomainen toisen asteen tutkinto, Ammatillinen perustutkinto
 Haku: OPEN
 Hakuaika päättyy: 2027-04-30T23:59
 Lähteet: Opintopolku
@@ -11998,9 +11994,9 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ulkomainen toisen asteen tutkinto, International Baccalaureate -tutkinto, Yleinen yliopistokelpoisuus, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, Yleinen yliopistokelpoisuus, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Harkinnanvaraisuus tai erivapaus, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Ulkomainen toisen asteen tutkinto, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T23:59
+Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12186,28 +12182,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000025047>)
 
-### 60/100 — REVIEW — Bachelor's Degree in Software Engineering
-
-Tampereen ammattikorkeakoulu
-Tampere
-Yhteenveto: Future career in a digitalised world Are you aiming for a career in the international field of software engineering? Our Bachelor’s Degree Programme in Software Engineering equips you with strong working-life skills and the confidence to build your own professional path in the global software industry. The demand for software professionals remains consistently high, and ICT specialists play a central role in a highly digitalised and AI-driven soc
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
-Haku: UPCOMING
-Hakuaika päättyy: 2027-02-28T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001543>)
-
 ### 60/100 — REVIEW — Datateknik, teknologie kandidat och diplomingenjör (3+2 år), hösten 2027
 
 Åbo Akademi
@@ -12218,7 +12192,7 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: International Baccalaureate -tutkinto, Yleinen yliopistokelpoisuus, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot, Ulkomainen toisen asteen tutkinto
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, International Baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, European baccalaureate -tutkinto, Suomalainen ylioppilastutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto, Avoimen yliopiston opinnot, Ulkomainen toisen asteen tutkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -12237,12 +12211,12 @@ Espoo
 Yhteenveto: As a graduated engineer you have a vast technological knowledge and understanding of the field of Information Technology and core engineering subjects. You have also gained knowledge in mathematics and natural sciences needed in your profession. You are able to communicate both orally and in writing in engineering surroundings and you are also able to work independently and as a member of a team. You have skills to operate in working life and you
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-31T15:00
+Hakuaika päättyy: 2027-03-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12406,6 +12380,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027602>)
 
+### 60/100 — REVIEW — Tradenomi (AMK), International Business, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: International Business (IB) -tutkinto-ohjelma – Vastuullisille tulevaisuuden kansainvälisen liiketoiminnan johtajille Vastuullisena tulevaisuuden kansainvälisen liiketoiminnan johtajana tulet kehittämään luovia ja kestäviä ratkaisuja maailmanlaajuisiin liiketoiminnan haasteisiin ja luomaan uusia liiketoimintamahdollisuuksia kansainvälisillä markkinoilla. Tulet johtamaan liiketoimintaa tehokkaasti, eettisesti ja vastuullisesti. International Busin
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037409>)
+
 ### 60/100 — REVIEW — Bachelor of Business Administration, Degree programme in Business Information Technology, Developing Digital Services, online studies
 
 Laurea-ammattikorkeakoulu
@@ -12427,28 +12423,6 @@ Miksi / huomioitavaa:
 - ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000027608>)
-
-### 60/100 — REVIEW — Bachelor of Business Administration, Digital International Business, Mikkeli, full-time studies
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Ready to challenge yourself in Digital International Business? The Degree Programme in Digital International Business provides broad competence in business administration in an international and digital context, both in Finland and globally. The programme also develops entrepreneurial knowledge and skills and is suitable for both Finnish and international students. You will graduate from the Digital International Business Degree Programme ready f
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 10 700 /academic year Read more about the tuition fees at Xamk.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-02-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043241>)
 
 ### 60/100 — REVIEW — Bachelor of Business Administration, Degree Programme in Business Management, daytime studies
 
@@ -12482,7 +12456,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -14474,6 +14448,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036429>)
+
+### 55/100 — REVIEW — Data käytäntöön – osaamista dataohjautuvaan toimintaan ja päätöksentekoon (Jotpa)
+
+Savon ammattiopisto
+Kuopio
+Yhteenveto: Data käytäntöön on Pohjois-Savon mikro- ja pk-yritysten johdolle, esihenkilöille, asiantuntijoille ja kehittämisestä vastaaville henkilöille suunnattu maksuton koulutus. Koulutuksessa opit hyödyntämään dataa käytännön päätöksenteossa, johtamisessa ja liiketoiminnan kehittämisessä sekä toteutat omaan työhösi liittyvän kehittämistehtävän.
+Koulutustyyppi: amm-muu
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutuksen rahoittaa Jatkuvan oppimisen ja työllisyyden palvelukeskus JOTPA . Koulutus on osallistujille maksuton.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Hakuaika päättyy: 2026-11-17T16:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043342>)
 
 ### 55/100 — REVIEW — Ekami, Sähkö- ja automaatioalan perustutkinto, Johdanto datakeskuksiin (osatutkinto) - Jatkuva haku 2027
 
