@@ -4056,7 +4056,7 @@ Kouvola
 Yhteenveto: Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Huomaathan, että kaikki erikoistumiset eivät välttämättä ala vuosittain, ellei niihin ilmoittaudu riittävästi opiskelijoita. Tradenomikoulutus avaa sinulle ovia monipuolisiin asiantuntija-, kehittämis- ja esihenkilötehtäviin yrityksissä ja julkisissa organis
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot
@@ -4085,7 +4085,7 @@ Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4104,12 +4104,12 @@ Joensuu
 Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtoteht
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4128,12 +4128,12 @@ Mikkeli
 Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Tr
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4152,10 +4152,10 @@ Espoo, Vantaa, Hyvinkää, Lohja
 Yhteenveto: Onko sinulla jo suoritettuja AMK-opintoja? Erillisvalinnat on suunnattu hakijoille, jotka ovat suorittaneet avoimessa AMK:ssa 60 opintopistettä, hakevat siirtohaussa tai joiden tutkintoon johtavat korkeakouluopinnot ovat keskeytyneet 160 opintopisteen jälkeen. Laurea-ammattikorkeakoulun yhteistyösopimuksella toisen asteen oppilaitoksen kanssa sovitut väyläopiskelijat hakevat tutkinto-opiskelijoiksi Laureaan avoimen AMK:n opintoja suorittaneiden e
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2027-04-18T23:59
 Lähteet: Opintopolku
@@ -4176,7 +4176,7 @@ Kuopio
 Yhteenveto: Liiketalouden monipuolinen toimintakenttä haltuun – verkossa opiskellen Tradenomiopinnot ovat monipuoliset ja käytännönläheiset. Koulutuksesta saat laajan osaamisen liiketalouden alalle. Verkkototeutuksessa voit suuntautua esihenkilötyöhön, digitaaliseen liiketoimintaan tai talousosaamiseen. Opinnot toteutetaan kokonaan verkossa. Opiskelu onnistuu mainiosti asuinpaikasta riippumatta, ja opinnot voi suorittaa työn ohessa. Tutkinto-ohjelman toteutt
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
@@ -4203,9 +4203,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4275,9 +4275,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -4365,10 +4365,10 @@ Pietarsaari
 Yhteenveto: Check this degree programme on our website ! The Bachelor’s degree programme in International Business at Centria UAS provides our students with a strong base of business skills and tools to manage businesses in intercultural environments. The curriculum is designed to provide the skills and expertise versatilely for the business field. If you are interested in working for an international company or in international positions and business enviro
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; Tuition fee (9500 €) is required. Tuition fees are charged from Bachelor’s or Master’s level students studying in languages other than Finnish or Swedish. Tuition fees will be charged from citizens of a country outside the European Union (EU) and the European Economic Area (EEA) or Switzerland. Read
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Lukio ja/tai ylioppilastutkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2027-05-31T15:00
 Lähteet: Opintopolku
@@ -4416,7 +4416,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto
 Haku: OPEN
 Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
@@ -4437,10 +4437,10 @@ Helsinki
 Yhteenveto: Haaga-Helia’s International Business degree offers a holistic business understanding and competencies needed in the changing global and digital business environment. Studies include close co-operation with businesses. In the International Business Degree, you can choose your Major from five specialisation fields: Accounting and Finance People Management Marketing and Sales Supply Chain Management You will study in Haaga-Helia’s truly internationa
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammatillinen perustutkinto ja ylioppilastutkinto, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
 Haku: OPEN
 Hakuaika päättyy: 2027-05-12T23:59
 Lähteet: Opintopolku
@@ -7114,7 +7114,7 @@ Oulu
 Yhteenveto: Koulutuksemme antaa sinulle kattavat tiedot ja hyvät valmiudet urallesi monipuolisissa liiketalouden tehtävissä. Opiskelijat työskentelevät usein tiimeissä, joissa pääset kehittämään omia vuorovaikutus- ja yhteistyötaitojasi. Saat myös vahvat valmiudet tiedon hallintaan ja analysointiin. Oamkin liiketalouden opinnoissa voit valita tutkintoosi sinua kiinnostavia opintokokonaisuuksia: •    HR-asiantuntijana toimiminen •    esihenkilöosaaminen •    
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
@@ -7160,7 +7160,7 @@ Vantaa
 Yhteenveto: Haluatko rakentaa uran liiketoiminnan asiantuntija- ja kehittämistehtävissä? Liiketalouden tradenomikoulutuksessa hankit osaamista, jota tarvitaan yrityksissä ja organisaatioissa eri toimialoilla. Opinnoissa yhdistyvät liiketoiminnan perusteet, asiakaslähtöinen ajattelu ja käytännön kehittämistyö. Koulutus antaa valmiudet toimia muuttuvassa työelämässä, jossa korostuvat yhteistyö, ongelmanratkaisu ja kyky kehittää toimintaa yhdessä muiden kanssa.
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
@@ -7257,7 +7257,7 @@ Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9171,12 +9171,12 @@ Joensuu
 Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Tradenomit sijoittuvat yrityksissä ja julkishallinnon organisaatioissa kotimaisiin ja kansainvälisiin asiantuntijatehtäviin, joissa vaa
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9194,12 +9194,12 @@ Kouvola
 Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Saat opinnoissa valmiudet työskennellä liiketoiminnan asiantuntijana, kehittäjänä, esihenkilönä tai yrittäjänä. Xamkissa voit erikoist
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9220,7 +9220,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
@@ -9233,29 +9233,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003411>)
 
-### 70/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus, Pori
-
-Satakunnan ammattikorkeakoulu
-Pori
-Yhteenveto: Onko haaveenasi olla liike-elämän digiosaaja? Haluatko perustaa oman yrityksen tai verkkokaupan jo opiskeluaikana? Vai onko tavoitteenasi kehittyä taloushallinnon rautaiseksi ammattilaiseksi, jolla on monipuolista järjestelmäosaamista? Tule SAMK-kampukselle Poriin opiskelemaan liiketaloutta ja löydä oma tiesi tradenomiksi! Miksi opiskella SAMKissa: Käytännönläheinen opetus auttaa verkostoitumaan alueen yritysten kanssa Ajantasaiset opetussisällöt
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003152>)
-
 ### 70/100 — STRONG — Insinööri (AMK), tuotantotalous, päiväopinnot
 
 Metropolia Ammattikorkeakoulu
@@ -9263,10 +9240,10 @@ Espoo
 Yhteenveto: Tuotantotalouden insinöörin tekniikan tuntemus yhdistyy yritystaloudelliseen osaamiseen. Sinusta tulee yritystoiminnan kehittäjä. Ratkaiset ongelmia ja rakennat verkostoja. Tavoitteenasi on tuottavuuden ja tehokkuuden parantaminen tai uuden liiketoiminnan kehittäminen. Sinun osaamisellasi on kysyntää sekä yrityksissä että julkishallinnossa. Tekniikka ja yritystalous yhdistyvät hyvin opinnoissa, ja opit esimerkiksi: miten yritysten toimintaa kehit
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta
 Haku: OPEN
 Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
@@ -9359,9 +9336,9 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9405,7 +9382,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 9800.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee of 9,800 €/year for non-EU/EEA citizens. There is an early-bird discount of €1,500 for an admitted student who bindingly accepts the study place and pays within 14 days. In addition there is a deduction of the tuition fee for the ACT, OMPT, or SAT test for those admitted throu
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto
 Haku: OPEN
 Hakuaika päättyy: 2027-04-19T23:59
 Lähteet: Opintopolku
@@ -9425,12 +9402,12 @@ Helsinki, Vantaa
 Yhteenveto: The International Business and Logistics program offers practically oriented business administration studies with a special focus on operations of international trade, supply chain management and marketing. It responds to the needs of future business leaders developing their strategic knowledge and practical skills required in the management of people, material and information flows. We offer you a dynamic international study environment with cla
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -9476,7 +9453,7 @@ Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of 
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
 Haku: OPEN
-Hakuaika päättyy: 2026-11-16T23:59
+Hakuaika päättyy: 2027-02-25T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -12989,7 +12966,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto
+Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ulkomainen toisen asteen tutkinto, Yleinen ammattikorkeakoulukelpoisuus
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -13066,6 +13043,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001155>)
+
+### 60/100 — REVIEW — Tradenomi (AMK), Liiketalous, päivätoteutus, Pori
+
+Satakunnan ammattikorkeakoulu
+Pori
+Yhteenveto: Onko haaveenasi olla liike-elämän digiosaaja? Haluatko perustaa oman yrityksen tai verkkokaupan jo opiskeluaikana? Vai onko tavoitteenasi kehittyä taloushallinnon rautaiseksi ammattilaiseksi, jolla on monipuolista järjestelmäosaamista? Tule SAMK-kampukselle Poriin opiskelemaan liiketaloutta ja löydä oma tiesi tradenomiksi! Miksi opiskella SAMKissa: Käytännönläheinen opetus auttaa verkostoitumaan alueen yritysten kanssa Ajantasaiset opetussisällöt
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003152>)
 
 ### 60/100 — REVIEW — International Business, Bachelor of Science and Master of Science (Economics and Business Administration) (3+2 yrs)
 
@@ -13275,9 +13274,9 @@ Laajuus: 300.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Avoimen yliopiston opinnot, Yleinen yliopistokelpoisuus
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:

@@ -1,27 +1,25 @@
 # JOB AGENT
 
-Haku: 2026-11-20T16:45+02:00
+Haku: 2026-11-21T00:31+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 9 uutta sopivaa työpaikkaa.
+Sinulle on 4 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 9
-Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 88
-Vahvat: 9 | Harkitse: 0
+Uusia sopivia työpaikkoja: 4
+Tällä ajolla luettuja hakutuloksia: 206 | Lähetysrajan täyttäviä työpaikkoja: 89
+Vahvat: 4 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — Solution Sales Manager, Security
+### 90/100 — STRONG — Pricing Analyst, Valio Aimo, Helsinki
 
-Aurilo
-Kouvola, FI, Kuopio, Mikkeli, Oulu, Pori, Rauma, Salo, Seinäjoki, Tampere, Turku, Vaasa, Ylivieska, Espoo, Jyväskylä
-Julkaistu: 2026-11-20
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Toimit Solution Sales Managerina vastuullasi on Aurilon tietoturvapalveluiden vahvan kasvun varmistaminen pääasiassa nykyasiakkaissa osana jatkuvan palvelun myyntiorganisaatiota. Tehtäviisi kuuluu tietoturvaratkaisujen kaupallistaminen asiakkaiden liiketoimintaan, myyntimahdollisuuksien tunnistaminen ja niiden suunnitelmallinen eteneminen sekä myyntifunnelin ja myyntiaktiviteettien raportointi. Kokonaispalkkasi
-Hakuaika päättyy: 2027-01-09
-Lähteet: Jobly
+Valio Oy
+Helsinki
+Yhteenveto: Tehtävänkuvaus Pricing Analystina työskentelet Valio Aimo -tukkukaupan hinnoittelun ja kaupallisen analytiikan ytimessä sekä tuotat datan pohjalta ymmärrettäviä näkemyksiä myynnin ja hankinnan päätöksenteon tueksi. Ensimmäisten kuukausien aikana syvennyt siihen, miten myynti toimii ja millainen logiikka tukkutuotteiden hinnoittelun taustalla on, samalla kun työskentelet tiiviisti eri järjestelmien parissa. Pääset myös hyödyntämään sekä perinteist
+Lähteet: Academic Work
 
 Miksi / huomioitavaa:
 - +30 roolisopivuus: IT + MYYNTI
@@ -29,17 +27,17 @@ Miksi / huomioitavaa:
 - +5 teknologia: IT-palvelujen ymmärrys
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 teknologian ja asiakastyön yhdistelmä
-- +10 etätyö Suomesta
+- +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/solution-sales-manager-security-2796778>)
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/pricing-analyst-valio-aimo-helsinki/0M2KGE>)
 
-### 90/100 — STRONG — Data Domain Owner, Product & Item
+### 90/100 — STRONG — Internal Sales Engineer
 
-Metso
-Espoo, FI, Lappeenranta, Tampere
+Wika Finland Oy
+Helsinki, FI
 Julkaistu: 2026-11-20
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Data Domain Owner, Product & Item will own Metso’s Product & Item data domain and be accountable for its quality, definitions and governed use to support AI, digitalization and operations. You will roll out Metso’s data governance model for the domain, define and monitor data quality rules, lead the matrix data steward network, and prioritize and resolve critical data issues and migrations. The role partner
-Hakuaika päättyy: 2027-01-19
+Yhteenveto: WIKA Finland | Helsinki Liity tiiviiseen ja ystävälliseen tiimiin, jossa teknologia, asiakaspalvelu ja yhteistyö kulkevat käsi kädessä. Etsimme sisämyynti-insinööriä (Internal Sales Engineer) liittymään tiimiimme WIKA Finlandille Helsinkiin. Tässä roolissa vastaat asiakkaidemme tukemisesta, tilausten käsittelystä sekä sujuvan yhteistyön varmistamisesta asiakkaiden, kollegoiden ja tuotantolaitostemme välillä. Olet avainroolissa varmistamassa, että
+Hakuaika päättyy: 2026-12-04
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -50,33 +48,14 @@ Miksi / huomioitavaa:
 - +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-domain-owner-product-item-2803055>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/internal-sales-engineer-2803521>)
 
-### 90/100 — STRONG — B2B- myynnin harjoittelu talvelle 2026
-
-Intensive Sales Partners Oy
-Helsinki, FI, Espoo, Vantaa, Järvenpää
-Julkaistu: 2026-11-20
-Yhteenveto: Oletko kaupallisen alan opiskelija, joka haluaa oppia yritysmyynnin salat? Oletko innostunut kasvamaan yhdessä urallasi uudelle tasolle? Mahtavaa, nimittäin nyt kannattaa lukea pidemmälle! Haemme harjoittelijoita talvelle 2026. Tarjoamme kaupallisen alan opiskelijalle mahdollisuuden yhdistää opintojen teoriaa käytännönläheisesti myyntiprosesseihin aina asiakaskontaktoinnista tarjouksen lähettämiseen asti. Tämän ansiosta tulet oppimaan yritysmyynn
-Hakuaika päättyy: 2026-11-30
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myynnin-harjoittelu-talvelle-2026-2803638>)
-
-### 80/100 — STRONG — Myyntiharjoittelu / Sales Trainee – Opi myyntiä, tienaa ja rakenna oma myyntiurasi
+### 80/100 — STRONG — Sales Team Leader Trainee – Myynnin esihenkilöharjoittelija l harjoittelu l oppisopimus
 
 Intensive Sales Partners Oy
 Helsinki, FI, Espoo, Vantaa, Järvenpää
 Julkaistu: 2026-11-20
-Yhteenveto: Haluatko oppia myyntiä käytännössä – et vain kirjoista? Intensive Sales Partners Oy tarjoaa mahdollisuuden aloittaa myyntiura ympäristössä, jossa saat oikeaa kokemusta, koulutusta, vastuuta ja mahdollisuuden tienata samalla kun kehität myyntitaitojasi. Etsimme nyt motivoituneita opiskelijoita, alanvaihtajia ja myynnistä kiinnostuneita mukaan myynnin trainee-ohjelmaan. Tämä voi olla juuri se paikka, jossa ensimmäinen myyntityö muuttuu ensimmäiseks
+Yhteenveto: Oletko kaupallisen alan opiskelija? Haluatko edistää uraasi seuraavalla askeleella vastuullisessa roolissa, jossa pääset vastaamaan omasta tiimistä ja sen tuloksesta? Juuri sinä, tämä ilmoitus varmasti kiinnostaa sinua!🫵 Etsimme tekijää noin 5-6 kuukauden harjoitteluun, joka hakee seuraavaa askelta urallaan myynnin johtamisen parissa. Työ on suunnattu korkeakouluopiskelijalle (esim. tradenomi, KTM jne.), jolla on opintoihin liittyvä harjoittelu s
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
 
@@ -87,46 +66,14 @@ Miksi / huomioitavaa:
 - +5 junior-/aloitustaso
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelu-sales-trainee-opi-myyntia-tienaa-ja-rakenna-oma-myyntiurasi-2803620>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-team-leader-trainee-myynnin-esihenkiloharjoittelija-l-harjoittelu-l-oppisopimus>)
 
-### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
-
-Academic Work
-Helsinki, Uusimaa, FI, Lahti, Kouvola
-Julkaistu: 2026-11-20
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Asiakashankkijana työskentelet kenttämyynnissä Uudenmaan sekä Lahden ja Kouvolan alueilla sopien kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä. Työstä maksetaan kiinteä kuukausipalkka noin 2000–2500 €/kk, joten ansiosi eivät ole riippuvaisia toteutuneiden asiakaskäyntien määrästä. Etsimme henkilöä, jolla on rohkea asenne, erinomaiset vuorovaikutustaidot, sujuva suomen kielen taito ja mielellään
-Hakuaika päättyy: 2027-01-19
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakashankkija-ma-sales-oy-2803603>)
-
-### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
-
-M&A Sales Oy
-Uusimaa/Lahti/Kouvola
-Yhteenveto: Tehtävänkuvaus Asiakashankkijana vastaat uusien asiakkaiden tavoittamisesta kenttämyynnin keinoin Uudenmaan sekä Lahden ja Kouvolan alueilla. Tehtävän tarkoituksena on sopia kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä, jotka yrityksen kokeneemmat myyjät hoitavat loppuun. Työskentelet tiiviissä yhteistyössä muun myyntitiimin kanssa aloittaen työt pareittain ja edeten oman varmuuden kasvaessa itsenäisempään työskentelyyn. Saat ty
-Lähteet: Academic Work
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/asiakashankkija-ma-sales-oy/4H6LSF>)
-
-### 75/100 — STRONG — Asiakastapaamisten sopija / buukkari (osa-aikainen) | 25h / viikko
+### 75/100 — STRONG — Kokoaikainen BUUKKARI / 40h/vko
 
 Intensive Sales Partners Oy
-Helsinki, FI, Espoo, Vantaa, Järvenpää
+Helsinki, FI, Vantaa, Espoo, Järvenpää
 Julkaistu: 2026-11-20
-Yhteenveto: Etsitkö osa-aikaista työtä, jossa voit kehittää myyntitaitojasi ja samalla vaikuttaa omiin ansioihisi? Intensive Sales Partners Oy etsii uusia osa-aikaisia asiakastapaamisten sopijoita (buukkareita) talven projekteihin. Työ sopii erinomaisesti esimerkiksi opiskelijalle, välivuotta viettävälle tai henkilölle, joka haluaa tehdä lisäansioita nykyisen työnsä rinnalla. Mitä työ sisältää? Työskentelet asiakastapaamisten sopimisen ja asiakashankinnan pa
+Yhteenveto: Intensive Sales Partners Oy hakee kokenutta ja tavoitteellista buukkaria kokoaikaiseen tehtävään. Jos pidät puhelintyöstä, nautit tavoitteiden saavuttamisesta ja haluat, että oma tekemisesi näkyy suoraan palkkapussissa, tämä tehtävä voi olla sinulle. Mitä työssä teet? Työsi tärkein tehtävä on sopia tapaamisia myyntiedustajille . Kontaktoit puhelimitse potentiaalisia asiakkaita eri puolilta Suomea ja kartoitat heidän kiinnostustaan tarjottuihin pa
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
 
@@ -136,58 +83,211 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakastapaamisten-sopija-buukkari-osa-aikainen-25h-viikko-2803632>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kokoaikainen-buukkari-40h-vko-2803743>)
 
-### 75/100 — STRONG — B2B MYYNTIKONSULTTI - Provisiot jopa 1000 € / kauppa
+## KOULUTUKSET — 12 UUTTA / MUUTTUNUTTA
 
-Intensive Sales Partners Oy
-Helsinki, FI, Espoo, Vantaa, Järvenpää
-Julkaistu: 2026-11-20
-Yhteenveto: 🚀 B2B MYYNTIKONSULTTI – MEILLÄ PÄÄSET TEKEMÄÄN MYYNTIÄ, JOSSA KAUPANTEKO NÄKYY PALKASSA Intensive Sales Partners Oy hakee B2B-myyjää myymään yrityksille myynnin kasvua. Jos nautit siitä hetkestä, kun puhelu muuttuu tapaamiseksi ja tapaaminen kaupaksi, tässä voi olla sinun seuraava työsi. Me autamme yrityksiä kasvattamaan myyntiään B2B-buukkauspalveluiden ja asiakashankinnan palveluiden avulla. Nyt haemme joukkoomme tavoitteellista B2B-myyjää , jo
-Hakuaika päättyy: 2026-11-30
-Lähteet: Jobly
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, monimuoto-opinnot
 
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyntikonsultti-provisiot-jopa-1000-eu-kauppa-2803685>)
-
-### 70/100 — STRONG — Kolster Oy Ab - Business Development Manager
-
-Kolster Oy Ab
-Helsinki, FI
-Julkaistu: 2026-11-20
-Yhteenveto: We are looking for a Business Development Manager with a strong hunter profile. The role is focused on proactive new client acquisition and selling complex expert services to technology companies together with Kolster attorneys. You will independently identify prospects, open doors with senior decisionmakers and drive the entire sales process from first contact to closing. In this new dedicated role, you will strengthen Kolster's presence among S
-Hakuaika päättyy: 2026-12-01
-Lähteet: Jobly
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Metropolia Ammattikorkeakoulun liiketalouden monimuoto-opinnoissa opiskelet 2-4 arki-iltana klo 17 alkaen joko Myllypuron kampuksella tai online. Lue lisää opiskelukäytänteistä! Opiskeluaika on 3,5 vuotta, mutta koulutustaustasta, työkokemuksesta ja elämäntilanteesta riippuen opinnot voi suorittaa nopeammassakin aikataulussa. Metropolian tradenomin vahvuuksia ovat laaja-alainen osaaminen yritystoiminnasta, näkemys liiketoiminnan kokonaisuudesta s
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 etätyö Suomesta
-- -20 pyytää vähintään 150 vuotta kokemusta
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kolster-oy-ab-business-development-manager-2803461>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000000628>)
 
-## KOULUTUKSET — 5 UUTTA / MUUTTUNUTTA
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, monimuotototeutus, Mikkeli
 
-### 100/100 — STRONG — Master of Business Administration, Management in Sustainable Business
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Kiinnostaako sinua työ liike-elämässä? Tähtäätkö liiketoiminnan asiantuntijaksi tai esimiestehtäviin? Onko suunnitelmissasi oma startup? Tradenomi (AMK) -koulutuksessa saat tietoja ja taitoja näihin tehtäviin. Opit, miten yritys toimii kannattavasti ja tuloksellisesti. Osaat myydä ja markkinoida. Osaat myös johtaa projekteja ja ihmisiä sekä tiedät, miten toimintaa kehitetään. Monimuotototeutuksessa vuorottelevat verkkotapaamiset ja Mikkelin kampu
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T15:00
+Lähteet: Opintopolku
 
-Hämeen ammattikorkeakoulu
-Hämeenlinna
-Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
-Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001956>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, verkkototeutus, Mikkeli
+
+Kaakkois-Suomen ammattikorkeakoulu
+Mikkeli
+Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Xamkissa voit erikoistua liiketoiminnan digiratkaisuihin, markkinointiin, taloushallintoon, juridiikkaan tai johtamiseen ja HR:ään. Tr
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001982>)
+
+### 85/100 — STRONG — Tradenomi (AMK), Liiketalous, monimuotototeutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtoteht
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000003453>)
+
+### 85/100 — STRONG — Bachelor of Business Administration, International Business
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Haaga-Helia’s International Business degree offers a holistic business understanding and competencies needed in the changing global and digital business environment. Studies include close co-operation with businesses. In the International Business Degree, you can choose your Major from five specialisation fields: Accounting and Finance People Management Marketing and Sales Supply Chain Management You will study in Haaga-Helia’s truly internationa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. See information about Tuition Fees and Scholarships here.
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Suomalainen ylioppilastutkinto, International Baccalaureate -tutkinto, European baccalaureate -tutkinto, Reifeprüfung-tutkinto / DIA-tutkinto, Ammatillinen perustutkinto, Ammatillinen perustutkinto ja ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Haku: OPEN
+Hakuaika päättyy: 2027-05-12T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT, BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009871>)
+
+### 85/100 — STRONG — Tradenomi (AMK), liiketalous, verkko-opinnot
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: Metropolia Ammattikorkeakoulun liiketalouden verkko-opinnoissa opiskelet koko tradenomitutkinnon verkossa. Opiskeluaika on 3,5 vuotta, mutta koulutustaustasta, työkokemuksesta ja elämäntilanteesta riippuen opinnot voi suorittaa nopeammassakin aikataulussa. Verkko-opintojen edistymistä tukee itsenäinen vastuun ottaminen opintojen suunnittelusta ja etenemisestä sekä kiinnostus hakea ja tutkia tietoa sekä yhdistää ja soveltaa sitä erilaisissa harjoi
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ONLINE / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021461>)
+
+### 75/100 — STRONG — Hallintotieteet ja johtaminen, hallintotieteiden tai yhteiskuntatieteiden kandidaatti ja hallintotieteiden tai yhteiskuntatieteiden maisteri (3 v + 2 v)
+
+Lapin yliopisto
+Rovaniemi
+Yhteenveto: Hallintotieteiden ja johtamisen tutkinto-ohjelma antaa sinulle vahvan hallintotieteeseen ja liiketaloustieteeseen perustuvan tietopohjan organisaatioiden ja työyhteisöjen kehittämiseen kestävällä ja oikeudenmukaisella tavalla. Tutkinto-ohjelman opinnot ovat sisällöllisesti monipuolisia ja ainutlaatuisia. Ne tarjoavat sinulle laaja-alaista näkemystä organisaatioiden toimintaan ja kohdentuvat tulevaisuuden työelämän tarpeisiin. Kehität johtamisvalm
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: Maksuton
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
+Haku: UPCOMING
+Hakuaika päättyy: 2027-03-23T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS, SOCIAL
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002344>)
+
+### 70/100 — STRONG — Bachelor of Business Administration, International Business and Logistics, daytime studies
+
+Metropolia Ammattikorkeakoulu
+Helsinki, Vantaa
+Yhteenveto: The International Business and Logistics program offers practically oriented business administration studies with a special focus on operations of international trade, supply chain management and marketing. It responds to the needs of future business leaders developing their strategic knowledge and practical skills required in the management of people, material and information flows. We offer you a dynamic international study environment with cla
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: Free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001424>)
+
+### 70/100 — STRONG — Bachelor's Degree Programme, International Business, full-time (BBA), VAMK
+
+Vaasan ammattikorkeakoulu
+Vaasa
+Yhteenveto: Are you interested in studying next to the largest energy technology cluster of Northern Europe? Together with the international students, the degree programme in International Business is the perfect way for you to gain higher education, excellent English skills and cultural experience. International marketing, foreign trade and international management will be your superpowers. As you will study in English, you will be perfectly equipped for yo
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027
+Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
@@ -195,74 +295,24 @@ Lähteet: Opintopolku
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001566>)
 
-### 85/100 — STRONG — Liiketoiminnan perustutkinto | Varkaus | jatkuva haku
+### 70/100 — STRONG — Tradenomi (AMK), liiketalous, päivätoteutus, Kouvola
 
-Savon ammattiopisto
-Varkaus
-Yhteenveto: Voit opiskella Varkauden kampuksellamme liiketalouden perustutkinnon joko päiväopetuksena tai työelämäpainotteisessa toteutuksessa. Ala sopii sinulle, jos haluat työskennellä ihmisten kanssa. sinua kiinnostaa myyntityö, asiakkaiden palvelu ja markkinointi. haluat työskennellä muuttuvissa tilanteissa. pidät erilaisten tilanteiden ja asioiden ratkaisemisesta. Mitä työ voi olla? Myyntityötä, eli voit suunnitella myyntiä ja myydä asiakkaille erilaisi
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
-Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot)
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Kaakkois-Suomen ammattikorkeakoulu
+Kouvola
+Yhteenveto: Oletko kiinnostunut monipuolisesta liiketalouden osaamisesta, jota voit hyödyntää useilla eri toimialoilla? Haluatko uudistaa osaamistasi ja edetä uralla eteenpäin? Onko sinulla kiinnostusta siirtyä nykyiseltä alalta liiketalouden monipuolisiin tehtäviin? Tradenomi on liiketalouden ja yritystoiminnan asiantuntija. Saat opinnoissa valmiudet työskennellä liiketoiminnan asiantuntijana, kehittäjänä, esihenkilönä tai yrittäjänä. Xamkissa voit erikoist
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2026
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
-Hakuaika päättyy: 2026-11-29T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037692>)
-
-### 85/100 — STRONG — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon maanantaina 14.12. klo 15.30-16.30. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessiin lii
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: OPEN
-Hakuaika päättyy: 2026-12-09T12:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
-
-### 70/100 — STRONG — Yrittäjyyden ammattitutkinto
-
-Sasky oppisopimus- ja työelämäpalvelut
-Sastamala
-Yhteenveto: Liiketoiminta muuttuu nopeasti, ja ajantasaiselle osaamiselle on kysyntää. Yrittäjyyden ammattitutkinto antaa valmiudet kehittää omaa yritystoimintaa suunnitelmallisesti ja vastuullisesti. Opiskelija kehittää erityisesti strategista ja asiakaslähtöistä liiketoimintaosaamista, myyntiosaamista sekä talouteen liittyvää osaamista. Opiskelijalla karttuu myös taito hyödyntää digitaalisia kanavia ja tekoälyä myynnissä. Oppisopimusmuotoinen koulutus edel
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Oppisopimuskoulutus on opiskelijalle maksutonta. EU- ja ETA-alueen ulkopuolisten maiden kansalaisilta voidaan periä lukuvuosimaksu.
-Toteutus: UNKNOWN
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
-Haku: OPEN
-Hakuaika päättyy: 2027-02-09T00:00
+Hakuaika päättyy: 2027-03-31T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -270,38 +320,60 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044222>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001955>)
 
-### 65/100 — STRONG — Avoin yo: VR-järjestelmät ja ihmiset, kevät 2027
+### 70/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Tradenomina voit työllistyä erilaisiin liiketalouden työtehtäviin, kuten taloushallinnon sekä myynnin ja markkinoinnin tehtäviin eri toimialoilla. Opinnot valmentavat sinut toimimaan erilaisissa yritysten ja julkishallinnon asiantuntijatehtävissä, etenemään esihenkilö- ja johtotehtäviin sekä toimimaan yrittäjänä. Tradenomit sijoittuvat yrityksissä ja julkishallinnon organisaatioissa kotimaisiin ja kansainvälisiin asiantuntijatehtäviin, joissa vaa
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-04-30T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002130>)
+
+### 70/100 — STRONG — International Business Management, Bachelor and Master of Science (Economics and Business Administration) (3 years + 2 years)
 
 Oulun yliopisto
 Oulu
-Yhteenveto: Virtual reality (VR) technology transports us to real or synthetic places that may be inaccessible, breathtaking, complex beyond our wildest imagination, or just simple and relaxing. Applications include entertainment, social interaction, virtual travel, remote training, architectural walkthroughs, cultural appreciation, and learning enhancement. Although VR has been around for decades, it always came with a high cost to enter the field because o
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 1.0–5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
+Yhteenveto: International Business Management is a degree programme offered by the AACSB-accredited Oulu Business School. In this programme, students learn to manage international business in a Nordic style, creativity, and sustainability as their main drivers. The bachelor’s programme in International Business Management is part of a five-year international degree programme consisting of a three-year bachelor’s degree and a two-year master’s degree. When ac
+Koulutustyyppi: BACHELOR + MASTER
+Laajuus: 300.0 opintopistettä
+Ajankohta: Syksy 2027 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-02-25T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044220>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008820>)
 
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
 - LinkedIn: BLOCKED — robots.txt disallows automated access
-- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread
+- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread | 404 Client Error: Not Found for url: https://www.jobly.fi/tyopaikka/remonttimyyja-2794000
 - Laura: FAILED — 500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
@@ -2718,6 +2790,46 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 90/100 — STRONG — Internal Sales Engineer
+
+Wika Finland Oy
+Helsinki, FI
+Julkaistu: 2026-11-20
+Yhteenveto: WIKA Finland | Helsinki Liity tiiviiseen ja ystävälliseen tiimiin, jossa teknologia, asiakaspalvelu ja yhteistyö kulkevat käsi kädessä. Etsimme sisämyynti-insinööriä (Internal Sales Engineer) liittymään tiimiimme WIKA Finlandille Helsinkiin. Tässä roolissa vastaat asiakkaidemme tukemisesta, tilausten käsittelystä sekä sujuvan yhteistyön varmistamisesta asiakkaiden, kollegoiden ja tuotantolaitostemme välillä. Olet avainroolissa varmistamassa, että
+Hakuaika päättyy: 2026-12-04
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/internal-sales-engineer-2803521>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Pricing Analyst, Valio Aimo, Helsinki
+
+Valio Oy
+Helsinki
+Yhteenveto: Tehtävänkuvaus Pricing Analystina työskentelet Valio Aimo -tukkukaupan hinnoittelun ja kaupallisen analytiikan ytimessä sekä tuotat datan pohjalta ymmärrettäviä näkemyksiä myynnin ja hankinnan päätöksenteon tueksi. Ensimmäisten kuukausien aikana syvennyt siihen, miten myynti toimii ja millainen logiikka tukkutuotteiden hinnoittelun taustalla on, samalla kun työskentelet tiiviisti eri järjestelmien parissa. Pääset myös hyödyntämään sekä perinteist
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/pricing-analyst-valio-aimo-helsinki/0M2KGE>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 85/100 — STRONG — Junior Software Test Engineer, Vaisala, Vantaa
 
 Vaisala Oyj
@@ -3341,6 +3453,26 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelu-sales-trainee-opi-myyntia-tienaa-ja-rakenna-oma-myyntiurasi-2803620>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Sales Team Leader Trainee – Myynnin esihenkilöharjoittelija l harjoittelu l oppisopimus
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Oletko kaupallisen alan opiskelija? Haluatko edistää uraasi seuraavalla askeleella vastuullisessa roolissa, jossa pääset vastaamaan omasta tiimistä ja sen tuloksesta? Juuri sinä, tämä ilmoitus varmasti kiinnostaa sinua!🫵 Etsimme tekijää noin 5-6 kuukauden harjoitteluun, joka hakee seuraavaa askelta urallaan myynnin johtamisen parissa. Työ on suunnattu korkeakouluopiskelijalle (esim. tradenomi, KTM jne.), jolla on opintoihin liittyvä harjoittelu s
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-team-leader-trainee-myynnin-esihenkiloharjoittelija-l-harjoittelu-l-oppisopimus>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6807,7 +6939,7 @@ Muistiinpanot:
 
 Wärtsilä
 Helsinki, Uusimaa, FI, Turku, Vaasa
-Julkaistu: 2026-11-19
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Solution Manager, eReporting and Taxation will design, develop and manage tax-related eReporting and statutory reporting solutions. They will drive implementation and continuous development of eReporting systems, translate regulatory changes into solution requirements, and oversee testing and vendor coordination. The role requires a degree in IT, Finance, Taxation or related field, strong knowledge of tax e
 Hakuaika päättyy: 2027-01-18
 Lähteet: Jobly
@@ -7005,6 +7137,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/asiakashankkija-ma-sales-oy/4H6LSF>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Kokoaikainen BUUKKARI / 40h/vko
+
+Intensive Sales Partners Oy
+Helsinki, FI, Vantaa, Espoo, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Intensive Sales Partners Oy hakee kokenutta ja tavoitteellista buukkaria kokoaikaiseen tehtävään. Jos pidät puhelintyöstä, nautit tavoitteiden saavuttamisesta ja haluat, että oma tekemisesi näkyy suoraan palkkapussissa, tämä tehtävä voi olla sinulle. Mitä työssä teet? Työsi tärkein tehtävä on sopia tapaamisia myyntiedustajille . Kontaktoit puhelimitse potentiaalisia asiakkaita eri puolilta Suomea ja kartoitat heidän kiinnostustaan tarjottuihin pa
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kokoaikainen-buukkari-40h-vko-2803743>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -7354,7 +7505,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive new business in Finland from Hypergene's Helsinki office, owning the full sales cycle for mid-market and enterprise customers. The role requires proven experience in complex B2B sales, independent pipeline building, and strong stakeholder engagement skills. Fluency in Finnish and advanced English are required, and knowledge of SaaS, financial planning tools, or Swedish is meritorious. You are off
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -8862,26 +9013,6 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
-### 55/100 — REVIEW — Remonttimyyjä
-
-Eliittikatot Oy
-Vantaa, FI, Mäntsälä, Hyvinkää, Porvoo, Riihimäki
-Julkaistu: 2026-11-19
-Yhteenveto: Oletko tavoitteellinen myyjä, joka nauttii uusien asiakkaiden kohtaamisesta ja haluaa nähdä oman työnsä tulokset myös ansioissaan? Eliittikatot Oy etsii nyt remonttimyyjiä Jyväskylän ja Uudenmaan alueille! Tarjolla on itsenäinen ja liikkuva myyntitehtävä, jossa sinulla on mahdollisuus ansaita 4 000–5 500 euroa kuukaudessa. Eliittikatot Oy on vuonna 2000 perustettu kotimainen perheyritys ja yksi Suomen johtavista pientalojen kattoremontteihin erik
-Hakuaika päättyy: 2026-11-20
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-- -20 pyytää vähintään 25 vuotta kokemusta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/remonttimyyja-2794000>)
-Tila: UUSI
-Muistiinpanot: 
-
 ### 55/100 — REVIEW — EHS Supervisor - Services and Sales
 
 Eaton
@@ -9009,8 +9140,8 @@ Muistiinpanot:
 ### 55/100 — REVIEW — Technical Implementation Manager, Finance
 
 Wärtsilä
-Helsinki, Uusimaa, FI, Turku, Vaasa
-Julkaistu: 2026-11-19
+Helsinki, Uusimaa, FI, Vaasa, Turku, Washington, District of Columbia (DC), US
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Technical Implementation Manager will plan and deliver strategic finance technology projects across Wärtsilä’s global finance landscape with a focus on technical delivery leadership, deployment readiness, testing governance, cutover management and transition to operations. The role involves coordinating architects, developers, testing and service teams and external vendors to drive solution build, integrati
 Hakuaika päättyy: 2027-01-18
 Lähteet: Jobly
@@ -12528,7 +12659,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Roolissasi kehität ja integroitat sisäisiä tekoälyratkaisuja ja web-sovelluksia sekä hyödynnät Azure‑pilveä. Edellytämme sujuvaa suomen kielen taitoa, soveltuvaa korkeakoulututkintoa ja full stack -osaamista (Python, React, TypeScript) sekä vähintään kahden vuoden IT-kokemusta tai vastaavia näyttöjä. Tarjoamme mahdollisuuden vaikuttaa teknologiavalintoihin vakaassa yrityksessä, joustavat työajat, kattavat henki
 Hakuaika päättyy: 2026-12-22
 Lähteet: Jobly
