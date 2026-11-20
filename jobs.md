@@ -1,12 +1,12 @@
 # JOB AGENT
 
-Haku: 2026-11-19T17:11+02:00
+Haku: 2026-11-20T16:45+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Sinulle on 9 uutta sopivaa työpaikkaa.
 
 Uusia sopivia työpaikkoja: 9
-Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 90
+Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 88
 Vahvat: 9 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
@@ -14,13 +14,70 @@ Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi oll
 
 ## UUDET TYÖPAIKAT
 
-### 80/100 — STRONG — Myynnin ja kumppanuushankinnan harjoittelija (B2B, etätyö)
+### 90/100 — STRONG — Solution Sales Manager, Security
 
-FRAMERATE/RED
-Helsinki, FI
-Julkaistu: 2026-11-19
-Yhteenveto: Olemme helsinkiläinen luova markkinointiviestintätoimisto. Luomme brändejä, kampanjoita ja markkinointiviestinnän konsepteja yrityksille ja yhteisöille. Lisäksi kehitämme ja myymme elämys- ja kumppanuuskonsepteja Suomessa ja ulkomailla. Haemme nyt harjoittelijaa vahvistamaan kumppanuusmyyntiämme. Soitat yrityksiin, esittelet ratkaisujamme päättäjille ja sovit tapaamisia. Pääset näkemään läheltä, miten uusia konsepteja viedään markkinoille kotimaa
-Hakuaika päättyy: 2026-12-03
+Aurilo
+Kouvola, FI, Kuopio, Mikkeli, Oulu, Pori, Rauma, Salo, Seinäjoki, Tampere, Turku, Vaasa, Ylivieska, Espoo, Jyväskylä
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Toimit Solution Sales Managerina vastuullasi on Aurilon tietoturvapalveluiden vahvan kasvun varmistaminen pääasiassa nykyasiakkaissa osana jatkuvan palvelun myyntiorganisaatiota. Tehtäviisi kuuluu tietoturvaratkaisujen kaupallistaminen asiakkaiden liiketoimintaan, myyntimahdollisuuksien tunnistaminen ja niiden suunnitelmallinen eteneminen sekä myyntifunnelin ja myyntiaktiviteettien raportointi. Kokonaispalkkasi
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/solution-sales-manager-security-2796778>)
+
+### 90/100 — STRONG — Data Domain Owner, Product & Item
+
+Metso
+Espoo, FI, Lappeenranta, Tampere
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Data Domain Owner, Product & Item will own Metso’s Product & Item data domain and be accountable for its quality, definitions and governed use to support AI, digitalization and operations. You will roll out Metso’s data governance model for the domain, define and monitor data quality rules, lead the matrix data steward network, and prioritize and resolve critical data issues and migrations. The role partner
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-domain-owner-product-item-2803055>)
+
+### 90/100 — STRONG — B2B- myynnin harjoittelu talvelle 2026
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Oletko kaupallisen alan opiskelija, joka haluaa oppia yritysmyynnin salat? Oletko innostunut kasvamaan yhdessä urallasi uudelle tasolle? Mahtavaa, nimittäin nyt kannattaa lukea pidemmälle! Haemme harjoittelijoita talvelle 2026. Tarjoamme kaupallisen alan opiskelijalle mahdollisuuden yhdistää opintojen teoriaa käytännönläheisesti myyntiprosesseihin aina asiakaskontaktoinnista tarjouksen lähettämiseen asti. Tämän ansiosta tulet oppimaan yritysmyynn
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myynnin-harjoittelu-talvelle-2026-2803638>)
+
+### 80/100 — STRONG — Myyntiharjoittelu / Sales Trainee – Opi myyntiä, tienaa ja rakenna oma myyntiurasi
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Haluatko oppia myyntiä käytännössä – et vain kirjoista? Intensive Sales Partners Oy tarjoaa mahdollisuuden aloittaa myyntiura ympäristössä, jossa saat oikeaa kokemusta, koulutusta, vastuuta ja mahdollisuuden tienata samalla kun kehität myyntitaitojasi. Etsimme nyt motivoituneita opiskelijoita, alanvaihtajia ja myynnistä kiinnostuneita mukaan myynnin trainee-ohjelmaan. Tämä voi olla juuri se paikka, jossa ensimmäinen myyntityö muuttuu ensimmäiseks
+Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -28,67 +85,17 @@ Miksi / huomioitavaa:
 - +20 kokemus: asiakas-/IT-palvelutausta
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +5 junior-/aloitustaso
-- +10 etätyö Suomesta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myynnin-ja-kumppanuushankinnan-harjoittelija-b2b-2802394>)
-
-### 75/100 — STRONG — Asuntomyyjä
-
-Roof LKV
-Helsinki, FI
-Julkaistu: 2026-11-19
-Yhteenveto: Haluatko osaksi menestystarinaa? Roof LKV hakee innokkaita myyntineuvottelijoita kasvaviin tiimeihimme Helsingissä, Vantaalla, Tampereella ja Kouvolassa. Roof LKV on noussut yhdeksi Suomen tunnetuimmista asunnonvälitysliikkeistä ja toiminut suunnannäyttäjänä modernissa kiinteistönvälityksessä perustamisestaan lähtien. Palkkaamme nyt menestyksennälkäisiä ja työtä pelkäämättömiä välittäjiä palvelemaan kasvanutta asiakaskuntaamme. Koulutamme uudet v
-Hakuaika päättyy: 2026-12-03
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asuntomyyja-2802544>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelu-sales-trainee-opi-myyntia-tienaa-ja-rakenna-oma-myyntiurasi-2803620>)
 
-### 75/100 — STRONG — Floristiksi pop-up -myymälään, Kamppiin
-
-Rainmaker 
-Espoo, FI, Helsinki, Uusimaa, Vantaa
-Julkaistu: 2026-11-19
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Rainmaker hakee sidontataitoista floristimyyjää Kukkaset pop-up -myymälään kauppakeskus Kamppiin, aloitus mahdollisimman pian ja määräaikaisuus 12.2.2027 asti mahdollista jatkoa varten. Työ on noin 30 tuntia viikossa pop-upin aukioloaikojen mukaisesti ja toivomme joustavuutta lisätöihin sesonkiaikoina. Odotamme kukkasidontataitoja, intohimoa floristiikkaan, myynti- ja asiakaspalvelukokemusta sekä tiimipelaaja-a
-Hakuaika päättyy: 2027-01-18
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/floristiksi-pop-myymalaan-kamppiin-2802226>)
-
-### 75/100 — STRONG — Process Engineer, Evac Oy, Espoo
-
-Evac Oy
-Espoo
-Yhteenveto: About the role As a Process Engineer you will be responsible for designing process systems, selecting and dimensioning equipment, drafting P&IDs and writing process functional descriptions to support product and project management. Additionally, you will participate in concept development for different customer segments by drafting process flow diagrams, upkeeping total concept matrix, creating scope of supply lists, and writing technical specifi
-Lähteet: Academic Work
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/process-engineer-evac-oy-espoo/JDZG7J>)
-
-### 75/100 — STRONG — Asiakkuuskoordinaattori, Mehiläinen Oy
+### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
 
 Academic Work
-Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-19
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on hoitaa pk-yritysasiakkaiden työterveyspalveluiden asiakkuuksia puhelimitse, sähköpostitse ja Teamsissä sekä neuvoa sopimus- ja laskutusasioissa. Tehtäviin kuuluu sopimuslaajuuksien kartoittaminen, lisäpalveluiden myynti, asiakas- ja sopimustietojen ylläpito sekä yhteistyö työterveyshoitajien, palvelupäälliköiden ja laskutus- ja sopimushallinnan kanssa. Edellytämme kokemusta B2B-asiakaspalvelusta
-Hakuaika päättyy: 2027-01-18
+Helsinki, Uusimaa, FI, Lahti, Kouvola
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Asiakashankkijana työskentelet kenttämyynnissä Uudenmaan sekä Lahden ja Kouvolan alueilla sopien kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä. Työstä maksetaan kiinteä kuukausipalkka noin 2000–2500 €/kk, joten ansiosi eivät ole riippuvaisia toteutuneiden asiakaskäyntien määrästä. Etsimme henkilöä, jolla on rohkea asenne, erinomaiset vuorovaikutustaidot, sujuva suomen kielen taito ja mielellään
+Hakuaika päättyy: 2027-01-19
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -97,48 +104,13 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakkuuskoordinaattori-mehilainen-oy-2802808>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakashankkija-ma-sales-oy-2803603>)
 
-### 75/100 — STRONG — Solution Manager, eReporting and Taxation
+### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
 
-Wärtsilä
-Helsinki, Uusimaa, FI, Turku, Vaasa
-Julkaistu: 2026-11-19
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Solution Manager, eReporting and Taxation will design, develop and manage tax-related eReporting and statutory reporting solutions. They will drive implementation and continuous development of eReporting systems, translate regulatory changes into solution requirements, and oversee testing and vendor coordination. The role requires a degree in IT, Finance, Taxation or related field, strong knowledge of tax e
-Hakuaika päättyy: 2027-01-18
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/solution-manager-ereporting-and-taxation-2802475>)
-
-### 75/100 — STRONG — Product Data Management Administrator
-
-HAVI Oy
-Vantaa, FI
-Julkaistu: 2026-11-19
-Yhteenveto: HAVI Logistics Oy has been providing logistics services to the restaurant and food industry since 1989. We are part of the international HAVI Group , which innovates, optimizes, and manages supply chains and marketing campaigns for many of the world's most recognized brands. In Vantaa, we have approximately 80 highly skilled professionals serving customers across Finland. Our logistics centres are located in Petikko, Vantaa, where our office is a
-Hakuaika päättyy: 2026-12-02
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/product-data-management-administrator-2802323>)
-
-### 75/100 — STRONG — Asiakkuuskoordinaattori, Mehiläinen Oy
-
-Mehiläinen Oy
-Helsinki
-Yhteenveto: Tehtävänkuvaus Mehiläisen yritysasiakaspalvelu vastaa pienten ja keskisuurten yritysasiakkaiden työterveyspalveluiden asiakkuudenhoidosta. Pääset osallistumaan asiakkuuksien hoitoon osana valtakunnallista tiimiä, joka hoitaa päivittäisiä asiakaskohtaamisia yhdessä puhelimitse, sähköpostitse ja Teams tapaamisten kautta. Neuvot asiakkaita työterveyssopimuksiin ja laskutukseen liittyvissä kysymyksissä, kartoitat heidän tarpeitaan ja varmistat, että 
+M&A Sales Oy
+Uusimaa/Lahti/Kouvola
+Yhteenveto: Tehtävänkuvaus Asiakashankkijana vastaat uusien asiakkaiden tavoittamisesta kenttämyynnin keinoin Uudenmaan sekä Lahden ja Kouvolan alueilla. Tehtävän tarkoituksena on sopia kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä, jotka yrityksen kokeneemmat myyjät hoitavat loppuun. Työskentelet tiiviissä yhteistyössä muun myyntitiimin kanssa aloittaen työt pareittain ja edeten oman varmuuden kasvaessa itsenäisempään työskentelyyn. Saat ty
 Lähteet: Academic Work
 
 Miksi / huomioitavaa:
@@ -147,252 +119,150 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/asiakkuuskoordinaattori-mehilainen-oy/UOFQ3D>)
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/asiakashankkija-ma-sales-oy/4H6LSF>)
 
-### 70/100 — STRONG — Bioinformatics Specialist for HPC Environments
+### 75/100 — STRONG — Asiakastapaamisten sopija / buukkari (osa-aikainen) | 25h / viikko
 
-CSC - Tieteen tietotekniikan keskus Oy
-Espoo, FI, Kajaani
-Julkaistu: 2026-11-19
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Bioinformatics Specialist will support researchers and develop bioinformatics services for HPC by providing analysis-level advice, software installation, workflow optimization and documentation. The role requires hands-on experience running bioinformatics analyses on supercomputers and cloud environments (ideally with Slurm), proficiency in Bash, Python, R, containers and git, and experience with large data
-Hakuaika päättyy: 2027-01-18
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Etsitkö osa-aikaista työtä, jossa voit kehittää myyntitaitojasi ja samalla vaikuttaa omiin ansioihisi? Intensive Sales Partners Oy etsii uusia osa-aikaisia asiakastapaamisten sopijoita (buukkareita) talven projekteihin. Työ sopii erinomaisesti esimerkiksi opiskelijalle, välivuotta viettävälle tai henkilölle, joka haluaa tehdä lisäansioita nykyisen työnsä rinnalla. Mitä työ sisältää? Työskentelet asiakastapaamisten sopimisen ja asiakashankinnan pa
+Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +10 teknologia: python
-- +5 junior-/aloitustaso
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakastapaamisten-sopija-buukkari-osa-aikainen-25h-viikko-2803632>)
+
+### 75/100 — STRONG — B2B MYYNTIKONSULTTI - Provisiot jopa 1000 € / kauppa
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: 🚀 B2B MYYNTIKONSULTTI – MEILLÄ PÄÄSET TEKEMÄÄN MYYNTIÄ, JOSSA KAUPANTEKO NÄKYY PALKASSA Intensive Sales Partners Oy hakee B2B-myyjää myymään yrityksille myynnin kasvua. Jos nautit siitä hetkestä, kun puhelu muuttuu tapaamiseksi ja tapaaminen kaupaksi, tässä voi olla sinun seuraava työsi. Me autamme yrityksiä kasvattamaan myyntiään B2B-buukkauspalveluiden ja asiakashankinnan palveluiden avulla. Nyt haemme joukkoomme tavoitteellista B2B-myyjää , jo
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyntikonsultti-provisiot-jopa-1000-eu-kauppa-2803685>)
+
+### 70/100 — STRONG — Kolster Oy Ab - Business Development Manager
+
+Kolster Oy Ab
+Helsinki, FI
+Julkaistu: 2026-11-20
+Yhteenveto: We are looking for a Business Development Manager with a strong hunter profile. The role is focused on proactive new client acquisition and selling complex expert services to technology companies together with Kolster attorneys. You will independently identify prospects, open doors with senior decisionmakers and drive the entire sales process from first contact to closing. In this new dedicated role, you will strengthen Kolster's presence among S
+Hakuaika päättyy: 2026-12-01
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
 - +10 etätyö Suomesta
-- ? ilmoituksessa mainitaan Docker; osaamista ei ole vahvistettu profiilissa
+- -20 pyytää vähintään 150 vuotta kokemusta
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/bioinformatics-specialist-hpc-environments-2802308>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kolster-oy-ab-business-development-manager-2803461>)
 
-## KOULUTUKSET — 16 UUTTA / MUUTTUNUTTA
+## KOULUTUKSET — 5 UUTTA / MUUTTUNUTTA
 
-### 85/100 — STRONG — Bachelor of Business Administration, Computer Applications, full-time studies
+### 100/100 — STRONG — Master of Business Administration, Management in Sustainable Business
 
 Hämeen ammattikorkeakoulu
 Hämeenlinna
-Yhteenveto: Study Computer Applications and become an international ICT talent! With us, you will combine technology with business. Are you fascinated by the possibilities of programming and artificial intelligence? Do you want to master big data and business analytics? Then you are at right place! In our Computer Applications degree programme, you will get a strong base for your future career. Learning by doing and working in teams are key elements in our s
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
-Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001459>)
-
-### 85/100 — STRONG — Bachelor of Business Administration, International Business, full- and part-time studies
-
-Hämeen ammattikorkeakoulu
-Valkeakoski
-Yhteenveto: Empower Your Future with Sustainable and Data-Driven Decision Making! Are you ready to become a bettermaker? Join HAMK’s International Business degree and turn your ideas into action! Learn by doing with students from many cultures, working together on real business projects that make a difference. Build practical skills in data, marketing, and business development to create a better, more sustainable future. At HAMK, you don’t just study, you sh
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
+Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
 Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
-Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
+Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
+Toteutus: ONLINE
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
 Haku: OPEN
 Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001574>)
-
-### 85/100 — STRONG — Bachelor of Engineering, Information Technology, Software Development in the Age of AI (blended studies), Helsinki, KAMK
-
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: Software Development in the Age of AI is a cutting-edge, part-time engineering program designed to equip students with the skills and knowledge to excel in the rapidly evolving field of software development. This program merges traditional software engineering principles with modern AI techniques, providing a comprehensive education that prepares students to design, develop, and deploy intelligent software systems. The program is designed as a bl
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fee and scholarship system.
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2026-12-31T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026725>)
-
-### 75/100 — STRONG — Bachelor of Business Administration, International Business, päivätoteutus
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: International Business -tradenomikoulutuksesta valmistut kansainvälisen markkinoinnin ja liiketoiminnan tehtäviin. Opintojen aikana sinulle syntyy kokonaisvaltainen kuva kansainvälisestä liiketoiminnasta. Opinnoissa perehdyt erityisesti kansainväliseen markkinointiin ja asiakasosaamiseen. Kansainväliseen tradenomitutkintoon (BBA) sisältyy myös viestinnän, talouden, myynnin ja johtamisen opintoja. Täydentävät opinnot, harjoittelu sekä opinnäytetyö
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 9000.0 (lähteen summa; tarkista ehdot) ; Opetus on maksullista EU/ETA-alueen ulkopuolelta tuleville opiskelijoille. Lisätietoja lukuvuosimaksusta ja stipendijärjestelmästä löydät Karelian www-sivuilta. Lukuvuosimaksu on 9 000 euroa.
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
 - +15 joustava toteutus; tarkista pakolliset lähipäivät
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001591>)
-
-### 75/100 — STRONG — Bachelor of Engineering, Information Technology,  daytime studies (top-up)
-
-Metropolia Ammattikorkeakoulu
-Espoo
-Yhteenveto: Bachelor of Engineering, Information Technology, top-up degree is jointly run by Middle East College and Metropolia University of Applied Sciences. First two year of studies (120 ECTS) will be done in partner school. 3rd and 4th year studies (120 ECTS) will be in Metropolia University of Applied Sciences, Karamamlmi Espoo, Finland. Study objectives As a graduated engineer you have a vast technological knowledge and understanding of the field of I
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is €11.500. Read more about tuition fees and scholarships on our website.
-Toteutus: ON_SITE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Harkinnanvaraisuus tai erivapaus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-31T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020469>)
-
-### 75/100 — STRONG — Software Engineering and Information Systems, Bachelor and Master of Science (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Are you interested in human-technology interactions, designing information systems, software, and digital services for daily life and organizational operations? Studies in Software Engineering and Information Systems offer a front-row seat to working in the field of information technology. The programme focuses on developing AI and software products, as well as information systems, that are designed around users’ needs. Studying at Oulu gives you
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the website of Univer
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000032386>)
-
-### 75/100 — STRONG — Computer Science and Engineering, Bachelor and Master of Science (Technology) (3 years + 2 years)
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Do you want to study in a leading research environment at the University of Oulu? The Computer Science and Engineering (CSE) degree programme at the University of Oulu prepares future Diploma Engineers (M.Sc. in Technology) to develop innovative software, intelligent systems, and secure digital solutions that address complex societal and industrial challenges. Digitalization, artificial intelligence, cybersecurity, and data-driven decision-making
-Koulutustyyppi: BACHELOR + MASTER
-Laajuus: 300.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; University of Oulu will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. The scholarship system is meant for non-EU/EEA students who are required to pay tuition fees. Please visit the University of Oul
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-21T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035101>)
-
-### 70/100 — STRONG — Bachelor of Engineering, Information Technology, full-time studies
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Xamk’s Degree Programme in Information Technology (IT) gives you a solid foundation in IT and allows you to specialize in the field of your own interest with a flexible study plan. This way, you can find and use your personal strengths as a future IT engineer. The IT programme focuses on computer networking and the implementation of services in modern data center environments. You learn to build secure Internet-connected, wired and wireless local
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
-Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is 10 700 euros/academic year Read more about the tuition fees at Xamk.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2027-01-31T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001519>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008645>)
 
-### 70/100 — STRONG — Bachelor's Degree in Software Engineering
+### 85/100 — STRONG — Liiketoiminnan perustutkinto | Varkaus | jatkuva haku
 
-Tampereen ammattikorkeakoulu
+Savon ammattiopisto
+Varkaus
+Yhteenveto: Voit opiskella Varkauden kampuksellamme liiketalouden perustutkinnon joko päiväopetuksena tai työelämäpainotteisessa toteutuksessa. Ala sopii sinulle, jos haluat työskennellä ihmisten kanssa. sinua kiinnostaa myyntityö, asiakkaiden palvelu ja markkinointi. haluat työskennellä muuttuvissa tilanteissa. pidät erilaisten tilanteiden ja asioiden ratkaisemisesta. Mitä työ voi olla? Myyntityötä, eli voit suunnitella myyntiä ja myydä asiakkaille erilaisi
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
+Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot)
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
+Haku: OPEN
+Hakuaika päättyy: 2026-11-29T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037692>)
+
+### 85/100 — STRONG — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
+
+Tampereen seudun ammattiopisto Tredu
 Tampere
-Yhteenveto: Future career in a digitalised world Are you aiming for a career in the international field of software engineering? Our Bachelor’s Degree Programme in Software Engineering equips you with strong working-life skills and the confidence to build your own professional path in the global software industry. The demand for software professionals remains consistently high, and ICT specialists play a central role in a highly digitalised and AI-driven soc
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. Do I have to pay tuition fees?
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Alempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ammattikorkeakoulututkinto
+Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon maanantaina 14.12. klo 15.30-16.30. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessiin lii
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Peruskoulu
 Haku: OPEN
-Hakuaika päättyy: 2027-02-28T23:59
+Hakuaika päättyy: 2026-12-09T12:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
+- +40 kiinnostava aihe: BUSINESS
 - +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001543>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
 
-### 70/100 — STRONG — Bachelor of Business Administration, International Business, KAMK
+### 70/100 — STRONG — Yrittäjyyden ammattitutkinto
 
-Kajaanin ammattikorkeakoulu
-Kajaani
-Yhteenveto: The Bachelor’s Degree in International Business at Kajaani University of Applied Sciences is a comprehensive program is designed to equip you with the theoretical and practical knowledge needed to thrive in the complex global marketplace. By combining strong core business fundamentals with specialized knowledge in international operations, marketing, and leadership, we help you launch your professional career as an international business expert. 
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Read more about the tuition fees and scholarships
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
+Sasky oppisopimus- ja työelämäpalvelut
+Sastamala
+Yhteenveto: Liiketoiminta muuttuu nopeasti, ja ajantasaiselle osaamiselle on kysyntää. Yrittäjyyden ammattitutkinto antaa valmiudet kehittää omaa yritystoimintaa suunnitelmallisesti ja vastuullisesti. Opiskelija kehittää erityisesti strategista ja asiakaslähtöistä liiketoimintaosaamista, myyntiosaamista sekä talouteen liittyvää osaamista. Opiskelijalla karttuu myös taito hyödyntää digitaalisia kanavia ja tekoälyä myynnissä. Oppisopimusmuotoinen koulutus edel
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Oppisopimuskoulutus on opiskelijalle maksutonta. EU- ja ETA-alueen ulkopuolisten maiden kansalaisilta voidaan periä lukuvuosimaksu.
+Toteutus: UNKNOWN
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
 Haku: OPEN
-Hakuaika päättyy: 2026-12-31T23:59
+Hakuaika päättyy: 2027-02-09T00:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -400,152 +270,38 @@ Miksi / huomioitavaa:
 - +20 rakentaa IT/liiketalous-taustalle
 - +10 haku avoinna
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001604>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044222>)
 
-### 70/100 — STRONG — Bachelor of Business Administration, Digital International Business, Kouvola, full-time studies
+### 65/100 — STRONG — Avoin yo: VR-järjestelmät ja ihmiset, kevät 2027
 
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Ready to challenge yourself in Digital International Business? The Degree Programme in Digital International Business provides broad competence in business administration in an international and digital context, both in Finland and globally. The programme also develops entrepreneurial knowledge and skills and is suitable for both Finnish and international students. You will graduate from the Digital International Business Degree Programme ready f
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
-Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 10 700 /academic year Read more about the tuition fees at Xamk.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2027-01-31T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001643>)
-
-### 70/100 — STRONG — Bachelor of Engineering, DP in Information Technology, full-time studies, VAMK
-
-Vaasan ammattikorkeakoulu
-Vaasa
-Yhteenveto: Are you interested in studying next to the largest energy technology cluster of Northern Europe? Together with the international students, the degree programme in Information Technology is the perfect way for you to gain higher education, excellent English skills and cultural experience. It prepares you for demanding careers in the industry. You gain professional skills and a strong theoretical basis that are much needed on rapidly changing envir
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
-Hinta: lukuvuosimaksu: 10500.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ulkomainen toisen asteen tutkinto, Avoimen ammattikorkeakoulun opinnot, Harkinnanvaraisuus tai erivapaus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001677>)
-
-### 70/100 — STRONG — Insinööri (AMK), robotiikka ja tekoäly, päivätoteutus, Kouvola
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: Robotiikan ja tekoälyn ammattilaisille on kova kysyntä työelämässä. Hanki insinöörintutkinto tulevaisuuden alalta! Robotiikan ja tekoälyn -insinöörikoulutuksessa perehdyt robottien suunnitteluun, ohjelmointiin ja hyödyntämiseen niin teollisessa tuotannossa kuin palvelualoillakin. Moderni robotiikka hyödyntää tekoälyä ja tarjoaa runsaasti mahdollisuuksia toiminnan kehittämiseen yhteiskunnan eri aloilla. Tekoälyn avulla koneet, laitteet, ohjelmat, 
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan ; Syksy 2027
+Oulun yliopisto
+Oulu
+Yhteenveto: Virtual reality (VR) technology transports us to real or synthetic places that may be inaccessible, breathtaking, complex beyond our wildest imagination, or just simple and relaxing. Applications include entertainment, social interaction, virtual travel, remote training, architectural walkthroughs, cultural appreciation, and learning enhancement. Although VR has been around for decades, it always came with a high cost to enter the field because o
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0–5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
 Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Yleinen ammattikorkeakoulukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-03-31T15:00
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
 - +40 kiinnostava aihe: IT
 - +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000006925>)
-
-### 70/100 — STRONG — Bachelor of Business Administration, International Business and Analytics, daytime studies
-
-Metropolia Ammattikorkeakoulu
-Helsinki, Vantaa
-Yhteenveto: Overview The Bachelor’s Degree Programme in International Business and Analytics at Metropolia University of Applied Sciences prepares students for dynamic careers in the global business environment, with a focus on international business studies and data analytics, equipping students with the skills to harness the power of data in driving business decisions and strategies. If you want to lead the way towards a more sustainable future in multicul
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
-Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants from EU/EEA: free of charge. Applicants from outside of EU/EEA: annual tuition fee is currently €11.500. Read more about current tuition fees and scholarships on our website.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta
-Haku: OPEN
-Hakuaika päättyy: 2027-04-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000026310>)
-
-### 70/100 — STRONG — Bachelor of Business Administration, Business Analytics
-
-Kaakkois-Suomen ammattikorkeakoulu
-Kouvola
-Yhteenveto: The Business Analytics degree programme develops your skills to gather, analyse, and visualise data, turning it into actionable insights that drive smart global business decisions. The programme is suitable for both Finnish and non-Finnish students alike. Business Analytics at Xamk is a business degree with an applied analytics focus. No prior programming, engineering or advanced mathematics background is required. Students learn analytical and d
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
-Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is 10 700 euros/academic year. Read more about the tuition fees at Xamk.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
-Haku: OPEN
-Hakuaika päättyy: 2027-01-31T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT, BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000030291>)
-
-### 70/100 — STRONG — Bachelor of Business Administration, Digital International Business, Mikkeli, full-time studies
-
-Kaakkois-Suomen ammattikorkeakoulu
-Mikkeli
-Yhteenveto: Ready to challenge yourself in Digital International Business? The Degree Programme in Digital International Business provides broad competence in business administration in an international and digital context, both in Finland and globally. The programme also develops entrepreneurial knowledge and skills and is suitable for both Finnish and international students. You will graduate from the Digital International Business Degree Programme ready f
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10700.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 10 700 /academic year Read more about the tuition fees at Xamk.
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus
-Haku: OPEN
-Hakuaika päättyy: 2027-02-15T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043241>)
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044220>)
 
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
 - LinkedIn: BLOCKED — robots.txt disallows automated access
-- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread | HTTPSConnectionPool(host='www.jobly.fi', port=443): Read timed out. (read timeout=20)
+- Jobly: PARTIAL — Jobly: page limit reached (5); some results remain unread
 - Laura: FAILED — 500 Server Error: Internal Server Error for url: https://laura.fi/wp-content/themes/jobify-child/ajax.php?wpml_lang=fi
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
@@ -760,7 +516,7 @@ Muistiinpanot:
 
 Academic Work
 Jyväskylä, FI, Vantaa
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Data & AI -konsulttina toteutat itsenäisesti analytiikkaratkaisuja (Power BI, Qlik, Microsoft Fabric, Databricks, Azure) tarvemäärittelystä julkaisuun asti. Työhön kuuluu tietovarastojen ja tietomallien suunnittelu, BI-sovellusten rakentaminen, datan laadun varmistus sekä tekoälyagenttien (esim. Claude) hyödyntäminen kehitysprosessissa. Tehtävään vaaditaan kokemusta vähintään yhdestä alustasta (Microsoft Fabric
 Hakuaika päättyy: 2027-01-04
 Lähteet: Jobly
@@ -2487,7 +2243,7 @@ Muistiinpanot:
 
 Alma Media
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haetaan Myyntipäällikköä, joka vastaa DOKSin uusasiakashankinnasta ja myynnin kasvattamisesta Ruotsissa. Tehtävä kattaa koko myyntiprosessin prospektoinnista kaupan solmimiseen sekä myyntiputken ja ennusteiden järjestelmällisen hallinnan. Edellytämme vähintään kahden vuoden kokemusta B2B-myynnistä mielellään SaaS- tai teknologia-alalta sekä näyttöä uusasiakashankinnasta ja sujuvaa ruotsin ja englannin kielitait
 Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly
@@ -2708,6 +2464,28 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 90/100 — STRONG — BI-asiantuntija / Power BI & Analytics Specialist
+
+Laattapiste-Pukkila Oy
+Vantaa, FI
+Julkaistu: 2026-11-12
+Yhteenveto: Haluatko päästä rakentamaan modernia BI- ja analytiikkaympäristöä ja vaikuttamaan siihen, miten data tukee liiketoiminnan päätöksentekoa? Haemme Laattapiste-Pukkilalle kokenutta ja käytännönläheistä BI-asiantuntijaa / Power BI & Analytics Specialistia kehittämään raportointia, analytiikkaa ja tiedolla johtamisen ratkaisuja. Kyseessä on uusi rooli, jossa pääset rakentamaan uutta valmiin ympäristön ylläpitämisen sijaan. Ensimmäinen merkittävä kokon
+Hakuaika päättyy: 2026-11-23
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Azure, Power BI, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/bi-asiantuntija-power-bi-analytics-specialist-2798318>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 90/100 — STRONG — Asiakaskohtaamisten sopija – Avaa ovia yritysten kasvulle
 
 Intensive Sales Partners Oy
@@ -2754,7 +2532,7 @@ Muistiinpanot:
 
 Rakennustieto Oy
 Helsinki, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Rakennustieto Oy on luotettava tietopalvelukumppani rakentamisen elinkaaressa. Arvoa tuovalla, ajantasaisella tiedolla mahdollistamme kestävästi rakennetun ympäristön. Rakennustieto Oy kuuluu RTS-konserniin, jonka omistaa Rakennustietosäätiö RTS sr. Haemme nyt MYYNTIPÄÄLLIKKÖÄ toistaiseksi voimassa olevaan työsuhteeseen Helsinkiin vahvistamaan digitaalisten ratkaisujemme myyntiä. Asiakkaitamme ovat kiinteistö- ja rakentamisalan yritykset, julkise
 Hakuaika päättyy: 2026-12-06
 Lähteet: Jobly
@@ -2874,6 +2652,69 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/product-sales-assistant-2779892>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Data Domain Owner, Product & Item
+
+Metso
+Espoo, FI, Lappeenranta, Tampere
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Data Domain Owner, Product & Item will own Metso’s Product & Item data domain and be accountable for its quality, definitions and governed use to support AI, digitalization and operations. You will roll out Metso’s data governance model for the domain, define and monitor data quality rules, lead the matrix data steward network, and prioritize and resolve critical data issues and migrations. The role partner
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/data-domain-owner-product-item-2803055>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — B2B- myynnin harjoittelu talvelle 2026
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Oletko kaupallisen alan opiskelija, joka haluaa oppia yritysmyynnin salat? Oletko innostunut kasvamaan yhdessä urallasi uudelle tasolle? Mahtavaa, nimittäin nyt kannattaa lukea pidemmälle! Haemme harjoittelijoita talvelle 2026. Tarjoamme kaupallisen alan opiskelijalle mahdollisuuden yhdistää opintojen teoriaa käytännönläheisesti myyntiprosesseihin aina asiakaskontaktoinnista tarjouksen lähettämiseen asti. Tämän ansiosta tulet oppimaan yritysmyynn
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myynnin-harjoittelu-talvelle-2026-2803638>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Solution Sales Manager, Security
+
+Aurilo
+Kouvola, FI, Kuopio, Mikkeli, Oulu, Pori, Rauma, Salo, Seinäjoki, Tampere, Turku, Vaasa, Ylivieska, Espoo, Jyväskylä
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Toimit Solution Sales Managerina vastuullasi on Aurilon tietoturvapalveluiden vahvan kasvun varmistaminen pääasiassa nykyasiakkaissa osana jatkuvan palvelun myyntiorganisaatiota. Tehtäviisi kuuluu tietoturvaratkaisujen kaupallistaminen asiakkaiden liiketoimintaan, myyntimahdollisuuksien tunnistaminen ja niiden suunnitelmallinen eteneminen sekä myyntifunnelin ja myyntiaktiviteettien raportointi. Kokonaispalkkasi
+Hakuaika päättyy: 2027-01-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/solution-sales-manager-security-2796778>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -3480,6 +3321,26 @@ Miksi / huomioitavaa:
 - +10 etätyö Suomesta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myynnin-ja-kumppanuushankinnan-harjoittelija-b2b-2802394>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 80/100 — STRONG — Myyntiharjoittelu / Sales Trainee – Opi myyntiä, tienaa ja rakenna oma myyntiurasi
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Haluatko oppia myyntiä käytännössä – et vain kirjoista? Intensive Sales Partners Oy tarjoaa mahdollisuuden aloittaa myyntiura ympäristössä, jossa saat oikeaa kokemusta, koulutusta, vastuuta ja mahdollisuuden tienata samalla kun kehität myyntitaitojasi. Etsimme nyt motivoituneita opiskelijoita, alanvaihtajia ja myynnistä kiinnostuneita mukaan myynnin trainee-ohjelmaan. Tämä voi olla juuri se paikka, jossa ensimmäinen myyntityö muuttuu ensimmäiseks
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelu-sales-trainee-opi-myyntia-tienaa-ja-rakenna-oma-myyntiurasi-2803620>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -6075,7 +5936,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will take full ownership of the sales cycle in Helsinki, prospecting and closing deals with manufacturing clients through 1-2-1 meetings and live events. The role requires advanced German and English, a commercial mindset, strong phone-based outreach skills, and previous B2B sales or prospecting experience is meritorious. The compensation is a competitive salary structure consisting of a base salary, a fixe
 Hakuaika päättyy: 2026-11-23
 Lähteet: Jobly
@@ -6280,7 +6141,7 @@ Muistiinpanot:
 
 Compass Human Resources Group Finland Oy
 Vantaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: NIBE on maailmanlaajuinen konserni, joka kehittää ja valmistaa älykkäitä ja energiatehokkaita ratkaisuja sisätilojen mukavuuteen kaikenlaisille kiinteistöille. NIBEn tarina sai alkunsa 70 vuotta sitten Smoolannin Markarydissä yrittäjähenkisyydestään tunnetulla alueella. NIBE-konserni työllistää yli 20 000 työntekijää ja harjoittaa liiketoimintaa Euroopassa, Pohjois-Amerikassa, Aasiassa ja Australiassa. Pohjoismaissa NIBE on suurin lämmitysjärjest
 Hakuaika päättyy: 2026-11-20
 Lähteet: Jobly
@@ -6452,7 +6313,7 @@ Muistiinpanot:
 
 Eezy Henkilöstöpalvelut
 Helsinki, Uusimaa, FI, Tampere, Turku, Jyväskylä, Hämeenlinna, Lappeenranta
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Myyntipäällikkönä vastaat oman asiakassalkun kehittämisestä ja uusasiakashankinnasta sekä myyntiprosessien läpiviennistä aina ensikontaktista sopimuksiin ilman esihenkilövastuuta. Tehtävä edellyttää näyttöä tuloksellisesta B2B-myynnistä, kykyä hallita laajoja kokonaisuuksia, itsenäistä ja järjestelmällistä työotetta, Microsoft-ympäristön osaamista sekä B-ajokorttia ja valmiutta matkustaa. Tarjoamme 3 500–4 500 
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
@@ -6663,7 +6524,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI, Espoo
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will act as Service Manager for the IBM Maximo Suite, owning the development backlog and service roadmap while governing the AMS partner for a business-critical system. You will coordinate releases, plan sprints, manage the continuous minor development pipeline, and guide an offshore team during and after transition. The role requires practical experience with Agile tools (Jira), ITSM processes (ServiceNow)
 Hakuaika päättyy: 2027-01-12
 Lähteet: Jobly
@@ -6683,7 +6544,7 @@ Muistiinpanot:
 
 Eezy Henkilöstöpalvelut
 Hyvinkää, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme omatoimaista myyjää aluesuojauksen pariin Hyvinkäälle, työ on vakituinen ja alkaa mahdollisimman pian. Tehtävä sisältää b2b-asiakkaiden ja sidosryhmien hankintaa ja ylläpitoa pitkälti puhelimitse toimistolta käsin sekä kustannuslaskentaa. Edellytämme kokemusta b2b-myynnistä, valmiutta tarttua puhelimeen ja ratkaisukeskeistä työotetta, ja rakennusalan kokemus on etu. Tarjoamme vakituisen paikan vakavarais
 Hakuaika päättyy: 2026-11-30
 Lähteet: Jobly
@@ -7070,6 +6931,80 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/process-engineer-evac-oy-espoo/JDZG7J>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — B2B MYYNTIKONSULTTI - Provisiot jopa 1000 € / kauppa
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: 🚀 B2B MYYNTIKONSULTTI – MEILLÄ PÄÄSET TEKEMÄÄN MYYNTIÄ, JOSSA KAUPANTEKO NÄKYY PALKASSA Intensive Sales Partners Oy hakee B2B-myyjää myymään yrityksille myynnin kasvua. Jos nautit siitä hetkestä, kun puhelu muuttuu tapaamiseksi ja tapaaminen kaupaksi, tässä voi olla sinun seuraava työsi. Me autamme yrityksiä kasvattamaan myyntiään B2B-buukkauspalveluiden ja asiakashankinnan palveluiden avulla. Nyt haemme joukkoomme tavoitteellista B2B-myyjää , jo
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyntikonsultti-provisiot-jopa-1000-eu-kauppa-2803685>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Asiakastapaamisten sopija / buukkari (osa-aikainen) | 25h / viikko
+
+Intensive Sales Partners Oy
+Helsinki, FI, Espoo, Vantaa, Järvenpää
+Julkaistu: 2026-11-20
+Yhteenveto: Etsitkö osa-aikaista työtä, jossa voit kehittää myyntitaitojasi ja samalla vaikuttaa omiin ansioihisi? Intensive Sales Partners Oy etsii uusia osa-aikaisia asiakastapaamisten sopijoita (buukkareita) talven projekteihin. Työ sopii erinomaisesti esimerkiksi opiskelijalle, välivuotta viettävälle tai henkilölle, joka haluaa tehdä lisäansioita nykyisen työnsä rinnalla. Mitä työ sisältää? Työskentelet asiakastapaamisten sopimisen ja asiakashankinnan pa
+Hakuaika päättyy: 2026-11-30
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakastapaamisten-sopija-buukkari-osa-aikainen-25h-viikko-2803632>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
+
+Academic Work
+Helsinki, Uusimaa, FI, Lahti, Kouvola
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Asiakashankkijana työskentelet kenttämyynnissä Uudenmaan sekä Lahden ja Kouvolan alueilla sopien kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä. Työstä maksetaan kiinteä kuukausipalkka noin 2000–2500 €/kk, joten ansiosi eivät ole riippuvaisia toteutuneiden asiakaskäyntien määrästä. Etsimme henkilöä, jolla on rohkea asenne, erinomaiset vuorovaikutustaidot, sujuva suomen kielen taito ja mielellään
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/asiakashankkija-ma-sales-oy-2803603>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Asiakashankkija, M&A Sales Oy
+
+M&A Sales Oy
+Uusimaa/Lahti/Kouvola
+Yhteenveto: Tehtävänkuvaus Asiakashankkijana vastaat uusien asiakkaiden tavoittamisesta kenttämyynnin keinoin Uudenmaan sekä Lahden ja Kouvolan alueilla. Tehtävän tarkoituksena on sopia kotitalouksille maksuttomia aurinkopaneelien kartoituskäyntejä, jotka yrityksen kokeneemmat myyjät hoitavat loppuun. Työskentelet tiiviissä yhteistyössä muun myyntitiimin kanssa aloittaen työt pareittain ja edeten oman varmuuden kasvaessa itsenäisempään työskentelyyn. Saat ty
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/asiakashankkija-ma-sales-oy/4H6LSF>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -7611,6 +7546,28 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 70/100 — STRONG — Kolster Oy Ab - Business Development Manager
+
+Kolster Oy Ab
+Helsinki, FI
+Julkaistu: 2026-11-20
+Yhteenveto: We are looking for a Business Development Manager with a strong hunter profile. The role is focused on proactive new client acquisition and selling complex expert services to technology companies together with Kolster attorneys. You will independently identify prospects, open doors with senior decisionmakers and drive the entire sales process from first contact to closing. In this new dedicated role, you will strengthen Kolster's presence among S
+Hakuaika päättyy: 2026-12-01
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -20 pyytää vähintään 150 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kolster-oy-ab-business-development-manager-2803461>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 65/100 — STRONG — Korkeakouluharjoittelija sijoitusten datanhallintaan ja analytiikkaan
 
 Keva
@@ -7900,7 +7857,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Rooli vastaa korkeatasoisten Board Certificate -hallitusohjelmien myynnistä suomalaisille yrityspäättäjille ja ylimmälle johdolle Helsingissä. Työ sisältää valmiiden liidien kontaktoinnin ilman kylmäprospektointia, online-tapaamisten vetämisen ja konsultatiivisen myyntiprosessin kaupantekoon asti. Edellytämme 3–5 vuoden näyttöihin perustuvaa B2B-myyntikokemusta, kokemusta premium-palveluiden myynnistä sekä suju
 Hakuaika päättyy: 2026-12-29
 Lähteet: Jobly
@@ -7920,7 +7877,7 @@ Muistiinpanot:
 
 Academic Work
 Vantaa, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will join a team testing embedded systems for HVAC products, focusing on test automation and manual hardware testing. Daily tasks include automation and manual testing with Robot Framework, Jenkins, Python, Jira and GitHub while using AI-assisted tools and following lab safety protocols. Applicants must have a completed degree in software or electrical engineering (or related), at least one year of relevant
 Hakuaika päättyy: 2027-01-05
 Lähteet: Jobly
@@ -7961,7 +7918,7 @@ Muistiinpanot:
 
 DigiHelsinki Oy
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: DigiHelsinki hakee kolmea kokoaikaista ICT-harjoittelijaa viiden kuukauden palkalliseen harjoitteluun, joka alkaa 11.1.2027, ja kuukausipalkka on 2 000 euroa. Harjoittelija osallistuu käyttäjä- ja lähitukeen, Microsoft 365 -käyttäjätukeen, laitteiden käyttöönottoon, tekniseen ongelmanratkaisuun sekä ICT-infrastruktuurin ja kyberturvallisuuden avustaviin tehtäviin. Sopiva hakija opiskelee ICT-alaa korkeakoulussa
 Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
@@ -8867,7 +8824,7 @@ Muistiinpanot:
 
 Destia Oy
 Helsinki, Uusimaa, FI, Tampere
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Destia hakee Data Engineeriä rakentamaan ja migroimaan on‑premises‑data‑ ja integraatioalustaa Azureen käyttäen Databricksia, Azure Integration Services -ratkaisuja ja Power BI:tä. Tehtävään edellytetään 1–3 vuoden kokemusta Data Engineer -tyyppisestä roolista sekä käytännön osaamista Databricksistä tai Azure Integration Servicesistä sekä Pythonin ja SQL:n hallintaa ja sujuvaa suomi- ja englanninkielen taitoa. 
 Hakuaika päättyy: 2027-01-04
 Lähteet: Jobly
@@ -8909,7 +8866,7 @@ Muistiinpanot:
 
 Eliittikatot Oy
 Vantaa, FI, Mäntsälä, Hyvinkää, Porvoo, Riihimäki
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Oletko tavoitteellinen myyjä, joka nauttii uusien asiakkaiden kohtaamisesta ja haluaa nähdä oman työnsä tulokset myös ansioissaan? Eliittikatot Oy etsii nyt remonttimyyjiä Jyväskylän ja Uudenmaan alueille! Tarjolla on itsenäinen ja liikkuva myyntitehtävä, jossa sinulla on mahdollisuus ansaita 4 000–5 500 euroa kuukaudessa. Eliittikatot Oy on vuonna 2000 perustettu kotimainen perheyritys ja yksi Suomen johtavista pientalojen kattoremontteihin erik
 Hakuaika päättyy: 2026-11-20
 Lähteet: Jobly
@@ -10358,7 +10315,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will take technical ownership of a complex, enterprise Siemens Teamcenter PLM platform, shaping architecture and guiding an international team to improve stability, performance and observability. Your main tasks will be to develop the technical roadmap, analyse and troubleshoot system bottlenecks, design configuration and integration improvements, and support upgrades and maintainability. The role requires 
 Hakuaika päättyy: 2027-01-04
 Lähteet: Jobly
@@ -10663,6 +10620,63 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/prosessiasiantuntija-vakuuttamisen-data-ilmarinen-2802098>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Ohjelmistoasiantuntija Tietohallinto
+
+HUS
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Ohjelmistoasiantuntija vastaa HUSin toiminnanohjausjärjestelmien sovellusten, konfiguraatioiden, integraatioiden toteutuksesta, ylläpidosta ja kehittämisestä. Rooli toimii ohjelmisto- ja integraatioasiantuntijana tehden muutostöitä, testauksia, käyttöönottoja sekä koordinoiden teknisiä ratkaisuja toimittajien ja sisäisten sidosryhmien kanssa. Tehtävässä edellytetään vahvaa ERP-ymmärrystä, integraatio- ja tietot
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ohjelmistoasiantuntija-tietohallinto-2803222>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — IT-tuotantopäällikkö
+
+Kirkkonummen kunta
+Kirkkonummi, FI
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: IT-tuotantopäällikkönä vastaat ICT-palvelutuotannon ohjauksesta, laadusta ja toimittajayhteistyöstä sekä palvelutasojen toteutumisesta kunnan strategian tukemiseksi. Tehtävän vastuulla on yli 5 000 työasemaa ja satoja järjestelmiä, ja siinä kehitetään sekä valvotaan tuotanto- ja jatkuvuudenhallintaprosesseja. Edellytämme soveltuvaa korkeakoulututkintoa, kokemusta laajasta ICT-palvelutuotannosta ja monitoimittaj
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-tuotantopaallikko-2803050>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — IT-kehityspäällikkö
+
+Kirkkonummen kunta
+Kirkkonummi, FI
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: IT-kehityspäällikkö vastaa kunnan toimialojen ja ICT-palveluiden välisestä yhteistyöstä, sisäisten asiakkuuksien hallinnasta sekä kehityshankkeiden valmistelusta ja ohjauksesta. Tehtävään kuuluu kunnan ICT-tiekartan laatiminen ja priorisointi sekä ICT-palveluiden strateginen suunnittelu yhteistyössä arkkitehtien, tietoturvan ja palvelutoimittajien kanssa. Edellytämme soveltuvaa korkeakoulututkintoa, kokemusta I
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-kehityspaallikko-2803049>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -11101,7 +11115,7 @@ Muistiinpanot:
 
 Academic Work
 Espoo, FI
-Julkaistu: 2026-11-13
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive AI and automation initiatives in a manufacturing environment by transforming raw data into scalable production solutions. You will develop and expand factory automations, design and execute Databricks data pipelines, and build models for forecasting resource needs. The role requires excellent SQL and Databricks skills, hands-on experience building AI solutions and working with frameworks like Cop
 Hakuaika päättyy: 2026-12-15
 Lähteet: Jobly
@@ -11222,7 +11236,7 @@ Muistiinpanot:
 
 Nordrest
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-19
+Julkaistu: 2026-11-20
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Head of Sales -roolissa vastaat myynnin kehittämisestä Suomessa, uusien B2B-asiakkuuksien hankinnasta ja myyntiprosessien johtamisesta ideasta sopimukseen. Tehtävään vaaditaan kokemusta B2B‑myynnistä ja liiketoiminnan kehittämisestä, ja ravintola‑ tai palvelualan kokemus sekä näyttö uusien liiketoimintojen luomisesta on eduksi. Työsuhde on vakituinen ja työpaikka on Helsingin Ruoholahdessa, jossa työskennellään
 Hakuaika päättyy: 2027-01-11
 Lähteet: Jobly
@@ -11312,6 +11326,23 @@ Miksi / huomioitavaa:
 - -30 senioriteetti ylittää nykyisen taustan
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/qa--test-lead-stora-enso-helsinki/RIRHDK>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 45/100 — REVIEW — Purchasing Coordinator, Hyvinkää
+
+Organisaatio tuntematon
+Hyvinkää
+Yhteenveto: About the role As a Purchasing Coordinator within the Purchase Order Management team, you will ensure excellent data quality and timely delivery of materials. You will act as a key contact point for external suppliers and internal cross-functional teams, managing the end-to-end purchase order lifecycle. You are offered We offer a monthly salary of 3000 to 3200 € and a hybrid working model with 3 days at our Hyvinkää office and 2 days remote. Duri
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 Uusimaa
+- ? ilmoituksessa mainitaan Power BI; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/purchasing-coordinator-hyvinkaa/RXGAWI>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -12625,7 +12656,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-12
+Julkaistu: 2026-11-19
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tässä full-stack-ohjelmistokehittäjän tehtävässä kehität luotettavia verkkosovelluksia ja integraatioita energiasektorille Espoossa kansainvälisessä tuotekehitystiimissä. Työssäsi suunnittelet, kehität ja ylläpidät moderneja web‑sovelluksia, taustapalveluita, rajapintoja, pilviympäristöjä ja CI/CD-putkia sekä hyödynnät tekoälytyökaluja. Hakijalta odotetaan muutaman vuoden käytännön kokemusta full-stack-kehityks
 Hakuaika päättyy: 2027-01-11
 Lähteet: Jobly
@@ -12639,6 +12670,90 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Azure, AWS, SQL; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ohjelmistokehittaja-full-stack-energiasektorille-espoo-2798491>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 40/100 — REVIEW — Software Developer, Bitville, Helsinki
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will maintain, support, and develop web applications, e-learning systems, and content-authoring platforms built on Microsoft Azure. The role requires working across the stack including frontend (TypeScript/JavaScript), backend (C#/.NET), databases, Linux VMs, Azure services, and CI/CD pipelines. You will join a small, low-hierarchy agile team in Helsinki with learning opportunities, diverse client projects,
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 teknologia: javascript, typescript
+- +10 Uusimaa
+- -15 ohjelmistotyön junior-sopivuus ei ole vahvistettu
+- ? ilmoituksessa mainitaan Azure, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/software-developer-bitville-helsinki-2803046>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 40/100 — REVIEW — Backend-kehittäjä, Helsinki
+
+Academic Work
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-19
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Etsimme backend-kehittäjää uuteen tuotemasterdata-tiimiin kehittämään pilvinatiivia integraatioita ja varmistamaan tuotetietojen sujuva liikkuminen verkkokauppoihin ja liiketoimintakriittisiin järjestelmiin. Työ sisältää pilvinatiivista backend-kehitystä (Kotlin, Java, Python, TypeScript), AI-avusteista koodaamista sekä datapalveluiden rakentamista ja prosessien kehittämistä. Edellytämme vähintään parin vuoden 
+Hakuaika päättyy: 2027-01-18
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 teknologia: java, python, typescript
+- +10 Uusimaa
+- -15 ohjelmistotyön junior-sopivuus ei ole vahvistettu
+- ? ilmoituksessa mainitaan Azure, AWS; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/backend-kehittaja-helsinki-2802908>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 40/100 — REVIEW — Strategic Client Development Director
+
+Aurilo
+Espoo, FI
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Aurilo hakee kokenutta Strategic Client Development Directoria avaamaan uusia strategisia IT-kumppanuuksia suurten yritysten ja julkisen sektorin kanssa keskittyen uusiin asiakkaisiin. Tehtävässä tapaat säännöllisesti tietohallintojohtajia, IT- ja talousjohtajia, rakennat pitkäjänteisiä suhteita ja tunnistat tulevia myyntimahdollisuuksia noin 5–10 laadukkaan asiakaskohtaamisen viikossa. Menestyäksesi tarvitset 
+Hakuaika päättyy: 2027-01-18
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 etätyö Suomesta
+- -30 senioriteetti ylittää nykyisen taustan
+- -20 pyytää vähintään 10 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/strategic-client-development-director-2802405>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 40/100 — REVIEW — Software Developer, Bitville, Helsinki
+
+Bitville Oy
+Helsinki
+Yhteenveto: About the role As a Software Developer, you will maintain, support, and develop modern web applications, e-learning systems, and content-authoring platforms built on Microsoft Azure. Bitville is expanding its technical team to meet growing customer demand, and you will join a small, flat-hierarchy team of developers, a Product Owner, content writers, and visual designers working together in agile methods. In this role, you will work across the te
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +10 teknologia: javascript, typescript
+- +10 Uusimaa
+- -15 ohjelmistotyön junior-sopivuus ei ole vahvistettu
+- ? ilmoituksessa mainitaan Azure, SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/software-developer-bitville-helsinki/FFZGVX>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -13678,6 +13793,26 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 30/100 — LOW — Hallinnollinen tietoturvakonsultti
+
+Marvel Consulting Group Oy
+Espoo, FI, Helsinki, Vantaa, Oulu, Tampere
+Julkaistu: 2026-11-12
+Yhteenveto: Etsimme kokeneita tietoturvakonsultteja. Jos tunnistat itsesi tästä, saatat olla etsimämme asiantuntija: Olet kokenut Senior-/Lead-tason tietoturvakonsultti. Sinulla on vähintään 5v kokemusta tietoturvan saralta ja toimit asiakasprojekteissa itsenäisesti sekä omaan asiantuntijuuteesi luottaen. Vahvuutesi ovat tietoturvan hallinnassa, riskienhallinnassa ja prosesseissa. Tunnet regulaation, kuten NIS2:n, CRA:n, DORAn, AI Actin ja GDPR:n, ja osaat m
+Hakuaika päättyy: 2026-11-26
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/hallinnollinen-tietoturvakonsultti-2798302>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 30/100 — LOW — Tekninen tietoturva-arkkitehti
 
 Marvel Consulting Group Oy
@@ -14146,6 +14281,28 @@ Miksi / huomioitavaa:
 - -20 pyytää vähintään 5 vuotta kokemusta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/principal-wi-fi-researcher-and-standardization-delegate-2802099>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 25/100 — LOW — Senior Standards researcher/delegate, 6G Physical Layer
+
+Nokia
+Espoo, FI, Oulu, DK, Bangalore, Karnataka, IN, Wrocław, Ala-Sleesian voivodikunta, PL
+Julkaistu: 2026-11-20
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Lead end-to-end 6G radio research focused on spectrum utilization and RF requirements, integrating MIMO, AI-native PHY design, and coexistence considerations. Represent Nokia as a delegation specialist in 3GPP RAN4 and external research forums to champion next-generation PHY/L1 architectures. Validate and optimize novel radio access concepts through link-level and system-level simulations, benchmarking, and per
+Hakuaika päättyy: 2027-01-19
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -30 senioriteetti ylittää nykyisen taustan
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/senior-standards-researcher-delegate-6g-physical-layer-2803428>)
 Tila: UUSI
 Muistiinpanot: 
 

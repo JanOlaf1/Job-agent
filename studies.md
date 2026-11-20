@@ -309,12 +309,12 @@ Hämeenlinna
 Yhteenveto: Sustainable actions in business begin with inspired, engaged leaders. At Häme University of Applied Sciences, we empower you to navigate the complex demands of today’s global economic, social, and environmental challenges. Throughout the studies, you develop both theoretical insights and hands-on industry knowledge, equipping you with essential skills to drive sustainability within your organization or step into role centered on sustainable pract
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: lukuvuosimaksu: 11700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to you if you are not citizen of country of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship of EU/
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -3742,6 +3742,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000035383>)
 
+### 85/100 — STRONG — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
+
+Tampereen seudun ammattiopisto Tredu
+Tampere
+Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon maanantaina 14.12. klo 15.30-16.30. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessiin lii
+Koulutustyyppi: amm-tutkinnon-osa
+Laajuus: UNKNOWN
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2026-12-09T12:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
+
 ### 85/100 — STRONG — Juomien myynti ja tarjoilu 25 osp, osa Ravintola- ja cateringalan perustutkinnosta - Jatkuva haku
 
 Ammattiopisto Samiedu
@@ -3840,13 +3864,13 @@ Miksi / huomioitavaa:
 
 Savon ammattiopisto
 Varkaus
-Yhteenveto: Voit opiskella Varkauden kampuksellamme liiketalouden perustutkinnon joko päiväopetuksena tai työelämäpainotteisessa toteutuksessa. Tällä hetkellä haettavissa työelämäpainotteinen toteutus ja oppisopimuskoulutus. Seuraava päiväopetusryhmä haku ja aloitus ilmoitetaan myöhemmin. Ala sopii sinulle, jos haluat työskennellä ihmisten kanssa. sinua kiinnostaa myyntityö, asiakkaiden palvelu ja markkinointi. haluat työskennellä muuttuvissa tilanteissa. pi
+Yhteenveto: Voit opiskella Varkauden kampuksellamme liiketalouden perustutkinnon joko päiväopetuksena tai työelämäpainotteisessa toteutuksessa. Ala sopii sinulle, jos haluat työskennellä ihmisten kanssa. sinua kiinnostaa myyntityö, asiakkaiden palvelu ja markkinointi. haluat työskennellä muuttuvissa tilanteissa. pidät erilaisten tilanteiden ja asioiden ratkaisemisesta. Mitä työ voi olla? Myyntityötä, eli voit suunnitella myyntiä ja myydä asiakkaille erilaisi
 Koulutustyyppi: VOCATIONAL
 Laajuus: 180 osaamispistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
+Ajankohta: Kevät 2027 ; Henkilökohtaisen suunnitelman mukaan
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot)
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Lukio ja/tai ylioppilastutkinto, Ammatillinen perustutkinto
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-11-29T23:59
 Lähteet: Opintopolku
@@ -3893,7 +3917,7 @@ Laajuus: 180 osaamispistettä
 Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; • 1. elokuuta 2026 alkaen Suomessa otettiin käyttöön lukuvuosimaksut toisen asteen opiskelijoille, jotka tulevat EU- ja ETA-alueen ulkopuolelta. • Lukuvuosimaksu koskee opiskelijoita, joiden oleskeluluvan tyyppi tai peruste ei vapauta heitä maksusta. • Katso lisätietoja: Lukuvuosimaksut .
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Ammattikorkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Lukio ja/tai ylioppilastutkinto, Ammatillinen perustutkinto, Ammattikorkeakoulututkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-12-13T23:59
 Lähteet: Opintopolku
@@ -9105,7 +9129,7 @@ Laajuus: 180 osaamispistettä
 Ajankohta: Syksy 2027
 Hinta: Maksuton ; EU/ETA-alueen ulkopuolisten kansalaisten lukuvuosimaksu Lukuvuosimaksu peritään niiltä kolmannen maan kansalaisilta, jotka ovat saapuneet tai saapumassa Suomeen opiskelutarkoituksessa. Kolmannen maan kansalaisia ovat muun maan kuin Euroopan unionin jäsenvaltion tai Islannin, Liechtensteinin, Norjan 
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto
 Haku: OPEN
 Lähteet: Opintopolku
 
@@ -9139,28 +9163,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036757>)
-
-### 70/100 — STRONG — Liiketoiminnan perustutkinto PÄIVÄ-toteutus, jatkuva haku 
-
-Luksia
-Lohja, Vihti
-Yhteenveto: Haluatko päästä mukaan liiketoiminnan jännittävään maailmaan? Kiinnostaako sinua myynti, markkinointiviestintä tai taloushallinto? Liiketoiminnan perustutkinto on juuri sinua varten! Liiketoiminnan perustutkinto tarjoaa sinulle kattavan koulutuksen liiketoiminnan eri osa-alueilla. Päiväopinnoissa opiskelet viisi päivää viikossa, mikä takaa sinulle jatkuvan ja syvällisen oppimiskokemuksen. Pääset syventymään myyntiin, markkinointiviestintään tai t
-Koulutustyyppi: VOCATIONAL
-Laajuus: 180 osaamispistettä
-Ajankohta: Syksy 2026
-Hinta: Maksuton ; Koulutus on maksutonta niille opiskelijoille, jotka kuuluvat laajennetun oppivelvollisuuden piiriin. 1.8.2026 alkaen EU- ja ETA-alueen ulkopuolelta tulevilta opiskelijoilta peritään lukuvuosimaksu. Lukuvuosimaksun suuruus vahvistetaan myöhemmin. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskel
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: OPEN
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037691>)
 
 ### 70/100 — STRONG — Tradenomi (AMK), Liiketalous, päivätoteutus
 
@@ -9876,6 +9878,30 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044049>)
+
+### 70/100 — STRONG — Yrittäjyyden ammattitutkinto
+
+Sasky oppisopimus- ja työelämäpalvelut
+Sastamala
+Yhteenveto: Liiketoiminta muuttuu nopeasti, ja ajantasaiselle osaamiselle on kysyntää. Yrittäjyyden ammattitutkinto antaa valmiudet kehittää omaa yritystoimintaa suunnitelmallisesti ja vastuullisesti. Opiskelija kehittää erityisesti strategista ja asiakaslähtöistä liiketoimintaosaamista, myyntiosaamista sekä talouteen liittyvää osaamista. Opiskelijalla karttuu myös taito hyödyntää digitaalisia kanavia ja tekoälyä myynnissä. Oppisopimusmuotoinen koulutus edel
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Oppisopimuskoulutus on opiskelijalle maksutonta. EU- ja ETA-alueen ulkopuolisten maiden kansalaisilta voidaan periä lukuvuosimaksu.
+Toteutus: UNKNOWN
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: OPEN
+Hakuaika päättyy: 2027-02-09T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044222>)
 
 ### 65/100 — STRONG — Avoin yo: Tietojenkäsittelytieteen aineopintoja, lv. 2026-2027
 
@@ -10858,6 +10884,29 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039905>)
+
+### 65/100 — STRONG — Avoin yo: VR-järjestelmät ja ihmiset, kevät 2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Virtual reality (VR) technology transports us to real or synthetic places that may be inaccessible, breathtaking, complex beyond our wildest imagination, or just simple and relaxing. Applications include entertainment, social interaction, virtual travel, remote training, architectural walkthroughs, cultural appreciation, and learning enhancement. Although VR has been around for decades, it always came with a high cost to enter the field because o
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 1.0–5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: UPCOMING
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044220>)
 
 ### 60/100 — REVIEW — Avoin yo: Johdatus tietojenkäsittelytieteisiin, syksy 2026
 
@@ -14566,30 +14615,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037777>)
 
-### 55/100 — REVIEW — Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa, Tampere Santalahdentie JATKUVA HAKU
-
-Tampereen seudun ammattiopisto Tredu
-Tampere
-Yhteenveto: Lue koulutuksen toteutuksesta Tredun verkkosivuilta: Hius- ja kauneudenhoitoalan (PT) osatutkinto Kosmetiikkaneuvojapolun kosmetiikan myynti ja neuvonta-tutkinnon osa KOULUTUSINFO HUOM! Järjestämme kaikille koulutukseen hakeneille pakollisen koulutusinfon keskiviikkona 18.11.2026 klo 14.30-16.00. Koulutusinfoon lähetetään muistutus sähköpostilla. Info on pakollinen . Infossa käydään läpi keskeiset asiat koulutuksen toteutukseen ja valintaprosessi
-Koulutustyyppi: amm-tutkinnon-osa
-Laajuus: UNKNOWN
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Toisen asteen koulutuksen lukuvuosimaksut Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Lisätietoa lukuvuosimaksusta: https://www.tredu.fi/hakijalle/apua-hakeutumiseen/toisen-asteen-koulutuksen-lukuvuosimaksut/
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: CLOSED
-Hakuaika päättyy: 2026-11-11T12:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043152>)
-
 ### 55/100 — REVIEW — Liiketoiminnan ammattitutkinto, asiakaspalvelu ja myynti - JATKUVA HAKU
 
 Valkeakosken ammattiopisto
@@ -16084,6 +16109,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037442>)
+
+### 40/100 — REVIEW — Liiketoiminnan perustutkinto PÄIVÄ-toteutus, jatkuva haku 
+
+Luksia
+Lohja, Vihti
+Yhteenveto: Haluatko päästä mukaan liiketoiminnan jännittävään maailmaan? Kiinnostaako sinua myynti, markkinointiviestintä tai taloushallinto? Liiketoiminnan perustutkinto on juuri sinua varten! Liiketoiminnan perustutkinto tarjoaa sinulle kattavan koulutuksen liiketoiminnan eri osa-alueilla. Päiväopinnoissa opiskelet viisi päivää viikossa, mikä takaa sinulle jatkuvan ja syvällisen oppimiskokemuksen. Pääset syventymään myyntiin, markkinointiviestintään tai t
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Koulutus on maksutonta niille opiskelijoille, jotka kuuluvat laajennetun oppivelvollisuuden piiriin. 1.8.2026 alkaen EU- ja ETA-alueen ulkopuolelta tulevilta opiskelijoilta peritään lukuvuosimaksu. Lukuvuosimaksun suuruus vahvistetaan myöhemmin. Lukuvuosimaksuja ei peritä esimerkiksi pysyvän oleskel
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037691>)
 
 ### 40/100 — REVIEW — Insinööri (AMK), myynti-insinööri, päivätoteutus
 
