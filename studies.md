@@ -4578,10 +4578,10 @@ Turku
 Yhteenveto: Autonomous robots, smart factories, and modern information systems only function when they are properly designed, secured, and monitored. Cybersecurity has emerged as one of the defining challenges of our time and the field has a growing need for the next generation of problem-solvers. In the Cyber-Physical Systems (CPS) degree programme , you will explore intelligent systems and learn to protect the critical infrastructure of our society. AI sec
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -4605,7 +4605,7 @@ Laajuus: 240.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammatillinen perustutkinto, Lukio ja/tai ylioppilastutkinto, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
@@ -9542,7 +9542,7 @@ Laajuus: 240.0 opintopistettä
 Ajankohta: Syksy 2027
 Hinta: lukuvuosimaksu: 9500.0 (lähteen summa; tarkista ehdot) ; The tuition fees in the academic year 2027-2028 For Non-EU/EEA citizens the Tuition fee at SEAMK in Bachelor degree programmes conducted in English is 9500 € per academic year. More information about tuition fees and scholarships at SEAMK webpage .
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Lukio ja/tai ylioppilastutkinto
+Hakukelpoisuus: TARKISTA: Lukio ja/tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-22T15:00
 Lähteet: Opintopolku
@@ -9554,29 +9554,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000001562>)
-
-### 70/100 — STRONG — Insinööri (AMK), Information and Communication Technology
-
-Karelia-ammattikorkeakoulu
-Joensuu
-Yhteenveto: Kareliasta valmistuneena ICT-insinöörinä olet tieto- ja viestintätekniikan osaaja, joka osaa toimia sovelluskehittäjänä tai älykkään automaation erikoisosaajana. Sinulla on monipuoliset projektinhallinnan ja tiimityöskentelyn taidot. Olet myös perehtynyt yrittäjyyteen, koska tieto- ja viestintätekniikka luo jatkuvasti mahdollisuuksia uusille sovelluksille, integraatioille ja automaatioon. Hankit ICT-perusosaamisen lisäksi osaamista älykkäässä aut
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master)
-Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008723>)
 
 ### 70/100 — STRONG — Bachelor of Engineering, Information and Communication Technology, Robotics, full-time studies
 
@@ -9590,7 +9567,7 @@ Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuit
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
 Haku: OPEN
-Hakuaika päättyy: 2026-11-15T15:00
+Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -13352,6 +13329,28 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000034169>)
 
+### 60/100 — REVIEW — Insinööri (AMK), Information and Communication Technology
+
+Karelia-ammattikorkeakoulu
+Joensuu
+Yhteenveto: Kareliasta valmistuneena ICT-insinöörinä olet tieto- ja viestintätekniikan osaaja, joka osaa toimia sovelluskehittäjänä tai älykkään automaation erikoisosaajana. Sinulla on monipuoliset projektinhallinnan ja tiimityöskentelyn taidot. Olet myös perehtynyt yrittäjyyteen, koska tieto- ja viestintätekniikka luo jatkuvasti mahdollisuuksia uusille sovelluksille, integraatioille ja automaatioon. Hankit ICT-perusosaamisen lisäksi osaamista älykkäässä aut
+Koulutustyyppi: UAS DEGREE
+Laajuus: 240.0 opintopistettä
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot)
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Yleinen ammattikorkeakoulukelpoisuus, Ammattikorkeakoulututkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008723>)
+
 ### 60/100 — REVIEW — Ingenjör (YH), informationsteknik, dagstudier
 
 Yrkeshögskolan Arcada
@@ -14853,7 +14852,7 @@ Turku
 Yhteenveto: Information and Communications Technology (ICT) deals with technologies, methods and tools such as software applications and engineering, data networks and cybersecurity, games and embedded IoT devices and systems. This programme offers you versatile opportunities as a future ICT professional. The extent of the Bachelor of Engineering degree programme is 240 ECTS credits and the planned duration of the studies is four years. The degree is placed 
 Koulutustyyppi: UAS DEGREE
 Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
