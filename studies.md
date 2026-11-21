@@ -9626,29 +9626,6 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000036127>)
 
-### 70/100 — STRONG — Restonomi (AMK), Tourism Management, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
-
-Jyväskylän ammattikorkeakoulu
-Jyväskylä
-Yhteenveto: Tourism Management -koulutusohjelma tarjoaa mahdollisuuden kehittyä vastuullisen matkailuliiketoiminnan ammattilaiseksi. Lisäksi tutkinto-ohjelmassamme syntyy vahvaa liiketoimintaosaamista alati muuttuviin kansallisiin ja kansainvälisiin alan työtehtäviin. Tutkinto-ohjelman kieli on englanti. Esimerkkejä opinnoistamme: Introduction to Responsible Tourism Responsible Tourism Management Experience Design Digitalisation in Tourism Tourism Service Ma
-Koulutustyyppi: UAS DEGREE
-Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027
-Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
-Haku: OPEN
-Hakuaika päättyy: 2026-11-19T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037462>)
-
 ### 70/100 — STRONG — Liiketoiminnan ammattitutkinto, Myynnin ja markkinointiviestinnän osaamisala, Puutarhakauppa
 
 Työtehoseura ry
@@ -13629,7 +13606,7 @@ Hinta: lukuvuosimaksu: 11500.0 (lähteen summa; tarkista ehdot) ; Applicants fro
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-31T15:00
+Hakuaika päättyy: 2027-03-31T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
@@ -13638,6 +13615,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000017771>)
+
+### 60/100 — REVIEW — Restonomi (AMK), Tourism Management, englanninkielinen päivätoteutus, elokuussa 2027 alkava koulutus
+
+Jyväskylän ammattikorkeakoulu
+Jyväskylä
+Yhteenveto: Tourism Management -koulutusohjelma tarjoaa mahdollisuuden kehittyä vastuullisen matkailuliiketoiminnan ammattilaiseksi. Lisäksi tutkinto-ohjelmassamme syntyy vahvaa liiketoimintaosaamista alati muuttuviin kansallisiin ja kansainvälisiin alan työtehtäviin. Tutkinto-ohjelman kieli on englanti. Esimerkkejä opinnoistamme: Introduction to Responsible Tourism Responsible Tourism Management Experience Design Digitalisation in Tourism Tourism Service Ma
+Koulutustyyppi: UAS DEGREE
+Laajuus: 210.0 opintopistettä
+Ajankohta: Syksy 2027
+Hinta: lukuvuosimaksu: 10000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä AMK-tutkinnoissa 10 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) ei
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-21T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037462>)
 
 ### 60/100 — REVIEW — Avoin yo, Yrittäjyyden perusteet
 

@@ -1,62 +1,20 @@
 # JOB AGENT
 
-Haku: 2026-11-21T16:11+02:00
+Haku: 2026-11-21T23:15+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 1 uutta sopivaa työpaikkaa.
+Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
 
-Uusia sopivia työpaikkoja: 1
+Uusia sopivia työpaikkoja: 0
 Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 91
-Vahvat: 1 | Harkitse: 0
+Vahvat: 0 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — Customer Data Coordinator (B2B) – Espoo
-
-Organisaatio tuntematon
-Espoo (hybrid, min 2-3 days/week at the office)
-Yhteenveto: About the role Our client is looking for a Customer Data Coordinator to join its B2B customer support operations and contribute to ongoing customer data improvement initiatives. As customer information is maintained across several systems, ensuring that data is accurate, complete, and consistent is essential. Your main responsibility will be to review, update, and improve existing customer data, working systematically to resolve discrepancies and
-Lähteet: Academic Work
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- ? ilmoituksessa mainitaan Power BI; osaamista ei ole vahvistettu profiilissa
-
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/customer-data-coordinator-b2b--espoo/M1PWBA>)
-
-## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
-
-### 70/100 — STRONG — Bachelor of Engineering, Information and Communication Technology, Robotics, full-time studies
-
-Hämeen ammattikorkeakoulu
-Riihimäki
-Yhteenveto: Join the robotics evolution! In our Degree Programme in Information and Communication Technology, Robotics, you learn to use technology to improve people’s lives and advance sustainability. You will learn how to program and integrate robotics in service, business, and industry operations to save resources, boost efficiency, and improve quality. You will understand human-robot interaction and can design collaborative robotics in different sectors 
-Koulutustyyppi: UAS DEGREE
-Laajuus: 240.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2026 ; Syksy 2027
-Hinta: lukuvuosimaksu: 9700.0 (lähteen summa; tarkista ehdot) ; There is a tuition fee applicable to students who are not citizens of countries of the European Union (EU), European Economic Area (EEA) or Switzerland. You are exempted from paying tuition fees if you have one of the documents mentioned below: Passport or identity card to indicate the citizenship o
-Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
-Haku: OPEN
-Hakuaika päättyy: 2026-11-30T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000020541>)
-
+Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
