@@ -5065,6 +5065,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041589>)
 
+### 85/100 — STRONG — Ekami, Yrittäjyyden ammattitutkinto, Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) - Jatkuva haku 2027
+
+Etelä-Kymenlaakson ammattiopisto
+Kotka
+Yhteenveto: Yrittäjyyden ammattitutkinto - Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) Yrittäjyyden ammattitutkinnossa vahvistat valmiuksiasi suunnitella, arvioida ja kehittää liiketoimintaa sekä viedä suunnitelmat käytäntöön. Sovellat oppimaasi oman yrityksesi tai uuden yritysideasi kehittämiseen tai yritysneuvonnan tehtäviin. Yrittäjyyden yleisten teemojen lisäksi koulutus rakentuu neljän sisältöteeman ympärille: Talouden suunnitte
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Oppivelvollisille koulutus on maksutonta. Muilla koulutukseen osallistuvilla tulee olla käytössään kannettava tietokone. Koko tutkintoa suorittavalla opiskelijalla on halutessaan mahdollisuus osallistua Kauppakamarin HHJ-kurssille subventoituun hintaan. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen 
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2027-01-06T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043644>)
+
 ### 85/100 — STRONG — Master’s Programme in Engineering of Data-intensive Intelligent Software Systems (EDISS, Erasmus Mundus), Master of Science (Technology) (2 years), 2027
 
 Åbo Akademi
@@ -15147,30 +15171,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039925>)
-
-### 55/100 — REVIEW — Ekami, Yrittäjyyden ammattitutkinto, Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) - Jatkuva haku 2027
-
-Etelä-Kymenlaakson ammattiopisto
-Kotka
-Yhteenveto: Yrittäjyyden ammattitutkinto - Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) Yrittäjyyden ammattitutkinnon tavoitteena on vahvistaa valmiuksiasi suunnitella, arvioida ja kehittää liiketoimintaa sekä viedä suunnitelmat käytännön tekemiseksi. Koulutus tarjoaa työkaluja yritystoiminnan kehittämiseen, uuden liiketoiminnan käynnistämiseen sekä yrittäjämäiseen toimintaan erilaisissa työtehtävissä. Koulutus rakentuu neljän sisältö
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Koulutukseen osallistuvalla tulee olla käytössään kannattava tietokone. Koulutukseen osallistuvilla koko tutkinnon suorittavilla opiskelijoilla on mahdollisuus suorittaa Kauppakamarin HHJ-kurssi subventoituun hintaan. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen sekä Sveitsin ulkopuolisten maiden k
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: CLOSED
-Hakuaika päättyy: 2026-11-05T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043644>)
 
 ### 55/100 — REVIEW — Tuotekehitystyön erikoisammattitutkinto - data ja analytiikka liiketoiminnassa
 

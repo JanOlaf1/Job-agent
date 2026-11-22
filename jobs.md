@@ -1,6 +1,6 @@
 # JOB AGENT
 
-Haku: 2026-11-22T16:04+02:00
+Haku: 2026-11-22T23:26+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
@@ -15,6 +15,32 @@ Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi oll
 ## UUDET TYÖPAIKAT
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
+## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
+
+### 85/100 — STRONG — Ekami, Yrittäjyyden ammattitutkinto, Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) - Jatkuva haku 2027
+
+Etelä-Kymenlaakson ammattiopisto
+Kotka
+Yhteenveto: Yrittäjyyden ammattitutkinto - Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) Yrittäjyyden ammattitutkinnossa vahvistat valmiuksiasi suunnitella, arvioida ja kehittää liiketoimintaa sekä viedä suunnitelmat käytäntöön. Sovellat oppimaasi oman yrityksesi tai uuden yritysideasi kehittämiseen tai yritysneuvonnan tehtäviin. Yrittäjyyden yleisten teemojen lisäksi koulutus rakentuu neljän sisältöteeman ympärille: Talouden suunnitte
+Koulutustyyppi: VOCATIONAL
+Laajuus: 150 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Oppivelvollisille koulutus on maksutonta. Muilla koulutukseen osallistuvilla tulee olla käytössään kannettava tietokone. Koko tutkintoa suorittavalla opiskelijalla on halutessaan mahdollisuus osallistua Kauppakamarin HHJ-kurssille subventoituun hintaan. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen 
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: OPEN
+Hakuaika päättyy: 2027-01-06T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043644>)
+
 
 Lähteiden ongelmat:
 - Duunitori: BLOCKED — robots.txt HTTP 403
