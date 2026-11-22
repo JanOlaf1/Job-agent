@@ -6,7 +6,7 @@
   "strong_count": 0,
   "review_count": 0,
   "new_studies": [],
-  "run_time": "2026-11-21T23:15+02:00",
+  "run_time": "2026-11-22T16:04+02:00",
   "status": "DEGRADED",
   "sources": {
     "Duunitori": {
@@ -74,9 +74,9 @@
     "Opintopolku": {
       "status": "PARTIAL",
       "ok": 46,
-      "raw_jobs": 1201,
+      "raw_jobs": 1200,
       "detail_ok": 99,
-      "failed": 1112,
+      "failed": 1111,
       "last_error": "Detail limit reached; some eligibility/deadlines remain unknown"
     }
   },
@@ -89,7 +89,7 @@
     "Azure mainittiin 5 tämän haun relevantissa ilmoituksessa.",
     "Docker mainittiin 4 tämän haun relevantissa ilmoituksessa."
   ],
-  "relevant_count": 91,
+  "relevant_count": 92,
   "email_status": "skipped: no new relevant items",
-  "message_id": "<a93dccdf00314f4ba154f9241d4aab76@job-agent.local>"
+  "message_id": "<00ec5afeef68451581607da656c657bf@job-agent.local>"
 }

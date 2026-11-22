@@ -1,12 +1,12 @@
 # JOB AGENT
 
-Haku: 2026-11-21T23:15+02:00
+Haku: 2026-11-22T16:04+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
 Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
 
 Uusia sopivia työpaikkoja: 0
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 91
+Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 92
 Vahvat: 0 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
