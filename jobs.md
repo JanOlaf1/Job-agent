@@ -1,45 +1,109 @@
 # JOB AGENT
 
-Haku: 2026-11-22T23:26+02:00
+Haku: 2026-11-23T18:43+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
+Sinulle on 5 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 0
-Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 92
-Vahvat: 0 | Harkitse: 0
+Uusia sopivia työpaikkoja: 5
+Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 88
+Vahvat: 5 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-Ei uusia sopivia työpaikkoja luetuista tuloksista. Osa lähteistä jäi tarkistamatta.
-## KOULUTUKSET — 1 UUTTA / MUUTTUNUTTA
+### 90/100 — STRONG — Automyyjä K-Auton Audi-myyntiin Helsinkiin
 
-### 85/100 — STRONG — Ekami, Yrittäjyyden ammattitutkinto, Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) - Jatkuva haku 2027
-
-Etelä-Kymenlaakson ammattiopisto
-Kotka
-Yhteenveto: Yrittäjyyden ammattitutkinto - Kasvua ja kannattavuutta yritystoimintaan (monimuoto, koko tutkinto) Yrittäjyyden ammattitutkinnossa vahvistat valmiuksiasi suunnitella, arvioida ja kehittää liiketoimintaa sekä viedä suunnitelmat käytäntöön. Sovellat oppimaasi oman yrityksesi tai uuden yritysideasi kehittämiseen tai yritysneuvonnan tehtäviin. Yrittäjyyden yleisten teemojen lisäksi koulutus rakentuu neljän sisältöteeman ympärille: Talouden suunnitte
-Koulutustyyppi: VOCATIONAL
-Laajuus: 150 osaamispistettä
-Ajankohta: Kevät 2027
-Hinta: Maksuton ; Oppivelvollisille koulutus on maksutonta. Muilla koulutukseen osallistuvilla tulee olla käytössään kannettava tietokone. Koko tutkintoa suorittavalla opiskelijalla on halutessaan mahdollisuus osallistua Kauppakamarin HHJ-kurssille subventoituun hintaan. Lukuvuosimaksu koskee niitä EU- ja ETA-alueen 
-Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Peruskoulu
-Haku: OPEN
-Hakuaika päättyy: 2027-01-06T23:59
-Lähteet: Opintopolku
+K Auto Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Hakuaika alkaa: 23.11.2026 Hakuaika päättyy: 06.12.2026 Etsimme K‑Autolle Audi‑myyjää Helsinkiin (uudet autot) – sinulle, joka haluat onnistua ja nauttia työstäsi Premium auton ostaminen on asiakkaalle suuri päätös — siihen liittyy tunteita, odotuksia ja luottamusta. Meidän tehtävämme on ylittää nämä odotukset joka kerta: palvella paremmin, kuunnella tarkemmin ja auttaa asiakasta tekemään päätöksen, josta hän voi olla ylpeä. Siksi Audi‑myyjän työ
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +10 haku avoinna
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
 
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043644>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/automyyja-k-auton-audi-myyntiin-helsinkiin-2804016>)
+
+### 90/100 — STRONG — Aluemyyntipäällikkö
+
+Experis
+Vantaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Pervanovo Invest AB -konsernin omistama Bjelin kehittää ja valmistaa laajaa valikoimaa puulattioita ja -huonekaluja ja uusista materiaaleista valmistettuja innovatiivisia lattiaratkaisuja. Tuotteet on valmistettu Bjelinin tytäryhtiön, lukkopontin keksijän Välinge Innovation AB:n kehittämän huipputeknologian avulla. Pervanovo Invest AB:n henkilöstömäärä on 1.500 ja tehtaita konsernilla on viisi. Bjelin Finland Oy on konserniin kuuluvan Bjelin Inte
+Hakuaika päättyy: 2027-01-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/aluemyyntipaallikko-2804436>)
+
+### 90/100 — STRONG — eCommerce Manager
+
+Rebl Group Oyj
+Vantaa, FI, Tampere, Joensuu, Oulu
+Julkaistu: 2026-11-23
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Vastaat Rebl Groupin digitaalisen myynnin kasvusta, verkkokaupan ja tilauskanavien kehittämisestä sekä tilausprosessien automatisoinnista. Toimit viiden hengen tiimin esihenkilönä ja raportoit palvelujohtajalle. Työ edellyttää dataohjautuvaa päätöksentekoa, poikkitoiminnallista yhteistyötä ja fokusta liiketoiminnan kasvattamiseen. Lähetä hakemus, CV ja palkkatoive viimeistään 9.12.2026. Tämä tiivistelmä on luot
+Hakuaika päättyy: 2026-12-10
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ecommerce-manager-2804028>)
+
+### 75/100 — STRONG — Kaksikielinen (suomi–ruotsi) turvapalvelumyyjä PK-seudulle
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kaksikielinen-suomi-ruotsi-turvapalvelumyyja-pk-seudulle-2804474>)
+
+### 65/100 — STRONG — Myyjä B2B
+
+Vallan Maukas Oy
+FI
+Julkaistu: 2026-11-23
+Yhteenveto: Vallan Maukas hakee myyjää yritysmyyntiin Etsimme tekijää, joka tykkää myynnistä ja haluaa tavata asiakkaita myös kasvotusten. Työn pääpaino on yritysmyynnissä. Etsit uusia asiakkaita, otat heihin yhteyttä ja käyt heidän luonaan. Pidät huolta myös nykyisistä asiakkaista, teet tarjouksia ja hoidat sovitut asiat loppuun. Myyt Vallan Maukkaan omia raakalihatuotteita ja lihajalosteita. Vehmaalla meillä on oma tilateurastamo, leikkaamo ja pakkaamo. Ma
+Hakuaika päättyy: 2026-12-06
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- ? sijainti / etätyöoikeus Suomesta varmistettava
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-b2b-2803895>)
 
 
 Lähteiden ongelmat:
@@ -50,9 +114,9 @@ Lähteiden ongelmat:
 - Opintopolku: PARTIAL — Detail limit reached; some eligibility/deadlines remain unknown
 
 Työmarkkinan havainnot:
-- Python mainittiin 7 tämän haun relevantissa ilmoituksessa.
+- Python mainittiin 6 tämän haun relevantissa ilmoituksessa.
 - Azure mainittiin 5 tämän haun relevantissa ilmoituksessa.
-- Docker mainittiin 4 tämän haun relevantissa ilmoituksessa.
+- Docker mainittiin 3 tämän haun relevantissa ilmoituksessa.
 
 ## TYÖPAIKKAHISTORIA
 
@@ -1779,7 +1843,7 @@ Muistiinpanot:
 
 Clevry
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tulisiko sinusta Clevryn seuraava Account Manager? Jos viihdyt monipuolisessa roolissa, jossa yhdistyvät uusasiakashankinta, asiakkuuksien hoito, neuvonta ja pitkäjänteinen asiakassuhteiden rakentaminen - jatka lukemista. Me Clevryllä etsimme joukkoomme kunnianhimoista Account Manageria toimistollemme Helsinkiin. Tehtävä on toistaiseksi voimassa oleva, ja työskentely tapahtuu pääasiallisesti Kampin toimistollamme. Tulet osaksi kansainvälistä tiim
 Hakuaika päättyy: 2026-12-22
 Lähteet: Jobly
@@ -2088,7 +2152,7 @@ Muistiinpanot:
 
 MariElectronics Oy
 Tuusula, FI
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tekninen myyjä MariElectronics Oy:lle vastaten uusien asiakkaiden hankinnasta, nykyisten asiakassuhteiden kehittämisestä ja teknisten turvallisuus- ja sensoriratkaisujen myynnistä. Tehtävä vaatii alempaa korkeakoulututkintoa, vähintään 6 kuukauden kokemusta, sujuvan suomen ja englannin kielen taidon sekä B-ajokortin. Työsuhde on kokoaikainen ja vakituinen, palkkakausi on kuukausittain, ja työssä edellytetään ak
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -2339,7 +2403,7 @@ Muistiinpanot:
 
 Metso
 Espoo, FI, Tampere
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The DevOps Engineer will design, implement and maintain cloud and edge infrastructure in Metso’s Digital Infrastructure and Cybersecurity team based in Espoo or Tampere with a hybrid working model. The role includes building scalable, reliable, secure and cost-efficient cloud architectures using Infrastructure as Code, CI/CD pipelines, containerization (Docker/Kubernetes), monitoring, IAM and cost optimization.
 Hakuaika päättyy: 2027-01-17
 Lähteet: Jobly
@@ -2403,7 +2467,7 @@ Muistiinpanot:
 
 Metso
 Espoo, FI, Lappeenranta, Tampere
-Julkaistu: 2026-11-20
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Data Domain Owner, Product & Item will own Metso’s Product & Item data domain and be accountable for its quality, definitions and governed use to support AI, digitalization and operations. You will roll out Metso’s data governance model for the domain, define and monitor data quality rules, lead the matrix data steward network, and prioritize and resolve critical data issues and migrations. The role partner
 Hakuaika päättyy: 2027-01-19
 Lähteet: Jobly
@@ -2519,6 +2583,69 @@ Miksi / huomioitavaa:
 - ? ilmoituksessa mainitaan Power BI; osaamista ei ole vahvistettu profiilissa
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/customer-data-coordinator-b2b--espoo/M1PWBA>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Aluemyyntipäällikkö
+
+Experis
+Vantaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Pervanovo Invest AB -konsernin omistama Bjelin kehittää ja valmistaa laajaa valikoimaa puulattioita ja -huonekaluja ja uusista materiaaleista valmistettuja innovatiivisia lattiaratkaisuja. Tuotteet on valmistettu Bjelinin tytäryhtiön, lukkopontin keksijän Välinge Innovation AB:n kehittämän huipputeknologian avulla. Pervanovo Invest AB:n henkilöstömäärä on 1.500 ja tehtaita konsernilla on viisi. Bjelin Finland Oy on konserniin kuuluvan Bjelin Inte
+Hakuaika päättyy: 2027-01-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/aluemyyntipaallikko-2804436>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — eCommerce Manager
+
+Rebl Group Oyj
+Vantaa, FI, Tampere, Joensuu, Oulu
+Julkaistu: 2026-11-23
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Vastaat Rebl Groupin digitaalisen myynnin kasvusta, verkkokaupan ja tilauskanavien kehittämisestä sekä tilausprosessien automatisoinnista. Toimit viiden hengen tiimin esihenkilönä ja raportoit palvelujohtajalle. Työ edellyttää dataohjautuvaa päätöksentekoa, poikkitoiminnallista yhteistyötä ja fokusta liiketoiminnan kasvattamiseen. Lähetä hakemus, CV ja palkkatoive viimeistään 9.12.2026. Tämä tiivistelmä on luot
+Hakuaika päättyy: 2026-12-10
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/ecommerce-manager-2804028>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Automyyjä K-Auton Audi-myyntiin Helsinkiin
+
+K Auto Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Hakuaika alkaa: 23.11.2026 Hakuaika päättyy: 06.12.2026 Etsimme K‑Autolle Audi‑myyjää Helsinkiin (uudet autot) – sinulle, joka haluat onnistua ja nauttia työstäsi Premium auton ostaminen on asiakkaalle suuri päätös — siihen liittyy tunteita, odotuksia ja luottamusta. Meidän tehtävämme on ylittää nämä odotukset joka kerta: palvella paremmin, kuunnella tarkemmin ja auttaa asiakasta tekemään päätöksen, josta hän voi olla ylpeä. Siksi Audi‑myyjän työ
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/automyyja-k-auton-audi-myyntiin-helsinkiin-2804016>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -2952,7 +3079,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI, Oulu
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Forward Deployment Engineer role in Oulu embeds in client development programs to troubleshoot deep 4G/5G protocol issues and integrate custom software into live production systems. The engineer will lead large-scale deployment initiatives, take end-to-end ownership of complex defects, design automation and diagnostics, and deliver controlled patches and releases alongside client teams. The position require
 Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
@@ -5494,9 +5621,9 @@ Muistiinpanot:
 
 Eezy Henkilöstöpalvelut
 Hyvinkää, FI, Espoo
-Julkaistu: 2026-11-17
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Tehtävänä on kasvattaa Kallioinen Rentin konevuokrauksen B2B-liiketoimintaa yhdistämällä perinteinen myynti, ratkaisumyynti ja digitaalinen markkinointi. Työhön kuuluu uusasiakashankinta ja asiakkuuksien kehittäminen infra-, rakennus-, teollisuus- ja datakeskushankkeissa sekä tarjousten ja palvelukokonaisuuksien laatiminen. Etsimme kaupallista ja oma-aloitteista tekijää, jolla on kokemusta B2B-myynnistä kone-, 
-Hakuaika päättyy: 2026-11-23
+Hakuaika päättyy: 2026-12-07
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -6538,7 +6665,7 @@ Muistiinpanot:
 
 Saranen Consulting Oy
 Helsinki, Uusimaa, FI, Espoo, Vantaa, Turku, Tampere, Lappeenranta
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Mahtavaa, että olet kiinnostunut työskentelemään Sarasella! Tällä hakulomakkeella pääset hakemaan teollisuuden kokemusta omaavan Client Managerin rooliin. Kerrothan avoimessa kentässä lyhyesti teollisuuden toimialakokemuksestasi ja verkostoistasi sekä miltä paikkakunnalta ensisijaisesti haet töitä. Client Manager - teollisuus Haku on auki 7.12.2026 asti Työ pähkinänkuoressa Tunnetko teollisuuden yritykset ja niiden osaamistarpeet? Haemme Client M
 Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
@@ -6851,6 +6978,25 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 75/100 — STRONG — Kaksikielinen (suomi–ruotsi) turvapalvelumyyjä PK-seudulle
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Haluaisitko hyödyntää sosiaalista luonnettasi tapaamalla päivittäin uusia ihmisiä? Oletko sinnikäs ja motivoitunut kehittämään itseäsi jatkuvasti? Sytytkö siitä, että voit itse vaikuttaa palkkatasoosi ja innostut erilaisista kilpailuista? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! Merkityksellistä myyntityötä tarjolla Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen työsuhteeseen osaksi kannu
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/kaksikielinen-suomi-ruotsi-turvapalvelumyyja-pk-seudulle-2804474>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 73/100 —  — Software Developer
 
 Organisaatio tuntematon
@@ -7131,7 +7277,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Sales Executive vastaa uusasiakashankinnasta Suomessa ja myy Hypergenen ratkaisuja Helsingin toimistolta käsin keskittyen mid-market- ja enterprise-asiakkaisiin. Tehtävään kuuluu koko myyntisykli prospektoinnista ja tarvekartoituksesta neuvotteluihin ja kauppojen päättämiseen sekä myynnin ennustaminen ja aktiivinen CRM-työ. Etsimme henkilöä, jolla on vahvat näytöt monimutkaisesta B2B-myynnistä ja pitkästä myynt
 Hakuaika päättyy: 2026-12-18
 Lähteet: Jobly
@@ -7219,7 +7365,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työtehtävänä on SAP-ympäristöjen, palvelinalustojen ja integraatioiden ylläpito sekä järjestelmien toimintavarmuuden varmistaminen. Työhön kuuluu asiakkaiden IT-ympäristöjen tukeminen, pilvipalvelut (AWS, Azure), tietokannat, kontit, skriptit sekä identiteetin- ja sertifikaattien hallinta. Hakijalta odotetaan Linux-osaamista, tuntemusta skriptikielistä (esim. Python) ja versionhallinnasta (esim. Git), sekä ymmä
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -7761,7 +7907,7 @@ Muistiinpanot:
 
 DigiHelsinki Oy
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-20
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: DigiHelsinki hakee kolmea kokoaikaista ICT-harjoittelijaa viiden kuukauden palkalliseen harjoitteluun, joka alkaa 11.1.2027, ja kuukausipalkka on 2 000 euroa. Harjoittelija osallistuu käyttäjä- ja lähitukeen, Microsoft 365 -käyttäjätukeen, laitteiden käyttöönottoon, tekniseen ongelmanratkaisuun sekä ICT-infrastruktuurin ja kyberturvallisuuden avustaviin tehtäviin. Sopiva hakija opiskelee ICT-alaa korkeakoulussa
 Hakuaika päättyy: 2027-01-15
 Lähteet: Jobly
@@ -7774,6 +7920,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/digihelsinki-ict-harjoittelija-2799522>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 65/100 — STRONG — Myyjä B2B
+
+Vallan Maukas Oy
+FI
+Julkaistu: 2026-11-23
+Yhteenveto: Vallan Maukas hakee myyjää yritysmyyntiin Etsimme tekijää, joka tykkää myynnistä ja haluaa tavata asiakkaita myös kasvotusten. Työn pääpaino on yritysmyynnissä. Etsit uusia asiakkaita, otat heihin yhteyttä ja käyt heidän luonaan. Pidät huolta myös nykyisistä asiakkaista, teet tarjouksia ja hoidat sovitut asiat loppuun. Myyt Vallan Maukkaan omia raakalihatuotteita ja lihajalosteita. Vehmaalla meillä on oma tilateurastamo, leikkaamo ja pakkaamo. Ma
+Hakuaika päättyy: 2026-12-06
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- ? sijainti / etätyöoikeus Suomesta varmistettava
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-b2b-2803895>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -8847,6 +9012,27 @@ Miksi / huomioitavaa:
 - -20 pyytää vähintään 8 vuotta kokemusta
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/technical-implementation-manager-finance-2802474>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 55/100 — REVIEW — Fleet Cards Technical Product Owner
+
+St1 Oy
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will be the technical owner for the St1 Business Card and third‑party fleet cards, shaping integrations, data requirements and payment strategy in collaboration with business, IT and compliance. You will lead technical integrations, testing, troubleshooting and acceptance of fleet and digital payment methods and provide input on closed‑loop versus scheme‑based fleet solutions. The role requires 5+ years wor
+Hakuaika päättyy: 2027-01-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+- -20 pyytää vähintään 5 vuotta kokemusta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/fleet-cards-technical-product-owner-2804832>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -10200,7 +10386,7 @@ Muistiinpanot:
 
 Nice-business Consulting Oy (Nico)
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-16
+Julkaistu: 2026-11-23
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Nico hakee kokenutta Microsoft 365- ja Entra ID -asiantuntijaa asiakastoimeksiantoon, jossa vastaat tietoturva- ja identiteetinhallinnan muutoksista asiakkaiden ympäristöissä. Tehtävään kuuluu Microsoftin MFA- ja authentication-käytäntöjen vaikutusten arviointi sekä Conditional Access-, MFA-, SSPR- ja Authentication Methods -konfiguraatioiden suunnittelu, testaus ja käyttöönotto tenant‑tasolla. Tehtävässä vaadi
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -10500,6 +10686,26 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/it-kehityspaallikko-2803049>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Tiedonhallinnan asiantuntija
+
+Kuntarahoitus Oyj
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Toimit Collibra-datakatalogin pääkäyttäjänä ja liiketoimintaratkaisun omistajana vastaten Collibran konfiguroinnista, kehittämisestä ja teknisestä koordinoinnista. Edellytämme vähintään 2–3 vuoden kokemusta tiedonhallinnasta, kokemusta datakatalogeista, hyvää ymmärrystä tiedonhallinnasta sekä sujuvia vuorovaikutus- ja yhteistyötaitoja suomeksi ja englanniksi. Tehtävä on kokoaikainen ja vakituinen, ja siihen kuu
+Hakuaika päättyy: 2027-01-22
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 etätyö Suomesta
+- ? pyytää 2 vuotta kokemusta; tarkista vaadittu ala
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tiedonhallinnan-asiantuntija-2804769>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -12878,6 +13084,44 @@ Miksi / huomioitavaa:
 Tila: UUSI
 Muistiinpanot: 
 
+### 35/100 — LOW — Osa-aikainen myyjä Helsinkiin
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Haluaisitko työskennellä yrityksessä, jossa parhaimmat myyjät lennätetään kaksi kertaa vuodessa ulkomaanmatkalle? Sytytkö ihmisten kohtaamisesta ja itsesi haastamisesta? Haluatko vaikuttaa suoraan omaan palkkaasi? Mahtavaa, tervetuloa myyjäksi meidän jengiin! Tarjolla osa-aikaista myyntityötä Etsimme nyt myyjiä vakituiseen työsuhteeseen. Työ on liikkuvaa myyntityötä, ja pääset samalla nautiskelemaan raittiista ulkoilmasta. Työ sopii mainiosti myö
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +5 junior-/aloitustaso
+- +10 Uusimaa
+- -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/osa-aikainen-myyja-helsinkiin-2804564>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 35/100 — LOW — AI-Assisted QA Specialist, Tornator Oy, etätyö
+
+Tornator Oyj
+Täysi etätyö
+Yhteenveto: Tehtävänkuvaus Tässä roolissa toimit kokeneena toiminnallisena testaajana ja testausmallin rakentajana kahdelle kehitystiimille. Noin 70 % työajastasi kuluu käytännön testaukseen ja 30 % tekoälyavusteisen testausprosessin ja -mallin luomiseen. Työskentelet tiiviissä yhteistyössä kehittäjien ja liiketoiminnan sovellusvastaavien kanssa nopeatempoisessa kehitysympäristössä. Tarjoamme sinulle mahdollisuuden päästä rakentamaan täysin uudenlaista tekoä
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- ? sijainti / etätyöoikeus Suomesta varmistettava
+- ? ilmoituksessa mainitaan SQL; osaamista ei ole vahvistettu profiilissa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/aiassisted-qa-specialist-tornator-oy-etatyo/U3ZC7M>)
+Tila: UUSI
+Muistiinpanot: 
+
 ### 34/100 —  — Software Engineer, Siemens Healthineers, Helsinki
 
 Academic Work
@@ -13813,6 +14057,26 @@ Miksi / huomioitavaa:
 - -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-finlayson-vantaa-jumbo-5-paikkaa-2802389>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 30/100 — LOW — Myyjä kodinturvapalveluihin Helsinkiin
+
+Sector Alarm
+Helsinki, FI
+Julkaistu: 2026-11-23
+Yhteenveto: Haluaisitko saada työkokemusta, josta on aidosti hyötyä tulevaisuuden urallasi? Entä kuulostaako työ, jossa kohtaat uusia ihmisiä, kehität taitojasi ja pääset vaikuttamaan omiin ansioihisi juuri siltä mitä etsit? Nyökyttelitkö? Loistavaa – saatat olla uusi #sectoralarmstaffilainen ! 😎 Merkityksellistä myyntityötä tarjolla ⭐ Etsimme energisiä, tavoitteellisia ja kehittymishaluisia myyjiä vakituiseen kokoaikaiseen työsuhteeseen osaksi kannustavaa t
+Hakuaika päättyy: 2026-12-07
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 Uusimaa
+- -45 yleinen myymälämyynti; tavoiteltu B2B-/teknologiayhteys puuttuu
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyja-kodinturvapalveluihin-helsinkiin-2804458>)
 Tila: UUSI
 Muistiinpanot: 
 
