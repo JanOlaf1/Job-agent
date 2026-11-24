@@ -704,10 +704,10 @@ Helsinki
 Yhteenveto: Oletko kiinnostunut työskentelemään digitaalisten teknologioiden ja liiketoiminnan rajapinnassa? Liiketoiminnan teknologiat -koulutus antaa sinulle erinomaiset valmiudet ja työvälineet toimia vaativissa asiantuntija- ja johtotehtävissä teknologioiden ja liiketoiminnan rajapinnassa. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Kehität myös asiantuntemusta digitaalisen muutoksen johtamisessa sekä syvennät va
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Tohtorin tutkinto, Lisensiaatin tutkinto, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot, Ei pohjakoulutusvaatimusta
 Haku: UPCOMING
 Hakuaika päättyy: 2027-03-23T15:00
 Lähteet: Opintopolku
@@ -15195,6 +15195,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000040053>)
 
+### 55/100 — REVIEW — Liiketoiminnan perustutkinto, jatkuva haku
+
+Rasekon ammattiopisto
+Raisio
+Yhteenveto: Haluatko työskennellä monipuolisissa liiketoiminnan tehtävissä? Haluatko syventää osaamistasi liiketoiminnan eri osa-alueilla (myynti, markkinointiviestintä, taloushallinto, projektitoiminnot jne.)? Rasekon ammattiopistossa saat monipuoliset valmiudet työskennellä liiketoiminnan osa-alueiden parissa. Saat monipuoliset valmiudet työskennellä liiketoiminnan osa-alueiden parissa. Tutkintoon sisältyvät pakolliset tutkinnon osat: * Liiketoimintaympäri
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: Maksuton ; Oppivelvollisuus ja maksuttomuus -lainsäädännön piiriin kuuluville oppivelvollisille kustannetaan työvaatteet, jotka tutkinnon suorittamiseksi ovat opintojen aikana tarpeen. Opiskelusta syntyy mm. materiaali- ja opintomatkakustannuksia, joista opiskelijat vastaavat itse. Muut kuin oppivelvolliset pe
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu
+Haku: CLOSED
+Hakuaika päättyy: 2026-10-08T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043510>)
+
 ### 50/100 — REVIEW — Tradenomi (AMK), tietojenkäsittely, päivätoteutus, polkuopinnot
 
 Turun ammattikorkeakoulu
@@ -16333,7 +16357,7 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000007350>)
 
-### 40/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto - Jatkuva haku 2026
+### 40/100 — REVIEW — Tieto- ja viestintätekniikan perustutkinto - Jatkuva haku 2027
 
 Ammattiopisto Tavastia
 Hämeenlinna
