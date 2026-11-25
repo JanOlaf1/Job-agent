@@ -159,10 +159,10 @@ Vantaa
 Yhteenveto: The Master’s Degree Program in Smart Industry is a one-year, interdisciplinary program designed for professionals aiming to lead and shape the digital transformation of modern industry. The program focuses on the integration of advanced technologies—such as AI, data analytics and cloud solutions—into smart and sustainable industrial processes. The curriculum combines professional studies (30 ECTS) with a Master’s thesis (30 ECTS), offering studen
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 12500.0 (lähteen summa; tarkista ehdot) ; Tuition fee for non-EU/EEA citizens: 12500€ EU/EEA citizens: free of charge Read more about tuition fees and scholarships on our website.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta, Yleinen ammattikorkeakoulukelpoisuus
 Haku: OPEN
 Hakuaika päättyy: 2027-04-30T15:00
 Lähteet: Opintopolku
@@ -187,7 +187,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2026
 Hinta: lukuvuosimaksu: 13500.0 (lähteen summa; tarkista ehdot) ; Tuition fees for students from outside the EU/EEA countries and Switzerland is EUR 13 500 /academic year. Read more about the tuition fees at Xamk.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2027-01-31T15:00
 Lähteet: Opintopolku
@@ -234,10 +234,10 @@ Seinäjoki
 Yhteenveto: SEAMKin Insinööri (ylempi AMK), Teknologiaosaamisen johtaminen -koulutuksen tavoitteena on antaa valmiuksia toimia teknologiayrityksen johto- ja asiantuntijatehtävissä. Opintojen keskeisiä osa-alueita ovat mm. osaamisen johtaminen, strategiatyö, johdon laskentatoimi ja projektitoiminta. Valinnaisia opintoja ovat mm. tuotekehityksen johtaminen, teollinen internet ja tulevaisuuden esimiestyö. Verkkopainotteinen monimuotototeutus Insinööri (ylempi A
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Opisto- tai ammatillisen korkea-asteen tutkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-12-18T23:59
 Lähteet: Opintopolku
@@ -1163,7 +1163,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. If you are unsure about whether you'd be subject to tuition fees, check the ' Do I have to pay tuition fees? ' section at Studyinfo.fi.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master)
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -1184,10 +1184,10 @@ Tampere
 Yhteenveto: Harness the Power of Data and AI to Shape the Future Digitalization is rapidly reshaping society and organizations, driving the demand for new competencies in the workforce. To thrive in this evolving landscape, professionals across industries need to enhance their data skills, recognize AI opportunities, and navigate ethical considerations. Learn how to leverage data to your advantage and elevate your skills by incorporating artificial intellige
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee / year. If you are unsure about whether you'd be subject to tuition fees, check the ' Do I have to pay tuition fees? ' section at Studyinfo.fi.
 Toteutus: HYBRID
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi korkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-01-21T15:00
 Lähteet: Opintopolku
@@ -1280,7 +1280,7 @@ Helsinki
 Yhteenveto: AI for Business Transformation (“NavigAIte EU”) is an Erasmus Mundus Joint European Masters degree programme. In this two-year, 120 ECTS, full-time programme you will study in three different universities from three different countries in Europe: in Haaga-Helia University of Applied Sciences (Haaga-Helia), Finland, as well as, in the Technical University of Košice (TUKE), Slovakia, and University of Seville (USE) in Spain. This programme is coord
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 120.0 opintopistettä
-Ajankohta: Kevät 2027 ; Kevät 2028
+Ajankohta: Kevät 2028 ; Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Tuition fee and other costs: Erasmus Mundus scholarship holders are exempted from tuition fees. NON-EU/EEA citizens: The tuition fee for non-EU/EEA citizens is 12 000 € per year. For EU/EEA citizens, there are university-specific, lower fees depending on the partner institution and the national regu
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
@@ -1544,7 +1544,7 @@ Turku
 Yhteenveto: Palvelumuotoilun YAMK-koulutusohjelma on tarkoitettu sinulle, joka haluat laajentaa osaamistasi palvelumuotoilusta ja palvelujen johtamisesta. Opintojesi aikana opit hyödyntämään erilaisia palvelumuotoilun menetelmiä ja työkaluja sekä kehittämään ja johtamaan palveluja. Palvelumuotoilun YAMK-koulutusohjelmassa oppimistehtävät sekä opinnäytetyö voivat liittyä suoraan omaan työhösi. Näin ollen myös työnantajaorganisaatiosi hyötyy opinnoistasi. Palv
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
@@ -1736,10 +1736,10 @@ Turku
 Yhteenveto: Talous ja johtaminen julkishallinnossa YAMK-koulutusohjelma on suunniteltu sinulle, joka joko työskentelet tai olet kiinnostunut työskentelemään julkisen sektorin työtehtävissä ja haluat syventää ja laajentaa osaamistasi julkishallinnon talouden ja johtamisen alalla. Opintojesi aikana perehdyt julkisorganisaatioiden talousjohtamiseen, henkilöstöjohtamiseen, strategiseen johtamiseen sekä julkishallinnon sääntelyyn ja julkisiin hankintoihin. Valmis
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ONLINE / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
 Haku: UPCOMING
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -5959,10 +5959,10 @@ Turku
 Yhteenveto: The Data Engineering and Artificial Intelligence (AI) program is aimed at engineers in information technology, electronics, or telecommunications who have gained professional experience and wish to deepen their expertise in data management and artificial intelligence. Upon completion, you will earn UAS Master’s degree from a University of Applied Sciences. In the Data Engineering and AI program, your advanced professional competence will expand, 
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 60.0 opintopistettä
-Ajankohta: Syksy 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Please note that non-EU/EEA students are required to pay tuition fees. Read more about tuition fee, early bird discount, exemption from the fee and scholarship programme on Turku UAS' website
 Toteutus: ON_SITE
-Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
 Haku: UPCOMING
 Hakuaika päättyy: 2027-04-15T23:59
 Lähteet: Opintopolku
@@ -8020,7 +8020,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. More information.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Alempi korkeakoulututkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot
 Haku: CLOSED
 Hakuaika päättyy: 2026-11-11T15:00
 Lähteet: Opintopolku
@@ -8070,7 +8070,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Haaga-Helia UAS will charge a tuition fee from a student accepted to a degree programme taught in English. EU/EEA area and Swiss citizens are not subject to the charge. More information.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Alempi korkeakoulututkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot, Opisto- tai ammatillisen korkea-asteen tutkinto, Avoimen yliopiston opinnot
 Haku: CLOSED
 Hakuaika päättyy: 2026-11-11T15:00
 Lähteet: Opintopolku
@@ -8192,7 +8192,7 @@ Laajuus: 90.0 opintopistettä
 Ajankohta: Kevät 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Jyväskylän ammattikorkeakoulun (Jamk) lukuvuosimaksut EU/ETA-alueen ulkopuolisille opiskelijoille ovat englanninkielisissä YAMK-tutkinnoissa 12 000 €/lukuvuosi. Lisätietoa lukuvuosimaksuista ja apurahajärjestelmästä löydät nettisivuiltamme englanniksi . Huomaa, että lukuvuosimaksuja (tuition fees) e
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Ei pohjakoulutusvaatimusta
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Alempi korkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto
 Haku: CLOSED
 Hakuaika päättyy: 2026-11-15T15:00
 Lähteet: Opintopolku
@@ -13931,6 +13931,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039849>)
+
+### 60/100 — REVIEW — Johtamisen ja yritysjohtamisen erikoisammattitutkinto
+
+Omnia
+Espoo
+Yhteenveto: Osallistutko työssäsi henkilöstön johtamiseen? Onko vastuullasi yrityksen tai toiminnan johtaminen? Johtamisen ja esihenkilötyön koulutuksesta saat lisävalmiuksia johtamistyöhön, syvennät näkemystäsi tavoitteellisesta ja kannattavasta toiminnasta ja saat työkaluja kehittämiseen. Johtamisen ja yritysjohtamisen erikoisammattitutkinnon avulla kehität omaa johtamisosaamistasi sekä organisaatiosi toimintoja tavoitteellisesti. Koulutus auttaa sinua vah
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 750.0 (lähteen summa; tarkista ehdot) ; lukuvuosimaksu: 6400.0 (lähteen summa; tarkista ehdot) ; 1.8.2026 jälkeen alkavissa koulutuksissa oppisopimuskoulutuksen hinta EU/ETA-kansalaisille on 200€. Omaehtoisen koulutuksen hinta on 750 €. Lukuvuosimaksu muille kuin EU/ETA-kansalaisille on 6 400€. Lue lisää opintojen maksullisuudesta . Peruutusehdot Mikäli opiskelija on ottanut opiskelupaikan vast
+Toteutus: ON_SITE
+Hakukelpoisuus: TARKISTA: Ammatillinen perustutkinto tai vastaava aikaisempi tutkinto
+Haku: UPCOMING
+Hakuaika päättyy: 2027-01-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044258>)
 
 ### 55/100 — REVIEW — Tietojenkäsittelytieteen maisteriohjelma, filosofian maisteri (2 v), kevät 2027
 

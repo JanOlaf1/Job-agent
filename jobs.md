@@ -1,116 +1,45 @@
 # JOB AGENT
 
-Haku: 2026-11-24T18:36+02:00
+Haku: 2026-11-25T18:20+02:00
 Ajotila: Haku jäi osittaiseksi (DEGRADED)
 
-Sinulle on 7 uutta sopivaa työpaikkaa.
+Sinulle on 3 uutta sopivaa työpaikkaa.
 
-Uusia sopivia työpaikkoja: 7
-Tällä ajolla luettuja hakutuloksia: 208 | Lähetysrajan täyttäviä työpaikkoja: 88
-Vahvat: 7 | Harkitse: 0
+Uusia sopivia työpaikkoja: 3
+Tällä ajolla luettuja hakutuloksia: 207 | Lähetysrajan täyttäviä työpaikkoja: 89
+Vahvat: 3 | Harkitse: 0
 Lähteet: 1/6 toiminnassa
 
 Uusi = sopiva ilmoitus, jota ei ole vielä merkitty lähetetyksi. Mukana voi olla aiemmalla ajolla löytyneitä ilmoituksia. Työpaikkojen lähetysraja: 60/100. Pisteet kuvaavat profiilisi ja ilmoituksen vastaavuutta, eivät työllistymisen todennäköisyyttä.
 
 ## UUDET TYÖPAIKAT
 
-### 90/100 — STRONG — IT Project Manager (Swedish-speaking), Matrix42, Espoo, Kuopio, Tukholma, Oulu
+### 90/100 — STRONG — Tekninen asiakaspalvelija Helsinkiin
 
-Matrix42 Finland Oy
-Espoo, Kuopio, Tukholma, Oulu
-Yhteenveto: About the role As an IT Project Manager at our client, you will be responsible for delivery projects of IT Service Management (ITSM/ESM) and Identity and Access Management (IAM/IGA) solutions. Your work will focus particularly on the Swedish and Finnish markets and successfully executing projects related to public tenders. You will work closely with sales, technical consultants, and clients to ensure successful project delivery and customer satis
-Lähteet: Academic Work
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-- ? pyytää 2 vuotta kokemusta; tarkista vaadittu ala
-
-[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/it-project-manager-swedishspeaking-matrix42-espoo-kuopio-tukholma-oulu/BV1WXF>)
-
-### 90/100 — STRONG — Liity osaksi kasvavaa B2B-tiimiämme pk-seudulle!
-
-Rainmaker 
-Kirkkonummi, FI, Vantaa, Espoo, Helsinki, Uusimaa
-Julkaistu: 2026-11-24
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työ on B2B-taloyhtiömyyntiä PK-seudulla, jossa suurin osa työstä on kenttämyyntiä sekä puhelin- ja sähköpostiyhteydenpitoa ja osallistumista taloyhtiökokouksiin. Etsimme motivoitunutta myyjää, jolla on hyvät vuorovaikutus- ja esiintymistaidot sekä itsenäinen työote, ja joka omistaa B-ajokortin ja mahdollisuuden käyttää omaa autoa. Tarjoamme toistaiseksi voimassa olevan 37,5 h/vko työsopimuksen sekä pohjatuntipa
-Hakuaika päättyy: 2027-01-23
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 etätyö Suomesta
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/liity-osaksi-kasvavaa-b2b-tiimiamme-pk-seudulle-2804990>)
-
-### 90/100 — STRONG — Teknisen palvelun myyjä K Auto Airport, Vantaa
-
-K Auto Oy
-Vantaa, FI
-Julkaistu: 2026-11-24
-Yhteenveto: Hakuaika alkaa: 24.11.2026 Hakuaika päättyy: 04.12.2026 K-Auto Airport Vantaa etsii kahta teknisen palvelun myyjää vakituiseen työsuhteeseen. Etsimme asiakaspalveluhenkisiä ja motivoituneita henkilöitä osaksi Airportin tiimiä. Teknisen palvelun myyjänä vastaat laadukkaasta asiakaspalvelusta sekä huolto- ja varaosapalveluihin liittyvien asiakastapahtumien sujuvasta hoitamisesta. Ymmärrät huoltoprosessin ja kykenet hyödyntämään käytössä olevan kapa
-Hakuaika päättyy: 2026-12-08
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: IT + MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +5 teknologia: IT-palvelujen ymmärrys
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 teknologian ja asiakastyön yhdistelmä
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/teknisen-palvelun-myyja-k-auto-airport-vantaa-2804931>)
-
-### 75/100 — STRONG — Client Manager rekrytoivat koulutusohjelmat
-
-Saranen Consulting Oy
-Helsinki, Uusimaa, FI, Espoo, Vantaa, Turku, Tampere, Lappeenranta
-Julkaistu: 2026-11-24
-Yhteenveto: Mahtavaa, että olet kiinnostunut työskentelemään Sarasella! Tällä hakulomakkeella pääset hakemaan B2B-ratkaisumyynnin osaamista omaavan Client Managerin rooliin. Kerrothan avoimessa kentässä lyhyesti myynnillisestä kokemuksestasi ja verkostoistasi sekä miltä paikkakunnalta ensisijaisesti haet töitä. Client Manager rekrytoivat koulutusohjelmat Haku on auki 14.12.2026 asti. Työ pähkinänkuoressa Client Managerina vastaat Sarasen palveluiden myynnist
-Hakuaika päättyy: 2027-01-23
-Lähteet: Jobly
-
-Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
-- +20 kokemus: asiakas-/IT-palvelutausta
-- +15 kaupallinen työ: myynti ja asiakkuudet
-- +10 Uusimaa
-
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/client-manager-rekrytoivat-koulutusohjelmat-2805466>)
-
-### 75/100 — STRONG — B2B-myyjä Valokuitunen Oy
-
-Eezy Henkilöstöpalvelut
+Adecco
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-24
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: B2B-myyjänä myyt valokuituratkaisuja taloyhtiöille kontaktoimalla niiden edustajia, tapaamalla asiakkaita ja ylläpitämällä asiakassuhteita. Tehtävä on vakituinen ja kokoaikainen (37,5 h/vko) Uudenmaan alueella, ja työ painottuu arkisin iltapäiviin ja iltoihin; aloitus mahdollisimman pian ja työsopimus solmitaan Eezy Henkilöstöpalveluiden kanssa. Pohjapalkka on 13,5 €/h ja käytössä on provisiomalli, jolloin tavo
-Hakuaika päättyy: 2026-12-14
+Julkaistu: 2026-11-25
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Elisa hakee Helsingin Pasilaan teknisiä asiakaspalvelijoita määräaikaiseen B2B-tuen tehtävään. Työhön kuuluu ensimmäisen tason IT-tuki puhelimitse, chatissa ja tikettijärjestelmässä. Tehtävä edellyttää sujuvaa suomen ja englannin taitoa, asiakaspalveluasennetta sekä kiinnostusta IT-ongelmanratkaisuun. Työaika on 22,5–37,5 tuntia viikossa, työsuhde kestää 1.2.–30.9.2027 ja palkka on 15,96–17,80 €/h sekä kielilis
+Hakuaika päättyy: 2027-01-24
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: MYYNTI
+- +30 roolisopivuus: IT + MYYNTI
 - +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
 - +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
 - +10 Uusimaa
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-valokuitunen-oy-2805047>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-asiakaspalvelija-helsinkiin-2806251>)
 
-### 75/100 — STRONG — 🚀 B2B-MYYJÄ – MYY TOIMINNANOHJAUSJÄRJESTELMÄÄ YRITYKSILLE | 100 % ETÄTYÖ
+### 75/100 — STRONG — Myyntiharjoittelija luovaan toimistoon (B2B, opiskeluharjoittelu, etätyö)
 
-DealBoost Oy
-FI, Espoo, Oulu, Helsinki, Tampere, Vantaa, Vaasa, Kuopio, Rovaniemi, Pori, Jyväskylä, Lappeenranta, Kotka, Imatra, Mikkeli, Lahti, Joensuu, Kokkola, Turku, Rauma, Hyvinkää
-Julkaistu: 2026-11-24
-Yhteenveto: 🚀 B2B-MYYJÄ – MYY TOIMINNANOHJAUSJÄRJESTELMÄÄ YRITYKSILLE | 100 % ETÄTYÖ Haluatko tehdä kauppaa, kehittyä B2B-myynnissä ja vaikuttaa suoraan omiin ansioihisi? Etsimme tavoitteellista ja myyntihenkistä B2B-myyjiä mukaan uuteen projektiimme myymään asiakkaamme modernia toiminnanohjausjärjestelmää yrityksille. 💻 MITÄ MYYT? Myyt yrityksille modernia toiminnanohjausjärjestelmää , joka auttaa erityisesti siivousalan yrityksiä tehostamaan päivittäistä t
-Hakuaika päättyy: 2026-12-02
+FRAMERATE/RED
+Helsinki, FI
+Julkaistu: 2026-11-25
+Yhteenveto: Olemme helsinkiläinen luova markkinointiviestintätoimisto. Luomme brändejä, kampanjoita ja markkinointiviestinnän konsepteja yrityksille ja yhteisöille. Lisäksi kehitämme ja myymme elämyskonsepteja Suomessa ja ulkomailla. Haemme nyt markkinoinnista ja B2B-uusasiakashankinnasta kiinnostunutta harjoittelijaa opintoihin kuuluvaan harjoitteluun. Soitat yrityksiin ja yhteisöihin, esittelet ratkaisujamme päättäjille ja sovit tapaamisia. Opit, miten B2B
+Hakuaika päättyy: 2026-12-09
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
@@ -119,25 +48,24 @@ Miksi / huomioitavaa:
 - +15 kaupallinen työ: myynti ja asiakkuudet
 - +10 etätyö Suomesta
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-myy-toiminnanohjausjarjestelmaa-yrityksille-100-etatyo-2805139>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelija-luovaan-toimistoon-b2b-opiskeluharjoittelu-etatyo-2805962>)
 
-### 65/100 — STRONG — Junior IT Specialist / IT Specialist, Elisa Oyj, Helsinki
+### 65/100 — STRONG — Sales Manager
 
-Elisa Oyj
-Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-24
-Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Työskentelet Elisa Oyj:n Service Deskin yritysasiakkaiden teknisenä tukena ratkoen etätukea pääasiassa Windows- ja M365-ymäristöissä, opastaen loppukäyttäjiä ja tekemällä etäasennuksia. Tehtävä on osa-aikainen määräaikainen työsopimus 30.9.2027 saakka (22,5–37,5 h/vko) Helsingin Pasilassa, työajat ovat ma–pe klo 7–18, toimistolla työskentely on noin 60 % ja tehtävän tuntipalkka on 16,14–18,04 €/h. Etsimme uteli
-Hakuaika päättyy: 2027-01-23
+Target Headhunting Oy
+FI
+Julkaistu: 2026-11-25
+Yhteenveto: Haemme asiakkaallemme teknisesti osaavaa ja kaupallisesti vahvaa Sales Manageria vastaamaan teollisuuden komponenttien ja ratkaisujen myynnistä suomalaiselle koneenrakennus- ja teollisuusasiakaskunnalle. Tehtävässä vastaat nykyisten asiakkuuksien kehittämisestä sekä uusien liiketoimintamahdollisuuksien avaamisesta. Työsi ytimessä on asiakkaiden tarpeiden ymmärtäminen ja niiden muuttaminen toimiviksi teknisiksi ratkaisuiksi yhdessä kansainvälisten
+Hakuaika päättyy: 2026-12-09
 Lähteet: Jobly
 
 Miksi / huomioitavaa:
-- +30 roolisopivuus: IT
-- +15 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
-- +5 teknologia: IT-palvelujen ymmärrys
-- +5 junior-/aloitustaso
-- +10 Uusimaa
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- ? sijainti / etätyöoikeus Suomesta varmistettava
 
-[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-it-specialist-it-specialist-elisa-oyj-helsinki-2805117>)
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-manager-2806021>)
 
 
 Lähteiden ongelmat:
@@ -422,7 +350,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI, Espoo
-Julkaistu: 2026-11-17
+Julkaistu: 2026-11-24
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Junior Sales Representative -roolissa vastaat uusasiakashankinnasta, prospektoinnista, puhelinyhteyksistä ja tapaamisten sopimisesta Proactin IT-ratkaisuista kiinnostuneille asiakkaille Espoossa. Työ tarjoaa mahdollisuuden oppia laajasta IT-infrastruktuuritarjonnasta, kuten tallennus-, varmistus- ja tukipalveluista, kokeneiden kollegoiden tuella. Etsimme rohkeaa, oma-aloitteista ja oppimishaluista henkilöä, jol
 Hakuaika päättyy: 2026-12-04
 Lähteet: Jobly
@@ -2353,7 +2281,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Helsinki, Uusimaa, Tampere
-Julkaistu: 2026-11-17
+Julkaistu: 2026-11-24
 Yhteenveto: At Grid & Power Quality Solutions and Service business at Hitachi Energy in Europe (HBUEU), Inclusion drives our culture of innovation and collaboration. Our leading technology and strong market position enable us to achieve growth targets in the energy transition across current and growing market segments such as data centers, hydrogen and e-mobility. Join Our Team! The opportunity We are now looking for a Sales Specialist at Hitachi Energy, Gri
 Hakuaika päättyy: 2027-01-12
 Lähteet: Jobly
@@ -2480,7 +2408,7 @@ Muistiinpanot:
 
 Experis
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Responsibilities Insight the professional service market, including market space and opportunities Participate in customer meetings, business development, and solution promotion activities Work together with account managers and product managers support on pre-sales marketing and opportunity development Support end-to-end solution design and presentation activities for customer and partner Understand customer requirements and support development 
 Hakuaika päättyy: 2026-12-14
 Lähteet: Jobly
@@ -2565,7 +2493,7 @@ Muistiinpanot:
 Wika Finland Oy
 Helsinki, FI
 Julkaistu: 2026-11-20
-Yhteenveto: WIKA Finland | Helsinki Liity tiiviiseen ja ystävälliseen tiimiin, jossa teknologia, asiakaspalvelu ja yhteistyö kulkevat käsi kädessä. Etsimme sisämyynti-insinööriä (Internal Sales Engineer) liittymään tiimiimme WIKA Finlandille Helsinkiin. Tässä roolissa vastaat asiakkaidemme tukemisesta, tilausten käsittelystä sekä sujuvan yhteistyön varmistamisesta asiakkaiden, kollegoiden ja tuotantolaitostemme välillä. Olet avainroolissa varmistamassa, että
+Yhteenveto: WIKA Finland | Helsinki Liity tiiviiseen ja ystävälliseen tiimiin, jossa teknologia, asiakaspalvelu ja yhteistyö kulkevat käsi kädessä. Etsimme myynti-insinööriä (Internal Sales Engineer) sisämyyntiimme WIKA Finlandille Helsingin Ruoholahteen . WIKA on kansainvälisesti etabloitunut konserni yli 50 maassa, ja haemme nyt vahvistusta myyntitiimiimme Suomeen. Tässä roolissa vastaat asiakkaidemme tukemisesta, tilausten käsittelystä sekä sujuvan yhteis
 Hakuaika päättyy: 2026-12-04
 Lähteet: Jobly
 
@@ -2742,6 +2670,27 @@ Miksi / huomioitavaa:
 - ? pyytää 2 vuotta kokemusta; tarkista vaadittu ala
 
 [Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/it-project-manager-swedishspeaking-matrix42-espoo-kuopio-tukholma-oulu/BV1WXF>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 90/100 — STRONG — Tekninen asiakaspalvelija Helsinkiin
+
+Adecco
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-25
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Elisa hakee Helsingin Pasilaan teknisiä asiakaspalvelijoita määräaikaiseen B2B-tuen tehtävään. Työhön kuuluu ensimmäisen tason IT-tuki puhelimitse, chatissa ja tikettijärjestelmässä. Tehtävä edellyttää sujuvaa suomen ja englannin taitoa, asiakaspalveluasennetta sekä kiinnostusta IT-ongelmanratkaisuun. Työaika on 22,5–37,5 tuntia viikossa, työsuhde kestää 1.2.–30.9.2027 ja palkka on 15,96–17,80 €/h sekä kielilis
+Hakuaika päättyy: 2027-01-24
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT + MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +5 teknologia: IT-palvelujen ymmärrys
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 teknologian ja asiakastyön yhdistelmä
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-asiakaspalvelija-helsinkiin-2806251>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -3275,7 +3224,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haetaan junior-tason Power Platform & AI Developeria kehittämään Microsoft Copilot Studio -agentteja ja Power Automate -automaatioita osana kehitystiimiä. Tehtäviin kuuluu agenttien ja automaatioiden rakentaminen, testaaminen ja integrointi Microsoft 365:een, Dataverseen ja SharePointiin sekä osallistuminen Power Apps -kehitykseen ja POC/MVP-toteutuksiin. Edellytämme käytännön kokemusta esimerkiksi Power Automa
 Hakuaika päättyy: 2027-01-16
 Lähteet: Jobly
@@ -6475,7 +6424,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Ballerup, DK, Helsinki, Uusimaa, Ludvika, Taalainmaan lääni, SE, Middelfart, Solna, Tukholma, Tampere, Västeråsin kunta, Västmanlandin lääni
-Julkaistu: 2026-11-17
+Julkaistu: 2026-11-24
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Site Administrator will support Hitachi Energy’s Nordic Grid Integration substation projects across Finland, Sweden and Denmark and will be based in selected Nordic cities with site travel about 1–3 days per week. You will coordinate day-to-day site administration including registers, calendars, SharePoint content, onboarding, reporting, document management, audits and project closeout tasks. The role requi
 Hakuaika päättyy: 2027-01-05
 Lähteet: Jobly
@@ -6835,7 +6784,7 @@ Muistiinpanot:
 
 Sodexo Oy
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme Sodexolle Sales & Business Development Manageria Helsinkiin, joka vastaa uusasiakashankinnasta ja kannattavan Corporate Services -liiketoiminnan kasvattamisesta. Tehtävässä tunnistat uusia liiketoimintamahdollisuuksia, johdat myyntihankkeita ensikontaktista neuvotteluihin ja toimit yritysasiakkaiden kanssa muun muassa pääkonttori-, teollisuus- ja datakeskusympäristöissä. Edellytämme näyttöjä tuloksellise
 Hakuaika päättyy: 2027-01-17
 Lähteet: Jobly
@@ -7147,6 +7096,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/b2b-myyja-valokuitunen-oy-2805047>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 75/100 — STRONG — Myyntiharjoittelija luovaan toimistoon (B2B, opiskeluharjoittelu, etätyö)
+
+FRAMERATE/RED
+Helsinki, FI
+Julkaistu: 2026-11-25
+Yhteenveto: Olemme helsinkiläinen luova markkinointiviestintätoimisto. Luomme brändejä, kampanjoita ja markkinointiviestinnän konsepteja yrityksille ja yhteisöille. Lisäksi kehitämme ja myymme elämyskonsepteja Suomessa ja ulkomailla. Haemme nyt markkinoinnista ja B2B-uusasiakashankinnasta kiinnostunutta harjoittelijaa opintoihin kuuluvaan harjoitteluun. Soitat yrityksiin ja yhteisöihin, esittelet ratkaisujamme päättäjille ja sovit tapaamisia. Opit, miten B2B
+Hakuaika päättyy: 2026-12-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/myyntiharjoittelija-luovaan-toimistoon-b2b-opiskeluharjoittelu-etatyo-2805962>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -7979,7 +7947,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Haemme Sales Manageria vastuuseen teollisuuden Safety-ratkaisujen myynnistä ja markkina-aseman rakentamisesta, jossa myydään kokonaisvaltaista turvallisuutta laitteiden sijaan. Tehtävä sisältää aktiivista kenttämyyntiä ja asiakkuuksien hoitoa (noin 100 matkapäivää/vuosi), tarjousten tekemistä sekä projektien ja toimitusten asiakasyhteyden pitämistä. Edellytämme vähintään 3 vuoden kokemusta teollisuuden kenttämy
 Hakuaika päättyy: 2026-12-13
 Lähteet: Jobly
@@ -8112,6 +8080,25 @@ Miksi / huomioitavaa:
 - +10 Uusimaa
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/junior-it-specialist-it-specialist-elisa-oyj-helsinki-2805117>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 65/100 — STRONG — Sales Manager
+
+Target Headhunting Oy
+FI
+Julkaistu: 2026-11-25
+Yhteenveto: Haemme asiakkaallemme teknisesti osaavaa ja kaupallisesti vahvaa Sales Manageria vastaamaan teollisuuden komponenttien ja ratkaisujen myynnistä suomalaiselle koneenrakennus- ja teollisuusasiakaskunnalle. Tehtävässä vastaat nykyisten asiakkuuksien kehittämisestä sekä uusien liiketoimintamahdollisuuksien avaamisesta. Työsi ytimessä on asiakkaiden tarpeiden ymmärtäminen ja niiden muuttaminen toimiviksi teknisiksi ratkaisuiksi yhdessä kansainvälisten
+Hakuaika päättyy: 2026-12-09
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: MYYNTI
+- +20 kokemus: asiakas-/IT-palvelutausta
+- +15 kaupallinen työ: myynti ja asiakkuudet
+- ? sijainti / etätyöoikeus Suomesta varmistettava
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/sales-manager-2806021>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -8965,7 +8952,7 @@ Muistiinpanot:
 
 Suoramarkkinointi Mega Oy
 Kerava, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Voit työskennellä päivä- tai iltavuorossa joko yritys- tai kuluttajamyynnissä. Myös kotoa käsin tehtävä etätyö on mahdollista. Päivävuoroissamme työskennellään pääosin kokoaikaisesti klo 8.30-16.00. Monet myyjistä ovat kouliintuneita myynnin ammattilaisia, mutta meillä on myös välivuotta pitäviä opiskelijoita, tulevia myyntitykkejä ja lisäansioita hakevia eläkeläisiä. Megalla usea työsuhde on kestänyt pitkään ja monilla jopa yli kymmenenkin 10 vu
 Hakuaika päättyy: 2026-11-29
 Lähteet: Jobly
@@ -10245,7 +10232,7 @@ Muistiinpanot:
 
 Academic Work
 Helsinki, Uusimaa, FI
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The part-time (approximately 2–3 days/week) Data Analyst will support a global S&OP data harmonization initiative and coordinate data development across divisions. The role requires building reusable Snowflake models, harmonizing transformation logic, and acting as the technical bridge between business teams and external architects. Candidates must have advanced SQL and Snowflake skills, experience in data engi
 Hakuaika päättyy: 2026-12-13
 Lähteet: Jobly
@@ -10601,7 +10588,7 @@ Muistiinpanot:
 
 Hitachi Energy
 Vaasa, FI, Ballerup, DK, Helsinki, Uusimaa, Ludvika, Taalainmaan lääni, SE, Middelfart, Tukholma, Tampere, Västeråsin kunta, Västmanlandin lääni
-Julkaistu: 2026-11-17
+Julkaistu: 2026-11-24
 Yhteenveto: Tiivistelmä työpaikkailmoituksesta: You will drive BIM and digital construction workflows on AIS and GIS substation projects across Finland, Sweden and Denmark. The role requires configuring and maintaining Autodesk Forma and Autodesk Construction Cloud and managing digital workflows such as RFIs, NCRs, inspections, punch lists and handover. You will train and support site teams and subcontractors, provide first-line support for Forma, ACC and ap
 Hakuaika päättyy: 2027-01-08
 Lähteet: Jobly
@@ -10879,6 +10866,61 @@ Miksi / huomioitavaa:
 - ? pyytää 2 vuotta kokemusta; tarkista vaadittu ala
 
 [Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tiedonhallinnan-asiantuntija-2804769>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Tekninen asiantuntija määräaikaisuuteen
+
+Eezy Henkilöstöpalvelut
+Helsinki, Uusimaa, FI
+Julkaistu: 2026-11-25
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: Eezy hakee teknistä asiantuntijaa noin 3 kuukauden määräaikaiseen tehtävään, aloitus mahdollisimman pian ja työ on toimistotyöaikoina 37,5 h/vko; tiimi työskentelee etänä mutta toimistotila Helsingissä on käytettävissä. Työhön kuuluu uusien asiakkaiden käyttöönotot, migraatiot ja validoinnit, asiakasaineistojen tiedonsiirtojen hallinta, käyttöönottojen aikataulujen koordinointi sekä järjestelmän 2nd line -tuki 
+Hakuaika päättyy: 2026-12-04
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 etätyö Suomesta
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/tekninen-asiantuntija-maaraaikaisuuteen-2805944>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Product Designer, Espoo/Hyvinkää
+
+Academic Work
+Helsinki, Uusimaa, FI, Espoo, Hyvinkää
+Julkaistu: 2026-11-25
+Yhteenveto: Tiivistelmä työpaikkailmoituksesta: The Product Designer will bridge business stakeholders and development teams to design solutions for the programming process of automation lines. Key duties include gathering global requirements, writing IT specifications, maintaining documentation, and managing an agile backlog in 2–4 week sprints. The fixed-term position is based in Espoo and Hyvinkää and runs until June 24, 2027 with opportunities to work in
+Hakuaika päättyy: 2027-01-24
+Lähteet: Jobly
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.jobly.fi/tyopaikka/product-designer-espoo-hyvinkaa-2805781>)
+Tila: UUSI
+Muistiinpanot: 
+
+### 50/100 — REVIEW — Product Designer, Espoo/Hyvinkää
+
+Organisaatio tuntematon
+Espoo/Hyvinkää
+Yhteenveto: About the role In this role, you will act as a bridge between business stakeholders and the development team. Your focus is on a specific solution related to the programming process of automation lines , designed to support and enhance the functionality of other production tools. You will be responsible for gathering requirements and translating them into technical specifications for the developers. You are offered An opportunity to gain valuable
+Lähteet: Academic Work
+
+Miksi / huomioitavaa:
+- +30 roolisopivuus: IT
+- +5 kokemus: opinnot ja projektit, ei pitkää kehittäjäuraa
+- +5 teknologia: IT-palvelujen ymmärrys
+- +10 Uusimaa
+
+[Avaa ilmoitus](<https://www.academicwork.fi/avoimet-tyopaikat/j/product-designer-espoohyvinkaa/TEU064>)
 Tila: UUSI
 Muistiinpanot: 
 
@@ -12774,7 +12816,7 @@ Muistiinpanot:
 
 Clevry
 Espoo, FI, Uusimaa
-Julkaistu: 2026-11-18
+Julkaistu: 2026-11-25
 Yhteenveto: Etsimme sinua Me Clevryllä etsimme asiakkaallemme Software Developeria kokoaikaiseen ja n. 6kk määräaikaiseen työsuhteeseen toukokuun 2027 loppuun saakka. Työpaikan sijainti on Espoo, ja tulet työllistymään tehtävään Clevryn kautta. Aloitus tehtävässä on heti sopivan henkilön löydyttyä. Haemme nyt Software Engineeriä asiakkaamme ketterään tutkimus- ja kehitystiimiin energia-alalle. Tehtävässä pääset kehittämään liiketoimintasovelluksia, jotka tuk
 Hakuaika päättyy: 2027-01-10
 Lähteet: Jobly
