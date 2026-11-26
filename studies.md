@@ -252,6 +252,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000021373>)
 
+### 100/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Helsinki
+
+Haaga-Helia ammattikorkeakoulu
+Helsinki
+Yhteenveto: Tule mukaan uudistamaan liiketoimintaa ja johtamista!  Tämä koulutus tarjoaa sinulle erinomaiset valmiudet työskennellä monimutkaisissa liiketoimintaympäristöissä asiantuntija-, kehitys- ja johtotehtävissä. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Opintojen aikana syvennät vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamistasi valitsemallasi suuntautumisalueella. Voit valita suuntautumisesi 
+Koulutustyyppi: MASTER / YAMK
+Laajuus: 90.0 opintopistettä
+Ajankohta: Kevät 2027 ; Syksy 2027 ; Syksy 2026
+Hinta: Maksuton
+Toteutus: HYBRID / PART_TIME_OR_EVENING
+Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot
+Haku: OPEN
+Hakuaika päättyy: 2026-12-17T15:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008585>)
+
 ### 100/100 — STRONG — HR, viestintä ja johtaminen, tradenomi (ylempi AMK)
 
 Kaakkois-Suomen ammattikorkeakoulu
@@ -259,7 +284,7 @@ Kouvola
 Yhteenveto: Kiinnostavatko henkilöstöjohtaminen ja viestintä sekä niiden kehittäminen? Oletko kiinnostunut organisaation kehittämisestä? Haluatko kehittää osaamistasi muuttuvassa työelämässä ja samalla luoda uusia ammatillisia verkostoja samoista asioista kiinnostuneiden kanssa? YAMK-koulutuksen suoritettuasi pystyt viemään läpi henkilöstöön, viestintään ja johtamiseen kohdistuvia muutosprosesseja ammattimaisesti. Osaat johtaa ja uudistaa toimintaa monimutka
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Ajankohta: Henkilökohtaisen suunnitelman mukaan ; Kevät 2027 ; Syksy 2026 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto
@@ -284,10 +309,10 @@ Vaasa
 Yhteenveto: Do you want to learn how to manage and develop a business? In International Business Management you will learn how operations are developed based on research and how to apply modern research methods to management. The programme is tailored to your own expertise, as we appreciate practical approach in learning. The degree programme of International Business Management prepares the international business community and the public sector for demandin
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: lukuvuosimaksu: 12000.0 (lähteen summa; tarkista ehdot) ; Information on tuition fees can be found on VAMK website at vamk.fi/en/applicant/apply/tuitionfees More information about Early Bird discount can be found from here . Tuition fees are subject to change.
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Avoimen ammattikorkeakoulun opinnot
+Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
 Haku: OPEN
 Hakuaika päättyy: 2026-11-30T23:59
 Lähteet: Opintopolku
@@ -1856,7 +1881,7 @@ Pori
 Yhteenveto: Tulevaisuuden johtaminen -koulutus valmistaa työelämän uudistajia ja kehittäjiä, jotka tunnistavat työyhteisöjen kehittämistarpeet sekä osaavat suunnitella ja johtaa vaikuttavia muutosprosesseja. Koulutuksen tavoitteena on vahvistaa opiskelijan valmiuksia kehittää ja johtaa yritysten sekä julkisten palveluiden prosesseja yrittäjämäisellä ja uudistavalla otteella. Samalla liiketoimintaosaaminen syvenee erityisesti muuttuvassa ja kompleksisessa toi
 Koulutustyyppi: MASTER / YAMK
 Laajuus: 90.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027
+Ajankohta: Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Tohtorin tutkinto, Lisensiaatin tutkinto, Ylempi ammattikorkeakoulututkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto
@@ -1872,30 +1897,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000002612>)
-
-### 90/100 — STRONG — Tradenomi (ylempi AMK), liiketoiminnan uudistaminen ja johtaminen, Helsinki
-
-Haaga-Helia ammattikorkeakoulu
-Helsinki
-Yhteenveto: Tule mukaan uudistamaan liiketoimintaa ja johtamista!  Tämä koulutus tarjoaa sinulle erinomaiset valmiudet työskennellä monimutkaisissa liiketoimintaympäristöissä asiantuntija-, kehitys- ja johtotehtävissä. Opinnot vahvistavat kykyäsi soveltaa uutta tutkimustietoa omaan toimintaympäristöösi. Opintojen aikana syvennät vaativassa asiantuntija- ja kehitystyössä tarvittavaa osaamistasi valitsemallasi suuntautumisalueella. Voit valita suuntautumisesi 
-Koulutustyyppi: MASTER / YAMK
-Laajuus: 90.0 opintopistettä
-Ajankohta: Kevät 2027 ; Syksy 2027
-Hinta: Maksuton
-Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Ei pohjakoulutusvaatimusta, Avoimen ammattikorkeakoulun opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Lisensiaatin tutkinto, Opisto- tai ammatillisen korkea-asteen tutkinto, Tohtorin tutkinto, Ulkomainen korkeakoulututkinto (Bachelor), Ulkomainen korkeakoulututkinto (Master), Ylempi ammattikorkeakoulututkinto, Ylempi korkeakoulututkinto, Avoimen yliopiston opinnot
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +15 jatkotutkinto; soveltuva tutkinto ja mahdollinen työkokemusvaatimus tarkistettava
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000008585>)
 
 ### 90/100 — STRONG — Insinööri (ylempi AMK), Lean-johtaminen
 
@@ -2141,6 +2142,31 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039624>)
+
+### 90/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Tiedätkö mitä tekoäly on? Tiedätkö mihin sitä voi käyttää? Tällä kurssilla voit saada vastauksia näihin sekä moniin muihin tekoälyyn liittyviin kysymyksiin.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-03T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041057>)
 
 ### 90/100 — STRONG — Avoin yo: Tekoäly, algoritmit ja dataistuminen viestinnän kentällä lv. 2026-2027
 
@@ -5136,6 +5162,30 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044113>)
 
+### 85/100 — STRONG — Johtamisen ja yritysjohtamisen erikoisammattitutkinto - Löydä itsestäsi johtamisen supervoimat
+
+Forssan ammatti-instituutti
+Forssa
+Yhteenveto: Haluatko kehittää johtamisosaamistasi ja löytää käytännön keinoja, joilla tavoitteet muuttuvat toimivaksi arjeksi? Tässä koulutuksessa tarkastelet johtamista oman työsi ja vastuualueesi näkökulmasta, kehität osaamistasi ja viet oppimaasi käytäntöön omassa organisaatiossasi. Voit suorittaa yhden tutkinnon osan tai yhdistää molemmat osat 105 osaamispisteen kokonaisuudeksi. Tutkinnon osat kuuluvat 1.1.2027 voimaan tuleviin Johtamisen ja yritysjohtam
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: Kevät 2027
+Hinta: maksullinen: 195.0 (lähteen summa; tarkista ehdot) ; Hinta 195€ - 395€, valittujen osien mukaan. Jos olet EU- ja ETA-alueen ulkopuolisen maan kansalainen, saatat joutua maksamaan lukuvuosimaksun ammatillisessa koulutuksessa. Katso lisätiedot.
+Toteutus: HYBRID
+Hakukelpoisuus: TARKISTA: Peruskoulu, Perusopetuksen yksilöllistetty/rajattu oppimäärä
+Haku: OPEN
+Hakuaika päättyy: 2027-03-31T00:00
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000044268>)
+
 ### 80/100 — STRONG — Bachelor of Engineering, Information and Communications Technology, Software Engineering, path studies
 
 Turun ammattikorkeakoulu
@@ -5207,30 +5257,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000043101>)
-
-### 80/100 — STRONG — Avoin yo: Johdatus tekoälyyn, kevät 2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Tiedätkö mitä tekoäly on? Tiedätkö mihin sitä voi käyttää? Tällä kurssilla voit saada vastauksia näihin sekä moniin muihin tekoälyyn liittyviin kysymyksiin.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-03T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041057>)
 
 ### 80/100 — STRONG — Oikeus ja tekoäly: johdatus tematiikkaan (avoin yliopisto-opetus)
 
@@ -6572,6 +6598,55 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041537>)
+
+### 75/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, kevät 2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: UNKNOWN
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-03-03T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041062>)
+
+### 75/100 — STRONG — Avoin yo: Ohjelmointi 2, kevät 2027
+
+Oulun yliopisto
+Oulu
+Yhteenveto: Opi ohjelmoimaan Javalla. Kurssilla keskitytään Java-ohjelmoinnin peruskäsitteiden, syntaksin ja rakenteen ymmärtämiseen ja oppimiseen - ohjelmoimalla Javalla.
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 5.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2026-12-17T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: IT
+- +20 rakentaa IT/liiketalous-taustalle
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041066>)
 
 ### 75/100 — STRONG — Avoin yo: European Health Data Space in a Nutshell (Sámi), 2026-2027
 
@@ -10274,53 +10349,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000031595>)
-
-### 65/100 — STRONG — Avoin yo: Johdatus tietojenkäsittelytieteisiin, kevät 2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Ohjelmistoja ja tietojärjestelmiä on kaikkialla, ja ne vaikuttavat jokaisen elämään. Siksi tietojenkäsittelytiede on nykyään osa yleissivistystä.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: UNKNOWN
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-03-03T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-- ? etätoteutus tuntematon; paikkakunta ei estä opiskeluvaihtoehtoa
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041062>)
-
-### 65/100 — STRONG — Avoin yo: Ohjelmointi 2, kevät 2027
-
-Oulun yliopisto
-Oulu
-Yhteenveto: Opi ohjelmoimaan Javalla. Kurssilla keskitytään Java-ohjelmoinnin peruskäsitteiden, syntaksin ja rakenteen ymmärtämiseen ja oppimiseen - ohjelmoimalla Javalla.
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 5.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: Maksuton
-Toteutus: ON_SITE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2026-12-17T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: IT
-- +20 rakentaa IT/liiketalous-taustalle
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000041066>)
 
 ### 65/100 — STRONG — Master's Degree Programme in Developmental and Educational Psychology (DYNAMIC) (Vaasa), Master of Social Sciences (2 years), autumn 2027
 
@@ -16605,6 +16633,28 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000042869>)
+
+### 40/100 — REVIEW — Taideteollisuusalan perustutkinto, Jalometalliala, artesaani
+
+OSAO
+Oulu
+Yhteenveto: Jalometallialan artesaanina osaat valmistaa koruja yksittäiskappaleena ja piensarjatuotantona asiakkaan toiveiden mukaisesti. Hallitset korujen suunnittelun sekä valmistuksen eri tekniikat. Työskentelet itsenäisenä yrittäjänä tai alan myynti- tai ohjaustehtävissä.
+Koulutustyyppi: VOCATIONAL
+Laajuus: 180 osaamispistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: Maksuton ; Opetus on maksutonta. Materiaalit, työvälineet ja oppikirjat yhteensä noin 800 €.
+Toteutus: ON_SITE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: CLOSED
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- -20 haku päättynyt; seuraa seuraavaa hakukierrosta
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000037439>)
 
 ### 35/100 — LOW — Open university: Introduction to Social and Public Policy, autumn 2026
 
