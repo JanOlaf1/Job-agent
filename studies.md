@@ -2418,6 +2418,31 @@ Miksi / huomioitavaa:
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000022454>)
 
+### 90/100 — STRONG — Avoin yo: Academic and Professional English for Business, kevät 2027
+
+Itä-Suomen yliopisto
+Kuopio
+Yhteenveto: Suoritustavat: Opintojaksoa varten opiskelijan tulee varata 108 tuntia. Opintojaksolla on esim. luentoja, suullisia ja kirjallisia yksilö- ja ryhmätehtäviä, itsenäistä työskentelyä, keskusteluita ja pienimuotoisia esitelmiä. Opiskelijalta edellytetään aktiivista osallistumista opetukseen, joka voi olla sekä kaikille yhteistä että pienryhmiin jaettua lähi- ja/tai etäopetusta, johon opiskelijan on osallistuttava opettajan ilmoittamalla tavalla. Opi
+Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
+Laajuus: 4.0 opintopistettä
+Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
+Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026 - 2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit.
+Toteutus: ONLINE
+Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
+Haku: OPEN
+Hakuaika päättyy: 2027-01-31T23:59
+Lähteet: Opintopolku
+
+Miksi / huomioitavaa:
+- +40 kiinnostava aihe: BUSINESS
+- +20 rakentaa IT/liiketalous-taustalle
+- +15 joustava toteutus; tarkista pakolliset lähipäivät
+- +5 yksittäinen kurssi, ei kokonainen tutkinto
+- +10 haku avoinna
+- ? hakukelpoisuutta ei vahvistettu automaattisesti
+
+[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039098>)
+
 ### 90/100 — STRONG — Kauppatieteet: Kansainvälinen liiketoiminta (avoin yliopisto-opetus)
 
 Turun yliopisto
@@ -3178,7 +3203,7 @@ Laajuus: 210.0 opintopistettä
 Ajankohta: Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot, Harkinnanvaraisuus tai erivapaus
+Hakukelpoisuus: TARKISTA: Suomalaisen lukion oppimäärä tai ylioppilastutkinto, Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus, Avoimen ammattikorkeakoulun opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-11-30T15:00
 Lähteet: Opintopolku
@@ -3223,10 +3248,10 @@ Kuopio
 Yhteenveto: Yhdistä tietojenkäsittely ja liiketoiminta – verkossa opiskellen Tietojenkäsittelyn tradenomina olet tietojenkäsittelyn asiantuntija ja sinulla on myös hyvä liiketoimintaosaaminen. Opinnot ovatkin yhdistelmä tietojenkäsittelyä ja liiketoimintaa. Tietojenkäsittelyn tradenomin työllistymismahdollisuudet ovat laajat ja tietojenkäsittelyn osaamista tarvitaan kaikilla toimialoilla. Koulutuksessa painotetaan erityisesti datan käsittelyä ja sen jalostam
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
 Hinta: Maksuton
 Toteutus: ONLINE
-Hakukelpoisuus: TARKISTA: Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
+Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Harkinnanvaraisuus tai erivapaus
 Haku: OPEN
 Hakuaika päättyy: 2026-12-31T23:59
 Lähteet: Opintopolku
@@ -3247,7 +3272,7 @@ Hämeenlinna
 Yhteenveto: Kasva IT-alan ammattilaiseksi kehittämään tulevaisuuden ratkaisuja liiketoiminnalle! Tietojenkäsittelyn koulutuksessa opit kehittämään, turvaamaan ja ylläpitämään laadukkaita ja kestäviä ohjelmistoratkaisuja sekä saat mahdollisuuden kasvaa osaavaksi työyhteisön jäseneksi ratkomalla todellisia työelämältä tulevia haasteita. Opiskelet tekemällä, yhteistyössä muiden opiskelijoiden ja yritysten kanssa. Tekoälyä hyödynnetään IT-alalla enenevissä määri
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
+Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
 Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Avoimen yliopiston opinnot, Harkinnanvaraisuus tai erivapaus, Yleinen ammattikorkeakoulukelpoisuus
@@ -3295,10 +3320,10 @@ Helsinki
 Yhteenveto: Haaga-Helian tietojenkäsittelyn tradenomina olet työnantajien arvostama IT-asiantuntija, joka työskentelee eri kehittämistehtävissä erilaisissa yrityksissä ja organisaatioissa. Haaga-Heliassa voit yhdistää teknologian ja liiketoiminnan osaamiset oppimispolullasi. Tietojenkäsittelyn tradenomikoulutus vastaa kehittyviin työelämän tarpeisiin ja tarjoaa sinulle mahdollisuuden muotoilla omia opintojasi joustavasti. Voit suunnitella henkilökohtaisen op
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2026 ; Kevät 2027 ; Syksy 2027
+Ajankohta: Syksy 2027 ; Syksy 2026 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: HYBRID / PART_TIME_OR_EVENING
-Hakukelpoisuus: TARKISTA: Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Avoimen yliopiston opinnot, Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto
+Hakukelpoisuus: TARKISTA: Alempi korkeakoulututkinto, Ammattikorkeakoulututkinto, Yleinen ammattikorkeakoulukelpoisuus, Ylempi ammattikorkeakoulututkinto, Ulkomainen korkeakoulututkinto (Master), Ulkomainen korkeakoulututkinto (Bachelor), Ylempi korkeakoulututkinto, Lisensiaatin tutkinto, Tohtorin tutkinto, Avoimen ammattikorkeakoulun opinnot, Ei pohjakoulutusvaatimusta, Avoimen yliopiston opinnot
 Haku: OPEN
 Hakuaika päättyy: 2026-12-17T15:00
 Lähteet: Opintopolku
@@ -3319,7 +3344,7 @@ Joensuu
 Yhteenveto: Maailma ei muutu vain teknologioilla, vaan niiden avulla rakennetuilla älykkäillä ratkaisuilla. Tekoäly, automaatio ja pilvipalvelut muokkaavat parhaillaan sitä, miten elämme ja teemme töitä. Tulevaisuuden IT -asiantuntijana et vain seuraa tätä kehitystä, vaan hyödynnät ja johdat sitä. Tekoälyn nopea kehitys ja vaikutukset työelämään on herättänyt paljon keskustelua jo viimevuosina; opintoja suunnitellessa voi jopa tulla mieleen, onko IT- ala ede
 Koulutustyyppi: UAS DEGREE
 Laajuus: 210.0 opintopistettä
-Ajankohta: Syksy 2027 ; Kevät 2027 ; Syksy 2026
+Ajankohta: Syksy 2026 ; Syksy 2027 ; Kevät 2027
 Hinta: Maksuton
 Toteutus: ONLINE
 Hakukelpoisuus: TARKISTA: Yleinen ammattikorkeakoulukelpoisuus, Avoimen ammattikorkeakoulun opinnot
@@ -5353,30 +5378,6 @@ Miksi / huomioitavaa:
 - ? hakukelpoisuutta ei vahvistettu automaattisesti
 
 [Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039534>)
-
-### 80/100 — STRONG — Avoin yo: Academic and Professional English for Business, kevät 2027
-
-Itä-Suomen yliopisto
-Kuopio
-Yhteenveto: Suoritustavat: Opintojaksoa varten opiskelijan tulee varata 108 tuntia. Opintojaksolla on esim. luentoja, suullisia ja kirjallisia yksilö- ja ryhmätehtäviä, itsenäistä työskentelyä, keskusteluita ja pienimuotoisia esitelmiä. Opiskelijalta edellytetään aktiivista osallistumista opetukseen, joka voi olla sekä kaikille yhteistä että pienryhmiin jaettua lähi- ja/tai etäopetusta, johon opiskelijan on osallistuttava opettajan ilmoittamalla tavalla. Opi
-Koulutustyyppi: OPEN HIGHER EDUCATION / COURSE
-Laajuus: 4.0 opintopistettä
-Ajankohta: UNKNOWN — tarkista koulutuksen sivulta
-Hinta: maksullinen: 80.0 (lähteen summa; tarkista ehdot) ; Yksittäisen opintojakson hinta on 20 € / opintopiste. Hinnat ovat voimassa lukuvuoden 2026 - 2027. Tutustu avoimen yliopisto-opetuksen opintomaksuihin sekä maksu- ja perumisehtoihin: Opinto-oikeus ja maksuehdot . Opiskeluoikeusaika määräytyy opetussuunnitelman mukaisesti kattaen opetuksen ja tentit.
-Toteutus: ONLINE
-Hakukelpoisuus: UNKNOWN — tarkista esitiedot ja hakukelpoisuus
-Haku: UPCOMING
-Hakuaika päättyy: 2027-01-31T23:59
-Lähteet: Opintopolku
-
-Miksi / huomioitavaa:
-- +40 kiinnostava aihe: BUSINESS
-- +20 rakentaa IT/liiketalous-taustalle
-- +15 joustava toteutus; tarkista pakolliset lähipäivät
-- +5 yksittäinen kurssi, ei kokonainen tutkinto
-- ? hakukelpoisuutta ei vahvistettu automaattisesti
-
-[Avaa ilmoitus](<https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000039098>)
 
 ### 80/100 — STRONG — Avoin yo: Kulttuurienvälinen viestintä ja asiakassuhteiden johtaminen, lv.2026-2027
 
@@ -13950,7 +13951,7 @@ Hinta: Maksuton
 Toteutus: ON_SITE
 Hakukelpoisuus: TARKISTA: Yleinen yliopistokelpoisuus, Avoimen yliopiston opinnot
 Haku: UPCOMING
-Hakuaika päättyy: 2027-03-23T15:00
+Hakuaika päättyy: 2027-03-23T23:59
 Lähteet: Opintopolku
 
 Miksi / huomioitavaa:
